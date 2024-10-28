@@ -1,17 +1,29 @@
-# Welcome to MkDocs
+# Grupo 02 - [NOME APP]
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![LOGO APP](/img/logo.png)
 
-## Commands
+Essa página tem como objetivo documentar o projeto do grupo 02 da matéria de Requisitos de Software, ministrada pelo professor André Barros de Sales.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Projeto
 
-## Project layout
+Este projeto consiste na análise dos requisitos do [APP] e na documentação de todos os artefatos gerados durante a mesma.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Sobre o [APP]
+
+//TODO COMENTAR SOBRE O APP ESCOLHIDO, MOTIVOS PARA SER ESCOLHIDO, CRITÉRIOS UTILIZADOS, CÓPIA DOS TERMOS DE USO (ADD MAIS HEADERS SE PRECISAR)
+
+## Integrantes
+ 
+| ![Esther](/img/Est.png) | ![João](/img/Jp.png)| ![Júlia](/img/Jl.png) | ![Laís](/img/Lc.png) | ![Rodrigo](/img/Rod.png) |
+|:-----------------------:|:-------------------:|:---------------------:|:--------------------:|:------------------------:|
+| [Esther Sousa](https://github.com/EstherSousa)| [João Paulo Monteiro](https://github.com/joaombc) | [Júlia Lopes](https://github.com/WonnzDA) | [Laís Cecília](https://github.com/Laisczt) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo ) 
+
+---
+
+## Histórico
+
+| Versão | Descrição     | Autor        | Revisor     | Data       |
+|--------|---------------|--------------|-------------|------------|
+| v1.0   | Página criada | Laís Cecília |      -      | 28/10/2024 |
+
