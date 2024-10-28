@@ -1,7 +1,7 @@
 # Grupo 02 - [NOME APP]
 ---
 
-![LOGO APP](/img/logo.png)
+![LOGO APP](./img/logo.png)
 
 Essa página tem como objetivo documentar o projeto do grupo 02 da matéria de Requisitos de Software, ministrada pelo professor André Barros de Sales.
 
@@ -15,7 +15,7 @@ Este projeto consiste na análise dos requisitos do [APP] e na documentação de
 
 ## Integrantes
  
-| ![Esther](/img/Est.png) | ![João](/img/Jp.png)| ![Júlia](/img/Jl.png) | ![Laís](/img/Lc.png) | ![Rodrigo](/img/Rod.png) |
+| ![Esther](./img/Est.png) | ![João](./img/Jp.png)| ![Júlia](./img/Jl.png) | ![Laís](./img/Lc.png) | ![Rodrigo](./img/Rod.png) |
 |:-----------------------:|:-------------------:|:---------------------:|:--------------------:|:------------------------:|
 | [Esther Sousa](https://github.com/EstherSousa)| [João Paulo Monteiro](https://github.com/joaombc) | [Júlia Lopes](https://github.com/WonnzDA) | [Laís Cecília](https://github.com/Laisczt) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo ) 
 

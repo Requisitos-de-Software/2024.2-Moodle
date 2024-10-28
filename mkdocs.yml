@@ -22,8 +22,8 @@ theme:
             name: Modo claro
         
     locale: pt_br
-    logo: /img/logo.jpeg # logo na barra de navegação do site
-    favicon: /img/logo.jpeg # logo na aba do navegador
+    logo: ./img/logo.jpeg # logo na barra de navegação do site
+    favicon: ./img/logo.jpeg # logo na aba do navegador
     
     
 markdown_extensions:
