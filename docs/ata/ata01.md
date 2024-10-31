@@ -36,6 +36,9 @@ Ata da reunião - 17/10/2024
 
 [https://www.youtube.com/watch?v=-gvWLCDtIis](https://www.youtube.com/watch?v=-gvWLCDtIis)
 
+<iframe width="500" height="285" src="https://www.youtube.com/embed/-gvWLCDtIis" title="[2024-2] Requisitos - Grupo 2 - 17/10/2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ---
 
 ## Histórico
@@ -44,4 +47,5 @@ Ata da reunião - 17/10/2024
 | Versão | Descrição                  | Autor                   | Revisor                  | Data       |
 |--------|----------------------------|-------------------------|--------------------------|------------|
 | v1.0   | Ata 01                     | João Paulo Monteiro     | Rodrigo de Andrade       | 26/10/2024 |
-| v1.1   | Padronização               | Laís Cecília            |                          | 28/10/2024 |
+| v1.1   | Padronização               | Laís Cecília            | -                        | 28/10/2024 |
+| v1.2   | Video embed                | Laís Cecília            | -                        | 31/10/2024 |
