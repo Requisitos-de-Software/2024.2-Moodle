@@ -14,7 +14,10 @@ Este projeto consiste na análise dos requisitos do Moodle e na documentação d
 
 ## Sobre o Moodle
 
-//TODO COMENTAR SOBRE O APP ESCOLHIDO, MOTIVOS PARA SER ESCOLHIDO, CRITÉRIOS UTILIZADOS, CÓPIA DOS TERMOS DE USO (ADD MAIS HEADERS SE PRECISAR)
+Moodle é um framework open source criado por Martin Dougiamas, visando fornecer educação online que fosse flexível, de qualidade e acessível para todos, seja o ensino presencial ou a distância. O moodle faz uso da linguagem PHP e utiliza MySQL no banco de dados, tornando a hospedagem e manutenção de sites mais barata, que permite focar mais na personalização e portabilidade deste.
+A escolha da plataforma moodle para o projeto veio da familiaridade e fácil acesso que os membros da equipe já possuem com o site. Da mesma forma, conhecer pessoas que fazem uso da plataforma para entrevistas, é uma tarefa de baixa dificuldade.
+
+Por esse motivo e mais, outros aplicativos sugeridos foram rejeitados. Opções como geogebra, a segunda melhor escolha, mas em comparação, possuía menos usuários para entrevista que o moodle. O pleco foi muito interessante para o grupo, já que todos têm um interesse ou estudam hanzi, caracteres chineses, mas por ser tão específico não tinha ninguém conhecido que fizesse uso dele. Por fim, a bolsa verde, que nem tinha chance já que seu acesso é restrito a um público específico, um que ninguém do grupo pertence.
 
 ## Integrantes
  
