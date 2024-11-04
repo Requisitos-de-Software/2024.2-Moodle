@@ -15,11 +15,11 @@
    | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Introdução à Equipe**   |  Página no GitPages apresentando os integrantes com foto e sem matrícula.     | 4/11/2024   | 4/11/2024 - 6/11/2024 |  Laís Cecília, Júlia Lopes       |    João Paulo      |
-   |  **Heatmap de Disponibilidade**   | *Heatmap* de disponibilidade de integrantes da equipe.    | 4/11/2024   | 4/11/2024 - 6/11/2024 | Rodrigo Orlandi  | Esther Souza     |                                                   
+   |  **Heatmap de Disponibilidade**   | *Heatmap* de disponibilidade de integrantes da equipe.    | 4/11/2024   | 4/11/2024 - 6/11/2024 | Rodrigo Orlandi  | Esther Sousa     |                                                   
    |  **App Selecionado e Motivação**   |  Um resumo rápido das motivações para a escolha do aplicativo e dos aplicativos considerados para o projeto.           | 4/11/2024   | 4/11/2024 - 6/11/2024 | Rodrigo Orlandi | João Paulo |  
    |  **Cópia do Termo de Uso**   | Fornecer uma cópia do termo de uso do aplicativo e detalhar a seção em que seu estudo é permitido.            | 4/11/2024   |4/11/2024 - 6/11/2024  | Laís Cecília   | Rodrigo Orlandi   | 
-   |  **Cronograma Detalhado**   |  Apresentar **todas** as atividades de **todas** as etapas para cada integrante, com data de início, entrega e período de revisão, além de período da gravação da apresentação planejado.  | 4/11/2024   | 4/11/2024 - 6/11/2024  | Rodrigo Orlandi, Esther Souza | Laís Cecília |
-   |  **Rich Picture**   | Uma *Rich Picture* sobre o aplicativo, descrevendo o fluxo de utilização do mesmo.| 4/11/2024  |4/11/2024 - 6/11/2024 | Esther Souza, João Paulo, Rodrigo Orlandi | Júlia Lopes, Laís Cecília |
+   |  **Cronograma Detalhado**   |  Apresentar **todas** as atividades de **todas** as etapas para cada integrante, com data de início, entrega e período de revisão, além de período da gravação da apresentação planejado.  | 4/11/2024   | 4/11/2024 - 6/11/2024  | Rodrigo Orlandi, Esther Sousa | Laís Cecília |
+   |  **Rich Picture**   | Uma *Rich Picture* sobre o aplicativo, descrevendo o fluxo de utilização do mesmo.| 4/11/2024  |4/11/2024 - 6/11/2024 | Esther Sousa, João Paulo, Rodrigo Orlandi | Júlia Lopes, Laís Cecília |
    |  **Checklist do Conteúdo**   | O conteúdo da disciplina aprendido nesta entrega é sobre *Rich Picture*, então a checklsit é acerca elementos dela.                      | 4/11/2024   | 4/11/2024 - 6/11/2024 | Júlia Lopes, Laís Cecília | Rodrigo Orlandi |
 
 
@@ -35,4 +35,4 @@
 
 | Versão | Descrição                  | Autor                         | Revisor | Data       |
 |--------|----------------------------|-------------------------------|---------|------------|
-| v1.0   | Criação do Cronograma - Detalhamento da Entrega 1           | Rodrigo Orlandi, Esther Souza     | Laís Cecília       | 04/11/2024 |
+| v1.0   | Criação do Cronograma - Detalhamento da Entrega 1           | Rodrigo Orlandi, Esther Sousa     | Laís Cecília       | 04/11/2024 |
