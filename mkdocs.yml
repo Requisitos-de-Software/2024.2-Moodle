@@ -3,27 +3,30 @@ repo_name: 2024.2-Grupo02
 
 # TODO - MUDAR A LOGO E FAVICON QUANDO DECIDIR O APP
 
-site_name: Requisitos grupo 2
+site_name: Moodle - Requisitos de Software
+extra_css:
+  - stylesheets/extra.css
 theme:
+
     name: material
     palette:
       - scheme: slate #slate = dark, default = light
-        primary: green # cores - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
-        accent: amber
+        primary: custom # cores - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
+        accent: custom
         toggle: 
             icon: material/brightness-4
             name: Modo escuro
         
       - scheme: default
-        primary: green
-        accent: amber
+        primary: custom
+        accent: blue
         toggle:
             icon: material/brightness-7
             name: Modo claro
         
     locale: pt_br
-    logo: ./img/logo.jpeg # logo na barra de navegação do site
-    favicon: ./img/logo.jpeg # logo na aba do navegador
+    logo: ./img/logowhite.png # logo na barra de navegação do site
+    favicon: ./img/logoslick.png # logo na aba do navegador
     
     
 markdown_extensions:
@@ -32,3 +35,6 @@ markdown_extensions:
       permalink: true
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.blocks.caption
+  - pymdownx.tabbed:
+      alternate_style: true
