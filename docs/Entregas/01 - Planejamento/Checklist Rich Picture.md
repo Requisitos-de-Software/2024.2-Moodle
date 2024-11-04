@@ -1,30 +1,32 @@
+# Checklist
+
 === "Vazia"
 
     | Item | Descrição                                                                                        | Verificação |
     |------|:-------------------------------------------------------------------------------------------------|-------------|
-    |  1   | Todos os componentes são claramente identificados por rótulos? [1]                               | A avaliar   | 
+    |  1   | Todos os componentes são claramente identificados por rótulos?^[1]^                              | A avaliar   | 
     |  2   | Não há um excesso de texto no rich picture que compromete a leitura?                             | A avaliar   | 
     |  3   | Os componentes são visualmente distintos?                                                        | A avaliar   | 
-    |  4   | O rich picture apresenta um nível satisfatório, mas não excessivo, de detalhes? [2]              | A avaliar   | 
-    |  5   | A linguagem usada no rich picture é apropriada, clara, objetiva e consistente? [3]               | A avaliar   | 
+    |  4   | O rich picture apresenta um nível satisfatório, mas não excessivo, de detalhes?^[2]^             | A avaliar   | 
+    |  5   | A linguagem usada no rich picture é apropriada, clara, objetiva e consistente?^[3]^              | A avaliar   | 
     |  6   | O rich picture representa o processo fielmente? Isto é, sem imprecisões, apesar da simplificação | A avaliar   | 
     |  7   | O rich picture não possui erros de gramática ou pontuação?                                       | A avaliar   | 
-    |  8   | O rich picture é amigável, podendo ser entendido por pessoas leigas? [2]                         | A avaliar   | 
+    |  8   | O rich picture é amigável, podendo ser entendido por pessoas leigas?^[2]^                        | A avaliar   | 
 
 === "Preenchida"
 
-    A FAZER
+    ###A FAZER
 
     | Item | Descrição                                                                                        | Verificação |
     |------|:-------------------------------------------------------------------------------------------------|-------------|
-    |  1   | Todos os componentes são claramente identificados por rótulos? [1]                               | Conforme    | 
-    |  2   | Não há um excesso de texto no rich picture que compromete a leitura?                             | Conforme    | 
-    |  3   | Os componentes são visualmente distintos?                                                        | Conforme    | 
-    |  4   | O rich picture apresenta um nível satisfatório, mas não excessivo, de detalhes? [2]              | Conforme    | 
-    |  5   | A linguagem usada no rich picture é apropriada, clara, objetiva e consistente? [3]               | Conforme    | 
-    |  6   | O rich picture representa o processo fielmente? Isto é, sem imprecisões, apesar da simplificação | Conforme    | 
-    |  7   | O rich picture não possui erros de gramática ou pontuação?                                       | Conforme    | 
-    |  8   | O rich picture é amigável, podendo ser entendido por pessoas leigas? [2]                         | Conforme    | 
+    |  1   | Todos os componentes são claramente identificados por rótulos?^[1]^                              | <span style="color:green">Conforme</span>    | 
+    |  2   | Não há um excesso de texto no rich picture que compromete a leitura?                             | <span style="color:red">Não Conforme</span>    |
+    |  3   | Os componentes são visualmente distintos?                                                        | A avaliar    |
+    |  4   | O rich picture apresenta um nível satisfatório, mas não excessivo, de detalhes?^[2]^             | A avaliar    |
+    |  5   | A linguagem usada no rich picture é apropriada, clara, objetiva e consistente?^[3]^              | A avaliar    |
+    |  6   | O rich picture representa o processo fielmente? Isto é, sem imprecisões, apesar da simplificação | A avaliar    |
+    |  7   | O rich picture não possui erros de gramática ou pontuação?                                       | A avaliar    |
+    |  8   | O rich picture é amigável, podendo ser entendido por pessoas leigas?^[2]^                        | A avaliar    |
 
 
 ## Referências

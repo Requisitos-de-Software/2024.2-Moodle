@@ -3,7 +3,7 @@
 
 ![Logo Moodle](./img/logo.png)
 /// caption
-Figura 1
+Figura 1. Logo Moodle
 ///
 
 Essa página tem como objetivo documentar o projeto do grupo 02 da matéria de Requisitos de Software, ministrada pelo professor André Barros de Sales.

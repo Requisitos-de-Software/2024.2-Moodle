@@ -38,3 +38,4 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.caret
