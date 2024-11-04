@@ -5,7 +5,7 @@
 
   Acerca as descrições fornecidas, serão preenchidas conforme a próxima etapa da entrega se aproximar, para poder providenciar uma visão mais detalhada do conteúdo de cada artefato.
 
-  Por fim, este é o **cronogrma planejado** do projeto. O cronograma executado será desenvolvido ao longo do projeto.
+  Por fim, este é o **cronograma planejado** do projeto. O cronograma executado será desenvolvido ao longo do projeto.
   
 
 ## Entrega 1 - Planejamento do Projeto
