@@ -10,10 +10,10 @@
 <br />
 
 ## Entrega 1 - Planejamento do Projeto
-### Data de Entrega: 06/11/2024
+### Data da Entrega: 06/11/2024
 ### Período de Gravação da Apresentação: 05/11/2024 - 06/11/2024
 
-   | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Introdução à Equipe**   |  Página no GitPages apresentando os integrantes com foto e sem matrícula.     | 4/11/2024   | 4/11/2024 - 6/11/2024 |  Laís Cecília, Júlia Lopes       |    João Paulo      |
    |  **Heatmap de Disponibilidade**   | *Heatmap* de disponibilidade de integrantes da equipe.    | 4/11/2024   | 4/11/2024 - 6/11/2024 | Rodrigo Orlandi  | Esther Sousa     |                                                   
@@ -26,10 +26,10 @@
 <br />
 
 ## Entrega 2 - Elicitação - Técnicas e Priorização
-### Data de Entrega: 24/11/2024
+### Data da Entrega: 24/11/2024
 ### Período de Gravação da Apresentação: 23/11/2024 - 24/11/2024
 
-   | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Perfis dos Usuários**   |      | 22/11/2024   | 22/11/2024 - 24/11/2024 |  Laís Cecília, Esther Sousa       |    Júlia Lopes      |
    |  **Técnicas de Elicitação Utilizadas**   |    | 22/11/2024   | 22/11/2024 - 24/11/2024 | Rodrigo Orlandi, Júlia Lopes  | João Paulo    |     
@@ -39,10 +39,10 @@
 <br />
 
 ## Entrega 3 - Modelagem de Requisitos
-### Data de Entrega: 08/12/2024
+### Data da Entrega: 08/12/2024
 ### Período de Gravação da Apresentação: 07/12/2024 - 08/12/2024
 
-   | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Cenários**   |      | 06/12/2024   | 07/12/2024 - 08/12/2024 | João Paulo, Júlia Lopes       |  Laís Cecília     |
    |  **Léxico**   |    | 06/12/2024   | 07/12/2024 - 08/12/2024 | Rodrigo Orlandi, Laís Cecília  | Júlia lopes   |
@@ -52,11 +52,11 @@
 
 <br />
 
-  ## Entrega 4 - Modelagem de Requisitos - Ágil
-### Data de Entrega: 15/12/2024
+## Entrega 4 - Modelagem de Requisitos - Ágil
+### Data da Entrega: 15/12/2024
 ### Período de Gravação da Apresentação: 14/12/2024 - 15/12/2024
 
-   | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Histórias de Usuário**   |      | 13/12/2024   | 14/12/2024 - 15/12/2024 | João Paulo, Júlia Lopes       |  Laís Cecília     |
    |  **Backlogs**   |    | 13/12/2024   | 14/12/2024 - 15/12/2024 | Rodrigo Orlandi, Laís Cecília  | Júlia lopes   |
@@ -66,11 +66,12 @@
 <br />
 
 ## Entrega 5 - Análise de Requisitos - Verificação e Validação
-### Data de Entrega: 30/01/2025
+### Data da Entrega: 30/01/2025
 ### Período de Gravação da Apresentação: 28/01/2025 - 30/01/2025
+
 Essa entrega será realizada *após* a Entrega 6 por meio de uma apresentação, e terá de ser trabalhada ao mesmo tempo.
 
-   | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Conceitos de Verificação e Validação Aplicados No Projeto**   |      | 13/12/2024   | 14/12/2024 - 15/12/2024 | Rodrigo Orlandi, Esther Sousa, Júlia Lopes      |  Esther Sousa    | 
    |  **Checklist do Conteúdo 5** |    |  13/12/2024  | 14/12/2024 - 15/12/2024 | Laís Cecília | João Paulo |
@@ -78,11 +79,11 @@ Essa entrega será realizada *após* a Entrega 6 por meio de uma apresentação,
 
 <br />
 
-  ## Entrega 6 - Pós-Rastreabilidade
-### Data de Entrega: 19/01/2025
+## Entrega 6 - Pós-Rastreabilidade
+### Data da Entrega: 19/01/2025
 ### Período de Gravação da Apresentação: 18/01/2025 - 19/01/2025
 
-   | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Gerência II**   |      | 17/01/2025  | 18/01/2025 - 19/01/2025 | Laís Cecília, Rodrigo Orlandi, Júlia Lopes      |  Esther Sousa    | 
    |  **Checklist do Conteúdo 6** |    |  17/01/2025  | 18/01/2025 - 19/01/2025 | João Paulo | Rodrigo Orlandi |
