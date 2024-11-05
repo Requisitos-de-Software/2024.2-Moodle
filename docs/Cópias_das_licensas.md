@@ -577,8 +577,6 @@ Este programa é distribuído com a esperança de que será útil, mas SEM QUALQ
 
 === "Inglês"
 
-    # GNU LIBRARY GENERAL PUBLIC LICENSE
-
     Version 2, June 1991
 
         Copyright (C) 1991 Free Software Foundation, Inc.
