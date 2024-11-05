@@ -27,7 +27,7 @@
 
 ## Entrega 2 - Elicitação - Técnicas e Priorização
 ### Data de Entrega: 24/11/2024
-### Período de Gravação da Apresentação: 05/11/2024 - 06/11/2024
+### Período de Gravação da Apresentação: 23/11/2024 - 24/11/2024
 
    | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -66,9 +66,9 @@
 <br />
 
 ## Entrega 5 - Análise de Requisitos - Verificação e Validação
-### Data de Entrega: 30/01/2025*
+### Data de Entrega: 30/01/2025
 ### Período de Gravação da Apresentação: 28/01/2025 - 30/01/2025
-*: Essa entrega será realizada *após* a Entrega 6 por meio de uma apresentação, e terá de ser trabalhada ao mesmo tempo.
+Essa entrega será realizada *após* a Entrega 6 por meio de uma apresentação, e terá de ser trabalhada ao mesmo tempo.
 
    | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
