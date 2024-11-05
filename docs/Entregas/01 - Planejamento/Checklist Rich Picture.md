@@ -1,5 +1,7 @@
 # Checklist
 
+Checklist de validação da rich picture.
+
 === "Vazia"
 
     | Item | Descrição                                                                                        | Verificação | Observações |
