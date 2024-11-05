@@ -27,9 +27,10 @@ Este projeto consiste na análise dos requisitos do Moodle e na documentação d
 A escolha do Moodle para o projeto veio da familiaridade e fácil acesso que os membros da equipe já possuem com o site. Da mesma forma, conhecer pessoas que fazem uso da plataforma para entrevistas, é uma tarefa de baixa dificuldade. De acordo com sua licença, é um software open source e livre para estudo.
 
 Outros aplicativos sugeridos foram rejeitados. Foram considerados: 
-* [Geogebra](https://www.geogebra.org/), a segunda melhor escolha, mas em comparação, possuía menos usuários para entrevista do que o *Moodle*;
-* [Pleco](https://www.pleco.com/) foi de grande interesse para o grupo, que possui interesse em ou estudam hanzi, caracteres chineses, mas por ter uma base de usuários extremamente específica, seu estudo por meio da disciplina de Engenharia de Requisitos seria mais difícil;
-* [Bolsa Verde](https://www.gov.br/pt-br/apps/bolsa-verde), um software governamental que visa recompensar conservação ambiental. Seu acesso é restrito a um público específico, um que ninguém do grupo pertence ou conhece para possíveis entrevista.
+
+* [Geogebra](https://www.geogebra.org/), a segunda melhor escolha, mas em comparação, possuía menos usuários para entrevista do que o *Moodle*; 
+* [Pleco](https://www.pleco.com/) foi de grande interesse para o grupo, que possui interesse em ou estudam hanzi, caracteres chineses, mas por ter uma base de usuários extremamente específica, seu estudo por meio da disciplina de Engenharia de Requisitos seria mais difícil; 
+* [Bolsa Verde](https://www.gov.br/pt-br/apps/bolsa-verde), um software governamental que visa recompensar conservação ambiental. Seu acesso é restrito a um público específico, um que ninguém do grupo pertence ou conhece para possíveis entrevista. 
 
 ---
 
