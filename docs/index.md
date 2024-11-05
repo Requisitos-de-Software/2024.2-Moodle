@@ -1,7 +1,7 @@
 # Grupo 02 - Moodle
 ---
 
-![Logo Moodle](./img/logo.png)
+![Logo Moodle](./img/logo.png)</br>
 /// caption
 Figura 1. Logo Moodle. [Fonte](https://www.liblogo.com/lib/moodle-logo.html)
 ///
@@ -24,9 +24,12 @@ Este projeto consiste na análise dos requisitos do Moodle e na documentação d
 
 ## Escolha do aplicativo
 
-A escolha do Moodle para o projeto veio da familiaridade e fácil acesso que os membros da equipe já possuem com o site. Da mesma forma, conhecer pessoas que fazem uso da plataforma para entrevistas, é uma tarefa de baixa dificuldade.
+A escolha do Moodle para o projeto veio da familiaridade e fácil acesso que os membros da equipe já possuem com o site. Da mesma forma, conhecer pessoas que fazem uso da plataforma para entrevistas, é uma tarefa de baixa dificuldade. De acordo com sua licença, é um software open source e livre para estudo.
 
-Por esse motivo e mais, outros aplicativos sugeridos foram rejeitados. Opções como [Geogebra](https://www.geogebra.org/), a segunda melhor escolha, mas em comparação, possuía menos usuários para entrevista que o moodle. O [Pleco](https://www.pleco.com/) foi muito interessante para o grupo, já que todos têm um interesse ou estudam hanzi, caracteres chineses, mas por ser tão específico não tinha ninguém conhecido que fizesse uso dele. Por fim, a [Bolsa Verde](https://www.gov.br/pt-br/apps/bolsa-verde), que nem tinha chance já que seu acesso é restrito a um público específico, um que ninguém do grupo pertence.
+Outros aplicativos sugeridos foram rejeitados. Foram considerados: 
+* [Geogebra](https://www.geogebra.org/), a segunda melhor escolha, mas em comparação, possuía menos usuários para entrevista do que o *Moodle*;
+* [Pleco](https://www.pleco.com/) foi de grande interesse para o grupo, que possui interesse em ou estudam hanzi, caracteres chineses, mas por ter uma base de usuários extremamente específica, seu estudo por meio da disciplina de Engenharia de Requisitos seria mais difícil;
+* [Bolsa Verde](https://www.gov.br/pt-br/apps/bolsa-verde), um software governamental que visa recompensar conservação ambiental. Seu acesso é restrito a um público específico, um que ninguém do grupo pertence ou conhece para possíveis entrevista.
 
 ---
 
@@ -36,5 +39,6 @@ Por esse motivo e mais, outros aplicativos sugeridos foram rejeitados. Opções 
 |--------|----------------|---------------------------|-------------|------------|
 | v1.0   | Página criada  | Laís Cecília              | João Paulo  | 28/10/2024 |
 | v1.1   | Escolha do App | Júlia Lopes, Laís Cecília | João Paulo  | 04/11/2024 |
+| v1.2   | Reestruturando escolha do App | Rodrigo Orlandi | João Paulo  | 04/11/2024 |
 
 
