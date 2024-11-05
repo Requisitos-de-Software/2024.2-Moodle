@@ -34,6 +34,7 @@ Por esse motivo e mais, outros aplicativos sugeridos foram rejeitados. Opções 
 
 | Versão | Descrição      | Autor                     | Revisor     | Data       |
 |--------|----------------|---------------------------|-------------|------------|
-| v1.0   | Página criada  | Laís Cecília              |      -      | 28/10/2024 |
-| v1.1   | Escolha do App | Júlia Lopes, Laís Cecília |      -      | 04/11/2024 |
+| v1.0   | Página criada  | Laís Cecília              | João Paulo  | 28/10/2024 |
+| v1.1   | Escolha do App | Júlia Lopes, Laís Cecília | João Paulo  | 04/11/2024 |
+
 

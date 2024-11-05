@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/joaombc/Desktop/jampas/unb/? semestre/requisitos/aprender3/2024.2-Grupo02/venv"
+VIRTUAL_ENV="/Users/joaombc/Desktop/jampas/unb/? semestre/requisitos/aprender/2024.2-Grupo02/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
