@@ -1,4 +1,4 @@
-# Cronograma
+# Cronograma Planejado
 
   O cronograma do projeto foi dividido de acordo com as datas das entregas disponíveis no plano de ensino[¹](https://requisitos-de-software.github.io/2024.2-Grupo02/Entregas/01%20-%20Planejamento/cronograma_planejado/#Ref%C3%AArencias) da disciplina de Requisitos de Software.
   Este artefato é essencial para o planejamento do grupo de acordo com as tarefas e atividades propostas, fornecendo uma base sólida sobre a qual o projeto será construído.
@@ -90,7 +90,7 @@ Essa entrega será realizada *após* a Entrega 6 por meio de uma apresentação,
 
 # Referências
 
-[1] SALES, André Barros de. **Plano_de_Ensino RE 022024 Turma 02 v1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 04/11/2001.
+[1] SALES, André Barros de. **Plano_de_Ensino RE 022024 Turma 02 v1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 04/11/2024.
 
 
 ## Histórico
