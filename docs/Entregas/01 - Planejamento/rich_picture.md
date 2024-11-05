@@ -1,6 +1,6 @@
 # Rich Picture 
 
-
+![Rich Picture Moodle/Aprender3](./img/rich_picturev1.png) {width="100" height="100"}
 
 
 # Referências
