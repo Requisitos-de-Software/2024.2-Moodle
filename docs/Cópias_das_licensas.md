@@ -588,7 +588,7 @@ Este programa é distribuído com a esperança de que será útil, mas SEM QUALQ
         [This is the first released version of the library GPL.  It is
         numbered 2 because it goes with version 2 of the ordinary GPL.]
 
-    ## Preamble
+    ### Preamble
 
     The licenses for most software are designed to take away your freedom
     to share and change it. By contrast, the GNU General Public Licenses
@@ -678,7 +678,7 @@ Este programa é distribuído com a esperança de que será útil, mas SEM QUALQ
     Note that it is possible for a library to be covered by the ordinary
     General Public License rather than by this special one.
 
-    ## TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+    ### TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
     **0.** This License Agreement applies to any software library which
     contains a notice placed by the copyright holder or other authorized
@@ -1008,9 +1008,9 @@ Este programa é distribuído com a esperança de que será útil, mas SEM QUALQ
     SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
     DAMAGES.
 
-    END OF TERMS AND CONDITIONS
+    ### END OF TERMS AND CONDITIONS
 
-    ## How to Apply These Terms to Your New Libraries
+    ### How to Apply These Terms to Your New Libraries
 
     If you develop a new library, and you want it to be of the greatest
     possible use to the public, we recommend making it free software that
