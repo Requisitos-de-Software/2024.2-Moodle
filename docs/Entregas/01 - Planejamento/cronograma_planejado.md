@@ -23,9 +23,26 @@
    |  **Checklist do Conteúdo**   | O conteúdo da disciplina aprendido nesta entrega é sobre *Rich Picture*, então a checklsit é acerca elementos dela.                      | 4/11/2024   | 4/11/2024 - 6/11/2024 | Júlia Lopes, Laís Cecília | Rodrigo Orlandi |
 
 
-## Entrega 2 - 
-### Data de Entrega:
-### Período de Gravação da Apresentação: 
+## Entrega 2 - Elicitação - Técnicas e Priorização
+### Data de Entrega: 24/11/2024
+### Período de Gravação da Apresentação: 05/11/2024 - 06/11/2024
+
+   | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
+   |  **Perfis dos Usuários**   |      | 22/11/2024   | 22/11/2024 - 24/11/2024 |  Laís Cecília, Esther Sousa       |    Júlia Lopes      |
+   |  **Técnicas de Elicitação Utilizadas**   |    | 22/11/2024   | 22/11/2024 - 24/11/2024 | Rodrigo Orlandi, Júlia Lopes  | João Paulo    |     
+   |  **Técnicas de Priorização Utilizadas**   |     | 22/11/2024   | 22/11/2024 - 24/11/2024 | Rodrigo Orlandi, Laís Cecília | Esther Sousa | 
+
+## Entrega 3 - Modelagem de Requisitos
+### Data de Entrega: 08/12/2024
+### Período de Gravação da Apresentação: 07/12/2024 - 08/12/2024
+
+   | Artefato | Descrição                                                                                    | Data de Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
+   |  **Cenários**   |      | 06/12/2024   | 07/12/2024 - 08/12/2024 | João Paulo, Júlia Lopes       |  Laís Cecília     |
+   |  **Léxico**   |    | 06/12/2024   | 07/12/2024 - 08/12/2024 | Rodrigo Orlandi, Laís Cecília  | Júlia lopes   |
+   |  **Use Case**   |     | 06/12/2024   | 07/12/2024 - 08/12/2024 | João Paulo, Júlia Lopes | Esther Sousa | 
+  |  **Especificação Suplementar**   |     | 06/12/2024   | 07/12/2024 - 08/12/2024 | Esther Sousa | Rodrigo Orlandi |
 
 ## Referências
 
