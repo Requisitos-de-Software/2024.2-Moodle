@@ -88,7 +88,7 @@ Essa entrega será realizada *após* a Entrega 6 por meio de uma apresentação,
    |  **Gerência II**   |      | 17/01/2025  | 18/01/2025 - 19/01/2025 | Laís Cecília, Rodrigo Orlandi, Júlia Lopes      |  Esther Sousa    | 
    |  **Checklist do Conteúdo 6** |    |  17/01/2025  | 18/01/2025 - 19/01/2025 | João Paulo | Rodrigo Orlandi |
 
-## Referências
+# Referências
 
 [1] SALES, André Barros de. **Plano_de_Ensino RE 022024 Turma 02 v1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 04/11/2001.
 
