@@ -23,7 +23,7 @@ Checklist de validação da rich picture.
     |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|
     |  1   | Todos os componentes são claramente identificados por rótulos?^[1]^                              | <span style="color:green">Conforme</span>    | -           |
     |  2   | Não há um excesso de texto no rich picture que compromete a leitura?                             | <span style="color:red">Não Conforme</span>    | -           |
-    |  3   | Os componentes são visualmente distintos?                                                        | A avaliar    | -           |
+    |  3   | Os componentes são visualmente distintos?                                                        | <span style="color:yellow">Sugestão de Melhoria</span>    | -           |
     |  4   | O rich picture apresenta um nível satisfatório, mas não excessivo, de detalhes?^[2]^             | A avaliar    | -           |
     |  5   | A linguagem usada no rich picture é apropriada, clara, objetiva e consistente?^[3]^              | A avaliar    | -           |
     |  6   | O rich picture representa o processo fielmente? Isto é, sem imprecisões, apesar da simplificação | A avaliar    | -           |
