@@ -1,5 +1,4 @@
 # Grupo 02 - Moodle
----
 
 ![Logo Moodle](./docs/img/logo.png)
 
