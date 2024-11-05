@@ -43,4 +43,4 @@
 
 | Versão | Descrição                  | Autor                         | Revisor | Data       |
 |--------|----------------------------|-------------------------------|---------|------------|
-| v1.0   | Checklist Criada           | Laís Cecília, Júlia Lopes     | -       | 04/11/2024 |
+| v1.0   | Checklist Criada           | Júlia Lopes, Laís Cecília     | -       | 04/11/2024 |
