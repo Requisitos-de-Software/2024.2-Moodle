@@ -57,7 +57,7 @@ Estados do artefato:
 
 ## Vídeo
 
-A SER ADICIONADO
+A SER ADICIONADO. [https://www.youtube.com/watch?v=t1aVGxZBhPg](https://www.youtube.com/watch?v=t1aVGxZBhPg)
 
 ## Referências
 
