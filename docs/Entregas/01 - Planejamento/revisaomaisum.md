@@ -57,7 +57,7 @@ Estados do artefato:
 
 ## Vídeo
 
-A SER ADICIONADO. [https://www.youtube.com/watch?v=t1aVGxZBhPg](https://www.youtube.com/watch?v=t1aVGxZBhPg)
+<iframe width="500" height="285" src="https://www.youtube.com/embed/t1aVGxZBhPg" title="Requisitos de Software 2024-2 - Grupo 2 - Verificação Grupo 3 - Parte 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências
 
