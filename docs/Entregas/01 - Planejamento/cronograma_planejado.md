@@ -14,7 +14,6 @@
 
 ## Entrega 1 - Planejamento do Projeto
 ### Data da Entrega: 06/11/2024
-### Período de Gravação da Apresentação: 05/11/2024 - 06/11/2024
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -27,13 +26,13 @@
    |  **Lista de Verificação**   | Trabalhar em uma lista de verificação sobre aspectos da entrega, o conteúdo da disciplina referente à entrega atual e sobre a qualidade da entrega. O conteúdo da disciplina aprendido nesta entrega é sobre *Rich Picture*.  | 4/11/2024   | 4/11/2024 - 6/11/2024 | Júlia Lopes, Laís Cecília | Rodrigo Orlandi |
    |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  | 24/11/2024   | 12/11/2024 - 6/11/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  | 4/11/2024   | 4/11/2024 - 6/11/2024 | João Paulo | Rodrigo Orlandi |
+   |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 05/11/2024   | 05/11/2024 - 06/11/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  | 24/11/2024   | 12/11/2024 - 24/11/2024 | Autores do Artefatos | Rodrigo Orlandi |
 
 <br />
 
 ## Entrega 2 - Elicitação - Técnicas e Priorização
 ### Data da Entrega: 24/11/2024
-### Período de Gravação da Apresentação: 23/11/2024 - 24/11/2024
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -43,13 +42,13 @@
    |  **Lista de Verificação 2**   |  O conteúdo da disciplina aprendido nesta entrega é **Elicitação e Priorização de Requisitos**.  | 23/11/2024   | 22/11/2024 - 26/11/2024 | João Paulo, Rodrigo Orlandi | Júlia Lopes, Laís Cecília |
    |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  | 24/11/2024   | 22/11/2024 - 24/11/2024 | Rodrigo Orlandi, Laís Cecília | Esther Sousa, Júlia Lopes |
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  | 23/11/2024   | 22/11/2024 - 24/11/2024 | Esther Sousa | João Paulo |
+   |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 23/11/2024  | 23/11/2024 - 24/11/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  | 07/12/2024   | 26/11/2024 - 07/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
 
 <br />
 
 ## Entrega 3 - Modelagem de Requisitos
 ### Data da Entrega: 08/12/2024
-### Período de Gravação da Apresentação: 07/12/2024 - 08/12/2024
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -60,13 +59,13 @@
    |  **Lista de Verificação 3**   |  O conteúdo da disciplina aprendido nesta entrega é **Modelagem de Requisitos**.  | 07/12/2024   | 07/12/2024 - 08/12/2024 | Laís Cecília, Esther Sousa | Rodrigo Orlandi |
    |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  | 07/12/2024   | 07/12/2024 - 08/12/2024 | Rodrigo Orlandi, Esther Sousa | João Paulo |
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  | 08/12/2024   | 06/12/2024 - 08/12/2024 | João Paulo | Júlia Lopes |
+   |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 07/12/2024  | 07/12/2024 - 08/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  | 15/12/2024   | 08/12/2024 - 15/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
 
 <br />
 
 ## Entrega 4 - Modelagem de Requisitos - Ágil
 ### Data da Entrega: 15/12/2024
-### Período de Gravação da Apresentação: 14/12/2024 - 15/12/2024
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -76,13 +75,13 @@
    |  **Lista de Verificação 4**   |  O conteúdo da disciplina aprendido nesta entrega é **a utilização de metodologias ágeis na Modelagem de Requisitos**.  | 14/12/2024   | 13/12/2024 - 15/12/2024 | Rodrigo Orlandi | João Paulo, Laís Cecília |
    |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  | 15/12/2024   | 13/12/2024 - 15/12/2024 | João Paulo, Rodrigo Orlandi | Júlia Lopes |
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  | 15/12/2024   | 13/12/2024 - 15/12/2024 | João Paulo | Júlia Lopes |
+   |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 14/12/2024  | 14/12/2024 - 15/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  | 22/12/2024   | 15/12/2024 - 22/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
 
 <br />
 
 ## Entrega 5 - Análise de Requisitos - Verificação e Validação
 ### Data da Entrega: 30/01/2025
-### Período de Gravação da Apresentação: 28/01/2025 - 30/01/2025
 
 Essa entrega será realizada ao longo do projeto, verificando e validando artefatos desenvolvidos.
 
@@ -92,6 +91,7 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
    |  **Lista de Verificação 5**   |  O conteúdo da disciplina aprendido nesta entrega é **Verificação e Velidação**.  | 30/01/2025   | 10/10/2024 - 30/01/2025 | Laís Cecília | Júlia Lopes |
    |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  |  30/01/2025   | 10/10/2024 - 30/01/2025 | Júlia Lopes | Esther Sousa |
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  |  30/01/2025   | 10/10/2024 - 30/01/2025 | Rodrigo Orlandi | Esther Sousa |
+   |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 29/01/2025  |  28/01/2025 - 30/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  |  30/01/2025   | 10/10/2024 - 30/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
 
 
@@ -99,7 +99,6 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
 
 ## Entrega 6 - Pós-Rastreabilidade
 ### Data da Entrega: 19/01/2025
-### Período de Gravação da Apresentação: 18/01/2025 - 19/01/2025
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -107,6 +106,7 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
    |  **Lista de Verificação 6**   |  O conteúdo da disciplina aprendido nesta entrega é **Pós-Rastreabilidade**.  | 17/01/2025  | 18/01/2025 - 19/01/2025 | Esther Sousa | Rodrigo Orlandi |
    |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  |  17/01/2025  | 18/01/2025 - 19/01/2025 | João Paulo | Laís Cecília |
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  |  17/01/2025  | 18/01/2025 - 19/01/2025 |  Júlia Lopes | Rodrigo Orlandi |
+   |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 18/01/2025  |  18/01/2025 - 19/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  |  17/01/2025  | 18/01/2025 - 19/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
 
 ## Entrega Final - Pós-Rastreabilidade
@@ -119,6 +119,7 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
    |  **Sugestões de Melhora do Aplicativo**   |      | 09/02/2025  | 08/02/2025 - 10/02/2025 | Autores  |  Rodrigo Orlandi    | 
    |  **Lista de Verificação Final**   |  O conteúdo da disciplina aprendido nesta entrega é **a lista de requisitos e sugestões de melhora**.  | 09/02/2025  | 08/02/2025 - 10/02/2025  | Rodrigo Orlandi | Laís Cecília |
    |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  |  09/02/2025  | 08/02/2025 - 10/02/2025 | Esther Sousa | Júlia Lopes |
+   |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 09/02/2025  |  07/02/2025 - 10/02/2025  | Autores do Artefatos | Rodrigo Orlandi |
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  |  09/02/2025  | 08/02/2025 - 10/02/2025   |  João Paulo | Rodrigo Orlandi |
 
 # Bibliografia
@@ -132,6 +133,7 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
 
 | Versão | Descrição                  | Autor                         | Revisor | Data       |
 |--------|----------------------------|-------------------------------|---------|------------|
+| v1.15   | Correção do Monitor - Movida "gravação" para as tabelas    | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
 | v1.1   | Adicionada entrega final           | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
 | v1.05   | Adição de correção pós-entrega, atas, inspeção do nosso e do próximo grupo           | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
 | v1.0   | Criação do Cronograma - Detalhamento da Entrega 1           | Rodrigo Orlandi, Esther Sousa     | Laís Cecília       | 04/11/2024 |
