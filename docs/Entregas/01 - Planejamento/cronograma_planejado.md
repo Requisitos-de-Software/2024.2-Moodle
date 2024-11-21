@@ -120,4 +120,5 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
 
 | Versão | Descrição                  | Autor                         | Revisor | Data       |
 |--------|----------------------------|-------------------------------|---------|------------|
+| v1.05   | Adição de correção pós-entrega, atas, inspeção do nosso e do próximo grupo           | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
 | v1.0   | Criação do Cronograma - Detalhamento da Entrega 1           | Rodrigo Orlandi, Esther Sousa     | Laís Cecília       | 04/11/2024 |
