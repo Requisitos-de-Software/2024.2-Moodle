@@ -109,6 +109,18 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  |  17/01/2025  | 18/01/2025 - 19/01/2025 |  Júlia Lopes | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  |  17/01/2025  | 18/01/2025 - 19/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
 
+## Entrega Final - Pós-Rastreabilidade
+### Data da Entrega: 10/02/2025
+### Período de Gravação da Apresentação: 07/02/2025 - 10/02/2025 
+
+   | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
+   |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
+   |  **Lista de Requisitos Completa**   |      | 09/02/2025  | 08/02/2025 - 10/02/2025 | Autores  |  Rodrigo Orlandi    | 
+   |  **Sugestões de Melhora do Aplicativo**   |      | 09/02/2025  | 08/02/2025 - 10/02/2025 | Autores  |  Rodrigo Orlandi    | 
+   |  **Lista de Verificação Final**   |  O conteúdo da disciplina aprendido nesta entrega é **a lista de requisitos e sugestões de melhora**.  | 09/02/2025  | 08/02/2025 - 10/02/2025  | Rodrigo Orlandi | Laís Cecília |
+   |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  |  09/02/2025  | 08/02/2025 - 10/02/2025 | Esther Sousa | Júlia Lopes |
+   |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  |  09/02/2025  | 08/02/2025 - 10/02/2025   |  João Paulo | Rodrigo Orlandi |
+
 # Bibliografia
 
 [1] SALES, André Barros de. **Plano_de_Ensino RE 022024 Turma 02 v1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 04/11/2024.
@@ -120,5 +132,6 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
 
 | Versão | Descrição                  | Autor                         | Revisor | Data       |
 |--------|----------------------------|-------------------------------|---------|------------|
+| v1.1   | Adicionada entrega final           | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
 | v1.05   | Adição de correção pós-entrega, atas, inspeção do nosso e do próximo grupo           | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
 | v1.0   | Criação do Cronograma - Detalhamento da Entrega 1           | Rodrigo Orlandi, Esther Sousa     | Laís Cecília       | 04/11/2024 |
