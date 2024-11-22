@@ -12,20 +12,20 @@ dos usuários em mente.
 
 ## Utilização no Projeto
 
-Definimos apos o estudo do assunto 4 personas no total: Um aluno, um professor, um monitor e um antipersona, exemplificando assim os 3 tipos possiveis de usuarios da plataforma e um tipo de pessoa que não se encaixaria como possivel usuario. A elaboração dos personas foram feitas no dia 17/11/24, por uma reuniao em videochamada na plataforma Discord dos autores deste documento.
+Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professor, um monitor e um antipersona, exemplificando assim os 3 tipos possiveis de usuarios da plataforma e um tipo de pessoa que não se encaixaria como possivel usuario. A elaboração dos personas foram feitas no dia 17/11/24, por uma reuniao em videochamada na plataforma Discord dos autores deste documento.
 
 ## Personas Desenvolvidas
 
-![Aluno](./img/persona1.png) {width="100" height="100"}
+![Aluno](./img/persona1.png)
 **Figura 1**. Nome: Otávio Augusto Silva Pereira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
-![Professor](./img/persona2.png) {width="100" height="100"}
+![Professor](./img/persona2.png)
 **Figura 2**. Nome: Isabel Barbosa dos Campos, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
-![Monitor](./img/persona3.png) {width="100" height="100"}
+![Monitor](./img/persona3.png)
 **Figura 3**. Nome: Rebeca dos Santos de Oliveira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
-![Anti](./img/persona4.png) {width="100" height="100"}
+![Anti](./img/persona4.png)
 **Figura 4**. Nome: Marcio Donald dos Borges, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
 
