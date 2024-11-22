@@ -14,11 +14,11 @@ pode-se minimizar a ambiguidade na hora de elicitar requisitos.
 Foi desenvolvida um tipo de entrevista com objetivo de ser respondida pelos três 
 [perfis de usuário](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicitação/Perfil%20de%20Usuário) do projeto: aluno, monitor e professor. Ao ter o mesmo conjunto de perguntas respondido por usuários diferentes, pode-se perceber diferentes prioridades ou até atividades realizadas, possibilitando a elicitação de diferentes requisitos.
 
-Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos autores e foram reutilizadas perguntas realizadas por um grupo de 2022 da Engenharia de Requisitos, [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/).
+Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos autores e foram reutilizadas perguntas realizadas por um grupo de 2022 da Engenharia de Requisitos, [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/). O principal objetivo durante a escolha das perguntas foi entender o aplicativo Moodle por meio das respostas dos entrevistados, podendo elicitar sem dúvida requisitos funcionais, não-funcionais e não implementados.
 
 </br>
 
-### Tabela 1 - Perguntas realizadas na entrevista:
+### Tabela 1 - Perguntas realizadas na entrevista
 | Perguntas                  |
 |----------------------------|
 | Quantas vezes na semana você costuma utilizar o aplicativo? |
@@ -68,9 +68,11 @@ Por consequência, foi entrevistado um membro de outro grupo da disciplina de Re
 
 [INSERIR VÍDEO]
 
+</br>
+
 ## Requisitos Elicitados
 
-</br>
+Após as entrevistas, foi realizado seu estudo visando a elicitação de requisitos funcionais e não-funcionais, implementados e não implementados. Os requisitos de ambas foram organizados e compilados na tabela 3, a seguir.
 
 ### Tabela 3 - Requisitos elicitados a partir das entrevistas.
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
