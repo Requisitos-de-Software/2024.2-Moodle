@@ -14,11 +14,11 @@ pode-se minimizar a ambiguidade na hora de elicitar requisitos.
 Foi desenvolvida um tipo de entrevista com objetivo de ser respondida pelos três 
 [perfis de usuário](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicitação/Perfil%20de%20Usuário) do projeto: aluno, monitor e professor. Ao ter o mesmo conjunto de perguntas respondido por usuários diferentes, pode-se perceber diferentes prioridades ou até atividades realizadas, possibilitando a elicitação de diferentes requisitos.
 
-Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos autores e foram reutilizadas perguntas realizadas pelo grupo de 2022 da Engenharia de Requisitos, Lichess.
+Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos autores e foram reutilizadas perguntas realizadas por um grupo de 2022 da Engenharia de Requisitos, [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/).
 
 </br>
 
-### Perguntas da entrevista:
+### Tabela 1 - Perguntas realizadas na entrevista:
 | Perguntas                  |
 |----------------------------|
 | Quantas vezes na semana você costuma utilizar o aplicativo? |
@@ -41,9 +41,9 @@ Por fim, foi escrito um **termo de consentimento** desenvolvido com base no mode
 
  </br>
 
-Durante o encontro do dia 16/11, foram planejadas as datas principais das atividades na entrevista, descritas na tabela 1, a seguir:
+Durante o encontro do dia 16/11, foram planejadas as datas principais das atividades na entrevista, descritas na tabela 2, a seguir:
 
-### Tabela 1 - Cronograma planejado das atividades referentes à entrevista.
+### Tabela 2 - Cronograma planejado das atividades referentes à entrevista.
 | Dia     | Atividade                  | Participantes           | 
 |---------|----------------------------|-------------------------|
 | 16/11   | Planejamento de perguntas e dos entrevistados                   | Rodrigo Orlandi, João Paulo | 
@@ -72,7 +72,7 @@ Por consequência, foi entrevistado um membro de outro grupo da disciplina de Re
 
 </br>
 
-### Tabela 2 - Requisitos elicitados a partir das entrevistas.
+### Tabela 3 - Requisitos elicitados a partir das entrevistas.
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
 | 01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar | SIM | 
