@@ -16,6 +16,8 @@ Foi desenvolvida um tipo de entrevista com objetivo de ser respondida pelos trê
 
 Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos autores e foram reutilizadas perguntas realizadas pelo grupo de 2022 da Engenharia de Requisitos, Lichess.
 
+</br>
+
 ### Perguntas da entrevista:
 | Perguntas                  |
 |----------------------------|
@@ -30,11 +32,14 @@ Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos
 | Você sente falta de alguma funcionalidade no app? | 
 | Qual o benefício do aprender? |
 
+</br>
 
 Por fim, foi escrito um **termo de consentimento** desenvolvido com base no modelo apresentado por Barbosa, et. al (2021), apresentado na figura 1, a seguir. 
 
 ![Termo de Consetimento desenvolvido](../../img/termo_consent.png) 
-### **Figura 1**: Termo de consentimento do planejamento. **Fonte**: Autores. 
+ **Figura 1**: Termo de consentimento do planejamento. **Fonte**: Autores. 
+
+ </br>
 
 Durante o encontro do dia 16/11, foram planejadas as datas principais das atividades na entrevista, descritas na tabela 1, a seguir:
 
@@ -53,6 +58,8 @@ A entrevista planejada para o dia 19/11 não ocorreu pelo participante com quem 
 
 Por consequência, foi entrevistado um membro de outro grupo da disciplina de Requisitos de Software, o que pode causar opiniões influenciadas na hora da entrevista. O grupo do Moodle considera que ainda assim, valeu à pena a realização da entrevista pela urgência, mas reconhece o problema com entrevistar um membro de outro grupo.
 
+</br>
+
 ### Entrevista 1 - 21/11/2024
 
 <iframe width="500" height="285" src="https://www.youtube.com/embed/PvHUFPDSKIs" title="Grupo 02 - Moodle - Entrevista com usuário do aplicativo - Requisitos 2024/2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -62,6 +69,8 @@ Por consequência, foi entrevistado um membro de outro grupo da disciplina de Re
 [INSERIR VÍDEO]
 
 ## Requisitos Elicitados
+
+</br>
 
 ### Tabela 2 - Requisitos elicitados a partir das entrevistas.
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
