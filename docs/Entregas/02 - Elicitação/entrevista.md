@@ -1,6 +1,7 @@
 # Entrevista
 
 ## Introdução - O que é a entrevista?
+Um dos métodos escolhidos para a elicitação de requisitos foi a técnica de entrevista. Essa técnica, segundo Barbosa [Barbosa, et. al (2021)](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf), consiste em 'uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado'. O tipo de perguntas feitas em nossa entrevista foram **perguntas abertas**, que segundo a literatura têm uma natureza exploratória. Ademais, as perguntas abertas são usualmente utilizadas quando o entrevstador possui um baixo entendimento da situação e quando visam obter opiniões do entrevistado cerca do assunto, tanto para a elicitação de requisitos, quanto para mudanças em design. 
 
 
 ## Planejamento e Metodologia
@@ -78,10 +79,15 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
 | 01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar | SIM | 
-| 02   |                               |                         |                     |     |
-| 03   |                               |                         |                     |     |  
-| 04   |                               |                         |                     |     |
-| 05   |                               |                         |                     |     |
+| 02   |  Requisito Funcional          |  O sistema deve permitir que o Usuário 'Aluno' possa vizualizar o material disponibilizado pelo Usuário 'Professor'. | SIM |
+| 03   |  Requisito Funcional          |  O sistema deve permitir que o Usuário 'Aluno' possa baixar arquivos. | SIM |  
+| 04   |  Requisito Funcional          |  O conteúdo deve poder ser organizado pelo usuário 'Professor' em tópicos e índices de tópicos. |  SIM |
+| 05   |  Requisito Funcional          |  O sistema deve possuir uma funcionalidade calendário, permitindo que o usuário 'Aluno' possa vizualizar atividades próximas. | SIM |
+| 06   |  Requisito Não Funcional      |  A navegação do aplicativo mobile deve ser simples e intuitiva. | NÃO | 
+| 07   |  Requisito Funcional          |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| NÃO | 
+| 08   |  Requisito Funcional          |  O sistema deve avisar o usuário 'Aluno' quando ele tiver alguma atividade próxima.| SIM | 
+
+
 
 ## Referência
 
@@ -95,4 +101,5 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Data       |
 |--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | Criação do Artefato                    | Rodrigo Orlandi, João Paulo      |  Laís Cecília                       | 21/11/2024 |
+| v1.0   | Criação do Artefato        | Rodrigo Orlandi, João Paulo      |  Laís Cecília   | 21/11/2024 |
+| v1.0   | Adição dos requisitos elicitados a partir da entrevista       | João Paulo | Rodrigo Orlandi | 22/11/2024 |
