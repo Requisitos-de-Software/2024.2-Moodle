@@ -1,7 +1,7 @@
 # Entrevista
 
 ## Introdução - O que é a entrevista?
-Um dos métodos escolhidos para a elicitação de requisitos foi a técnica de entrevista. Essa técnica, segundo Barbosa [Barbosa, et. al (2021)](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf), consiste em 'uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado'. O tipo de perguntas feitas em nossa entrevista foram **perguntas abertas**, que segundo a literatura têm uma natureza exploratória. Ademais, as perguntas abertas são usualmente utilizadas quando o entrevstador possui um baixo entendimento da situação e quando visam obter opiniões do entrevistado cerca do assunto, tanto para a elicitação de requisitos, quanto para mudanças em design. 
+Um dos métodos escolhidos para a elicitação de requisitos foi a técnica de entrevista. Essa técnica, segundo [Barbosa, et. al (2021)](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf), consiste em 'uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado'. O tipo de perguntas feitas em nossa entrevista foram **perguntas abertas**, que segundo a literatura têm uma natureza exploratória. Ademais, as perguntas abertas são usualmente utilizadas quando o entrevistador possui um baixo entendimento da situação e quando visam obter opiniões do entrevistado cerca do assunto, tanto para a elicitação de requisitos, quanto para mudanças em design. 
 
 
 ## Planejamento e Metodologia
@@ -73,12 +73,12 @@ Por consequência, foi entrevistado um membro de outro grupo da disciplina de Re
 
 ## Requisitos Elicitados
 
-Após as entrevistas, foi realizado seu estudo visando a elicitação de requisitos funcionais e não-funcionais, implementados e não implementados. Os requisitos de ambas foram organizados e compilados na tabela 3, a seguir.
+Após as entrevistas, foi realizado seu estudo visando a elicitação de requisitos funcionais e não-funcionais, implementados e não implementados. Os requisitos de ambas foram organizados e compilados na tabela 3, a seguir. Já na tabela 4, elicitamos requisitos indiretamente a partir da entrevista com o usuário 'Aluno','Monitor' e 'Professor'.
 
 ### Tabela 3 - Requisitos elicitados a partir das entrevistas.
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
-| 01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar | SIM | 
+| 01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar.| SIM | 
 | 02   |  Requisito Funcional          |  O sistema deve permitir que o Usuário 'Aluno' possa vizualizar o material disponibilizado pelo Usuário 'Professor'. | SIM |
 | 03   |  Requisito Funcional          |  O sistema deve permitir que o Usuário 'Aluno' possa baixar arquivos. | SIM |  
 | 04   |  Requisito Funcional          |  O conteúdo deve poder ser organizado pelo usuário 'Professor' em tópicos e índices de tópicos. |  SIM |
@@ -87,7 +87,17 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 | 07   |  Requisito Funcional          |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| NÃO | 
 | 08   |  Requisito Funcional          |  O sistema deve avisar o usuário 'Aluno' quando ele tiver alguma atividade próxima.| SIM | 
 
-
+### Tabela 4 - Requisitos indiretos elicitados a partir das entrevistas com os usuários.
+| Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
+|---------|----------------------------|-------------------------|---------------------|
+| 09      | Requisito Funcional        | O sistema deve permitir que o usuário ‘Professor’ possa enviar conteúdos, que ficarão disponíveis ao tipo de usuário ‘Aluno’. | SIM |
+| 10      | Requisito Funcional        | O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos em uma porcentagem de conclusão da disciplina ********** | SIM |
+| 11      | Requisito Funcional        | O sistema deve possuir usuário do tipo 'Aluno', 'Professor' e 'Monitor'. | SIM |
+| 12      | Requisito Funcional        | O sistema deve notificar o aluno de entregas se aproximando da deadline por meio do Dashboard. | SIM |
+| 13      | Requisito Funcional        | O sistema deve permitir que os usuários 'Professor’e 'Monitor’ possam corrigir atividades enviadas pelo usuário ‘Aluno'. | SIM |
+| 14      | Requisito Funcional        | O usuário ‘Aluno’ deve poder consultar as notas das atividades já corrigidas. | SIM |
+| 15      | Requisito Funcional        | O usuário 'Professor’ deve ser capaz de elegir um ou mais usuário(s) 'Monitor’ para a sua matéria. | SIM |
+| 16      | Requisito Funcional        | O sistema deve permitir que ‘Alunos’ possam filtrar as suas matérias cursadas. | SIM |
 
 ## Referência
 
@@ -103,3 +113,4 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 |--------|----------------------------|-------------------------|--------------------------|------------|
 | v1.0   | Criação do Artefato        | Rodrigo Orlandi, João Paulo      |  Laís Cecília   | 21/11/2024 |
 | v1.0   | Adição dos requisitos elicitados a partir da entrevista       | João Paulo | Rodrigo Orlandi | 22/11/2024 |
+| v1.0   | Requisitos indiretos elicitados a partir da entrevista com o usuário 'Aluno' | João Paulo | --- | 22/11/2024 |
