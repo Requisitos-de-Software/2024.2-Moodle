@@ -4,7 +4,7 @@
 
 ## Ferramentas ultilizadas no projeto.
 
-Aqui estao todas as ferramentas que serão ultilizadas para o desenvolvimento do projeto.
+Aqui estão listadas todas as ferramentas que serão ultilizadas para o desenvolvimento do projeto.
 
 ## Tabela das ferramentas
  
@@ -22,10 +22,15 @@ Aqui estao todas as ferramentas que serão ultilizadas para o desenvolvimento do
 |  ![MK](./img/reqF10.png) Fonte: [Mkdocs](https://www.markdownguide.org/tools/mkdocs/) {width="100" height="100"}| **MkDocs**: é um gerador projetado para criar sites de documentação. |
 |  ![W2](./img/reqF11.png) Fonte: [Webcatalog](https://webcatalog.io/en/apps/when2meet/) {width="100" height="100"}| **When2Meet**: é um serviço gratuito na web para gerenciar horarios. |
 |  ![DC](./img/reqF12.png) Fonte: [Wikipedia](https://fr.wikipedia.org/wiki/Fichier:Discord_Logo_sans_texte.svg) {width="100" height="100"}| **Discord**: é um aplicativo de comunicação entre pessoas por meio de texto, voz e video. |
+|  ![PT](./img/reqF13.png) Fonte: [Wikipedia](https://pt.m.wikipedia.org/wiki/Ficheiro:Microsoft_Paint.svg) {width="100" height="100"}| **Microsoft Paint**: é um software que permite criar de desenhos e realizar edição de imagens oferecido pela Microsoft.  |
+|  ![AP](./img/reqF14.png) Fonte: [Aprender3](https://aprender3.unb.br) {width="100" height="100"}| **Aprender3**: é uma das plataformas gerado pelo software Moodle criado pela Universidade de Brasilia (UnB). |
+|  ![HFE](./img/reqF15.png) Fonte: [MeuPositivo](https://www.meupositivo.com.br/doseujeito/dicas/editores-de-video-gratuito-professores/) {width="100" height="100"}| **HitFlilm Express**: é um software de edição de video. |
+|  | **Thispersondoesnotexist**: é um site que gera imagens de fotos de perfil de humanos não existentes usando inteligencia artificial. |
 
 ## Histórico
 
 | Versão | Descrição     | Autor        | Revisor     | Data       |
 |--------|---------------|--------------|-------------|------------|
-| v1.0   | Tabela criada | Esther Silva | Rodrigo Dias | 05/11/2024 |
-| v1.1   | Atualização da tabela | Esther Silva | Rodrigo Dias | 05/11/2024 |
+| v1.0   | Tabela criada | Esther Silva | Rodrigo de Andrade | 05/11/2024 |
+| v1.1   | Atualização da tabela | Esther Silva | Rodrigo de Andrade | 05/11/2024 |
+| v1.2   | Atualização da tabela | Esther Silva |  | 23/11/2024 |
