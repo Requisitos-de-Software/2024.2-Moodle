@@ -105,7 +105,7 @@ Durante a execução da análise de interface, houve dois contratempos notáveis
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              | Laís Cecília, Rodrigo de Andrade| -                        | <input type="checkbox" onclick="return false;" disabled/> | 22/11/2024 |
-
+| v1.1   | Requisitos de competidores | Júlia Lopes, Laís Cecília       | -                        | <input type="checkbox" onclick="return false;" disabled/> | 23/11/2024 |
 
 
 <iframe width="500" height="285" src="https://www.youtube.com/embed/halkn1XoD2o?list=PLGRXxCmBB-YhV9OsHUsSMyU3LCnAUelIQ" title="Puppy Struggles to Use the Stairs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
