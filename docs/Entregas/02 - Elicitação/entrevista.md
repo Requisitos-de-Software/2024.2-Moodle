@@ -61,19 +61,19 @@ Por consequência, foi entrevistado um membro de outro grupo da disciplina de Re
 
 </br>
 
-### Entrevista 1 - 21/11/2024
+### Entrevista 1 (Aluno) - 21/11/2024, 10:30 - 11:00
 
 <iframe width="500" height="285" src="https://www.youtube.com/embed/PvHUFPDSKIs" title="Grupo 02 - Moodle - Entrevista com usuário do aplicativo - Requisitos 2024/2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Entrevista 2 - 22/11/2024
+### Entrevista 2 (Monitor) - 22/11/2024, 11:30 - 12:00
 
-[INSERIR VÍDEO]
+<iframe width="500" height="285" src="https://www.youtube.com/embed/92kF1vy1b30" title="Grupo 02 - Moodle - Entrevista com usuário Monitora do aplicativo - Requisitos 2024/2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </br>
 
 ## Requisitos Elicitados
 
-Após as entrevistas, foi realizado seu estudo visando a elicitação de requisitos funcionais e não-funcionais, implementados e não implementados. Os requisitos de ambas foram organizados e compilados na tabela 3, a seguir.
+Após as entrevistas, foi realizado seu estudo visando a elicitação de requisitos funcionais e não-funcionais, implementados e não implementados. Os requisitos de ambas foram organizados e compilados nas tabela 3, 4 e 5, a seguir. A tabela 5 representa requisitos indiretos que foram elicitados pelos requisitos elicitados da entrevista.
 
 ### Tabela 3 - Requisitos elicitados a partir das entrevistas.
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
@@ -87,19 +87,39 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 | 07   |  Requisito Funcional          |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| NÃO | 
 | 08   |  Requisito Funcional          |  O sistema deve avisar o usuário 'Aluno' quando ele tiver alguma atividade próxima.| SIM | 
 
+### Tabela 4 - Requisitos elicitados a partir da entrevista com o usuário 'Monitor'.
+| Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
+|---------|----------------------------|-------------------------|---------------------|
+| 09      | Requisito Não Funcional     | O sistema deve ter um tempo de resposta admissível. | NÃO |
+| 10      | Requisito Funcional         | O sistema deve permitir que o usuário 'Monitor' possa acompanhar o conteúdo da mesma forma que o usuário 'Aluno' para poder ajudá-los no conteúdo. | SIM |
+| 11      | Requisito Funcional         | O sistema deve permitir que usuários possam responder formulários. | SIM |
+| 12      | Requisito Não Funcional     | Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho. | SIM |
+| 13      | Requisito Não Funcional     | O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.| NÃO |
 
+### Tabela 5 - Requisitos indiretos elicitados a partir das entrevistas com os usuários.
+| Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
+|---------|----------------------------|-------------------------|---------------------|
+| 14      | Requisito Funcional        | O sistema deve permitir que o usuário ‘Professor’ possa enviar conteúdos, que ficarão disponíveis ao tipo de usuário ‘Aluno’ e 'Monitor'. | SIM |
+| 15      | Requisito Funcional        | O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.| NÃO |
+| 16      | Requisito Funcional        | O sistema deve possuir usuário do tipo 'Aluno', 'Professor' e 'Monitor'. | SIM |
+| 17      | Requisito Funcional        | O sistema deve notificar o aluno de entregas se aproximando da deadline por meio do Calendário/Dashboard. | SIM |
+| 18      | Requisito Funcional        | O sistema deve permitir que os usuários 'Professor’ e 'Monitor’ possam corrigir atividades enviadas pelo usuário ‘Aluno'. | NÃO* |
+| 19      | Requisito Funcional        | O usuário ‘Aluno’ deve poder consultar as notas das atividades já corrigidas. | SIM |
+| 20      | Requisito Funcional        | O usuário 'Professor’ deve ser capaz de elegir um ou mais usuário(s) 'Monitor’ para a sua matéria. | SIM |
+| 21      | Requisito Funcional        | O sistema deve permitir que ‘Alunos’ possam filtrar as suas matérias cursadas. | SIM |
+
+* Observação: O requisito 18 é atualmente aplicável apenas para o tipo de usuário 'Professor', e não 'Monitor'.
 
 ## Referência
 
-[1]
+[1] BARBOSA, S. et al. **Interação Humano-Computador e Experiência do Usuário**. [s.l.] Autopublicação - Leanpub, 2021. Capítulo 7, Página 142. Seção disponível em: [https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf). Acesso em: 21/11/2024. 
 
-[2] BARBOSA, S. et al. **Interação Humano-Computador e Experiência do Usuário**. [s.l.] Autopublicação - Leanpub, 2021. Capítulo 7, Página 142. Seção disponível em: [https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf). Acesso em: 21/11/2024. 
-
-[3] MACHADO, Maurício, et. al. **Lichess (Wiki online de Requisitos de Software)**. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/). Acesso em: 21/11/2024.  
+[2] MACHADO, Maurício, et. al. **Lichess (Wiki online de Requisitos de Software)**. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/). Acesso em: 21/11/2024.  
 
 ## Histórico
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Data       |
 |--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | Criação do Artefato        | Rodrigo Orlandi, João Paulo      |  Laís Cecília   | 21/11/2024 |
-| v1.0   | Adição dos requisitos elicitados a partir da entrevista       | João Paulo | Rodrigo Orlandi | 22/11/2024 |
+| v1.0   | Adição dos requisitos elicitados a partir da entrevistacom o usuário 'Aluno'     | João Paulo | Rodrigo Orlandi | 22/11/2024 |
+| v1.0   | Adição dos requisitos indiretos elicitados a partir da entrevista com o usuário 'Aluno' | João Paulo | Rodrigo Orlandi | 22/11/2024 |
+| v1.0   | Adição dos requisitos elicitados a partir da entrevista com o usuário 'Monitor' | João Paulo | Rodrigo Orlandi | 23/11/2024 |
