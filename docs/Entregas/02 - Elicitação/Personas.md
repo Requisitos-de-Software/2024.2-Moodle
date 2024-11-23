@@ -1,18 +1,20 @@
 # Personas
 ---
 
-De acordo com [Simone Barbosa, et al., 2021], uma persona “é um personagem fictício, arquétipo
+De acordo com [Simone Barbosa, et al. (2021)](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf), uma **persona** “é um personagem fictício, arquétipo
 hipotético de um grupo de usuários reais, criada para descrever um usário típico”, e são
-definidas “principalmente por seus objetivos, [Simone Barbosa, et al.. 2021] determinados num processo de
-refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário”
-[Simone Barbosa, et al., 2021]. Em outras palavras, o objetivo das personas guiam o entendimento
-do perfil de usuário pela equipe, que desenvolverá o sistema com os objetivos abstraídos
-dos usuários em mente.
+definidas “principalmente por seus objetivos, determinados num processo de
+refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário”. Em outras palavras, o objetivo das personas é guiar o entendimento do perfil de usuário pela equipe, que desenvolverá o sistema com os objetivos abstraídos
+dos usuários em mente. 
+
+Dentro do tópico, incluem-se ainda **antipersonas**, que representam usuários sem potencial algum de usar o sistema, servindo para referenciar o público contrário ao público alvo, ou seja, para quem o sistema não deve ser desenvolvido.
 
 
-## Utilização no Projeto
+## Planejamento e Metodologia
 
-Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professor, um monitor e um antipersona, exemplificando assim os 3 tipos possiveis de usuarios da plataforma e um tipo de pessoa que não se encaixaria como possivel usuario. A elaboração dos personas foram feitas no dia 17/11/24, por uma reuniao em videochamada na plataforma Discord dos autores deste documento.
+Foram definidos pela equipe três [perfis de usuário](link_pra_perfis_de_usuario) para estudo, com base em tipos de usuário do Moodle e os tipos de usuário mais comuns dentro da Faculdade de Ciência e Tecnologia em Engenharias (FCTE):**professor, monitor e aluno**.
+
+Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professor, um monitor e uma antipersona, exemplificando assim os três tipos possíveis de usuarios da plataforma e um tipo de pessoa que não se encaixaria como um possível usuário. A elaboração dos personas foi realizada no dia 17/11/24, por uma reunião em videochamada na plataforma Discord dos autores deste documento.
 
 ## Personas Desenvolvidas
 
@@ -49,4 +51,5 @@ Autopublicação**. Capítulo 8. ISBN: 978-65-00-19677-1. Disponível em: [https
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Data       |
 |--------|----------------------------|-------------------------|--------------------------|------------|
+| v1.05   | Revisão, adição de rastrabilidade                     | Rodrigo Orlandi     |  Esther Sousa          | 23/11/2024 |
 | v1.0   | Criação do documento                     | Esther Sousa, Júlia Lopes     |  Rodrigo Orlandi          | 21/11/2024 |
