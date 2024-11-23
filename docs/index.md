@@ -3,7 +3,7 @@
 
 ![Logo Moodle](./img/logo.png)</br>
 /// caption | <
-Figura 1. Logo Moodle
+Figura 1 — Logo Moodle
 ///
 /// caption
 Fonte: [https://www.liblogo.com/lib/moodle-logo.html](https://www.liblogo.com/lib/moodle-logo.html)
