@@ -51,5 +51,5 @@ Autopublicação**. Capítulo 8. ISBN: 978-65-00-19677-1. Disponível em: [https
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Data       |
 |--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.05   | Revisão, adição de rastrabilidade                     | Rodrigo Orlandi     |  Esther Sousa          | 23/11/2024 |
+| v1.05   | Revisão, adição de rastreabilidade                     | Rodrigo Orlandi     |  Esther Sousa          | 23/11/2024 |
 | v1.0   | Criação do documento                     | Esther Sousa, Júlia Lopes     |  Rodrigo Orlandi          | 21/11/2024 |
