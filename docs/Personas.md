@@ -31,7 +31,7 @@ Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professo
 **Figura 3**. Nome: Rebeca dos Santos de Oliveira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
 ---
-![Anti](./img/persona4.png)
+![Anti](./img/persona5.png)
 
 **Figura 4**. Nome: Marcio Donald dos Borges, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
