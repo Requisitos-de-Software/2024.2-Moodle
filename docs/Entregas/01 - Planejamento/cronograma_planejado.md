@@ -28,6 +28,12 @@
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  | 4/11/2024   | 4/11/2024 - 6/11/2024 | João Paulo | Rodrigo Orlandi |
    |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 05/11/2024   | 05/11/2024 - 06/11/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  | 24/11/2024   | 12/11/2024 - 24/11/2024 | Autores do Artefatos | Rodrigo Orlandi |
+   /// caption | <
+   Tabela 1 — Cronograma planejado da entrega 1
+   ///
+   /// caption
+   Fonte: Rodrigo Orlandi
+   ///
 
 <br />
 
@@ -44,7 +50,12 @@
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  | 23/11/2024   | 22/11/2024 - 24/11/2024 | Esther Sousa | João Paulo |
    |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 23/11/2024  | 23/11/2024 - 24/11/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  | 07/12/2024   | 26/11/2024 - 07/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
-
+   /// caption | <
+   Tabela 2 — Cronograma planejado da entrega 2
+   ///
+   /// caption
+   Fonte: Rodrigo Orlandi
+   ///
 <br />
 
 ## Entrega 3 - Modelagem de Requisitos
@@ -61,6 +72,12 @@
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  | 08/12/2024   | 06/12/2024 - 08/12/2024 | João Paulo | Júlia Lopes |
    |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 07/12/2024  | 07/12/2024 - 08/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  | 15/12/2024   | 08/12/2024 - 15/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
+   /// caption | <
+   Tabela 3 — Cronograma planejado da entrega 3
+   ///
+   /// caption
+   Fonte: Rodrigo Orlandi
+   ///
 
 <br />
 
@@ -77,6 +94,12 @@
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  | 15/12/2024   | 13/12/2024 - 15/12/2024 | João Paulo | Júlia Lopes |
    |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 14/12/2024  | 14/12/2024 - 15/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  | 22/12/2024   | 15/12/2024 - 22/12/2024 | Autores do Artefatos | Rodrigo Orlandi |
+   /// caption | <
+   Tabela 4 — Cronograma planejado da entrega 4
+   ///
+   /// caption
+   Fonte: Rodrigo Orlandi
+   ///
 
 <br />
 
@@ -93,7 +116,12 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  |  30/01/2025   | 10/10/2024 - 30/01/2025 | Rodrigo Orlandi | Esther Sousa |
    |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 29/01/2025  |  28/01/2025 - 30/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  |  30/01/2025   | 10/10/2024 - 30/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
-
+   /// caption | <
+   Tabela 5 — Cronograma planejado da entrega 5
+   ///
+   /// caption
+   Fonte: Rodrigo Orlandi
+   ///
 
 <br />
 
@@ -108,6 +136,12 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  |  17/01/2025  | 18/01/2025 - 19/01/2025 |  Júlia Lopes | Rodrigo Orlandi |
    |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 18/01/2025  |  18/01/2025 - 19/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
    |  **Correção pós-Entrega**   | Período de correção considerando o feedback dado após o dia de apresentações.  |  17/01/2025  | 18/01/2025 - 19/01/2025 | Autores do Artefatos | Rodrigo Orlandi |
+   /// caption | <
+   Tabela 6 — Cronograma planejado da entrega 6
+   ///
+   /// caption
+   Fonte: Rodrigo Orlandi
+   ///
 
 ## Entrega Final - Pós-Rastreabilidade
 ### Data da Entrega: 10/02/2025
@@ -121,19 +155,29 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
    |  **Inspeção do Nosso Grupo e do Grupo 3**   | Inspeção do trabalho do nosso próprio grupo e do grupo seguinte ao nosso utilizando a Lista de Inspeção referente à entrega atual.  |  09/02/2025  | 08/02/2025 - 10/02/2025 | Esther Sousa | Júlia Lopes |
    |  **Gravação Da Apresentação**   | Período destinado para gravar a apresentação dos artefatos.  | 09/02/2025  |  07/02/2025 - 10/02/2025  | Autores do Artefatos | Rodrigo Orlandi |
    |  **Atas**   | Atas que resumem em tópicos os conteúdos discutidos durante reuniões. Incluem gravação da reunião.  |  09/02/2025  | 08/02/2025 - 10/02/2025   |  João Paulo | Rodrigo Orlandi |
+/// caption | <
+   Tabela 7 — Cronograma planejado da entrega final
+   ///
+   /// caption
+   Fonte: Rodrigo Orlandi
+   ///
+
+---
 
 # Bibliografia
 
-[1] SALES, André Barros de. **Plano_de_Ensino RE 022024 Turma 02 v1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 04/11/2024.
-
-[2] MACHADO, Maurício, et. al. **Lichess (Wiki online de Requisitos de Software)**. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/). Acesso em: 19/11/2024.  
+| # | Fonte |
+|---|:------|
+| 1 |SALES, André Barros de. **Plano_de_Ensino RE 022024 Turma 02 v1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 04/11/2024.
+|2 | MACHADO, Maurício, et. al. **Lichess (Wiki online de Requisitos de Software)**. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/). Acesso em: 19/11/2024.  
 
 
 ## Histórico
 
-| Versão | Descrição                  | Autor                         | Revisor | Data       |
-|--------|----------------------------|-------------------------------|---------|------------|
-| v1.15   | Correção do Monitor - Movida "gravação" para as tabelas    | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
-| v1.1   | Adicionada entrega final           | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
-| v1.05   | Adição de correção pós-entrega, atas, inspeção do nosso e do próximo grupo           | Rodrigo Orlandi     | Esther Sousa       | 20/11/2024 |
-| v1.0   | Criação do Cronograma - Detalhamento da Entrega 1           | Rodrigo Orlandi, Esther Sousa     | Laís Cecília       | 04/11/2024 |
+| Versão | Descrição                  | Autor                         | Revisor | Revisado| Data       |
+|--------|----------------------------|-------------------------------|---------|----------|------------|
+| v1.0   | Criação do Cronograma - Detalhamento da Entrega 1           | Rodrigo Orlandi, Esther Sousa     | Laís Cecília       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
+| v1.05   | Adição de correção pós-entrega, atas, inspeção do nosso e do próximo grupo           | Rodrigo Orlandi     | Esther Sousa       |<input type="checkbox" onclick="return false;" disabled checked/>| 20/11/2024 |
+| v1.1   | Adicionada entrega final           | Rodrigo Orlandi     | Esther Sousa       |<input type="checkbox" onclick="return false;" disabled checked/>| 20/11/2024 |
+| v1.15   | Correção do Monitor - Movida "gravação" para as tabelas    | Rodrigo Orlandi     | Esther Sousa       |<input type="checkbox" onclick="return false;" disabled checked/>| 20/11/2024 |
+| v1.2   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |

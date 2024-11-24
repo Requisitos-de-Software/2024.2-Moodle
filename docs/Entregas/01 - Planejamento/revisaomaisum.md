@@ -1,8 +1,8 @@
-# Revisão do grupo 03
+# Revisão do grupo + 1
 
 ## Introdução
 
-  Utilizando as tabelas disponibilizadas no plano de ensino como base(BARROS, André), além da [Lista de Verificação de Rich Picture](./Checklist%20Rich%20Picture.md), fizemos a revisão do projeto do [Grupo 03](https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento) da disciplina, o tema do qual foi o aplicativo [CAESB Autoatendimento](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR. ).
+Utilizando as tabelas disponibilizadas no plano de ensino como base(BARROS, André), além da [Lista de Verificação de Rich Picture](./Checklist%20Rich%20Picture.md), fizemos a revisão do projeto do [Grupo 03](https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento) da disciplina, o tema do qual foi o aplicativo [CAESB Autoatendimento](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR. ).
 
 
 ## Avaliação
@@ -23,6 +23,12 @@ Estados do artefato:
     |  5   | A motivação e os critérios para a escolha do App? | <span style="color:green">Sim</span> | v1.2 - 07/11/2024 - 16:19           |
     |  6   | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.| <span style="color:yellow">Incompleto</span> | v1.2 - 07/11/2024 - 16:33 |
     |  7   | Possui opção de contraste de cores? | <span style="color:green">Sim</span>   | n/a - 07/11/2024 - 16:34 |
+    /// caption | <
+    Tabela 1 — Checklist de revisão "Planejamento geral do projeto"
+    ///
+    /// caption
+    Fonte: André Barros
+    ///
 
 === "Desenvolvimento geral do projeto"
 
@@ -37,6 +43,12 @@ Estados do artefato:
     |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | <span style="color:green">Sim</span>   | v1.2 (Reunião 1) v1.0(Reunião 2) - 07/11/2024 - 16:48 |
     |  8   | A gravação da reunião do grupo. | <span style="color:green">Sim</span> | n/a - 07/11/2024 - 16:40|
     |  9   | Vídeo de apresentação na categoria “não listado” no youtube? | <span style="color:green">Sim</span> | n/a - 07/11/2024 - 16:40|
+    /// caption | <
+    Tabela 2 — Checklist de revisão "Desenvolvimento geral do projeto"
+    ///
+    /// caption
+    Fonte: André Barros
+    ///
 
 === "Conteúdo da Disciplina"
 
@@ -45,15 +57,30 @@ Estados do artefato:
     |  1   |  No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama^[1]^? | <span style="color:green">Sim</span>  | v1.4 - 07/11/2024 - 16:58   |
     |  2   | Todos os 5 componentes^[1]^ de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. |<span style="color:green">Sim</span>| v1.4 - 07/11/2024 - 16:59    |
     |  3   | Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência.  | <span style="color:green">Sim</span>  | n/a - 07/11/2024 - 17:22    |
-    | -    | Itens da Tabela de Verificação de Rich Picture do grupo 02^[2]^ | | |
-    |  4   | Todos os componentes são claramente identificados por rótulos?       | <span style="color:red">Não</span>   | v1.4 - 07/11/2024 - 17:02 |
-    |  5   | Não há um excesso de texto no rich picture que compromete a leitura?     | <span style="color:green">Sim</span>  | v1.4 - 07/11/2024 - 17:03 |
-    |  6   | Os componentes são visualmente distintos?                                                | <span style="color:yellow">Incompleto</span> | v1.4 - 07/11/2024 - 17:05   |
-    |  7   | O rich picture apresenta um nível satisfatório, mas não excessivo, de detalhes?  | <span style="color:red">Não</span> | v1.4 - 07/11/2024 - 17:08   |
-    |  8   | A linguagem usada no rich picture é apropriada, clara, objetiva e consistente? | <span style="color:green">Sim</span>   | v1.4 - 07/11/2024 - 17:10  |
-    |  9   | O rich picture representa o processo fielmente? Isto é, sem imprecisões, apesar da simplificação | <span style="color:green">Sim</span> | v1.4 - 07/11/2024 - 17:11  |
-    |  10  | O rich picture não possui erros de gramática ou pontuação?       | <span style="color:yellow">Incompleto</span> | v1.4 - 07/11/2024 - 17:15       	|
-    |  11  | O rich picture é amigável, podendo ser entendido por pessoas leigas?    | <span style="color:yellow">Incompleto</span>  | v1.4 - 07/11/2024 - 17:15      	|
+    /// caption | <
+    Tabela 3 — Checklist de revisão "Conteúdo da Disciplina"
+    ///
+    /// caption
+    Fonte: André Barros
+    ///
+
+    | Item | Descrição | Verificação | Versão, data e hora da avaliação |
+    |------|:----------|-------------|----------------------------------|
+    |  1   | Todos os componentes são claramente identificados por rótulos?       | <span style="color:red">Não</span>   | v1.4 - 07/11/2024 - 17:02 |
+    |  2   | Não há um excesso de texto no rich picture que compromete a leitura?     | <span style="color:green">Sim</span>  | v1.4 - 07/11/2024 - 17:03 |
+    |  3   | Os componentes são visualmente distintos?                                                | <span style="color:yellow">Incompleto</span> | v1.4 - 07/11/2024 - 17:05   |
+    |  4   | O rich picture apresenta um nível satisfatório, mas não excessivo, de detalhes?  | <span style="color:red">Não</span> | v1.4 - 07/11/2024 - 17:08   |
+    |  5   | A linguagem usada no rich picture é apropriada, clara, objetiva e consistente? | <span style="color:green">Sim</span>   | v1.4 - 07/11/2024 - 17:10  |
+    |  6   | O rich picture representa o processo fielmente? Isto é, sem imprecisões, apesar da simplificação | <span style="color:green">Sim</span> | v1.4 - 07/11/2024 - 17:11  |
+    |  7  | O rich picture não possui erros de gramática ou pontuação?       | <span style="color:yellow">Incompleto</span> | v1.4 - 07/11/2024 - 17:15       	|
+    |  8  | O rich picture é amigável, podendo ser entendido por pessoas leigas?    | <span style="color:yellow">Incompleto</span>  | v1.4 - 07/11/2024 - 17:15      	|
+    /// caption | <
+    Tabela 3 — Checklist de revisão "Conteúdo da Disciplina" desenvolvido pelo grupo
+    ///
+    /// caption
+    Fonte: Autores[2]
+    ///
+---
 
 ## Vídeo
 
@@ -70,7 +97,8 @@ Estados do artefato:
 
 ## Histórico
 
-| Versão | Descrição              	| Autor               	| Revisor              	| Data   	|
-|--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | Revisão +1                	| João Paulo Monteiro, Júlia Lopes, Laís Cecília, Rodrigo Orlandi  	| -   	| 07/11/2024 |
+| Versão | Descrição              	| Autor               	| Revisor              	| Revisado | Data   	|
+|--------|----------------------------|-------------------------|--------------------------|---------|------------|
+| v1.0   | Revisão +1                	| João Paulo Monteiro, Júlia Lopes, Laís Cecília, Rodrigo Orlandi  	| Esther Sousa   	| <input type= "checkbox" onclick = "return false" disabled checked>| 07/11/2024 |
+| v1.1   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
 

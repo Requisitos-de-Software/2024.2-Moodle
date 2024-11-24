@@ -5,14 +5,18 @@ Cada membro da equipe tem vidas fora da universidade que devem ser consideradas 
 
 ![heatmap completo do when2meet](../../img/heatmap-white.png#only-dark)
 ![heatmap completo do when2meet](../../img/heatmap-black.png#only-light)
+/// caption | <
+Figura 1 — Heatmap completo do grupo 2
+///
 /// caption
-Figura 1. Heatmap completo do grupo 2
+Fonte: Júlia Lopes Farias
 ///
 
 ---
 
 ## Histórico
 
-| Versão | Descrição                  | Autor                   | Revisor                  | Data       |
-|--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | heatmap                    | Júlia Lopes Farias      |                          | 05/11/2024 |
+| Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
+|--------|----------------------------|-------------------------|--------------------------|----------|------------|
+| v1.0   | heatmap                    | Júlia Lopes Farias      | Laís Cecília             | <input type= "checkbox" onclick= "return false" disabled checked/>| 05/11/2024 |
+| v1.1   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |

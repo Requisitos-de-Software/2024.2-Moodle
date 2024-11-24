@@ -20,14 +20,20 @@ Aqui estao todas as ferramentas que serão ultilizadas para o desenvolvimento do
 |  ![MK](../../img/reqF10.png){width="100" height="100"} Fonte: [Mkdocs](https://www.markdownguide.org/tools/mkdocs/) | **MkDocs**: é um gerador projetado para criar sites de documentação. |
 |  ![W2](../../img/reqF11.png){width="100" height="100"} Fonte: [Webcatalog](https://webcatalog.io/en/apps/when2meet/) | **When2Meet**: é um serviço gratuito na web para gerenciar horarios. |
 |  ![DC](../../img/reqF12.png){width="100" height="100"} Fonte: [Wikipedia](https://fr.wikipedia.org/wiki/Fichier:Discord_Logo_sans_texte.svg) | **Discord**: é um aplicativo de comunicação entre pessoas por meio de texto, voz e video. |
-/// caption
-Tabela 1. Ferramentas
+/// caption | <
+Tabela 1 — Ferramentas
 ///
+/// caption
+Fonte: Esther Silva
+///
+
+---
 
 ## Histórico
 
-| Versão | Descrição     | Autor        | Revisor     | Data       |
-|--------|---------------|--------------|-------------|------------|
-| v1.0   | Tabela criada | Esther Silva | Rodrigo Dias | 05/11/2024 |
-| v1.1   | Atualização da tabela | Esther Silva | Rodrigo Dias | 05/11/2024 |
+| Versão | Descrição     | Autor        | Revisor     | Revisado| Data       |
+|--------|---------------|--------------|-------------|----------|------------|
+| v1.0   | Tabela criada | Esther Silva | Rodrigo Dias |<input type="checkbox" onclick="return false;" disabled checked/>| 05/11/2024 |
+| v1.1   | Atualização da tabela | Esther Silva | Rodrigo Dias |<input type="checkbox" onclick="return false;" disabled checked/>| 05/11/2024 |
+| v1.2   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
 

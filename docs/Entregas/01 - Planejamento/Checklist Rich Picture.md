@@ -20,6 +20,12 @@ Itens são avaliados das seguintes formas:
     |  6   | O rich picture representa o processo fielmente? Isto é, sem imprecisões, apesar da simplificação | <span style="color:green">Conforme</span>   | -           |
     |  7   | O rich picture não possui erros de gramática ou pontuação?                                       | <span style="color:green">Conforme</span>   | -           |
     |  8   | O rich picture é amigável, podendo ser entendido por pessoas leigas?^[2]^                        | <span style="color:yellow">Sugestão de Melhoria</span>   | Lado esquerdo do rich picture está bem cheio, principalmente as conexões com o login.           |
+    /// caption | <
+    Tabela 1 — Checklist preenchida
+    ///
+    /// caption
+    Fonte: Laís Cecília
+    ///
 
 === "Vazia"
 
@@ -33,7 +39,14 @@ Itens são avaliados das seguintes formas:
     |  6   | O rich picture representa o processo fielmente? Isto é, sem imprecisões, apesar da simplificação | A avaliar   | -           |
     |  7   | O rich picture não possui erros de gramática ou pontuação?                                       | A avaliar   | -           |
     |  8   | O rich picture é amigável, podendo ser entendido por pessoas leigas?^[2]^                        | A avaliar   | -           |
+    /// caption | <
+    Tabela 2 — Checklist vazia
+    ///
+    /// caption
+    Fonte: Laís Cecília
+    ///
 
+---
 
 ## Referências
 
@@ -43,11 +56,10 @@ Itens são avaliados das seguintes formas:
 | 2 | MONK, Andrew; HOWARD Steve. The Rich Picture: A Tool for Reasoning About Work Context. 1998. 24p. |
 | 3 | MINISTÉRIO DA AGRICULTURA E PECUÁRIA. Lista de Verificação de qualidade de artefatos. Acessível em: [link](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view). Ultimo acesso em 28 de outubro de 2024 |
 
----
-
 ## Histórico
 
-| Versão | Descrição                  | Autor                         | Revisor | Data       |
-|--------|----------------------------|-------------------------------|---------|------------|
-| v1.0   | Checklist Criada           | Júlia Lopes, Laís Cecília     | Rodrigo Orlandi       | 04/11/2024 |
-| v1.1   | Preenchida com base na [Rich Picture](./rich_picture.md) (v1.0)| Laís Cecília | Rodrigo Orlandi | 06/11/2024 |
+| Versão | Descrição                  | Autor                         | Revisor | Revisado | Data       |
+|--------|----------------------------|-------------------------------|---------|------------|------------|
+| v1.0   | Checklist Criada           | Júlia Lopes, Laís Cecília     | Rodrigo Orlandi       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
+| v1.1   | Preenchida com base na [Rich Picture](./rich_picture.md) (v1.0)| Laís Cecília | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled checked/>| 06/11/2024 |
+| v1.2   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
