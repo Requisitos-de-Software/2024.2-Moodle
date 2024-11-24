@@ -57,7 +57,7 @@ Para comparar, o grupo fez uma média do benefício/penalidade e outra média do
 
 A tabela 2, a seguir, demonstra a priorização por tabelas realizada pelo grupo.
 
-## Gravação da Priorização
+## Gravação da Priorização por Tabelas
 
 [ADICIONAR LINK]()
 
