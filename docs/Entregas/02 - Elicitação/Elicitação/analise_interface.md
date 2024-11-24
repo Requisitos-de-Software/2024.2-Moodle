@@ -29,42 +29,42 @@ Durante a execução da análise de interface, houve dois contratempos notáveis
 
 Como dito anteriormente, as interfaces analisadas do monitor não contém nenhuma diferença funcional ou visual, pois mesmo a aluna sendo considerada monitora, o acesso dela ao Aprender3 é o mesmo do tipo de usuário "Aluno". Por conseguinte, a função de monitor no caso desta aluna não provém mudanças no sistema. As figuras 1-8 representam as interfaces da tela da monitora no Aprender3, a seguir.
 
-![Análise de interface 1](../../img/at1.png)
+![Análise de interface 1](../../../img/at1.png)
 
 **Figura 1**. Print da tela pós-login do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
 </br>
 
-![Análise de interface 2](../../img/at2.png)
+![Análise de interface 2](../../../img/at2.png)
 
 **Figura 2**. Print da tela principal, de atividades recentes e disciplinas cadastradas, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
 </br>
 
-![Análise de interface 3](../../img/at3.png)
+![Análise de interface 3](../../../img/at3.png)
 
 **Figura 3**. Print da tela de uma atividade do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
 </br>
 
-![Análise de interface 4](../../img/at4.png)
+![Análise de interface 4](../../../img/at4.png)
 
 **Figura 4**. Print da tela inicial de uma disciplina do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
 </br>
 
-![Análise de interface 5](../../img/at5.png)
+![Análise de interface 5](../../../img/at5.png)
 
 **Figura 5**. Print da tela inicial de uma disciplina do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
 </br>
 
-![Análise de interface 6](../../img/at6.png)
+![Análise de interface 6](../../../img/at6.png)
 
 **Figura 6**. Print da tela inicial de uma disciplina, listando as atividades em tópicos, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
 </br>
 
-![Análise de interface 7](../../img/at7.png)
+![Análise de interface 7](../../../img/at7.png)
 
 **Figura 7**. Print da tela inicial de uma disciplina, listando as atividades em tópicos, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
 </br>
 
-![Análise de interface 8](../../img/at8.png)
+![Análise de interface 8](../../../img/at8.png)
 
 **Figura 8**. Print representando o tipo de conteúdo que pode ser enviado ao Moodle. **Fonte:** Autores (print).
 </br>
