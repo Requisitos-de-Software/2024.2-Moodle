@@ -38,7 +38,7 @@ Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos
 
 Por fim, foi escrito um **termo de consentimento** desenvolvido com base no modelo apresentado por [Barbosa, et. al (2021)](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf), apresentado na figura 1, a seguir. 
 
-![Termo de Consetimento desenvolvido](../../img/termo_consent.png) 
+![Termo de Consetimento desenvolvido](../../../img/termo_consent.png) 
  **Figura 1**: Termo de consentimento do planejamento. **Fonte**: Autores. 
 
  </br>
