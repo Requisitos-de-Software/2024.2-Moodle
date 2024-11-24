@@ -12,28 +12,28 @@ Dentro do tópico, incluem-se ainda **antipersonas**, que representam usuários 
 
 ## Planejamento e Metodologia
 
-Foram definidos pela equipe três [perfis de usuário](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/) para estudo, com base em tipos de usuário do Moodle e os tipos de usuário mais comuns dentro da Faculdade de Ciência e Tecnologia em Engenharias (FCTE): **professor, monitor e aluno**.
+Foram definidos pela equipe três [perfis de usuário](link_https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/pra_perfis_de_usuario) para estudo, com base em tipos de usuário do Moodle e os tipos de usuário mais comuns dentro da Faculdade de Ciência e Tecnologia em Engenharias (FCTE): **professor, monitor e aluno**.
 
 Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professor, um monitor e uma antipersona, exemplificando assim os três tipos possíveis de usuários da plataforma e um tipo de pessoa que não se encaixaria como um possível usuário. A elaboração dos personas foi realizada no dia 17/11/24, por uma reunião em videochamada na plataforma Discord dos autores deste documento.
 
 ## Personas Desenvolvidas
 
-![Aluno](../../img/persona1.png)
+![Aluno](/docs/img/persona1.png)
 
 **Figura 1**. Nome: Otávio Augusto Silva Pereira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
 ---
-![Professor](../../img/persona2.png)
+![Professor](/docs/img/persona2.png)
 
 **Figura 2**. Nome: Isabel Barbosa dos Campos, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
 ---
-![Monitor](../../img/persona3.png)
+![Monitor](/docs/img/persona3.png)
 
 **Figura 3**. Nome: Rebeca dos Santos de Oliveira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
 ---
-![Anti](../../img/persona5.png)
+![Anti](/docs/img/persona5.png)
 
 **Figura 4**. Nome: Marcio Donald dos Borges, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
