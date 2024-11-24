@@ -22,7 +22,7 @@ Na reunião geral do dia 15/11, foi decidido a próxima reunião de [personas](h
 
 Após a reunião geral do dia 15/11, foi realizada uma reunião para a encenação. 
 
-Como os [perfis de usuário](temp_link_perfil_usuario) estavam sendo desenvolvidos, a execução da encenação utilizou as personas, que foram modeladas com base em como os perfis de usuário ficariam após sua conclusão: a conversão de todos os tipos de usuário que o Moodle disponibiliza em 'Professor', 'Monitor' e 'Aluno'.
+Como os [perfis de usuário](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/) estavam sendo desenvolvidos, a execução da encenação utilizou as personas, que foram modeladas com base em como os perfis de usuário ficariam após sua conclusão: a conversão de todos os tipos de usuário que o Moodle disponibiliza em 'Professor', 'Monitor' e 'Aluno'.
 
 Na encenação, foi utilizada a persona estudante Otávio para realizar as seguintes tarefas:
 
