@@ -1,4 +1,10 @@
+# Requisitos Elicitados
+
 Segue abaixo todos os requisitos elicitados não repitidos, que foram adquiridos durante a ulilização das metodologias análise de interface, entrevista e encenação: 
+
+## Gravação da Priorização
+
+[ADICIONAR LINK]()
 
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
