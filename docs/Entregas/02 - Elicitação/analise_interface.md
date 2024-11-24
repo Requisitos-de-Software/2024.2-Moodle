@@ -32,37 +32,47 @@ Como dito anteriormente, as interfaces analisadas do monitor não contém nenhum
 ![Análise de interface 1](../../img/at1.png)
 
 **Figura 1**. Print da tela pós-login do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+</br>
 
 ![Análise de interface 2](../../img/at2.png)
 
 **Figura 2**. Print da tela principal, de atividades recentes e disciplinas cadastradas, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+</br>
 
 ![Análise de interface 3](../../img/at3.png)
 
 **Figura 3**. Print da tela de uma atividade do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+</br>
 
 ![Análise de interface 4](../../img/at4.png)
 
 **Figura 4**. Print da tela inicial de uma disciplina do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+</br>
 
 ![Análise de interface 5](../../img/at5.png)
 
 **Figura 5**. Print da tela inicial de uma disciplina do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+</br>
 
 ![Análise de interface 6](../../img/at6.png)
 
 **Figura 6**. Print da tela inicial de uma disciplina, listando as atividades em tópicos, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+</br>
 
 ![Análise de interface 7](../../img/at7.png)
 
 **Figura 7**. Print da tela inicial de uma disciplina, listando as atividades em tópicos, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+</br>
 
 ![Análise de interface 8](../../img/at8.png)
 
 **Figura 8**. Print representando o tipo de conteúdo que pode ser enviado ao Moodle. **Fonte:** Autores (print).
+</br>
 
 
 ## Requisitos Elicitados
+
+Para verificar o que o Moodle poderia implementar, foram analisados apps que podem ser considerados concorrentes em termos de funcionalidades. Os apps analisados o **Google Classroom** e o **Microsoft Teams**. Na tabela 1, a seguir, estão os requisitos elicitados pela análise de interface. As tabelas 2 e 3, a seguir, representam os requisitos notáveis das plataformas concorrentes.
 
 === "Moodle"
 
