@@ -1,4 +1,4 @@
-# Three-Level Scale
+# Priorização por Escala de Três Níveis (Three-Level Scale)
 
 ## Introdução
 A priorização Three-Level Scale, segundo [Karl Wiegers e Joy Beatty](https://aprender3.unb.br/pluginfile.php/2972454/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf) em seu livro 'Software Requirements', na página 319 do capítulo 16, consiste em dividir seus requisitos elictados em três categorias diferentes: as de alta prioridade, média prioridade e baixa prioridade. Para um requisito se encaixar em qualquer uma dessas categorias se faz necessário que os stakeholders concordem do grau de importância e urgência deles, sendo de alta prioridade importante e urgente, de média prioridade importante, porém não tão urgente e baixa prioridade não tão importante e não tão urgente. 
