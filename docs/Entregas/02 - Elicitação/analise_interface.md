@@ -6,7 +6,7 @@ Análise de interface de usuário (*User interface analysis*), de acordo com [Wi
 
 ## Planejamento e Metodologia
 
-Tendo em vista os [perfis de usuários](link_perfil_usuarios) elaborados pela equipe para o sistema Moodle, foi definido que, para realizar a técnica de análise de interface, buscaríamos ao menos um aluno e um monitor para ver como o app se diferencia entre eles, considerando também, se possível, a análise de interface de um tipo de usuário no Moodle equivalente ao 'Professor' definido nos [perfis de usuários](link_perfil_usuarios) deste projeto. O cronograma de atividades referentes à análise de interfaces pode ser visto na tabela 1, a seguir. 
+Tendo em vista os [perfis de usuários](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/) elaborados pela equipe para o sistema Moodle, foi definido que, para realizar a técnica de análise de interface, buscaríamos ao menos um aluno e um monitor para ver como o app se diferencia entre eles, considerando também, se possível, a análise de interface de um tipo de usuário no Moodle equivalente ao 'Professor' definido nos [perfis de usuários](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/) deste projeto. O cronograma de atividades referentes à análise de interfaces pode ser visto na tabela 1, a seguir. 
 
 Como não havia um monitor no grupo, foi contatada uma monitora na Faculdade de Ciência e Tecnologia em Engenharias (FCTE) que tinha acesso à disciplina, com a qual foram fotografadas as telas do Moodle pelo Aprender3. 
 
