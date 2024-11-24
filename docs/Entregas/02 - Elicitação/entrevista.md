@@ -1,6 +1,7 @@
 # Entrevista
 
 ## Introdução - O que é a entrevista?
+
 Um dos métodos escolhidos para a elicitação de requisitos foi a técnica de entrevista. Essa técnica, segundo Barbosa [Barbosa, et. al (2021)](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf), consiste em 'uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado'. O tipo de perguntas feitas em nossa entrevista foram **perguntas abertas**, que segundo a literatura têm uma natureza exploratória. Ademais, as perguntas abertas são usualmente utilizadas quando o entrevstador possui um baixo entendimento da situação e quando visam obter opiniões do entrevistado cerca do assunto, tanto para a elicitação de requisitos, quanto para mudanças em design. 
 
 
