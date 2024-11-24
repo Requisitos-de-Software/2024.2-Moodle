@@ -34,12 +34,14 @@ Ata da reunião - 22/11/2024
 
 ## Link da Gravação
 
+[https://youtu.be/sF2JnkC0mHo](https://youtu.be/sF2JnkC0mHo)
 
----
+<iframe width="500" height="285" src="https://www.youtube.com/embed/sF2JnkC0mHo" title="[2024-2] Requisitos - Grupo 2 - 22/11/2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Histórico
 
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Data       |
 |--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | Ata 05                     | João Paulo Monteiro     | ---                      | 23/11/2024 |
+| v1.0   | Ata 05                     | João Paulo Monteiro     | Rodrigo Orlandi                     | 23/11/2024 |
