@@ -8,6 +8,8 @@ Análise de interface de usuário (*User interface analysis*), de acordo com [Wi
 
 Tendo em vista os [perfis de usuários](link_perfil_usuarios) elaborados pela equipe para o sistema Moodle, foi definido que, para realizar a técnica de análise de interface, buscaríamos ao menos um aluno e um monitor para ver como o app se diferencia entre eles, considerando também, se possível, a análise de interface de um tipo de usuário no Moodle equivalente ao 'Professor' definido nos [perfis de usuários](link_perfil_usuarios) deste projeto. O cronograma de atividades referentes à análise de interfaces pode ser visto na tabela 1, a seguir. 
 
+Como não havia um monitor no grupo, foi contatada uma monitora na Faculdade de Ciência e Tecnologia em Engenharias (FCTE) que tinha acesso à disciplina, com a qual foram fotografadas as telas do Moodle pelo Aprender3. 
+
 ### Tabela 1 - Cronograma planejado das atividades referentes à análise de interfaces.
 | Dia     | Atividade                  | Participantes           | 
 |---------|----------------------------|-------------------------|
@@ -21,7 +23,44 @@ Tendo em vista os [perfis de usuários](link_perfil_usuarios) elaborados pela eq
 
 Durante a execução da análise de interface, houve dois contratempos notáveis:
 * A equipe tentou entrar em contato com um professor, porém, devido a imprevistos em outras partes do projeto, não foi possível realizar a análise de interface do tipo de usuário 'Professor';
-* Infelizmente, dentro das turmas do Moodle na FCTE ao qual tivemos acesso, nenhum instrutor fazia uso das funcionalidades especiais do Moodle para monitores, com o sistema apresentando funcionalidades equivalentes ao utilizado pelo usuário do tipo 'Aluno'. 
+* Infelizmente, dentro das turmas do Moodle na FCTE ao qual tivemos acesso, nenhum instrutor fazia uso das funcionalidades especiais do Moodle para monitores, com o sistema apresentando funcionalidades equivalentes ao utilizado pelo usuário do tipo 'Aluno'.
+
+## Interfaces - Aluno/Monitor
+
+Como dito anteriormente, as interfaces analisadas do monitor não contém nenhuma diferença funcional ou visual, pois mesmo a aluna sendo considerada monitora, o acesso dela ao Aprender3 é o mesmo do tipo de usuário "Aluno". Por conseguinte, a função de monitor no caso desta aluna não provém mudanças no sistema. As figuras 1-8 representam as interfaces da tela da monitora no Aprender3, a seguir.
+
+![Análise de interface 1](../../img/at1.png)
+
+**Figura 1**. Print da tela pós-login do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+
+![Análise de interface 2](../../img/at2.png)
+
+**Figura 2**. Print da tela principal, de atividades recentes e disciplinas cadastradas, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+
+![Análise de interface 3](../../img/at3.png)
+
+**Figura 3**. Print da tela de uma atividade do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+
+![Análise de interface 4](../../img/at4.png)
+
+**Figura 4**. Print da tela inicial de uma disciplina do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+
+![Análise de interface 5](../../img/at5.png)
+
+**Figura 5**. Print da tela inicial de uma disciplina do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+
+![Análise de interface 6](../../img/at6.png)
+
+**Figura 6**. Print da tela inicial de uma disciplina, listando as atividades em tópicos, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+
+![Análise de interface 7](../../img/at7.png)
+
+**Figura 7**. Print da tela inicial de uma disciplina, listando as atividades em tópicos, do framework Moodle pelo Aprender3. **Fonte:** Autores (print).
+
+![Análise de interface 8](../../img/at8.png)
+
+**Figura 8**. Print representando o tipo de conteúdo que pode ser enviado ao Moodle. **Fonte:** Autores (print).
+
 
 ## Requisitos Elicitados
 

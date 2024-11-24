@@ -7,7 +7,7 @@ Perfil de usuário, de acordo com Barbosa [Barbosa, et. al (2021)](https://apren
 
 Dessarte, para criarmos perfis de usuários se faz necessário a identificação das características de interesse, e a condução de um estudo com o objetivo de coletar os dados dos usuários. A partir dos dados coletados, é possível delinear os perfis de usuários com características parecidas e determinar a proporção de usuários que pertencem a cada um desses perfis.
 
-## Perfil do usuario do projeto
+## Perfis de Usuário do Projeto
 
 O Moodle é usado por escolas, universidades, faculdades, instrutores vocacionais e locais de trabalho, E dentro desses ambientes há diversos tipos diferentes de perfis com que o Moodle atua, neles cada nivel de acesso é diferente um dos outros, por padrão são 6 perfis:
 
@@ -52,30 +52,38 @@ A dinâmica principal do aplicativo é centrada em alunos, professores e discipl
 
 Por conseguinte, alunos e professores foram escolhidos como os dois principais tipos de usuário. No planejamento do projeto, monitores também foram escolhidos para representar o papel de moderadores, assim como monitores dentro da Faculdade de Ciência e Tecnologia em Engenharias (FCTE). 
 
-Para definir os grupos foi utilizado como base a definição de grupos em categorias para perfil de usuário de Barbosa et. al (2021):  “alguns grupos comuns são definidos por: idade (criança, jovem, adulto, terceira idade etc.), experiência (leigo/novato, especialista), atitudes (tecnófilos, tecnófobos) e tarefas primárias (compra, venda)”, com o ‘tarefas primárias’ sendo adaptado para (fazer tarefas, dar aula e conteúdo, corrigir tarefas).
+Para definir os grupos foi utilizado como base a definição de grupos em categorias para perfil de usuário de [Barbosa et. al (2021)](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf):  “alguns grupos comuns são definidos por: idade (criança, jovem, adulto, terceira idade etc.), experiência (leigo/novato, especialista), atitudes (tecnófilos, tecnófobos) e tarefas primárias (compra, venda)”, com o ‘tarefas primárias’ sendo adaptado para (fazer tarefas, dar aula e conteúdo, corrigir tarefas).
 
-- Professor:
+- **Professor**:
 -- Idade: Adulto;
 -- Experiencia: Especialista;
 -- Atitudes: Tecnófilos;
 -- Tarefas Primarias: Dar aula e conteudo.
 
-- Monitor:
+- **Monitor**:
 -- Idade: Jovem e Adulto;
 -- Experiencia: Novato;
 -- Atitudes: Tecnófilos;
 -- Tarefas Primarias: Corrigir tarefas.
 
-- Aluno:
+- **Aluno**:
 -- Idade: Jovem e Adulto;
 -- Experiencia: Novato;
 -- Atitudes: Tecnófilos;
 -- Tarefas Primarias: Fazer tarefas e estudar conteudo.
+
+## Referência
+
+| # | Fonte |
+|---|:------|
+| 1 | BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021. Capítulo 8, Página 166. Seção disponível em: [https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf).  Acesso em: 22/11/2024.| 
+
+[1] 
 
 
 ## Histórico
 
 | Versão | Descrição     | Autor        | Revisor     | Data       |
 |--------|---------------|--------------|-------------|------------|
-| v1.0   | Criação do Documento | Esther Silva, João Paulo, Rodrigo de Andrade |  | 23/11/2024 |
+| v1.0   | Criação do Documento | Esther Silva, João Paulo, Rodrigo de Andrade | Laís Cecília | 23/11/2024 |
 
