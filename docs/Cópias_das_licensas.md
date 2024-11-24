@@ -8,6 +8,8 @@ Como uma plataforma open source, o Moodle faz uso da licensa GNU Library General
 
 A baixo segue uma cópia da licensa de copyright da plataforma Moodle, como obtidos em [https://docs.moodle.org/all/pt_br/Licen%C3%A7a_do_Moodle](https://docs.moodle.org/all/pt_br/Licen%C3%A7a_do_Moodle) na data 04 de novembro de 2024.
 
+PDF: <a href="../Licensas/Licença%20do%20Moodle%20-%20MoodleDocs.pdf" download>Licensa Moodle </a>
+
 ---
 O nome Moodle™ é uma marca registrada por Moodle Pty Ltd. Se você pretende utilizar o nome para promover serviços comerciais relativos ao Moodle, como hospedagem ou assistência técnica, é necessário obter a permissão de Martin Dougiamas usando o helpdesk do moodle.com, de acordo com as normas de trademark. Não há restrições sobre sobre o uso do nome em outros contextos (por exemplo, em referências contidas em textos de cursos).
 
@@ -577,6 +579,8 @@ Este programa é distribuído com a esperança de que será útil, mas SEM QUALQ
 
 === "Inglês"
 
+    PDF: <a href="../Licensas/GNU%20General%20Public%20License%20v2.0%20-%20GNU%20Project%20-%20Free%20Software%20Foundation.pdf" download>GPLv2 </a>.
+
     Version 2, June 1991
 
         Copyright (C) 1991 Free Software Foundation, Inc.
@@ -1061,8 +1065,11 @@ Este programa é distribuído com a esperança de que será útil, mas SEM QUALQ
 
 ---
 
+---
+
 ## Histórico
 
-| Versão | Descrição                  | Autor                         | Revisor | Data       |
-|--------|----------------------------|-------------------------------|---------|------------|
-| v1.0   | Página criada              | Laís Cecília                  | -       | 04/11/2024 |
+| Versão | Descrição                  | Autor                         | Revisor | Revisado| Data       |
+|--------|----------------------------|-------------------------------|---------|----------|------------|
+| v1.0   | Página criada              | Laís Cecília                  | Júlia Lopes       | <input type="checkbox" onclick="return false;" disabled checked/> |04/11/2024 |
+| v1.1   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |

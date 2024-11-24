@@ -2,8 +2,11 @@
 ---
 
 ![Logo Moodle](./img/logo.png)</br>
+/// caption | <
+Figura 1 — Logo Moodle
+///
 /// caption
-Figura 1. Logo Moodle. [Fonte](https://www.liblogo.com/lib/moodle-logo.html)
+Fonte: [https://www.liblogo.com/lib/moodle-logo.html](https://www.liblogo.com/lib/moodle-logo.html)
 ///
 
 Essa página tem como objetivo documentar o projeto do grupo 02 da matéria de Requisitos de Software, ministrada pelo professor André Barros de Sales.
@@ -36,10 +39,11 @@ Outros aplicativos sugeridos foram rejeitados. Foram considerados:
 
 ## Histórico
 
-| Versão | Descrição      | Autor                     | Revisor     | Data       |
-|--------|----------------|---------------------------|-------------|------------|
-| v1.0   | Página criada  | Laís Cecília              | João Paulo  | 28/10/2024 |
-| v1.1   | Escolha do App | Júlia Lopes, Laís Cecília | João Paulo  | 04/11/2024 |
-| v1.2   | Reestruturando escolha do App | Rodrigo Orlandi | João Paulo  | 04/11/2024 |
+| Versão | Descrição      | Autor                     | Revisor          | Revisado                                                        | Data       |
+|--------|----------------|---------------------------|------------------|-----------------------------------------------------------------|------------|
+| v1.0   | Página criada  | Laís Cecília              | João Paulo       |<input type="checkbox" onclick="return false;" disabled checked/>| 28/10/2024 |
+| v1.1   | Escolha do App | Júlia Lopes, Laís Cecília | João Paulo       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
+| v1.2   | Reestruturando escolha do App | Rodrigo Orlandi | João Paulo  |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
+| v1.3   | Formatação     | Laís Cecília              | -                |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
 
 
