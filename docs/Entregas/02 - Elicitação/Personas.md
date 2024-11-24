@@ -18,22 +18,22 @@ Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professo
 
 ## Personas Desenvolvidas
 
-![Aluno](./img/persona1.png)
+![Aluno](../../img/persona1.png)
 
 **Figura 1**. Nome: Otávio Augusto Silva Pereira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
 ---
-![Professor](./img/persona2.png)
+![Professor](../../img/persona2.png)
 
 **Figura 2**. Nome: Isabel Barbosa dos Campos, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
 ---
-![Monitor](./img/persona3.png)
+![Monitor](../../img/persona3.png)
 
 **Figura 3**. Nome: Rebeca dos Santos de Oliveira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
 ---
-![Anti](./img/persona5.png)
+![Anti](../../img/persona5.png)
 
 **Figura 4**. Nome: Marcio Donald dos Borges, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
 
