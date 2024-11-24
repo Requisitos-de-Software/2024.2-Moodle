@@ -2,9 +2,6 @@
 
 Segue abaixo todos os requisitos elicitados não repitidos, que foram adquiridos durante a ulilização das metodologias análise de interface, entrevista e encenação: 
 
-## Gravação da Priorização
-
-[ADICIONAR LINK]()
 
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
@@ -59,6 +56,10 @@ O grupo decidiu adaptar a priorização dos requisitos em uma escala de 1 a 10, 
 Para comparar, o grupo fez uma média do benefício/penalidade e outra média do custo e risco, julgando a importância da ordem dos requisitos após a priorização.
 
 A tabela 2, a seguir, demonstra a priorização por tabelas realizada pelo grupo.
+
+## Gravação da Priorização
+
+[ADICIONAR LINK]()
 
 ### Tabela 2 - Priorização dos requisitos mediante técnica de priorização por tabelas.
 | Requisito    | Benefício    | Penalidade  | Custo     |  Risco       |
