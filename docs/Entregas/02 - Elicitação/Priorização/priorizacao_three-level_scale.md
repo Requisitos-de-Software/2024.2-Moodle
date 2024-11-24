@@ -4,11 +4,11 @@
 A priorização Three-Level Scale, segundo [Karl Wiegers e Joy Beatty](https://aprender3.unb.br/pluginfile.php/2972454/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf) em seu livro 'Software Requirements', na página 319 do capítulo 16, consiste em dividir seus requisitos elictados em três categorias diferentes: as de alta prioridade, média prioridade e baixa prioridade. Para um requisito se encaixar em qualquer uma dessas categorias se faz necessário que os stakeholders concordem do grau de importância e urgência deles, sendo de alta prioridade importante e urgente, de média prioridade importante, porém não tão urgente e baixa prioridade não tão importante e não tão urgente. 
 
 ## Metodologia e Execução 
-A priorização por Three-Way Scale foi feita em uma reunião pelo Google Meets, por dois participantes do projeto (João Paulo e Esther), onde eles se passando pelo papel dos stakeholders, discutiram cada requisito elicitado, analisando o grau de importância e de urgência deles.
+A priorização por Three-Way Scale foi feita em uma reunião pelo Google Meet pelos autores deste artefato, onde eles se passando pelo papel dos stakeholders, discutiram cada requisito elicitado, analisando o grau de importância e de urgência deles.
 
-Dessarte, quando finalizado a priorização, organizamos os requisitos em tabelas, sendo uma com todos os requisitos reunídos e outras trê separados por cada categoria de prioridade. 
+Dessarte, quando finalizado a priorização, organizamos os requisitos em tabela; a tabela 1 possui todos os requisitos reunídos e as tabelas 2 a 4 estão separadas por cada categoria de prioridade. As tabelas estão disponíveis a seguir, após o vídeo da priorização.
 
-## Gravação da Priorização por Three Level Scale
+### Gravação da Priorização por Three Level Scale
 
 [https://youtu.be/V7WXTTI0XDs](https://youtu.be/V7WXTTI0XDs)
 
