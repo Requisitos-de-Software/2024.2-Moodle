@@ -10,14 +10,18 @@ Tendo em vista os [perfis de usuários](link_perfil_usuarios) elaborados pela eq
 
 Como não havia um monitor no grupo, foi contatada uma monitora na Faculdade de Ciência e Tecnologia em Engenharias (FCTE) que tinha acesso à disciplina, com a qual foram fotografadas as telas do Moodle pelo Aprender3. 
 
-### Tabela 1 - Cronograma planejado das atividades referentes à análise de interfaces.
 | Dia     | Atividade                  | Participantes           | 
 |---------|----------------------------|-------------------------|
 | 18/11   | Planejamento da realização da análise de interfaces | Laís Cecília, Rodrigo Orlandi | 
 | 20/11   | Realização da análise de interface - Aluno  | Laís Cecília, Rodrigo Orlandi | 
 | 22/11   | Realização da análise de interface - Monitor  | Laís Cecília, Rodrigo Orlandi | 
 | 23/11   | Revisão e correção do artefato  | Laís Cecília, Rodrigo Orlandi | 
-
+/// caption | <
+Tabela 1 — Cronograma planejado das atividades referentes à análise de interfaces
+///
+/// caption
+Fonte: Rodrigo Orlandi
+///
 
 ## Execução - Análise de Interface
 
@@ -72,24 +76,24 @@ Como dito anteriormente, as interfaces analisadas do monitor não contém nenhum
 
 ## Requisitos Elicitados
 
-Para verificar o que o Moodle poderia implementar, foram analisados apps que podem ser considerados concorrentes em termos de funcionalidades. Os apps analisados o **Google Classroom** e o **Microsoft Teams**. Na tabela 1, a seguir, estão os requisitos elicitados pela análise de interface. As tabelas 2 e 3, a seguir, representam os requisitos notáveis das plataformas concorrentes.
+Para verificar o que o Moodle poderia implementar, foram analisados apps que podem ser considerados concorrentes em termos de funcionalidades. Os apps analisados o **Google Classroom** e o **Microsoft Teams**. Na tabela 2, a seguir, estão os requisitos elicitados pela análise de interface. As tabelas 3 e 4, a seguir, representam os requisitos notáveis das plataformas concorrentes.
 
 === "Moodle"
 
     Como interface de estudo para o Moodle, foi utilizada a ferramenta Aprender3.
 
-    | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
+    | Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
     |---------|----------------------------|-------------------------|---------------------|
-    | 01      |  Requisito Funcional       |  O sistema requer login do usuário para acessar | SIM |
-    | 02      |  Requisito Funcional       |  O sistema permite que alunos visualizem os materiais da turma| SIM |
-    | 03      |  Requisito Funcional       |  O sistema permite que alunos baixem os materiais da turma| SIM |
-    | 04      |  Requisito Funcional       |  O sistema permite que alunos visualizem a agenda de atividades | SIM |
-    | 05      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que estão cadastrados| SIM |
-    | 06      |  Requisito Funcional       |  O sistema disponibiliza um fórum para conversa entre alunos e professores | SIM |
-    | 07      |  Requisito Funcional       |  O sistema permite que alunos façam upload de tarefas | SIM |
+    | 2AN01      |  Requisito Funcional       |  O sistema requer login do usuário para acessar | SIM |
+    | 2AN02      |  Requisito Funcional       |  O sistema permite que alunos visualizem os materiais da turma| SIM |
+    | 2AN03      |  Requisito Funcional       |  O sistema permite que alunos baixem os materiais da turma| SIM |
+    | 2AN04      |  Requisito Funcional       |  O sistema permite que alunos visualizem a agenda de atividades | SIM |
+    | 2AN05      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que estão cadastrados| SIM |
+    | 2AN06      |  Requisito Funcional       |  O sistema disponibiliza um fórum para conversa entre alunos e professores | SIM |
+    | 2AN07      |  Requisito Funcional       |  O sistema permite que alunos façam upload de tarefas | SIM |
 
     /// caption | <
-    Tabela 1 — Requisitos extraídos do Moodle.
+    Tabela 2 — Requisitos extraídos do Moodle.
     ///
     /// caption
     Fonte: autores
@@ -99,19 +103,19 @@ Para verificar o que o Moodle poderia implementar, foram analisados apps que pod
 
     Foi feita uma análise do Google Classroom como competidor do moodle. Essa análise foi feita a partir da interface de usuário aluno.
 
-    | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado no Moodle?  |
+    | Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado no Moodle?  |
     |---------|----------------------------|-------------------------|---------------------|
-    | 01      |  Requisito Funcional       |  O sistema requer login do usuário para acessar | SIM |
-    | 02      |  Requisito Funcional       |  O sistema permite que alunos visualizem os materiais da turma| SIM |
-    | 03      |  Requisito Funcional       |  O sistema permite que alunos baixem os materiais da turma| SIM |
-    | 04      |  Requisito Funcional       |  O sistema permite que alunos visualizem a agenda de atividades | SIM |
-    | 05      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que estão cadastrados| SIM |
-    | 06      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que já foram cadastrados (arquivadas) | NÃO |
-    | 07      |  Requisito Funcional       |  O sistema disponibiliza um fórum para conversa entre alunos e professores | SIM |
-    | 08      |  Requisito Não Funcional   |  A navegação deve ser símples e centralizada | NÃO |
-    | 09      |  Requisito Funcional       |  O sistema permite que alunos façam upload de tarefas | SIM |
+    | 3AN01      |  Requisito Funcional       |  O sistema requer login do usuário para acessar | SIM |
+    | 3AN02      |  Requisito Funcional       |  O sistema permite que alunos visualizem os materiais da turma| SIM |
+    | 3AN03      |  Requisito Funcional       |  O sistema permite que alunos baixem os materiais da turma| SIM |
+    | 3AN04      |  Requisito Funcional       |  O sistema permite que alunos visualizem a agenda de atividades | SIM |
+    | 3AN05      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que estão cadastrados| SIM |
+    | 3AN06      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que já foram cadastrados (arquivadas) | NÃO |
+    | 3AN07      |  Requisito Funcional       |  O sistema disponibiliza um fórum para conversa entre alunos e professores | SIM |
+    | 3AN08      |  Requisito Não Funcional   |  A navegação deve ser símples e centralizada | NÃO |
+    | 3AN09      |  Requisito Funcional       |  O sistema permite que alunos façam upload de tarefas | SIM |
     /// caption | <
-    Tabela 2 — Requisitos extraídos do Google Classroom
+    Tabela 3 — Requisitos extraídos do Google Classroom
     ///
     /// caption
     Fonte: autores
@@ -120,22 +124,22 @@ Para verificar o que o Moodle poderia implementar, foram analisados apps que pod
 
     Foi feita uma análise do Microsoft Teams como competidor do moodle. Essa análise foi feita a partir da interface de usuário aluno.
 
-    | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado no Moodle?  |
+    | Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado no Moodle?  |
     |---------|----------------------------|-------------------------|---------------------|
-    | 01      |  Requisito Funcional       |  O sistema requer login do usuário para acessar | SIM |
-    | 02      |  Requisito Funcional       |  O sistema permite a realização de aulas síncronas por chamas de vídeo | NÃO |
-    | 03      |  Requisito Funcional       |  O sistema permite que alunos visualizem a agenda de atividades | SIM |
-    | 04      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que já foram cadastrados (arquivadas) | NÃO |
-    | 05      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que estão cadastrados| SIM |
-    | 06      |  Requisito Funcional       |  O sistema permite que alunos visualizem os materiais da turma| SIM |
-    | 07      |  Requisito Funcional       |  O sistema permite que alunos baixem os materiais da turma| SIM |
-    | 08      |  Requisito Funcional       |  O sistema permite que alunos façam upload de tarefas | SIM |
-    | 09      |  Requisito Funcional       |  O sistema disponibiliza as notas do usuário | SIM |
-    | 10      |  Requisito Funcional       |  O sistema integra outros aplicativos da mesma família para uso da turma | NÃO |
-    | 11      |  Requisito Funcional       |  O sistema disponibiliza um fórum para conversa entre alunos e professores | SIM |
-    | 12      |  Requisito Funcional       |  O sistema permite que usuários conversem por chats privados | SIM |
+    | 4AN01      |  Requisito Funcional       |  O sistema requer login do usuário para acessar | SIM |
+    | 4AN02      |  Requisito Funcional       |  O sistema permite a realização de aulas síncronas por chamas de vídeo | NÃO |
+    | 4AN03      |  Requisito Funcional       |  O sistema permite que alunos visualizem a agenda de atividades | SIM |
+    | 4AN04      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que já foram cadastrados (arquivadas) | NÃO |
+    | 4AN05      |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que estão cadastrados| SIM |
+    | 4AN06      |  Requisito Funcional       |  O sistema permite que alunos visualizem os materiais da turma| SIM |
+    | 4AN07      |  Requisito Funcional       |  O sistema permite que alunos baixem os materiais da turma| SIM |
+    | 4AN08      |  Requisito Funcional       |  O sistema permite que alunos façam upload de tarefas | SIM |
+    | 4AN09      |  Requisito Funcional       |  O sistema disponibiliza as notas do usuário | SIM |
+    | 4AN10      |  Requisito Funcional       |  O sistema integra outros aplicativos da mesma família para uso da turma | NÃO |
+    | 4AN11      |  Requisito Funcional       |  O sistema disponibiliza um fórum para conversa entre alunos e professores | SIM |
+    | 4AN12      |  Requisito Funcional       |  O sistema permite que usuários conversem por chats privados | SIM |
     /// caption | <
-    Tabela 3 — Requisitos extraídos do Microsoft Teams
+    Tabela 4 — Requisitos extraídos do Microsoft Teams
     ///
     /// caption
     Fonte: autores
@@ -148,7 +152,7 @@ Para verificar o que o Moodle poderia implementar, foram analisados apps que pod
 
 | # | Fonte |
 |---|:------|
-| 1 | WIEGERS, Karl; BEATTY, Joy. **Software Requirements**. Pearson Education. 3 ed. 2013. 121p - 129p. Seção disponível em:(https://aprender3.unb.br/pluginfile.php/2972451/mod_resource/content/1/Elicitacao%20de%20Req.pdf)[https://aprender3.unb.br/pluginfile.php/2972451/mod_resource/content/1/Elicitacao%20de%20Req.pdf]. Acesso em: 22/11/2024|  
+| 1 | WIEGERS, Karl; BEATTY, Joy. **Software Requirements**. Pearson Education. 3 ed. 2013. 121p - 129p. Seção disponível em: [https://aprender3.unb.br/pluginfile.php/2972451/mod_resource/content/1/Elicitacao%20de%20Req.pdf](https://aprender3.unb.br/pluginfile.php/2972451/mod_resource/content/1/Elicitacao%20de%20Req.pdf). Acesso em: 22/11/2024|  
 
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
