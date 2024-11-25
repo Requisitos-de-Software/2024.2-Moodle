@@ -19,24 +19,38 @@ Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professo
 ## Personas Desenvolvidas
 
 ![Aluno](../../../img/persona1.png)
-
-**Figura 1**. Nome: Otávio Augusto Silva Pereira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
+/// caption | < 
+Figura 1 — Otávio Augusto Silva Pereira, persona desenvolvida para o projeto
+///
+/// caption
+Fonte: Esther Sousa, Júlia Lopes
+///
 
 ---
 ![Professor](../../../img/persona2.png)
-
-**Figura 2**. Nome: Isabel Barbosa dos Campos, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
+/// caption | <
+Figura 2 — Isabel Barbosa dos Campos, persona desenvolvida para o projeto
+///
+/// caption
+Fonte: Esther Sousa, Júlia Lopes
+///
 
 ---
 ![Monitor](../../../img/persona3.png)
-
-**Figura 3**. Nome: Rebeca dos Santos de Oliveira, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
+/// caption | <
+Figura 3 — Rebeca dos Santos de Oliveira, persona desenvolvida para o projeto
+///
+/// caption
+Fonte: Esther Sousa, Júlia Lopes
 
 ---
 ![Anti](../../../img/persona5.png)
-
-**Figura 4**. Nome: Marcio Donald dos Borges, persona desenvolvida para o projeto. **Fonte:** Esther Sousa, Júlia Lopes.
-
+/// caption | <
+Figura 4 — Marcio Donald dos Borges, persona desenvolvida para o projeto
+///
+/// caption
+Fonte: Esther Sousa, Júlia Lopes
+///
 
 ## Referências
 
@@ -49,7 +63,7 @@ Autopublicação**. Capítulo 8. ISBN: 978-65-00-19677-1. Disponível em: [https
 ## Histórico
 
 
-| Versão | Descrição                  | Autor                   | Revisor                  | Data       |
-|--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.05   | Revisão, adição de rastreabilidade                     | Rodrigo Orlandi     |  Esther Sousa          | 23/11/2024 |
-| v1.0   | Criação do documento                     | Esther Sousa, Júlia Lopes     |  Rodrigo Orlandi          | 21/11/2024 |
+| Versão | Descrição                  | Autor                   | Revisor                  |Revisado | Data       |
+|--------|----------------------------|-------------------------|--------------------------|------|------|
+| v1.05   | Revisão, adição de rastreabilidade                     | Rodrigo Orlandi     |  Esther Sousa          |<input type="checkbox" onclick="return false;" disabled/>| 23/11/2024 |
+| v1.0   | Criação do documento                     | Esther Sousa, Júlia Lopes     |  Rodrigo Orlandi          |<input type="checkbox" onclick="return false;" disabled/>| 21/11/2024 |
