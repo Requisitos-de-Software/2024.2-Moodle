@@ -25,7 +25,9 @@ A tabela 2, a seguir, demonstra a priorização por tabelas realizada pelo grupo
 
 ## Gravação da Priorização por Tabelas
 
-[ADICIONAR LINK]()
+https://youtu.be/5gVOp78b3B4
+
+<iframe width="500" height="285" src="https://www.youtube.com/embed/5gVOp78b3B4" title="[2024-2] Requisitos - Grupo 2 - Priorização de Requisitos - Por Tabela" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Requisito    | Benefício    | Penalidade  | Custo     |  Risco       |
 |--------------|--------------|-------------|-----------|--------------|
