@@ -1,4 +1,4 @@
-# Verificação
+# Lista de Verificação - Elicitação e Priorização
 
 ## Introdução
 
