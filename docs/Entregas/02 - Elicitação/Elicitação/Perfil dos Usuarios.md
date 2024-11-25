@@ -79,7 +79,6 @@ Para definir os grupos foi utilizado como base a definição de grupos em catego
 | 1 | BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021. Capítulo 8, Página 166. Seção disponível em: [https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf).  Acesso em: 22/11/2024.| 
 | 2 | Educlass. Moodle - Manual do Administrador. Capítulo 5. Disponível em: [https://educlass.com.br/moodle/mod/book/view.php?id=111527&chapterid=27675#:~:text=Por%20padr%C3%A3o%20o%20Moodle%20possui,autor%20de%20curso%20e%20administrador.&text=Para%20um%20mesmo%20usu%C3%A1rio%20%C3%A9%20poss%C3%ADvel%20ter%20diferentes%20perfis%20associados.](https://educlass.com.br/moodle/mod/book/view.php?id=111527&chapterid=27675#:~:text=Por%20padr%C3%A3o%20o%20Moodle%20possui,autor%20de%20curso%20e%20administrador.&text=Para%20um%20mesmo%20usu%C3%A1rio%20%C3%A9%20poss%C3%ADvel%20ter%20diferentes%20perfis%20associados.).  Acesso em: 24/11/2024.| 
 
-[1] 
 
 
 ## Histórico

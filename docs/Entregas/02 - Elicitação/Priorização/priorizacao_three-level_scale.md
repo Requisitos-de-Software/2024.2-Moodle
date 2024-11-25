@@ -124,6 +124,6 @@ Fonte: Esther Sousa, João Paulo
 
 ## Histórico
 
-| Versão | Descrição                  | Autor                   | Revisor                  | Data       |
-|--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | Priorização Three-Level Scale   | João Paulo e Esther Silva|Rodrigo Orlandi | 24/11/2024 |
+| Versão | Descrição                  | Autor                   | Revisor                  | Revisado| Data       |
+|--------|----------------------------|-------------------------|--------------------------|-------|-----|
+| v1.0   | Priorização Three-Level Scale   | João Paulo e Esther Silva|Rodrigo Orlandi | <input type="checkbox" onclick="return false" disabled/> |24/11/2024 |

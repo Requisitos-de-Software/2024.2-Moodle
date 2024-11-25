@@ -42,8 +42,9 @@ Figura 3 — Rebeca dos Santos de Oliveira, persona desenvolvida para o projeto
 ///
 /// caption
 Fonte: Esther Sousa, Júlia Lopes
-
+///
 ---
+
 ![Anti](../../../img/persona5.png)
 /// caption | <
 Figura 4 — Marcio Donald dos Borges, persona desenvolvida para o projeto
@@ -54,9 +55,9 @@ Fonte: Esther Sousa, Júlia Lopes
 
 ## Referências
 
-[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.
-D. J. (2021) **Interação Humano-Computador e Experiência do usuário.
-Autopublicação**. Capítulo 8. ISBN: 978-65-00-19677-1. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf). Acesso em: 17/11/2024.
+| # | Fonte |
+|---|:------|
+| 1 | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) **Interação Humano-Computador e Experiência do usuário.Autopublicação**. Capítulo 8. ISBN: 978-65-00-19677-1. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf). Acesso em: 17/11/2024.|
 
 ---
 
