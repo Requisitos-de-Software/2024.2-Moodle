@@ -10,14 +10,18 @@ Tendo em vista os [perfis de usuários](https://requisitos-de-software.github.io
 
 Como não havia um monitor no grupo, foi contatada uma monitora na Faculdade de Ciência e Tecnologia em Engenharias (FCTE) que tinha acesso à disciplina, com a qual foram fotografadas as telas do Moodle pelo Aprender3. 
 
-### Tabela 1 - Cronograma planejado das atividades referentes à análise de interfaces.
 | Dia     | Atividade                  | Participantes           | 
 |---------|----------------------------|-------------------------|
 | 18/11   | Planejamento da realização da análise de interfaces | Laís Cecília, Rodrigo Orlandi | 
 | 20/11   | Realização da análise de interface - Aluno  | Laís Cecília, Rodrigo Orlandi | 
 | 22/11   | Realização da análise de interface - Monitor  | Laís Cecília, Rodrigo Orlandi | 
 | 23/11   | Revisão e correção do artefato  | Laís Cecília, Rodrigo Orlandi | 
-
+/// caption | <
+Tabela 1 — Cronograma planejado das atividades referentes à análise de interfaces
+///
+/// caption
+Fonte: Rodrigo Orlandi
+///
 
 ## Execução - Análise de Interface
 
@@ -72,7 +76,7 @@ Como dito anteriormente, as interfaces analisadas do monitor não contém nenhum
 
 ## Requisitos Elicitados
 
-Para verificar o que o Moodle poderia implementar, foram analisados apps que podem ser considerados concorrentes em termos de funcionalidades. Os apps analisados o **Google Classroom** e o **Microsoft Teams**. Na tabela 1, a seguir, estão os requisitos elicitados pela análise de interface. As tabelas 2 e 3, a seguir, representam os requisitos notáveis das plataformas concorrentes.
+Para verificar o que o Moodle poderia implementar, foram analisados apps que podem ser considerados concorrentes em termos de funcionalidades. Os apps analisados o **Google Classroom** e o **Microsoft Teams**. Na tabela 2, a seguir, estão os requisitos elicitados pela análise de interface. As tabelas 3 e 4, a seguir, representam os requisitos notáveis das plataformas concorrentes.
 
 === "Moodle"
 
@@ -89,7 +93,7 @@ Para verificar o que o Moodle poderia implementar, foram analisados apps que pod
     | 07      |  Requisito Funcional       |  O sistema permite que alunos façam upload de tarefas | SIM |
 
     /// caption | <
-    Tabela 1 — Requisitos extraídos do Moodle.
+    Tabela 2 — Requisitos extraídos do Moodle.
     ///
     /// caption
     Fonte: autores
@@ -111,7 +115,7 @@ Para verificar o que o Moodle poderia implementar, foram analisados apps que pod
     | 08      |  Requisito Não Funcional   |  A navegação deve ser símples e centralizada | NÃO |
     | 09      |  Requisito Funcional       |  O sistema permite que alunos façam upload de tarefas | SIM |
     /// caption | <
-    Tabela 2 — Requisitos extraídos do Google Classroom
+    Tabela 3 — Requisitos extraídos do Google Classroom
     ///
     /// caption
     Fonte: autores
@@ -135,7 +139,7 @@ Para verificar o que o Moodle poderia implementar, foram analisados apps que pod
     | 11      |  Requisito Funcional       |  O sistema disponibiliza um fórum para conversa entre alunos e professores | SIM |
     | 12      |  Requisito Funcional       |  O sistema permite que usuários conversem por chats privados | SIM |
     /// caption | <
-    Tabela 3 — Requisitos extraídos do Microsoft Teams
+    Tabela 4 — Requisitos extraídos do Microsoft Teams
     ///
     /// caption
     Fonte: autores

@@ -20,7 +20,6 @@ Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos
 
 </br>
 
-### Tabela 1 - Perguntas realizadas na entrevista
 | Perguntas                  |
 |----------------------------|
 | Quantas vezes na semana você costuma utilizar o aplicativo? |
@@ -33,6 +32,12 @@ Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos
 | O que poderia melhorar no aplicativo? |
 | Você sente falta de alguma funcionalidade no app? | 
 | Qual o benefício do aprender? |
+/// caption | <
+Tabela 1 — Perguntas realizadas na entrevista
+///
+/// caption
+Fonte: Autores
+///
 
 </br>
 
@@ -45,7 +50,6 @@ Por fim, foi escrito um **termo de consentimento** desenvolvido com base no mode
 
 Durante o encontro do dia 16/11, foram planejadas as datas principais das atividades na entrevista, descritas na tabela 2, a seguir:
 
-### Tabela 2 - Cronograma planejado das atividades referentes à entrevista.
 | Dia     | Atividade                  | Participantes           | 
 |---------|----------------------------|-------------------------|
 | 16/11   | Planejamento de perguntas e dos entrevistados                   | Rodrigo Orlandi, João Paulo | 
@@ -53,6 +57,12 @@ Durante o encontro do dia 16/11, foram planejadas as datas principais das ativid
 | 19/11 - 20/11   | Estudo da entrevista e elaboração de requisitos | Rodrigo Orlandi, João Paulo   |  
 | 20/11   | Elaboração do artefato de entrevista  | Rodrigo Orlandi, João Paulo     | 
 | 22/11   | Dia da entrevista presencial com monitor - 11h30 | Rodrigo Orlandi, João Paulo     | 
+/// caption | <
+Tabela 2 — Cronograma planejado das atividades referentes à entrevista
+///
+/// caption
+Fonte: Autores
+///
 
 ## Execução 
 
@@ -76,7 +86,6 @@ Por consequência, foi entrevistado um membro de outro grupo da disciplina de Re
 
 Após as entrevistas, foi realizado seu estudo visando a elicitação de requisitos funcionais e não-funcionais, implementados e não implementados. Os requisitos de ambas foram organizados e compilados nas tabela 3, 4 e 5, a seguir. A tabela 5 representa requisitos indiretos que foram elicitados pelos requisitos elicitados da entrevista.
 
-### Tabela 3 - Requisitos elicitados a partir das entrevistas.
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
 | 01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar | SIM | 
@@ -87,8 +96,13 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 | 06   |  Requisito Não Funcional      |  A navegação do aplicativo mobile deve ser simples e intuitiva. | NÃO | 
 | 07   |  Requisito Funcional          |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| NÃO | 
 | 08   |  Requisito Funcional          |  O sistema deve avisar o usuário 'Aluno' quando ele tiver alguma atividade próxima.| SIM | 
+/// caption | <
+Tabela 3 — Requisitos elicitados a partir das entrevistas
+///
+/// caption
+Fonte: Autores
+///
 
-### Tabela 4 - Requisitos elicitados a partir da entrevista com o usuário 'Monitor'.
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
 | 09      | Requisito Não Funcional     | O sistema deve ter um tempo de resposta admissível. | NÃO |
@@ -96,8 +110,13 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 | 11      | Requisito Funcional         | O sistema deve permitir que usuários possam responder formulários. | SIM |
 | 12      | Requisito Não Funcional     | Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho. | SIM |
 | 13      | Requisito Não Funcional     | O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.| NÃO |
+/// caption | <
+Tabela 4 — Requisitos elicitados a partir da entrevista com o usuário 'Monitor'
+///
+/// caption
+Fonte: Autores
+///
 
-### Tabela 5 - Requisitos indiretos elicitados a partir das entrevistas com os usuários.
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
 | 14      | Requisito Funcional        | O sistema deve permitir que o usuário ‘Professor’ possa enviar conteúdos, que ficarão disponíveis ao tipo de usuário ‘Aluno’ e 'Monitor'. | SIM |
@@ -108,6 +127,12 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 | 19      | Requisito Funcional        | O usuário ‘Aluno’ deve poder consultar as notas das atividades já corrigidas. | SIM |
 | 20      | Requisito Funcional        | O usuário 'Professor’ deve ser capaz de elegir um ou mais usuário(s) 'Monitor’ para a sua matéria. | SIM |
 | 21      | Requisito Funcional        | O sistema deve permitir que ‘Alunos’ possam filtrar as suas matérias cursadas. | SIM |
+/// caption | <
+Tabela 5 — Requisitos indiretos elicitados a partir das entrevistas com os usuários
+///
+/// caption
+Fonte: Autores
+///
 
 * Observação: O requisito 18 é atualmente aplicável apenas para o tipo de usuário 'Professor', e não 'Monitor'.
 
@@ -119,8 +144,8 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 
 ## Histórico
 
-| Versão | Descrição                  | Autor                   | Revisor                  | Data       |
-|--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | Adição dos requisitos elicitados a partir da entrevistacom o usuário 'Aluno'     | João Paulo | Rodrigo Orlandi | 22/11/2024 |
-| v1.0   | Adição dos requisitos indiretos elicitados a partir da entrevista com o usuário 'Aluno' | João Paulo | Rodrigo Orlandi | 22/11/2024 |
-| v1.0   | Adição dos requisitos elicitados a partir da entrevista com o usuário 'Monitor' | João Paulo | Rodrigo Orlandi | 23/11/2024 |
+| Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
+|--------|----------------------------|-------------------------|--------------------------|-------|-----|
+| v1.0   | Adição dos requisitos elicitados a partir da entrevistacom o usuário 'Aluno'     | João Paulo | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled/>| 22/11/2024 |
+| v1.0   | Adição dos requisitos indiretos elicitados a partir da entrevista com o usuário 'Aluno' | João Paulo | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled/>| 22/11/2024 |
+| v1.0   | Adição dos requisitos elicitados a partir da entrevista com o usuário 'Monitor' | João Paulo | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled/>| 23/11/2024 |

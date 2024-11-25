@@ -2,10 +2,15 @@
 
 Em uma aplicação da técnica de valor custo e risco, de acordo com [Wiegers et. al (2013)](https://aprender3.unb.br/pluginfile.php/2972454/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf), na página 326 , a equipe de requisitos pode medir os requisitos elicitados de acordo com o benefício, custo, risco e penalidade, estruturados na tabela 1, a seguir. Isso ajuda a decidir as prioridades relativas dos requisitos para o projeto.  
 
-### Tabela 1 - Exemplo de medição da priorização por Wiegers.
 | Requisito    | Benefício    | Penalidade  | Custo     |  Risco       |
 |--------------|--------------|-------------|-----------|--------------|
 | 01 - Sistema requer login do usuário para acessar. |  10    |   10          |   3       |     1      |
+/// caption | <
+Tabela 1 — Exemplo de medição da priorização por Wiegers
+///
+/// caption
+Fonte: Júlia Lopes, Rodrigo de Andrade
+///
  
 O grupo decidiu adaptar a priorização dos requisitos em uma escala de 1 a 10, julgando cada um de acordo com sua utilidade geral, pela maior facilidade em julgar os requisitos. Cada categoria é julgada da seguinte maneira:
 
@@ -22,7 +27,6 @@ A tabela 2, a seguir, demonstra a priorização por tabelas realizada pelo grupo
 
 [ADICIONAR LINK]()
 
-### Tabela 2 - Priorização dos requisitos mediante técnica de priorização por tabelas.
 | Requisito    | Benefício    | Penalidade  | Custo     |  Risco       |
 |--------------|--------------|-------------|-----------|--------------|
 | 01 - Sistema requer login do usuário para acessar. |  10    |   10          |   3       |     1      | 
@@ -56,6 +60,12 @@ A tabela 2, a seguir, demonstra a priorização por tabelas realizada pelo grupo
 | 29 - O sistema integra outros aplicativos, que são necessários para a disciplina, da mesma família, como pacotes Microsoft para uso de uma turma | 5 | 0 | 8 | 5 | 
 | 30 - O sistema permite que usuários conversem por chats privados | 4 | 1 | 5 | 6 | 
 | 31 - Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | 4 | 3 | 0 | 1 |  
+/// caption | <
+Tabela 2 — Priorização dos requisitos mediante técnica de priorização por tabelas
+///
+/// caption
+Fonte: Júlia Lopes, Rodrigo de Andrade
+///
 
 | # | Referência|
 |---|:------|

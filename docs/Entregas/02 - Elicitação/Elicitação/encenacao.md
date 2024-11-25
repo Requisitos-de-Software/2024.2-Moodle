@@ -9,7 +9,6 @@ desde a interação de uma pessoa com uma máquina até um simples diálogo entr
 
 Na reunião geral do dia 15/11, foi decidido a próxima reunião de [personas](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Personas/) entre os autores deste artefato. Enquanto os perfis de usuário base definidos pela equipe estavam delineados, eles ainda estavam sendo definidos de acordo com o Moodle. Foi então decidido na reunião do dia 16/11 que a encenação poderia progredir enquanto os perfis de usuário estavam sendo consolidados.
 
-### Tabela 1 - Cronograma planejado das atividades referentes às personas e encenação.
 | Dia     | Atividade                  | Participantes           | 
 |---------|----------------------------|-------------------------|
 | 15/11   | Reunião geral, definição de papéis | Todos os membros | 
@@ -17,6 +16,12 @@ Na reunião geral do dia 15/11, foi decidido a próxima reunião de [personas](h
 | 16/11 - 20/11   | Desenvolvimento dos perfis de usuário | Esther Sousa, Rodrigo Orlandi |  
 | 18/11   | Realização da encenação  | Júlia Lopes, Esther Sousa | 
 | 22/11   | Revisão do artefato | João Paulo, Rodrigo Orlandi  | 
+/// caption | <
+Tabela 1 — Cronograma planejado das atividades referentes às personas e encenação
+///
+/// caption
+Fonte: Autores
+///
 
 ## Execução
 
@@ -61,7 +66,7 @@ Na encenação, foi utilizada a persona estudante Otávio para realizar as segui
 | 04   |  Requisito Funcional          | O sistema permite que o 'aluno' envie tarefas concluidas.|  SIM |
 | 05   |  Requisito não Funcional          |O sistema permite que o 'aluno' veja feedback de tarefas|  SIM |
 /// caption | <
-Tabela 1 — Requisitos elecitados através da encenação
+Tabela 2 — Requisitos elecitados através da encenação
 ///
 /// caption
 Fonte: Júlia Lopes
