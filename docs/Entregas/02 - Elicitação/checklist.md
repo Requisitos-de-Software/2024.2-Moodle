@@ -11,19 +11,25 @@ Após a conclusão dos outros artefatos da entrega 2, o grupo realizou a verific
 
 ## Checklists
 
+Itens são avaliados das seguintes formas:
+
+* <span style="color:green">Conforme</span>: Projeto satisfaz a condição.
+* <span style="color:yellow">Sugestão de Melhoria</span>: Projeto satisfaz a condição, porém há margem para melhorias. Exige observação.
+* <span style="color:red">Não conforme</span>: Projeto NÃO satisfaz a condição.
+
 === "Desenvolvimento geral do projeto"
 
-    | Item | Descrição | Verificação | Versão, data e hora da avaliação |
-    |------|:----------|-------------|----------------------------------|
-    |  1   | O histórico de versão está padronizado? | A avaliar | - |
-    |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato? | A avaliar | - |
-    |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos | A avaliar | - |
-    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?   | A avaliar | - |
-    |  5   | Um texto fazendo uma introdução dos artefatos?  | A avaliar | - |
-    |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  | A avaliar | - |
-    |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | A avaliar | - |
-    |  8   | A gravação da reunião do grupo. | A avaliar | - |
-    |  9   | Vídeo de apresentação na categoria “não listado” no youtube? | A avaliar | - |
+    | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
+    |------|:----------|-------------|-------------|---------------------|
+    |  1   | O histórico de versão está padronizado? | <span style="color:green">Conforme</span> | - | n/a - 24/11/2024- 22:53|
+    |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato? | <span style="color:green">Conforme</span> | - | n/a - 24/11/2024 - 22:53|
+    |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos | <span style="color:green">Conforme</span>  | - | n/a - 24/11/2024 - 22:55 |
+    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?   | <span style="color:green">Conforme</span>  | - | n/a - 24/11/2024 - 22:56 |
+    |  5   | Um texto fazendo uma introdução dos artefatos?  | <span style="color:green">Conforme</span> | - | n/a - 24/11/2024 - 22:59 |
+    |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  | <span style="color:red">Não conforme</span> | - | n/a - 24/11/2024 - 23:01 |
+    |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | <span style="color:green">Conforme</span> | - |  ambas v1.0 - 24/11/2024 - 23:02 |
+    |  8   | A gravação da reunião do grupo. | <span style="color:green">Conforme</span> | - | ambas v1.0 - 24/11/2024 - 23:03 |
+    |  9   | Vídeo de apresentação na categoria “não listado” no youtube? | <span style="color:green">Conforme</span> | - | v1.0 - 24/11/2024 - 23:05 |
     /// caption | <
     Tabela 1 — Checklist do desenvolvimento geral do projeto
     ///
@@ -33,17 +39,17 @@ Após a conclusão dos outros artefatos da entrega 2, o grupo realizou a verific
 
 === "Conteúdo da Disciplina"
 
-    | Item | Descrição | Verificação | Versão, data e hora da avaliação |
-    |------|:----------|-------------|----------------------------------|
-    |  1   | A Especificação do Perfil do usuário possui informação de idade, experiência, atitudes e tarefas primárias | A avaliar | - |
-    |  2   | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | A avaliar | - |
-    |  3   | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? | A avaliar | - |
-    |  4   | A participação do cliente e/ou persona na elicitação de requisitos? | A avaliar | - |
-    |  5   | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | A avaliar | - |
-    |  6   | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | A avaliar | - |
-    |  7   | No mínimo duas técnicas de priorização (quanto mais melhor)? | A avaliar | - |
-    |  8   | A participação do cliente e/ou persona no processo de priorização? | A avaliar | - |
-    |  9   | A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | A avaliar | - |
+    | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
+    |------|:----------|-------------|-------------|---------------------|
+    |  1   | A Especificação do Perfil do usuário possui informação de idade, experiência, atitudes e tarefas primárias | <span style="color:green">Conforme</span> | - | v1.0 - 24/11/2024- 23:06|
+    |  2   | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:green">Conforme</span> | - | v1.1 - 24/11/2024- 23:08|
+    |  3   | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? | <span style="color:green">Conforme</span> | - | n/a - 24/11/2024- 23:08|
+    |  4   | A participação do cliente e/ou persona na elicitação de requisitos? | <span style="color:green">Conforme</span> | - | n/a - 24/11/2024- 23:09|
+    |  5   | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | <span style="color:yellow">Sugestão de Melhoria</span> | Faltou a gravação da análise de interface | v1.1(análise), v1.0(encenação), v1.1(entrevista)  - 24/11/2024- 23:09|
+    |  6   | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:red">Não conforme</span> | - | ambas v1.0 - 24/11/2024 - 23:13 |
+    |  7   | No mínimo duas técnicas de priorização (quanto mais melhor)? | <span style="color:green">Conforme</span> | - | ambas v1.0 - 24/11/2024 - 23:12 |
+    |  8   | A participação do cliente e/ou persona no processo de priorização? | <span style="color:red">Não conforme</span> | - | ambas v1.0 - 24/11/2024 - 23:12 |
+    |  9   | A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | <span style="color:green">Conforme</span> | - | ambas v1.0 - 24/11/2024 - 23:15 |
     /// caption | <
     Tabela 2 — Checklist do conteúdo da disciplina
     ///
@@ -58,3 +64,4 @@ Após a conclusão dos outros artefatos da entrega 2, o grupo realizou a verific
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              | Laís Cecília                    | Esther Sousa                         | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
+| v1.1   | Checklist preenchida       | Todos                           | n/a                      | n/a                               | 24/11/2024 |

@@ -138,9 +138,10 @@ Fonte: Autores
 
 ## Referência
 
-[1] BARBOSA, S. et al. **Interação Humano-Computador e Experiência do Usuário**. [s.l.] Autopublicação - Leanpub, 2021. Capítulo 7, Página 142. Seção disponível em: [https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf). Acesso em: 21/11/2024. 
-
-[2] MACHADO, Maurício, et. al. **Lichess (Wiki online de Requisitos de Software)**. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/). Acesso em: 21/11/2024.  
+| # | Fonte |
+|---|:------|
+| 1 | BARBOSA, S. et al. **Interação Humano-Computador e Experiência do Usuário**. [s.l.] Autopublicação - Leanpub, 2021. Capítulo 7, Página 142. Seção disponível em: [https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf](https://aprender3.unb.br/pluginfile.php/2972450/mod_resource/content/4/ihc-ux%20cap%207.pdf). Acesso em: 21/11/2024. |
+| 2 | MACHADO, Maurício, et. al. **Lichess (Wiki online de Requisitos de Software)**. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/). Acesso em: 21/11/2024.|  
 
 ## Histórico
 
