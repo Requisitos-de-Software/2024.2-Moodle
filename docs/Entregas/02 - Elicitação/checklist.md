@@ -6,7 +6,7 @@ Após a conclusão dos outros artefatos da entrega 2, o grupo realizou a verific
 
 ## Data de realização
 
-24/11 às 99:99 
+24/11 das 22:50 às 23:20.
 
 
 ## Checklists
