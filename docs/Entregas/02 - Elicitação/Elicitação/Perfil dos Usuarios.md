@@ -84,7 +84,7 @@ Para definir os grupos foi utilizado como base a definição de grupos em catego
 
 ## Histórico
 
-| Versão | Descrição     | Autor        | Revisor     | Data       |
-|--------|---------------|--------------|-------------|------------|
-| v1.0   | Criação do Documento | Esther Silva, João Paulo, Rodrigo de Andrade | Laís Cecília | 23/11/2024 |
+| Versão | Descrição     | Autor        | Revisor     | Revisado| Data       |
+|--------|---------------|--------------|-------------|-------|-----|
+| v1.0   | Criação do Documento | Esther Silva, João Paulo, Rodrigo de Andrade | Laís Cecília |<input type="checkbox" onclick="return false;" disabled/>| 23/11/2024 |
 

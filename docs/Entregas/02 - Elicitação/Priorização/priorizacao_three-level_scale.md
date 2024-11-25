@@ -15,7 +15,6 @@ Dessarte, quando finalizado a priorização, organizamos os requisitos em tabela
 
 <iframe width="500" height="285" src="https://www.youtube.com/embed/V7WXTTI0XDs" title="[2024-2] Requisitos - Grupo 2 - Priorização Three Way Scale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Tabela 1 - Tabela com todos os requisitos elicitados e já priorizados
 |Requisito  |  Prioridade  |
 |-----------|--------------|
 | 01 - Sistema requer login do usuário para acessar | MÉDIA | 
@@ -49,9 +48,13 @@ Dessarte, quando finalizado a priorização, organizamos os requisitos em tabela
 | 29 - O sistema integra outros aplicativos da mesma família para uso da turma | BAIXA |
 | 30 - O sistema permite que usuários conversem por chats privados | BAIXA |
 | 31 - Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | MÉDIA |  
+/// caption | <
+Tabela 1 — Tabela com todos os requisitos elicitados e já priorizados
+///
+/// caption
+Fonte: Esther Sousa, João Paulo
+///
 
-
-### Tabela 2 - Tabela com todos os requisitos de ALTA Prioridade 
 |Requisito  |  Prioridade  |
 |-----------|--------------|
 | 02 - O sistema deve permitir que o Usuário 'Aluno' possa vizualizar o material disponibilizado pelo Usuário 'Professor'. | ALTA |
@@ -63,8 +66,13 @@ Dessarte, quando finalizado a priorização, organizamos os requisitos em tabela
 | 15 - O sistema deve permitir que o usuário ‘Professor’ possa enviar conteúdos, que ficarão disponíveis ao tipo de usuário ‘Aluno’ e 'Monitor'. | ALTA |
 | 23 - O sistema deve permitir que usuários possam responder formulários. | ALTA |
 | 27 - O sistema permite que alunos façam upload de tarefas | ALTA |
+/// caption | <
+Tabela 2 — Tabela com todos os requisitos de ALTA Prioridade 
+///
+/// caption
+Fonte: Esther Sousa, João Paulo
+///
 
-### Tabela 3 - Tabela com todos os requisitos de MÉDIA Prioridade 
 |Requisito  |  Prioridade  |
 |-----------|--------------|
 | 01 - Sistema requer login do usuário para acessar | MÉDIA | 
@@ -78,9 +86,14 @@ Dessarte, quando finalizado a priorização, organizamos os requisitos em tabela
 | 24 - Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho. | MÉDIA |
 | 28 - O sistema permite a realização de aulas síncronas por chamas de vídeo | MÉDIA |
 | 31 - Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | MÉDIA |  
+/// caption | <
+Tabela 3 — Tbela com todos os requisitos de MÉDIA Prioridade 
+///
+/// caption
+Fonte: Esther Sousa, João Paulo
+///
 
 
-### Tabela 4 - Tabela com todos os requisitos de BAIXA Prioridade 
 |Requisito  |  Prioridade  |
 |-----------|--------------|
 | 03 - O sistema deve permitir que o Usuário 'Aluno' possa baixar arquivos. | BAIXA |  
@@ -94,6 +107,12 @@ Dessarte, quando finalizado a priorização, organizamos os requisitos em tabela
 | 26 - O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.| BAIXA |
 | 29 - O sistema integra outros aplicativos da mesma família para uso da turma | BAIXA |
 | 30 - O sistema permite que usuários conversem por chats privados | BAIXA |
+/// caption | <
+Tabela 4 — Tbela com todos os requisitos de BAIXA Prioridade 
+///
+/// caption
+Fonte: Esther Sousa, João Paulo
+///
 
 
 

@@ -2,7 +2,6 @@
 
 Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetidos, adquiridos durante a ulilização das metodologias de [análise de interface](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/), [entrevista](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/) e [encenação](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/): 
 
-### Tabela 1 - Tabela com todos os requisitos elicitados e já priorizados
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  | Origem |
 |---------|----------------------------|-------------------------|---------------------|--------|
 | 01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar | SIM | Entrevista |
@@ -36,6 +35,12 @@ Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetid
 | 29      |  Requisito Funcional       |  O sistema integra outros aplicativos da mesma família para uso da turma | NÃO | Análise de Interface |
 | 30      |  Requisito Funcional       |  O sistema permite que usuários conversem por chats privados | SIM | Análise de Interface |
 | 31   |  Requisito não Funcional          | Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | NÃO | Encenação |
+/// caption | <
+Tabela 1 — Tabela com todos os requisitos elicitados e já priorizados
+///
+/// caption
+Fonte: Autores
+///
 
 
 ## Histórico
