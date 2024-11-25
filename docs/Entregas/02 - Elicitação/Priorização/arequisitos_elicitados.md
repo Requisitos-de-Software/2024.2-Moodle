@@ -42,4 +42,4 @@ Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetid
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              |Júlia Lopes e Rodrigo de Andrade| João Paulo Rodrigues                        | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
-| v1.1   | Adição da coluna de Origem |João Paulo Rodrigues|| <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
+| v1.1   | Adição da coluna de Origem |João Paulo Rodrigues| Júlia Lopes | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
