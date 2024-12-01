@@ -16,6 +16,8 @@ Foram definidos pela equipe três [perfis de usuário](https://requisitos-de-sof
 
 Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professor, um monitor e uma antipersona, exemplificando assim os três tipos possíveis de usuários da plataforma e um tipo de pessoa que não se encaixaria como um possível usuário. A elaboração dos personas foi realizada no dia 17/11/24, por uma reunião em videochamada na plataforma Discord dos autores deste documento.
 
+A definição de personas foram baseadas nos perfis de usuários do Moodle, selecionado entre os usuários que mais fazem uso frequente do site, sendo esses usuários do tipo aluno, professor e monitor, sendo os dois primeiros usuários primários enquanto to terceiro é condicional, ou seja, depende se o professor buscará ajuda desse usuário. Já a anti-persona foi definida como um jogador de futebol com uma carreira segura, que não possui necessidade nem interesse em utilizar o Moodle.
+
 ## Personas Desenvolvidas
 
 ![Aluno](../../../img/persona1.png)
