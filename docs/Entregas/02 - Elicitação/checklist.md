@@ -8,6 +8,9 @@ Após a conclusão dos outros artefatos da entrega 2, o grupo realizou a verific
 
 24/11 das 22:50 às 23:20.
 
+<iframe width="500" height="285" src="https://www.youtube.com/embed/8tvIHeC1Zbo" title="[2024-2] Requisitos - Grupo 2 - Inspeção da Segunda Entrega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ## Checklists
 
