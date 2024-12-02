@@ -2,7 +2,7 @@
 
 Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetidos, adquiridos durante a ulilização das metodologias de [análise de interface](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/), [entrevista](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/) e [encenação](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/): 
 
-| Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  | Origem |
+| Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  | Origem |
 |---------|----------------------------|-------------------------|---------------------|--------|
 | RE01    |  Requisito Funcional       |  Sistema requer login do usuário para acessar | SIM | ANA01, ANA08, ANA16, ENC01, ENT01 |
 | RE02    |  Requisito Funcional       |  O sistema deve permitir que o Usuário 'Aluno' possa vizualizar o material disponibilizado pelo Usuário 'Professor'. | SIM | ANA02, ANA09, ANA21, ENC02, ENT02|
@@ -48,3 +48,4 @@ Fonte: Autores
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              |Júlia Lopes e Rodrigo de Andrade| João Paulo Rodrigues                        | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
 | v1.1   | Adição da coluna de Origem |João Paulo Rodrigues| Júlia Lopes | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
+| v1.2   | Melhor rastreabilidade de duplicatas | Laís Cecília          | João Paulo Rodrigues     | <input type="checkbox" onclick="return false;" disabled/> | 02/12/2024 |
