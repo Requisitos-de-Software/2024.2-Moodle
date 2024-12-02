@@ -1,10 +1,10 @@
 # Requisitos Elicitados
 
-Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetidos, adquiridos durante a ulilização das metodologias de [análise de interface](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/), [entrevista](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/) e [encenação](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/): 
+Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetidos, adquiridos durante a ulilização das metodologias de [análise de interface](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/)(ANAXX), [entrevista](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/)(ENTXX) e [encenação](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/)(ENCXX): 
 
 | Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  | Origem |
 |---------|----------------------------|-------------------------|---------------------|--------|
-| RE01    |  Requisito Funcional       |  Sistema requer login do usuário para acessar | SIM | ANA01, ANA08, ANA16, ENC01, ENT01 |
+| RE01    |  Requisito Funcional       |  Sistema requer login do usuário para acessar | SIM | ANA01], ANA08, ANA16, ENC01, ENT01 |
 | RE02    |  Requisito Funcional       |  O sistema deve permitir que o Usuário 'Aluno' possa vizualizar o material disponibilizado pelo Usuário 'Professor'. | SIM | ANA02, ANA09, ANA21, ENC02, ENT02|
 | RE03    |  Requisito Funcional       |  O sistema deve permitir que o Usuário 'Aluno' possa baixar arquivos. | SIM | ENT03, ANA03, ANA10, ANA22 |
 | RE04    |  Requisito Funcional       |  O sistema deve permitir que ‘Alunos’ possam filtrar as suas matérias cursadas. | SIM |ENT21 |
