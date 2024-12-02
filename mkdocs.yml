@@ -39,3 +39,5 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde

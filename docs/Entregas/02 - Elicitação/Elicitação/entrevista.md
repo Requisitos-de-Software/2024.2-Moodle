@@ -88,14 +88,14 @@ Após as entrevistas, foi realizado seu estudo visando a elicitação de requisi
 
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
-| 01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar | SIM | 
-| 02   |  Requisito Funcional          |  O sistema deve permitir que o Usuário 'Aluno' possa vizualizar o material disponibilizado pelo Usuário 'Professor'. | SIM |
-| 03   |  Requisito Funcional          |  O sistema deve permitir que o Usuário 'Aluno' possa baixar arquivos. | SIM |  
-| 04   |  Requisito Funcional          |  O conteúdo deve poder ser organizado pelo usuário 'Professor' em tópicos e índices de tópicos. |  SIM |
-| 05   |  Requisito Funcional          |  O sistema deve possuir uma funcionalidade calendário, permitindo que o usuário 'Aluno' possa vizualizar atividades próximas. | SIM |
-| 06   |  Requisito Não Funcional      |  A navegação do aplicativo mobile deve ser simples e intuitiva. | NÃO | 
-| 07   |  Requisito Funcional          |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| NÃO | 
-| 08   |  Requisito Funcional          |  O sistema deve avisar o usuário 'Aluno' quando ele tiver alguma atividade próxima.| SIM | 
+| ENT01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar | SIM | 
+| ENT02   |  Requisito Funcional          |  O sistema deve permitir que o Usuário 'Aluno' possa vizualizar o material disponibilizado pelo Usuário 'Professor'. | SIM |
+| ENT03   |  Requisito Funcional          |  O sistema deve permitir que o Usuário 'Aluno' possa baixar arquivos. | SIM |  
+| ENT04   |  Requisito Funcional          |  O conteúdo deve poder ser organizado pelo usuário 'Professor' em tópicos e índices de tópicos. |  SIM |
+| ENT05   |  Requisito Funcional          |  O sistema deve possuir uma funcionalidade calendário, permitindo que o usuário 'Aluno' possa vizualizar atividades próximas. | SIM |
+| ENT06   |  Requisito Não Funcional      |  A navegação do aplicativo mobile deve ser simples e intuitiva. | NÃO | 
+| ENT07   |  Requisito Funcional          |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| NÃO | 
+| ENT08   |  Requisito Funcional          |  O sistema deve avisar o usuário 'Aluno' quando ele tiver alguma atividade próxima.| SIM | 
 /// caption | <
 Tabela 3 — Requisitos elicitados a partir das entrevistas
 ///
@@ -105,11 +105,11 @@ Fonte: Autores
 
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
-| 09      | Requisito Não Funcional     | O sistema deve ter um tempo de resposta admissível. | NÃO |
-| 10      | Requisito Funcional         | O sistema deve permitir que o usuário 'Monitor' possa acompanhar o conteúdo da mesma forma que o usuário 'Aluno' para poder ajudá-los no conteúdo. | SIM |
-| 11      | Requisito Funcional         | O sistema deve permitir que usuários possam responder formulários. | SIM |
-| 12      | Requisito Não Funcional     | Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho. | SIM |
-| 13      | Requisito Não Funcional     | O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.| NÃO |
+| ENT09      | Requisito Não Funcional     | O sistema deve ter um tempo de resposta admissível. | NÃO |
+| ENT10      | Requisito Funcional         | O sistema deve permitir que o usuário 'Monitor' possa acompanhar o conteúdo da mesma forma que o usuário 'Aluno' para poder ajudá-los no conteúdo. | SIM |
+| ENT11      | Requisito Funcional         | O sistema deve permitir que usuários possam responder formulários. | SIM |
+| ENT12      | Requisito Não Funcional     | Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho. | SIM |
+| ENT13      | Requisito Não Funcional     | O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.| NÃO |
 /// caption | <
 Tabela 4 — Requisitos elicitados a partir da entrevista com o usuário 'Monitor'
 ///
@@ -119,14 +119,14 @@ Fonte: Autores
 
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
-| 14      | Requisito Funcional        | O sistema deve permitir que o usuário ‘Professor’ possa enviar conteúdos, que ficarão disponíveis ao tipo de usuário ‘Aluno’ e 'Monitor'. | SIM |
-| 15      | Requisito Funcional        | O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.| NÃO |
-| 16      | Requisito Funcional        | O sistema deve possuir usuário do tipo 'Aluno', 'Professor' e 'Monitor'. | SIM |
-| 17      | Requisito Funcional        | O sistema deve notificar o aluno de entregas se aproximando da deadline por meio do Calendário ou Painel/Dashboard. | SIM |
-| 18      | Requisito Funcional        | O sistema deve permitir que os usuários 'Professor’ e 'Monitor’ possam corrigir atividades enviadas pelo usuário ‘Aluno'. | NÃO* |
-| 19      | Requisito Funcional        | O usuário ‘Aluno’ deve poder consultar as notas das atividades já corrigidas. | SIM |
-| 20      | Requisito Funcional        | O usuário 'Professor’ deve ser capaz de elegir um ou mais usuário(s) 'Monitor’ para a sua matéria. | SIM |
-| 21      | Requisito Funcional        | O sistema deve permitir que ‘Alunos’ possam filtrar as suas matérias cursadas. | SIM |
+| ENT14      | Requisito Funcional        | O sistema deve permitir que o usuário ‘Professor’ possa enviar conteúdos, que ficarão disponíveis ao tipo de usuário ‘Aluno’ e 'Monitor'. | SIM |
+| ENT15      | Requisito Funcional        | O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.| NÃO |
+| ENT16      | Requisito Funcional        | O sistema deve possuir usuário do tipo 'Aluno', 'Professor' e 'Monitor'. | SIM |
+| ENT17      | Requisito Funcional        | O sistema deve notificar o aluno de entregas se aproximando da deadline por meio do Calendário ou Painel/Dashboard. | SIM |
+| ENT18      | Requisito Funcional        | O sistema deve permitir que os usuários 'Professor’ e 'Monitor’ possam corrigir atividades enviadas pelo usuário ‘Aluno'. | NÃO* |
+| ENT19      | Requisito Funcional        | O usuário ‘Aluno’ deve poder consultar as notas das atividades já corrigidas. | SIM |
+| ENT20      | Requisito Funcional        | O usuário 'Professor’ deve ser capaz de elegir um ou mais usuário(s) 'Monitor’ para a sua matéria. | SIM |
+| ENT21      | Requisito Funcional        | O sistema deve permitir que ‘Alunos’ possam filtrar as suas matérias cursadas. | SIM |
 /// caption | <
 Tabela 5 — Requisitos indiretos elicitados a partir das entrevistas com os usuários
 ///

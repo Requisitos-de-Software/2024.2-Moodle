@@ -60,11 +60,11 @@ Na encenação, foi utilizada a persona estudante Otávio para realizar as segui
 
 | Número  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  |
 |---------|----------------------------|-------------------------|---------------------|
-| 01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar os dados.| SIM | 
-| 02   |  Requisito Funcional          |  O sistema disponibiliza acesso de materiais para usuários tipo 'aluno' cadastrado em turmas | SIM |
-| 03   |  Requisito não Funcional          | Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | NÃO |  
-| 04   |  Requisito Funcional          | O sistema permite que o 'aluno' envie tarefas concluidas.|  SIM |
-| 05   |  Requisito não Funcional          |O sistema permite que o 'aluno' veja feedback de tarefas|  SIM |
+| ENC01   |  Requisito Funcional          |  Sistema requer login do usuário para acessar os dados.| SIM | 
+| ENC02   |  Requisito Funcional          |  O sistema disponibiliza acesso de materiais para usuários tipo 'aluno' cadastrado em turmas | SIM |
+| ENC03   |  Requisito não Funcional          | Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | NÃO |  
+| ENC04   |  Requisito Funcional          | O sistema permite que o 'aluno' envie tarefas concluidas.|  SIM |
+| ENC05   |  Requisito não Funcional          |O sistema permite que o 'aluno' veja feedback de tarefas|  SIM |
 /// caption | <
 Tabela 2 — Requisitos elecitados através da encenação
 ///
