@@ -4,7 +4,7 @@ Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetid
 
 | Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  | Origem |
 |---------|----------------------------|-------------------------|---------------------|--------|
-| RE01    |  Requisito Funcional       |  Sistema requer login do usuário para acessar | SIM | ANA01], ANA08, ANA16, ENC01, ENT01 |
+| RE01    |  Requisito Funcional       |  Sistema requer login do usuário para acessar | SIM | ANA01, ANA08, ANA16, ENC01, ENT01 |
 | RE02    |  Requisito Funcional       |  O sistema deve permitir que o Usuário 'Aluno' possa vizualizar o material disponibilizado pelo Usuário 'Professor'. | SIM | ANA02, ANA09, ANA21, ENC02, ENT02|
 | RE03    |  Requisito Funcional       |  O sistema deve permitir que o Usuário 'Aluno' possa baixar arquivos. | SIM | ENT03, ANA03, ANA10, ANA22 |
 | RE04    |  Requisito Funcional       |  O sistema deve permitir que ‘Alunos’ possam filtrar as suas matérias cursadas. | SIM |ENT21 |
@@ -23,9 +23,9 @@ Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetid
 | RE17    |  Requisito Funcional       |  O sistema disponibiliza um fórum para conversa entre alunos e professores | SIM | ANA06, ANA14, ANA26 |
 | RE18    |  Requisito Funcional       |  O sistema deve permitir que o usuário 'Monitor' possa acompanhar o conteúdo da mesma forma que o usuário 'Aluno' para poder ajudá-los no conteúdo. | SIM |ENT10 |
 | RE19    |  Requisito Funcional       |  O sistema deve possuir uma funcionalidade calendário, permitindo que o usuário 'Aluno' possa vizualizar atividades próximas. | SIM | ENT05, ANA04, ANA11, ANA18 |
-| RE20    |  Requisito Não Funcional   |  A navegação do aplicativo mobile deve ser simples e intuitiva. | NÃO | ANA15, ENT06 |
+| RE20    |  Requisito Não Funcional   |  A navegação do aplicativo mobile deve ter símbolos grandes e posicionados de maneira a tornar a navegação mais simples, com presença de diversos atalhos. | NÃO | ANA15, ENT06 |
 | RE21    |  Requisito Funcional       |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| NÃO | ENT07 |
-| RE22    |  Requisito Não Funcional   |  O sistema deve ter um tempo de resposta admissível. | NÃO | ENT09 |
+| RE22    |  Requisito Não Funcional   |  O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique. | NÃO | ENT09 |
 | RE23    |  Requisito Funcional       |  O sistema deve permitir que usuários possam responder formulários. | SIM |ENT11 |
 | RE24    |  Requisito Não Funcional   |  Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho. | SIM |ENT12 |
 | RE25    |  Requisito Não Funcional   |  O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.| NÃO | ENT13 |
@@ -49,3 +49,5 @@ Fonte: Autores
 | v1.0   | Página Criada              |Júlia Lopes e Rodrigo de Andrade| João Paulo Rodrigues                        | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
 | v1.1   | Adição da coluna de Origem |João Paulo Rodrigues| Júlia Lopes | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
 | v1.2   | Melhor rastreabilidade de duplicatas | Laís Cecília          | João Paulo Rodrigues     | <input type="checkbox" onclick="return false;" disabled/> | 02/12/2024 |
+| v1.3   | Corrigir requisitos 20 e 22 | Rodrigo Orlandi         | Laís Cecília     | <input type="checkbox" onclick="return false;" disabled/> | 07/12/2024 |
+
