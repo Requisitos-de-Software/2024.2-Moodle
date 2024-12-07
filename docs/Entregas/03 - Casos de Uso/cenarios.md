@@ -15,9 +15,9 @@
 | Recursos         | - Smartphone; Aplicativo de framework Moodle | 
 | Ator             | - Usuário ‘Estudante’ de um aplicativo de framework Moodle  | 
 | Episódios        | O usuário faz login acessa o aplicativo de framework Moodle </br>;
-O usuário acessa a disciplina e encontra a entrega da tarefa </br>;
-O usuário faz upload da tarefa e clica em enviar tarefa </br>;
-A tarefa é considerada enviada com sucesso </br> | 
+O usuário acessa a disciplina e encontra a entrega da tarefa;
+O usuário faz upload da tarefa e clica em enviar tarefa;
+A tarefa é considerada enviada com sucesso. | 
 | Restrições       | A tarefa será fechada em um minuto</br>; Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos | 
 | Exceções     | Smartphone sem conexão à Internet </br>; Smartphone sem bateria </br> |
 /// caption | <
