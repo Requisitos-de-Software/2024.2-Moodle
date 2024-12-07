@@ -35,12 +35,6 @@ Fonte: Autores
 
 Após separar os requisitos não implementados, estes foram divididos entre a equipe para que todos possam passar pelo processo de elaborar cenários, léxicos e um caso de uso referente aos requisitos escolhidos. O resultado da divisão de requisitos não implementados foi realizado e pode ser visto na tabela 2, a seguir:
 
-Laís: RE09
-Esther RE26, RE28
-Wonz: RE31 
-João RE21, RE25, Ata 07 (03/12)
-Rodrigo: RE22, RE31
-
 | Membro da Equipe | Requisitos Não Implementados |  
 |------------------|------------------------------|
 | Laís Cecília     | RE09 |
