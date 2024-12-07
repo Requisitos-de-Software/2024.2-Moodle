@@ -14,12 +14,9 @@
 | Contexto         | - **Local**: Casa do usuário; **Tempo**: Noite, 23:58; **Pré-Condições**: Ter um dispositivo com um aplicativo que utilize o Moodle como base (Aprender3) | 
 | Recursos         | - Smartphone; Aplicativo de framework Moodle | 
 | Ator             | - Usuário ‘Estudante’ de um aplicativo de framework Moodle  | 
-| Episódios        | O usuário faz login acessa o aplicativo de framework Moodle </br>;
-O usuário acessa a disciplina e encontra a entrega da tarefa;
-O usuário faz upload da tarefa e clica em enviar tarefa;
-A tarefa é considerada enviada com sucesso. | 
+| Episódios        | **1**. O usuário faz login acessa o aplicativo de framework Moodle; **2**. O usuário acessa a disciplina e encontra a entrega da tarefa; **3**. O usuário faz upload da tarefa e clica em enviar tarefa; **4**. A tarefa é considerada enviada com sucesso. | 
 | Restrições       | A tarefa será fechada em um minuto</br>; Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos | 
-| Exceções     | Smartphone sem conexão à Internet </br>; Smartphone sem bateria </br> |
+| Exceções     | Smartphone sem conexão à Internet; Smartphone sem bateria. |
 /// caption | <
 Tabela 1 — Cenário referente ao RE22, que não foi implementado no projeto.
 ///
