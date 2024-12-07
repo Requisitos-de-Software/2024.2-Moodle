@@ -11,20 +11,15 @@
 | Categoria        | Descrição                                                                                  |  
 |------------------|--------------------------------------------------------------------------------------------|
 | Objetivo         | O usuário ‘Aluno’ tem de fazer upload de uma tarefa em um minuto. |
-| Contexto         | - Local: Casa do usuário
-                     - Tempo: Noite, 23:58
-                     - Pré-Condições: Ter um dispositivo com um aplicativo que utilize o Moodle como base (Aprender3) | 
-| Recursos         | - Smartphone
-                     - Aplicativo de framework Moodle | 
+| Contexto         | - **Local**: Casa do usuário; **Tempo**: Noite, 23:58; **Pré-Condições**: Ter um dispositivo com um aplicativo que utilize o Moodle como base (Aprender3) | 
+| Recursos         | - Smartphone; Aplicativo de framework Moodle | 
 | Ator             | - Usuário ‘Estudante’ de um aplicativo de framework Moodle  | 
-| Episódios        | - O usuário faz login acessa o aplicativo de framework Moodle
-                     - O usuário acessa a disciplina e encontra a entrega da tarefa
-                     - O usuário faz upload da tarefa e clica em enviar tarefa
-                     - A tarefa é considerada enviada com sucesso | 
-| Restrições       | - A tarefa será fechada em um minuto
-                     - Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos | 
-| Exceções     |     - Smartphone sem conexão à Internet
-                     - Smartphone sem bateria |
+| Episódios        | O usuário faz login acessa o aplicativo de framework Moodle </br>;
+O usuário acessa a disciplina e encontra a entrega da tarefa </br>;
+O usuário faz upload da tarefa e clica em enviar tarefa </br>;
+A tarefa é considerada enviada com sucesso </br> | 
+| Restrições       | A tarefa será fechada em um minuto</br>; Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos | 
+| Exceções     | Smartphone sem conexão à Internet </br>; Smartphone sem bateria </br> |
 /// caption | <
 Tabela 1 — Cenário referente ao RE22, que não foi implementado no projeto.
 ///
