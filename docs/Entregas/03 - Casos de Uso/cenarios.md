@@ -2,7 +2,15 @@
 
 ## Introdução
 
+blablabla (referencia)
+
 ## Metodologia e Execução
+
+- foram escolhidos requisitos não implementados em projs visando futura iteração
+
+- requisitos não implementados: tabela
+
+Cenários ordenados em dimjims
 
 ## Cenários Desenvolvidos
 
@@ -18,7 +26,7 @@
 | Restrições       | A tarefa será fechada em um minuto</br>; Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos | 
 | Exceções     | Smartphone sem conexão à Internet; Smartphone sem bateria. |
 /// caption | <
-Tabela 1 — Cenário referente ao RE22, que não foi implementado no projeto.
+Tabela 2 — Cenário referente ao RE22, que não foi implementado no projeto.
 ///
 /// caption
 Fonte: Rodrigo de Andrade
