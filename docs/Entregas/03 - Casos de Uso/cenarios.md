@@ -55,6 +55,25 @@ Os cenários foram codificados na ordem dos requisitos não implementados. **C01
 
 ## Cenários Desenvolvidos
 
+
+### CXX: Revisitar turma anterior
+
+| Categoria     | Descrição                  | 
+|---------------|----------------------------|
+| Objetivo      | Permitir que o usuário aluno visualize uma turma anterior. |
+| Contexto      | - Usuário está logado em sua conta <br> - Dispositivo possui acesso a internet <br> - A turma em questão foi encerrada | 
+| Recursos      | - Dispositivo celular <br> - Conexão com a internet <br> | 
+| Ator          | Usuário Moodle | 
+| Episódios     | 1. O usuário acessa a página "Meus Cursos" no aplicativo <br> 2. O usuário clica no botão "Ver cursos arquivados" <br> 3. O usuário seleciona a turma que deseja consultar| 
+| Restrições    | 1. O usuário deve já ter participado da turma como aluno <br> 2. O usuário poderá somente visualizar o conteúdo. | 
+| Exceções      | Se a sessão estiver esgotada, o usuário será redirecionado à tela de login |
+/// caption | <
+Tabela J — Cenario referente ao RE09: Revisitar turma anterior
+///
+/// caption
+Fonte: Laís Cecília
+///
+
 ### C04 - Upload Rápido de Tarefa
 
 | Categoria        | Descrição                                                                                  |  
@@ -102,4 +121,5 @@ Fonte: Rodrigo de Andrade
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Feito upload da página | Rodrigo de Andrade| João Paulo | <input type="checkbox" onclick="return false;" disabled/> | 07/12/2024 |
+| v1.1   | RE09                       | Laís Cecília                    | João Paulo               | <input type="checkbox" onclick="return false;" disabled /> | 07/12/2024 |
 
