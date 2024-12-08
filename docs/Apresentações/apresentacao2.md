@@ -12,4 +12,4 @@ Gravada em 24/11/2024.
 
 | Versão | Descrição                  | Autor     | Revisor | Revisado | Data       |
 |--------|----------------------------|-----------|---------|----------|------------|
-| v1.0   | Apresentação               | Todos     | Rodrigo Orlandi    | Sim     | 01/12/2024 |
+| v1.0   | Apresentação               | Todos     | Rodrigo Orlandi    | <input type="checkbox" onclick="return false;" disabled checked/>     | 01/12/2024 |

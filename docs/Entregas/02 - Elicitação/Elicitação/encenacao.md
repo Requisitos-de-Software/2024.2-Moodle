@@ -83,4 +83,4 @@ Fonte: Júlia Lopes
 
 | Versão | Descrição                  | Autor                   | Revisor                  |Revisado | Data       |
 |--------|----------------------------|-------------------------|--------------------------|---------|------------|
-| v1.0   | Documentação da encenação  | Esther Sousa, Júlia Lopes, Rodrigo Orlandi|  João Paulo  |<input type="checkbox" onclick= "return false" disabled />  | 23/11/2024 |
+| v1.0   | Documentação da encenação  | Esther Sousa, Júlia Lopes, Rodrigo Orlandi|  João Paulo  |<input type="checkbox" onclick= "return false" disabled checked/>  | 23/11/2024 |

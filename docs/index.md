@@ -44,6 +44,6 @@ Outros aplicativos sugeridos foram rejeitados. Foram considerados:
 | v1.0   | Página criada  | Laís Cecília              | João Paulo       |<input type="checkbox" onclick="return false;" disabled checked/>| 28/10/2024 |
 | v1.1   | Escolha do App | Júlia Lopes, Laís Cecília | João Paulo       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
 | v1.2   | Reestruturando escolha do App | Rodrigo Orlandi | João Paulo  |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
-| v1.3   | Formatação     | Laís Cecília              | -                |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.3   | Formatação     | Laís Cecília              | Júlia Lopes                |<input type="checkbox" onclick="return false;" disabled checked/>| 23/11/2024 |
 
 

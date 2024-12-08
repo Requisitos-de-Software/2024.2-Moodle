@@ -147,5 +147,5 @@ Fonte: Autores
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
 |--------|----------------------------|-------------------------|--------------------------|-------|-----|
-| v1.0   | Adição dos requisitos indiretos elicitados a partir da entrevista com o usuário 'Aluno' | João Paulo | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled/>| 22/11/2024 |
-| v1.1   | Adição dos requisitos elicitados a partir da entrevista com o usuário 'Monitor' | João Paulo | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled/>| 23/11/2024 |
+| v1.0   | Adição dos requisitos indiretos elicitados a partir da entrevista com o usuário 'Aluno' | João Paulo | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled checked/>| 22/11/2024 |
+| v1.1   | Adição dos requisitos elicitados a partir da entrevista com o usuário 'Monitor' | João Paulo | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled checked/>| 23/11/2024 |

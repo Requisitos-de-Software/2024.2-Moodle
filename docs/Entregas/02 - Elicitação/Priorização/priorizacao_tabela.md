@@ -80,6 +80,6 @@ Fonte: Júlia Lopes, Rodrigo de Andrade
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              | Júlia Lopes, Rodrigo de Andrade| João Paulo | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
-| v1.1   | Alteração do código dos requisitos        | Laís Cecília | - | <input type="checkbox" onclick="return false;" disabled/> | 02/12/2024 |
+| v1.0   | Página Criada              | Júlia Lopes, Rodrigo de Andrade| João Paulo | <input type="checkbox" onclick="return false;" disabled checked/> | 24/11/2024 |
+| v1.1   | Alteração do código dos requisitos        | Laís Cecília | João Paulo | <input type="checkbox" onclick="return false;" disabled checked/> | 02/12/2024 |
 

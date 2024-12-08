@@ -68,5 +68,5 @@ Fonte: Esther Sousa, Júlia Lopes
 
 | Versão | Descrição                  | Autor                   | Revisor                  |Revisado | Data       |
 |--------|----------------------------|-------------------------|--------------------------|------|------|
-| v1.05   | Revisão, adição de rastreabilidade                     | Rodrigo Orlandi     |  Esther Sousa          |<input type="checkbox" onclick="return false;" disabled/>| 23/11/2024 |
-| v1.0   | Criação do documento                     | Esther Sousa, Júlia Lopes     |  Rodrigo Orlandi          |<input type="checkbox" onclick="return false;" disabled/>| 21/11/2024 |
+| v1.0   | Criação do documento                     | Esther Sousa, Júlia Lopes     |  Rodrigo Orlandi          |<input type="checkbox" onclick="return false;" disabled checked/>| 21/11/2024 |
+| v1.05   | Revisão, adição de rastreabilidade                     | Rodrigo Orlandi     |  Esther Sousa          |<input type="checkbox" onclick="return false;" disabled checked/>| 23/11/2024 |

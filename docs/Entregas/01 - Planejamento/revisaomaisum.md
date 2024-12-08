@@ -100,5 +100,5 @@ Estados do artefato:
 | Versão | Descrição              	| Autor               	| Revisor              	| Revisado | Data   	|
 |--------|----------------------------|-------------------------|--------------------------|---------|------------|
 | v1.0   | Revisão +1                	| João Paulo Monteiro, Júlia Lopes, Laís Cecília, Rodrigo Orlandi  	| Esther Sousa   	| <input type= "checkbox" onclick = "return false" disabled checked>| 07/11/2024 |
-| v1.1   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.1   | Formatação                 | Laís Cecília            | João Paulo Monteiro                        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |
 

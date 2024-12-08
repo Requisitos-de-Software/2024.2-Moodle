@@ -63,5 +63,5 @@ Ata da reunião - 15/11/2024
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
 |--------|----------------------------|-------------------------|--------------------------|--------|----|
-| v1.0   | Criação da Ata 04                     | Esther Silva     | Rodrigo Orlandi           | <input type="checkbox" onclick="return false;" disabled/>| 22/11/2024 |
+| v1.0   | Criação da Ata 04                     | Esther Silva     | Rodrigo Orlandi           | <input type="checkbox" onclick="return false;" disabled checked/>| 22/11/2024 |
 

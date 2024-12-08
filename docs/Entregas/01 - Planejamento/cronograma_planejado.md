@@ -164,12 +164,13 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
 
 ---
 
-# Bibliografia
+## Bibliografia
 
 | # | Fonte |
 |---|:------|
 | 1 |SALES, André Barros de. **Plano_de_Ensino RE 022024 Turma 02 v1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 04/11/2024.
 |2 | MACHADO, Maurício, et. al. **Lichess (Wiki online de Requisitos de Software)**. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/). Acesso em: 19/11/2024.  
+
 
 
 ## Histórico
@@ -180,4 +181,4 @@ Essa entrega será realizada ao longo do projeto, verificando e validando artefa
 | v1.05   | Adição de correção pós-entrega, atas, inspeção do nosso e do próximo grupo           | Rodrigo Orlandi     | Esther Sousa       |<input type="checkbox" onclick="return false;" disabled checked/>| 20/11/2024 |
 | v1.1   | Adicionada entrega final           | Rodrigo Orlandi     | Esther Sousa       |<input type="checkbox" onclick="return false;" disabled checked/>| 20/11/2024 |
 | v1.15   | Correção do Monitor - Movida "gravação" para as tabelas    | Rodrigo Orlandi     | Esther Sousa       |<input type="checkbox" onclick="return false;" disabled checked/>| 20/11/2024 |
-| v1.2   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.2   | Formatação                 | Laís Cecília            | Rodrigo Orlandi                        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |

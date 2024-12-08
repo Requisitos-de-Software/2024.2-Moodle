@@ -1072,4 +1072,4 @@ Este programa é distribuído com a esperança de que será útil, mas SEM QUALQ
 | Versão | Descrição                  | Autor                         | Revisor | Revisado| Data       |
 |--------|----------------------------|-------------------------------|---------|----------|------------|
 | v1.0   | Página criada              | Laís Cecília                  | Júlia Lopes       | <input type="checkbox" onclick="return false;" disabled checked/> |04/11/2024 |
-| v1.1   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.1   | Formatação                 | Laís Cecília            | Júlia Lopes                        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |

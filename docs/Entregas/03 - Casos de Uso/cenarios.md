@@ -120,6 +120,6 @@ Fonte: Rodrigo de Andrade
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Feito upload da página | Rodrigo de Andrade| João Paulo | <input type="checkbox" onclick="return false;" disabled/> | 07/12/2024 |
-| v1.1   | RE09                       | Laís Cecília                    | João Paulo               | <input type="checkbox" onclick="return false;" disabled /> | 07/12/2024 |
+| v1.0   | Feito upload da página | Rodrigo de Andrade| João Paulo | <input type="checkbox" onclick="return false;" disabled checked/> | 07/12/2024 |
+| v1.1   | RE09                       | Laís Cecília                    | João Paulo               | <input type="checkbox" onclick="return false;" disabled checked /> | 07/12/2024 |
 
