@@ -12,6 +12,8 @@ De acordo com a [divisão dos requisitos não implementados](https://requisitos-
 
 Os léxicos serão apresentados de acordo com a estrutura da tabela 1, a seguir. Léxicos estão codificados na notação **LX**, onde **X** representa o número do léxico. Léxicos não estão ordenados de acordo com os requisitos como os cenários, considerando que são de utilidade mais geral ao projeto, fazendo com que uma ordenação de acordo com os requisitos não seja tão necessária. 
 
+Os requisitos nos léxicos representam de onde originaram. Os léxicos podem ser aplicáveis em diversos requisitos diferentes, não limitados pela sua origem.
+
 ### L00 - Exemplo
 | Categoria        | Descrição                                                                                  |  
 |------------------|--------------------------------------------------------------------------------------------|
@@ -256,6 +258,7 @@ Tabela 15 — Léxico de ‘limite de tamanho’
 ///
 /// caption
 Fonte: João Paulo, Rodrigo Orlandi
+///
 
 ### L14 - Corrigir
 | Categoria        | Descrição                                                                                  |  
@@ -271,6 +274,7 @@ Tabela 16 — Léxico de ‘corrigir’
 ///
 /// caption
 Fonte: Esther Sousa, Rodrigo Orlandi
+///
 
 ### L15 - Sistema
 | Categoria        | Descrição                                                                                  |  
@@ -286,6 +290,7 @@ Tabela 17 — Léxico de ‘sistema’
 ///
 /// caption
 Fonte: Esther Sousa, Rodrigo Orlandi
+///
 
 ### L16 - Chamada de vídeo
 | Categoria        | Descrição                                                                                  |  
@@ -301,6 +306,7 @@ Tabela 18 — Léxico de ‘sistema’
 ///
 /// caption
 Fonte: Esther Sousa, Rodrigo Orlandi
+///
 
 ### L17 - Curso
 | Categoria        | Descrição                                                                                  |  
@@ -316,6 +322,7 @@ Tabela 19 — Léxico de ‘curso’
 ///
 /// caption
 Fonte: Laís Cecília
+///
 
 ### L18 - Curso arquivado
 | Categoria        | Descrição                                                                                  |  
@@ -331,6 +338,7 @@ Tabela 20 — Léxico de ‘curso arquivado’
 ///
 /// caption
 Fonte: Laís Cecília
+///
 
 ------------
 
