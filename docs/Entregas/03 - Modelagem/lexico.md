@@ -301,6 +301,37 @@ Tabela 18 — Léxico de ‘sistema’
 /// caption
 Fonte: Esther Sousa, Rodrigo Orlandi
 
+### L17 - Curso
+| Categoria        | Descrição                                                                                  |  
+|------------------|--------------------------------------------------------------------------------------------|
+| Nome             | Curso  |
+| Noção            | Seções no moodle nas quais professores ministram suas disciplinas. |
+| Classificação    | Objeto|
+| Impacto          | Agrega tarefas, conteúdos, questionários, participantes e notas|
+| Sinônimo         | Turma, Matéria |
+| Requisito        | RE09|
+/// caption | <
+Tabela 19 — Léxico de ‘curso’
+///
+/// caption
+Fonte: Laís Cecília
+
+### L18 - Curso arquivado
+| Categoria        | Descrição                                                                                  |  
+|------------------|--------------------------------------------------------------------------------------------|
+| Nome             | Curso arquivado  |
+| Noção            | Cursos encerrados pelo professor podem ser acessados como arquivados |
+| Classificação    | Estado |
+| Impacto          | Acesso à esses curso é limitado à modo leitura|
+| Sinônimo         | Curso fechado |
+| Requisito        | RE09|
+/// caption | <
+Tabela 20 — Léxico de ‘curso arquivado’
+///
+/// caption
+Fonte: Laís Cecília
+
+------------
 
 ## Referência
 
