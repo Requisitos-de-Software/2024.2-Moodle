@@ -1718,6 +1718,7 @@
 <h2 id="metodologia">Metodologia<a class="headerlink" href="#metodologia" title="Permanent link">&para;</a></h2>
 <p>De acordo com a <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Casos%20de%20Uso/cenarios/">divisão dos requisitos não implementados</a> realizada, após a execução dos cenários, foram definidos léxicos relacionados aos requisitos e cenários desenvolvidos.</p>
 <p>Os léxicos serão apresentados de acordo com a estrutura da tabela 1, a seguir. Léxicos estão codificados na notação <strong>LX</strong>, onde <strong>X</strong> representa o número do léxico. Léxicos não estão ordenados de acordo com os requisitos como os cenários, considerando que são de utilidade mais geral ao projeto, fazendo com que uma ordenação de acordo com os requisitos não seja tão necessária. </p>
+<p>Os requisitos nos léxicos representam de onde originaram. Os léxicos podem ser aplicáveis em diversos requisitos diferentes, não limitados pela sua origem.</p>
 <h3 id="l00-exemplo">L00 - Exemplo<a class="headerlink" href="#l00-exemplo" title="Permanent link">&para;</a></h3>
 <figure>
 <figure>
@@ -2353,8 +2354,6 @@
 <h3 id="l13-limite-de-tamanho">L13 - Limite de tamanho<a class="headerlink" href="#l13-limite-de-tamanho" title="Permanent link">&para;</a></h3>
 <figure>
 <figure>
-<figure>
-<figure>
 <figcaption>
 <p>Tabela 15 — Léxico de ‘limite de tamanho’</p>
 </figcaption>
@@ -2395,14 +2394,55 @@
 </figure>
 <figcaption>
 <p>Fonte: João Paulo, Rodrigo Orlandi</p>
+</figcaption>
+</figure>
 <h3 id="l14-corrigir">L14 - Corrigir<a class="headerlink" href="#l14-corrigir" title="Permanent link">&para;</a></h3>
 <figure>
-<figcaption>
 <figure>
+<figcaption>
 <p>Tabela 16 — Léxico de ‘corrigir’</p>
+</figcaption>
+<table>
+<thead>
+<tr>
+<th>Categoria</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nome</td>
+<td>Corrigir</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Ato de verificar as respostas da tarefa enviada com o intuito de classificar como correto, incompleto ou errado. Pode ser realizado pelos usuários ‘professor’ e ‘monitor’.</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>Permite que usuários ‘professor’ e ‘monitor’ possam verificar as tarefas enviadas do aluno. Permite que o aluno possa verificar o feedback das tarefas.</td>
+</tr>
+<tr>
+<td>Sinônimo</td>
+<td>Verificar</td>
+</tr>
+<tr>
+<td>Requisito</td>
+<td>RE26</td>
+</tr>
+</tbody>
+</table>
+</figure>
 <figcaption>
 <p>Fonte: Esther Sousa, Rodrigo Orlandi</p>
+</figcaption>
+</figure>
 <h3 id="l15-sistema">L15 - Sistema<a class="headerlink" href="#l15-sistema" title="Permanent link">&para;</a></h3>
+<figure>
 <figure>
 <figcaption>
 <p>Tabela 17 — Léxico de ‘sistema’</p>
@@ -2442,8 +2482,15 @@
 </tbody>
 </table>
 </figure>
+<figcaption>
+<p>Fonte: Esther Sousa, Rodrigo Orlandi</p>
 </figcaption>
 </figure>
+<h3 id="l16-chamada-de-video">L16 - Chamada de vídeo<a class="headerlink" href="#l16-chamada-de-video" title="Permanent link">&para;</a></h3>
+<figure>
+<figure>
+<figcaption>
+<p>Tabela 18 — Léxico de ‘sistema’</p>
 </figcaption>
 <table>
 <thead>
@@ -2455,43 +2502,37 @@
 <tbody>
 <tr>
 <td>Nome</td>
-<td>Corrigir</td>
+<td>Chamada de vídeo</td>
 </tr>
 <tr>
 <td>Noção</td>
-<td>Ato de verificar as respostas da tarefa enviada com o intuito de classificar como correto, incompleto ou errado. Pode ser realizado pelos usuários ‘professor’ e ‘monitor’.</td>
+<td>Funcionalidade do sistema que permite usuários se encontrarem em uma sala virtual, realizando uma chamada virtual em que se assemelhe a uma aula. Todos podem falar e ser escutados.</td>
 </tr>
 <tr>
 <td>Classificação</td>
-<td>Verbo</td>
+<td>Estado</td>
 </tr>
 <tr>
 <td>Impacto</td>
-<td>Permite que usuários ‘professor’ e ‘monitor’ possam verificar as tarefas enviadas do aluno. Permite que o aluno possa verificar o feedback das tarefas.</td>
+<td>Permite a realização de aulas remotas</td>
 </tr>
 <tr>
 <td>Sinônimo</td>
-<td>Verificar</td>
+<td>Videochamada, <em>videocall</em>, <em>call</em></td>
 </tr>
 <tr>
 <td>Requisito</td>
-<td>RE26</td>
+<td>RE28</td>
 </tr>
 </tbody>
 </table>
 </figure>
+<figcaption>
+<p>Fonte: Esther Sousa, Rodrigo Orlandi</p>
 </figcaption>
 </figure>
-<figcaption>
-<p>Fonte: Esther Sousa, Rodrigo Orlandi</p>
-<h3 id="l16-chamada-de-video">L16 - Chamada de vídeo<a class="headerlink" href="#l16-chamada-de-video" title="Permanent link">&para;</a></h3>
-<figure>
-<figcaption>
-<figure>
-<p>Tabela 18 — Léxico de ‘sistema’</p>
-<figcaption>
-<p>Fonte: Esther Sousa, Rodrigo Orlandi</p>
 <h3 id="l17-curso">L17 - Curso<a class="headerlink" href="#l17-curso" title="Permanent link">&para;</a></h3>
+<figure>
 <figure>
 <figcaption>
 <p>Tabela 19 — Léxico de ‘curso’</p>
@@ -2531,8 +2572,15 @@
 </tbody>
 </table>
 </figure>
+<figcaption>
+<p>Fonte: Laís Cecília</p>
 </figcaption>
 </figure>
+<h3 id="l18-curso-arquivado">L18 - Curso arquivado<a class="headerlink" href="#l18-curso-arquivado" title="Permanent link">&para;</a></h3>
+<figure>
+<figure>
+<figcaption>
+<p>Tabela 20 — Léxico de ‘curso arquivado’</p>
 </figcaption>
 <table>
 <thead>
@@ -2544,11 +2592,11 @@
 <tbody>
 <tr>
 <td>Nome</td>
-<td>Chamada de vídeo</td>
+<td>Curso arquivado</td>
 </tr>
 <tr>
 <td>Noção</td>
-<td>Funcionalidade do sistema que permite usuários se encontrarem em uma sala virtual, realizando uma chamada virtual em que se assemelhe a uma aula. Todos podem falar e ser escutados.</td>
+<td>Cursos encerrados pelo professor podem ser acessados como arquivados</td>
 </tr>
 <tr>
 <td>Classificação</td>
@@ -2556,30 +2604,23 @@
 </tr>
 <tr>
 <td>Impacto</td>
-<td>Permite a realização de aulas remotas</td>
+<td>Acesso à esses curso é limitado à modo leitura</td>
 </tr>
 <tr>
 <td>Sinônimo</td>
-<td>Videochamada, <em>videocall</em>, <em>call</em></td>
+<td>Curso fechado</td>
 </tr>
 <tr>
 <td>Requisito</td>
-<td>RE28</td>
+<td>RE09</td>
 </tr>
 </tbody>
 </table>
 </figure>
+<figcaption>
+<p>Fonte: Laís Cecília</p>
 </figcaption>
 </figure>
-<figcaption>
-<p>Fonte: Laís Cecília</p>
-<h3 id="l18-curso-arquivado">L18 - Curso arquivado<a class="headerlink" href="#l18-curso-arquivado" title="Permanent link">&para;</a></h3>
-<figure>
-<figcaption>
-<figure>
-<p>Tabela 20 — Léxico de ‘curso arquivado’</p>
-<figcaption>
-<p>Fonte: Laís Cecília</p>
 <hr />
 <h2 id="referencia">Referência<a class="headerlink" href="#referencia" title="Permanent link">&para;</a></h2>
 <table>
@@ -2619,46 +2660,6 @@
 </tr>
 </tbody>
 </table>
-</figcaption>
-</figure>
-</figcaption>
-<table>
-<thead>
-<tr>
-<th>Categoria</th>
-<th>Descrição</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Nome</td>
-<td>Curso arquivado</td>
-</tr>
-<tr>
-<td>Noção</td>
-<td>Cursos encerrados pelo professor podem ser acessados como arquivados</td>
-</tr>
-<tr>
-<td>Classificação</td>
-<td>Estado</td>
-</tr>
-<tr>
-<td>Impacto</td>
-<td>Acesso à esses curso é limitado à modo leitura</td>
-</tr>
-<tr>
-<td>Sinônimo</td>
-<td>Curso fechado</td>
-</tr>
-<tr>
-<td>Requisito</td>
-<td>RE09</td>
-</tr>
-</tbody>
-</table>
-</figure>
-</figcaption>
-</figure>
 
 
 
