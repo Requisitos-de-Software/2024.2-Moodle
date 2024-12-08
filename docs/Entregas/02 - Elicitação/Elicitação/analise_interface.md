@@ -157,5 +157,5 @@ Para verificar o que o Moodle poderia implementar, foram analisados apps que pod
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              | Laís Cecília, Rodrigo de Andrade| Esther Sousa                        | <input type="checkbox" onclick="return false;" disabled/> | 22/11/2024 |
-| v1.1   | Requisitos de competidores | Júlia Lopes, Laís Cecília       | Rodrigo Orlandi                        | <input type="checkbox" onclick="return false;" disabled/> | 23/11/2024 |
+| v1.0   | Página Criada              | Laís Cecília, Rodrigo de Andrade| Esther Sousa                        | <input type="checkbox" onclick="return false;" disabled checked/> | 22/11/2024 |
+| v1.1   | Requisitos de competidores | Júlia Lopes, Laís Cecília       | Rodrigo Orlandi                        | <input type="checkbox" onclick="return false;" disabled checked/> | 23/11/2024 |

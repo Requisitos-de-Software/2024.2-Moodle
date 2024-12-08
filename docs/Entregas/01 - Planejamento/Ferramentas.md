@@ -35,5 +35,5 @@ Fonte: Esther Silva
 |--------|---------------|--------------|-------------|----------|------------|
 | v1.0   | Tabela criada | Esther Silva | Rodrigo Dias |<input type="checkbox" onclick="return false;" disabled checked/>| 05/11/2024 |
 | v1.1   | Atualização da tabela | Esther Silva | Rodrigo Dias |<input type="checkbox" onclick="return false;" disabled checked/>| 05/11/2024 |
-| v1.2   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.2   | Formatação                 | Laís Cecília            | Rodrigo Orlandi                        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |
 

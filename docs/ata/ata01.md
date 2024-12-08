@@ -49,4 +49,4 @@ Ata da reunião - 17/10/2024
 | v1.0   | Ata 01                     | João Paulo Monteiro     | Rodrigo de Andrade       |<input type="checkbox" onclick="return false;" disabled checked/>| 26/10/2024 |
 | v1.1   | Padronização               | Laís Cecília            | Esther Sousa             |<input type="checkbox" onclick="return false;" disabled checked/>| 28/10/2024 |
 | v1.2   | Video embed                | Laís Cecília            | Esther Sousa             |<input type="checkbox" onclick="return false;" disabled checked/>| 31/10/2024 |
-| v1.3   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.3   | Formatação                 | Laís Cecília            | Rodrigo de Andrade                        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |

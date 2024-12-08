@@ -36,4 +36,4 @@ Ata da reunião - 24/10/2024
 |--------|----------------------------|-------------------------|--------------------------|-----------------------------------------------------------------|------------|
 | v1.0   | Ata 02                     | João Paulo Monteiro     | Rodrigo Orlandi          |<input type="checkbox" onclick="return false;" disabled checked/>| 05/11/2024 |
 | v1.1   | Corrigido embed            | Rodrigo Orlandi         | João Paulo Monteiro      |<input type="checkbox" onclick="return false;" disabled checked/>| 05/11/2024 |
-| v1.2   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.2   | Formatação                 | Laís Cecília            | Rodrigo Orlandi          |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |

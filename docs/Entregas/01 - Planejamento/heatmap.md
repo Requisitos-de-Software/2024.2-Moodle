@@ -19,4 +19,4 @@ Fonte: Júlia Lopes Farias
 | Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
 |--------|----------------------------|-------------------------|--------------------------|----------|------------|
 | v1.0   | heatmap                    | Júlia Lopes Farias      | Laís Cecília             | <input type= "checkbox" onclick= "return false" disabled checked/>| 05/11/2024 |
-| v1.1   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.1   | Formatação                 | Laís Cecília            | Júlia Lopes Farias        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |

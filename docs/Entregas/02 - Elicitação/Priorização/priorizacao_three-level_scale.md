@@ -126,5 +126,5 @@ Fonte: Esther Sousa, João Paulo
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Revisado| Data       |
 |--------|----------------------------|-------------------------|--------------------------|-------|-----|
-| v1.0   | Priorização Three-Level Scale   | João Paulo e Esther Silva|Rodrigo Orlandi | <input type="checkbox" onclick="return false" disabled/> |24/11/2024 |
-| v1.1   | Alteração do código dos requisitos        | Laís Cecília | - | <input type="checkbox" onclick="return false;" disabled/> | 02/12/2024 |
+| v1.0   | Priorização Three-Level Scale   | João Paulo e Esther Silva|Rodrigo Orlandi | <input type="checkbox" onclick="return false" disabled checked/> |24/11/2024 |
+| v1.1   | Alteração do código dos requisitos        | Laís Cecília | Júlia Lopes | <input type="checkbox" onclick="return false;" disabled checked/> | 02/12/2024 |

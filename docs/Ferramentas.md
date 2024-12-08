@@ -29,8 +29,8 @@ Aqui estão listadas todas as ferramentas que serão ultilizadas para o desenvol
 
 ## Histórico
 
-| Versão | Descrição     | Autor        | Revisor     | Data       |
-|--------|---------------|--------------|-------------|------------|
-| v1.0   | Tabela criada | Esther Silva | Rodrigo de Andrade | 05/11/2024 |
-| v1.1   | Atualização da tabela | Esther Silva | Rodrigo de Andrade | 05/11/2024 |
-| v1.2   | Atualização da tabela | Esther Silva |  | 23/11/2024 |
+| Versão | Descrição     | Autor        | Revisor     | Revisado | Data       |
+|--------|---------------|--------------|-------------|--------|--------------|
+| v1.0   | Tabela criada | Esther Silva | Rodrigo de Andrade |<input type="checkbox" onclick="return false;" disabled checked/> | 05/11/2024 |
+| v1.1   | Atualização da tabela | Esther Silva | Rodrigo de Andrade |<input type="checkbox" onclick="return false;" disabled checked/>| 05/11/2024 |
+| v1.2   | Atualização da tabela | Esther Silva | Laís Cecília |<input type="checkbox" onclick="return false;" disabled checked/> | 23/11/2024 |
