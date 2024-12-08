@@ -77,4 +77,4 @@ Itens são avaliados das seguintes formas:
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              | João Paulo |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
+| v1.0   | Página Criada              | João Paulo, Júlia Lopes |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
