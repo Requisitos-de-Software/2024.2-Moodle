@@ -61,17 +61,35 @@ Os cenários foram codificados na ordem dos requisitos não implementados. **C01
 |------------------|--------------------------------------------------------------------------------------------|
 | Objetivo         | O usuário ‘Aluno’ tem de fazer upload de uma tarefa em um minuto. |
 | Contexto         | - **Local**: Casa do usuário; **Tempo**: Noite, 23:58; **Pré-Condições**: Ter um dispositivo com um aplicativo que utilize o Moodle como base (Aprender3) | 
-| Recursos         | - Smartphone; Aplicativo de framework Moodle | 
+| Recursos         | - Smartphone/computador; Aplicativo de framework Moodle | 
 | Ator             | - Usuário ‘Estudante’ de um aplicativo de framework Moodle  | 
-| Episódios        | **1**. O usuário faz login acessa o aplicativo de framework Moodle; **2**. O usuário acessa a disciplina e encontra a entrega da tarefa; **3**. O usuário faz upload da tarefa e clica em enviar tarefa; **4**. A tarefa é considerada enviada com sucesso. | 
+| Episódios        | **1**. O usuário faz login e acessa o aplicativo de framework Moodle; **2**. O usuário acessa a disciplina e encontra a entrega da tarefa; **3**. O usuário faz upload da tarefa e clica em enviar tarefa; **4**. A tarefa é considerada enviada com sucesso. | 
 | Restrições       | A tarefa será fechada em um minuto</br>; Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos | 
-| Exceções     | Smartphone sem conexão à Internet; Smartphone sem bateria. |
+| Exceções     | Smartphone/computador sem conexão à Internet; Smartphone/computador sem bateria. |
 /// caption | <
 Tabela 3 — Cenário referente ao RE22: O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique.
 ///
 /// caption
 Fonte: Rodrigo de Andrade
 ///
+
+### C09 - Upload Rápido de Tarefa
+| Categoria        | Descrição                                                                                  |  
+|------------------|--------------------------------------------------------------------------------------------|
+| Objetivo         |  O usuário ‘Aluno’ tem de encontrar a turma na qual está matriculado, ao inserir a senha entregue para ingressar na disciplina. |
+| Contexto         | - **Local**: Casa do usuário; **Tempo**: Após a aula, 20:00. **Pré-Condições**: Ter um dispositivo com um aplicativo que utilize o Moodle como base (Aprender3) |
+| Recursos         | - Smartphone/computador; Aplicativo de framework Moodle |
+| Ator             | - Usuário ‘Estudante’ de um aplicativo de framework Moodle  |
+| Episódios        | **1**. O usuário faz login e acessa o aplicativo de framework Moodle; **2**. O usuário encontra a barra de busca e insere o código da matéria; **3**. O usuário se inscreve na matéria ao utilizar a senha. |
+| Restrições       | A barra de busca de disciplina tem de estar facilmente localizável |
+| Exceções     | Smartphone sem conexão à Internet; Smartphone sem bateria. |
+/// caption | <
+Tabela 12 — Cenário referente ao RE31: Encontrar a barra de busca de turmas é facilmente localizável e intuitiva.
+///
+/// caption
+Fonte: Rodrigo de Andrade
+///
+
 
 ## Referências
 
