@@ -34,6 +34,7 @@ Fonte: Rodrigo de Andrade
 A figura 1, a seguir, apresenta o diagrama de casos de uso, originalmente convertido dos trabalhos individuais dos membro. As tabelas 2-6, a seguir, explicam individualmente os casos de uso e seus detalhes em específico.
 
 ![Diagrama de caso de uso](../../img/diagrama_ucs_v1.png)
+### **Figura 1**: Diagrama de casos de uso do Moodle com enfoque nos requisitos não implementados. **Fonte**: Rodrigo Orlandi
 
 |UC001| Procurar turma|
 |---:|-----------|
