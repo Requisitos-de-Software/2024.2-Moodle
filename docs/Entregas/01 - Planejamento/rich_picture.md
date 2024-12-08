@@ -17,4 +17,4 @@ Fonte: João Paulo, Rodrigo Orlandi, Esther Souza
 | Versão | Descrição                  | Autor                         | Revisor | Revisado | Data       |
 |--------|----------------------------|-------------------------------|---------|--|------------|
 | v1.0   | Criação da Rich Picture | Rodrigo Orlandi, João Paulo, Esther Sousa     | Laís Cecília       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
-| v1.1   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.1   | Formatação                 | Laís Cecília            | Esther Sousa                        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |

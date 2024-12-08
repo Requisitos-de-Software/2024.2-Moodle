@@ -57,4 +57,4 @@ Ata da reunião - 31/10/2024
 |--------|----------------------------|-------------------------|--------------------------|-----------------------------------------------------------------|------------|
 | v1.0   | Ata 03                     | João Paulo Monteiro     | Rodrigo de Andrade       |<input type="checkbox" onclick="return false;" disabled checked/>| 31/10/2024 |
 | v1.1   | Adicionado link correto    | Rodrigo de Andrade      |   João Paulo Monteiro    |<input type="checkbox" onclick="return false;" disabled checked/>| 31/10/2024 |
-| v1.2   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.2   | Formatação                 | Laís Cecília            | Rodrigo de Andrade       |<input type="checkbox" onclick="return false;" disabled checked/>| 23/11/2024 |

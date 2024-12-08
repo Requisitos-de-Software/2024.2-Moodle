@@ -46,8 +46,8 @@ Fonte: Autores
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              |Júlia Lopes e Rodrigo de Andrade| João Paulo Rodrigues                        | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
-| v1.1   | Adição da coluna de Origem |João Paulo Rodrigues| Júlia Lopes | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
-| v1.2   | Melhor rastreabilidade de duplicatas | Laís Cecília          | João Paulo Rodrigues     | <input type="checkbox" onclick="return false;" disabled/> | 02/12/2024 |
-| v1.3   | Corrigir requisitos 20 e 22 | Rodrigo Orlandi         | Laís Cecília     | <input type="checkbox" onclick="return false;" disabled/> | 07/12/2024 |
+| v1.0   | Página Criada              |Júlia Lopes e Rodrigo de Andrade| João Paulo Rodrigues                        | <input type="checkbox" onclick="return false;" disabled checked/> | 24/11/2024 |
+| v1.1   | Adição da coluna de Origem |João Paulo Rodrigues| Júlia Lopes | <input type="checkbox" onclick="return false;" disabled checked/> | 24/11/2024 |
+| v1.2   | Melhor rastreabilidade de duplicatas | Laís Cecília          | João Paulo Rodrigues     | <input type="checkbox" onclick="return false;" disabled checked/> | 02/12/2024 |
+| v1.3   | Corrigir requisitos 20 e 22 | Rodrigo Orlandi         | Laís Cecília     | <input type="checkbox" onclick="return false;" disabled checked/> | 07/12/2024 |
 

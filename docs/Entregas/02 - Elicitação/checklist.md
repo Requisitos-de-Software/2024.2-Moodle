@@ -66,5 +66,5 @@ Itens são avaliados das seguintes formas:
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              | Laís Cecília                    | Esther Sousa                         | <input type="checkbox" onclick="return false;" disabled/> | 24/11/2024 |
+| v1.0   | Página Criada              | Laís Cecília                    | Esther Sousa                         | <input type="checkbox" onclick="return false;" disabled checked/> | 24/11/2024 |
 | v1.1   | Checklist preenchida       | Todos                           | n/a                      | n/a                               | 24/11/2024 |

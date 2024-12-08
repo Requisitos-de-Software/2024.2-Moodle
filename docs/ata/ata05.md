@@ -44,4 +44,4 @@ Ata da reunião - 22/11/2024
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
 |--------|----------------------------|-------------------------|--------------------------|-------|-----|
-| v1.0   | Ata 05                     | João Paulo Monteiro     | Rodrigo Orlandi                     | <input type="checkbox" onclick="return false;" disabled/>| 23/11/2024 |
+| v1.0   | Ata 05                     | João Paulo Monteiro     | Rodrigo Orlandi                     | <input type="checkbox" onclick="return false;" disabled checked/>| 23/11/2024 |

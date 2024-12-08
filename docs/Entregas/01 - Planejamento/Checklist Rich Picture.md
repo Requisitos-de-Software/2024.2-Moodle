@@ -62,4 +62,4 @@ Itens são avaliados das seguintes formas:
 |--------|----------------------------|-------------------------------|---------|------------|------------|
 | v1.0   | Checklist Criada           | Júlia Lopes, Laís Cecília     | Rodrigo Orlandi       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
 | v1.1   | Preenchida com base na [Rich Picture](./rich_picture.md) (v1.0)| Laís Cecília | Rodrigo Orlandi |<input type="checkbox" onclick="return false;" disabled checked/>| 06/11/2024 |
-| v1.2   | Formatação                 | Laís Cecília            | -                        |<input type="checkbox" onclick="return false;" disabled/>        | 23/11/2024 |
+| v1.2   | Formatação                 | Laís Cecília            | Rodrigo Orlandi        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |
