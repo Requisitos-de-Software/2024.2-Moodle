@@ -256,6 +256,7 @@ Tabela 15 — Léxico de ‘limite de tamanho’
 ///
 /// caption
 Fonte: João Paulo, Rodrigo Orlandi
+
 ### L14 - Corrigir
 | Categoria        | Descrição                                                                                  |  
 |------------------|--------------------------------------------------------------------------------------------|
