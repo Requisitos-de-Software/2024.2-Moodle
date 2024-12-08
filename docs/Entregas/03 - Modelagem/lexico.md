@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Léxico é uma técnica que busca descrever os símbolos de uma linguagem, sendo representada pela notação LAL - Léxico Ampliado da Linguagem [(SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). 
+Léxico é uma técnica que "busca descrever os símbolos de uma linguagem, sendo representada pela notação LAL - Léxico Ampliado da Linguagem" [(SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). 
 
 A definição de léxicos auxilia na especificação de requisitos ao definir termos que serão utilizados ao longo do projeto, auxiliando a compreensão da equipe acerca dos requisitos do projeto.
 
