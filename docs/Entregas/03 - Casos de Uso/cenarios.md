@@ -43,7 +43,7 @@ Após separar os requisitos não implementados, estes foram divididos entre a eq
 | João Paulo       | RE21, RE25 |
 | Rodrigo Orlandi  | RE22, RE31 |
 /// caption | <
-Tabela 2 — Cenário referente ao RE22, que não foi implementado no projeto.
+Tabela 2 — Divisão de membros e seus respectivos requisitos não implementados escolhidos.
 ///
 /// caption
 Fonte: Rodrigo de Andrade
@@ -67,7 +67,7 @@ Os cenários foram codificados na ordem dos requisitos não implementados. **C01
 | Restrições       | A tarefa será fechada em um minuto</br>; Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos | 
 | Exceções     | Smartphone sem conexão à Internet; Smartphone sem bateria. |
 /// caption | <
-Tabela 3 — Cenário referente ao RE22, que não foi implementado no projeto.
+Tabela 3 — Cenário referente ao RE22: O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique.
 ///
 /// caption
 Fonte: Rodrigo de Andrade
