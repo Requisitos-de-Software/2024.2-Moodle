@@ -73,6 +73,12 @@ Itens são avaliados das seguintes formas:
 
 ---
 
+## Referência
+
+| # | Fonte|
+|---|:------|
+| 1 | SALES, André Barros de. **Plano_de_Ensino RE 022024 Turma 02 v1**. UnB Gama (FCTE). Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 08/12/2024. |
+
 ## Histórico
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
