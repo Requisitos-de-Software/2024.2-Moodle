@@ -40,6 +40,6 @@ Ata da reunião - 28/11/2024
 ## Histórico
 
 
-| Versão | Descrição                  | Autor                   | Revisor                  | Data       |
-|--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | Criação da Ata 06                     | Esther Sousa     |       | 28/11/2024 |
+| Versão | Descrição                  | Autor                   | Revisor    | Revisado              | Data       |
+|--------|----------------------------|-------------------------|------------------|--------|------------|
+| v1.0   | Criação da Ata 06                     | Esther Sousa     |       |  <input type="checkbox" onclick="return false;" disabled checked/>| 28/11/2024 |
