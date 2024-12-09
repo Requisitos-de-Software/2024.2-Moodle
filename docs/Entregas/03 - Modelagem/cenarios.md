@@ -5,7 +5,7 @@
 Cenários, de acordo com Barbosa et. al, são uma narrativa, textual ou pictórica, concreta, rica em detalhes
 contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais [(BARBOSA, 2021)](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf)".
 
-Cenários são principalmente utilizados para ilustrar casos em que requisitos se tornam mais claros, ajudando a elicitação e no entendimento, tornando-os menos abstraros e mais concretos. Necessita-se dos [requisitos elicitados](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/arequisitos_elicitados/), ou pelo menos uma versão inicial, para que cenários possam ser implementados de maneira satisfatória. 
+Cenários são principalmente utilizados para ilustrar casos em que requisitos se tornam mais claros, ajudando a elicitação e no entendimento, tornando-os menos abstraros e mais concretos. Necessita-se dos [requisitos elicitados](/Entregas/02%20-%20Elicitação/arequisitos_elicitados), ou pelo menos uma versão inicial, para que cenários possam ser implementados de maneira satisfatória. 
 
 Usar cenários na especificação de requisitos "tem um forte impacto positivo na qualidade de requisitos, nomeadamente ao nível da adequação, completude parcial, habilidade de modificação e habilidade de verificação - desde que os cenários sejam usados de forma adequada" [(WIKIPEDIA, 2008)](https://pt.wikipedia.org/wiki/Cen%C3%A1rio_(software)).
 
@@ -13,7 +13,7 @@ Usar cenários na especificação de requisitos "tem um forte impacto positivo n
 
 Dentro da especificação de requisitos, a utilização de cenários no projeto foi baseada em requisitos não implementados no aplicativo analisado, Moodle. A aproximação justifica-se pelo intuito do projeto de analisar pontos que podem ser implementados ou melhorados no aplicativo, visando apresentar sugestões efetivas sobre sua performance como resultado do esforço contínuo, aplicado ao longo da disciplina de Requisitos de Software. 
 
-A lista de requisitos elicitados não implementados no aplicativo foi definida com base nos [requisitos elicitados do projeto](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/arequisitos_elicitados/), e está disponível na tabela 1, a seguir:
+A lista de requisitos elicitados não implementados no aplicativo foi definida com base nos [requisitos elicitados do projeto](/Entregas/02%20-%20Elicitação/arequisitos_elicitados), e está disponível na tabela 1, a seguir:
 
 ### Requisitos não implementados
 | Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  | Origem |
