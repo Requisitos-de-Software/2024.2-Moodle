@@ -29,6 +29,22 @@ Tabela 1 — Divisão de requisitos não implementados, seus responsáveis e os 
 Fonte: Rodrigo de Andrade (Autor)
 ///
 
+### Especificação do Diagrama de Caso de Uso
+
+A estrutura do diagrama de caso de uso é dividida em Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção. 
+
+* **Nome** se refere ao título do diagrama de uso, identificando-o; 
+
+* **Descrição** se refere à [especificação de casos de uso](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso) presentes após o diagrama de caso de uso, descrevendo os casos, pré e pós-condições, fluxos principais, alternativos e de exceção;    
+
+* **Atores** são divididos entre atores primários e secundários. Atores primários têm interesse em acessar o sistema para receber um serviço diretamente. Os atores secundários, também conhecidos como atores de suporte, interagem com o sistema para fornecer algum tipo de serviço ou informação. Os atores primários estão sempre presentes à esquerda do sistema, e os secundários à direita. No Moodle, os usuários 'Aluno', 'Professor' e 'Monitor' são atores primários e secundários;
+
+* **Pré-Condição** se refere ao fluxo ou caso de uso anterior que possibilita o caso de uso ou fluxo atual sendo analisado;
+
+* **Pós-Condição** se refere ao fluxo ou caso de uso posterior, que ocorre após o caso de uso ou fluxo atual sendo analisado. Normalmente segue o fluxo principal;
+
+* **Fluxos** são divididos em fluxos primários, alternativos e de exceção. Fluxos primários determinam o caminho ideal a ser seguido sobre casos de uso. Fluxos alternativos demonstram possibilidades de navegação do sistema, dependendo das necessidades e intenções do usuário. Fluxos de exceção determinam casos em que ocorrem erros, preparando o sistema para agir de acordo.
+
 ## Diagrama de Caso de Uso
 
 A figura 1, a seguir, apresenta o diagrama de casos de uso, originalmente convertido dos trabalhos individuais dos membro. As tabelas 2-7, a seguir, explicam individualmente os casos de uso e seus detalhes em específico.
