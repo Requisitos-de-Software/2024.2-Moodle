@@ -27,7 +27,7 @@ Os requisitos não funcionais, na especificação suplementar, são divididos de
 
 * **Performance**: Como é o desempenho desse software? Ele é rápido?
 
-* **Confiabilidade**: No desenho desse software, como lidou-se com: manutenibilidade, adaptabilidade, internacionalização, portabilidade e outros aspectos relevantes para extensibilidade desse software?
+* **Sustentabilidade**: No desenho desse software, como lidou-se com: manutenibilidade, adaptabilidade, internacionalização, portabilidade e outros aspectos relevantes para extensibilidade desse software?
 
 A tabela 2, a seguir, demonstra a especificação de como vão ficar os requisitos classificados de acordo com o FURPS+:
 
