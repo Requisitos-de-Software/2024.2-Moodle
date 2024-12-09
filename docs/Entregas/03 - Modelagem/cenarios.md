@@ -3,7 +3,7 @@
 ## Introdução
 
 Cenários, de acordo com Barbosa et. al, são uma narrativa, textual ou pictórica, concreta, rica em detalhes
-contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais [(BARBOSA, 2021)](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf)".
+contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais [(BARBOSA, 2021)](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf).
 
 
 Cenários são principalmente utilizados para ilustrar casos em que requisitos se tornam mais claros, ajudando a elicitação e no entendimento, tornando-os menos abstraros e mais concretos. Necessita-se dos [requisitos elicitados](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/arequisitos_elicitados/), ou pelo menos uma versão inicial, para que cenários possam ser implementados de maneira satisfatória. 
