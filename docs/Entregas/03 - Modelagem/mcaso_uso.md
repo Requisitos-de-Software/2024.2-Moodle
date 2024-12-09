@@ -26,7 +26,7 @@ Cada membro ficou responsável por trazer casos de uso relevantes aos requisitos
 Tabela 1 — Divisão de requisitos não implementados, seus responsáveis e os casos de uso em que foram convertidos.
 ///
 /// caption
-Fonte: Rodrigo de Andrade
+Fonte: Rodrigo de Andrade (Autor)
 ///
 
 ## Diagrama de Caso de Uso
@@ -34,114 +34,137 @@ Fonte: Rodrigo de Andrade
 A figura 1, a seguir, apresenta o diagrama de casos de uso, originalmente convertido dos trabalhos individuais dos membro. As tabelas 2-6, a seguir, explicam individualmente os casos de uso e seus detalhes em específico.
 
 ![Diagrama de caso de uso](../../img/diagrama_ucs_v1.png)
-
-|UC001| Procurar turma|
-|---:|-----------|
-|**Atores**| Qualquer usuário|
-|**Frequência de uso**| Alta|
-|**Requisitos**| A turma procurada tem de estar no sistema |
-|**Condição de entrada**| Usuário está ou não está cadastrado em uma turma |
-|**Fluxo Principal**| Usuário encontra a barra de "pesquisar turmas" na página principal |
-|**Fluxos Alternativo**| Usuário encontra turmas com mesmo nome (FA001) |
-|**Fluxos de Exceção**| A turma não existe (FE001)|
-|**Pós Condição**| O usuário haverá encontrado a turma (FP001)|
-|**Rastreabilidade**| RE031|
 /// caption | <
-Tabela 2 — Primeiro caso de uso, que representa a procura de turmas.
+Figura 1 — Diagrama de casos de uso do Moodle com enfoque nos requisitos não implementados.
 ///
 /// caption
-Fonte: Júlia Lopes, Rodrigo Orlandis
+Fonte: Rodrigo Orlandi (Autor)
 ///
 
-|UC002| Ver turmas arquivadas|
-|---:|-----------|
-|**Atores**| Qualquer usuário|
-|**Frequência de uso**| Baixa|
-|**Requisitos**| Já ter sido cadastrado na turma arquivada |
-|**Condição de entrada**| Usuário clica em um dos seus cursos arquivados|
-|**Fluxo Principal**| O sistema apresenta o curso no modo leitura |
-|**Fluxos Alternativo**| Não há |
-|**Fluxos de Exceção**| Não há |
-|**Pós Condição**| O usuário estará na página do curso, em modo leitura|
-|**Rastreabilidade**| RE09, RE |
-/// caption | <
-Tabela 3 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
-///
-/// caption
-Fonte: Laís Cecília
-///
+## Especificação Suplementar
 
-|UC003| Auto-compactação de tarefas |
-|---:|-----------|
-|**Atores**| Aluno |
-|**Frequência de uso**| Média |
-|**Requisitos**| Já ter sido cadastrado na turma em que deseja enviar tarefa, ter baixado e realizado a tarefa |
-|**Condição de entrada**| Usuário clica em submeter tarefas (FP003)|
-|**Fluxo Principal**| Usuário, no processo de submeter tarefas (FP003), compacta o arquivo com sucesso (UC003)|
-|**Fluxos Alternativo**| Não há |
-|**Fluxos de Exceção**| Ocorre uma falha na compactação de arquivs (FE003) |
-|**Pós Condição**| O usuário consegue comprimir o arquivo e enviá-lo ao sistema|
-|**Rastreabilidade**| RE25 |
-/// caption | <
-Tabela 4 — Terceiro caso de uso, que representa a auto-compactação de tarefas no momento de seu envio.
-///
-/// caption
-Fonte: João Paulo
-///
 
-|UC004| Buscar tópico dentro da turma|
-|---:|-----------|
-|**Atores**| Qualquer usuário|
-|**Frequência de uso**| Alta|
-|**Requisitos**| Estar matriculado no curso |
-|**Condição de entrada**| Usuário clica em um dos seus cursos|
-|**Fluxo Principal**| O sistema apresenta o curso no modo interativo |
-|**Fluxos Alternativo**| 1. Se o usuário for um professor, o curso pode ser aberto no modo edição <br> 2. Se o usuário for um monitor, o curso é aberto no modo leitura |
-|**Fluxos de Exceção**| Não há |
-|**Pós Condição**| O usuário estará na página do curso|
-|**Rastreabilidade**| RE02 |
-/// caption | <
-Tabela 5 — Divisão de requisitos não implementados, seus responsáveis e os casos de uso em que foram convertidos.
-///
-/// caption
-Fonte: Laís Cecília
-///
+=== "UC001"
 
-|UC05| Abrir uma vídeochamada |
-|---:|-----------|
-|**Atores**| Professor |
-|**Frequência de uso**| - |
-|**Requisitos**| Usuário 'Professor' estar cadastrado  como 'Professor' na turma na qual a vídeochamada for aberta |
-|**Condição de entrada**| Usuário 'Professor' escolhe a turma na qual deseja abrir a vídeochamada |
-|**Fluxo Principal**| O usuário 'Aluno' verifica se há uma vídeochamada aberta na turma (FP005) |
-|**Fluxos Alternativo**| Não há |
-|**Fluxos de Exceção**| Não há |
-|**Pós Condição**| O usuário estará na tela "Meus Cursos"|
-|**Rastreabilidade**| RE28 |
-/// caption | <
-Tabela 6 — Quinto caso de uso, que representa a possibilidade de abrir vídeochamadas em uma turma.
-///
-/// caption
-Fonte: Esther Sousa
-///
+    |UC001| Procurar turma|
+    |---:|-----------|
+    |**Atores**| Qualquer usuário|
+    |**Frequência de uso**| Alta|
+    |**Requisitos**| A turma procurada tem de estar no sistema |
+    |**Condição de entrada**| Usuário está ou não está cadastrado em uma turma |
+    |**Fluxo Principal**| Usuário encontra a barra de "pesquisar turmas" na página principal |
+    |**Fluxos Alternativo**| Usuário encontra turmas com mesmo nome (FA001) |
+    |**Fluxos de Exceção**| A turma não existe (FE001)|
+    |**Pós Condição**| O usuário haverá encontrado a turma (FP001)|
+    |**Rastreabilidade**| RE031|
+    /// caption | <
+    Tabela 2 — Primeiro caso de uso, que representa a procura de turmas.
+    ///
+    /// caption
+    Fonte: Júlia Lopes, Rodrigo Orlandi (Autores)
+    ///
 
-|UC06| Acessar turmas|
-|---:|-----------|
-|**Atores**| Qualquer usuário|
-|**Frequência de uso**| Alta|
-|**Requisitos**| Não há|
-|**Condição de entrada**| Usuário clica na opção "Meus Cursos"|
-|**Fluxo Principal**| O sistema apresenta os cursos em que o usuário está matriculado e o botão de ver cursos arquivados |
-|**Fluxos Alternativo**| Ao clicar no botão de ver cursos arquivados, o sistema exibe os mesmos |
-|**Fluxos de Exceção**| Não há |
-|**Pós Condição**| O usuário estará na tela "Meus Cursos"|
-|**Rastreabilidade**| RE12 |
-/// caption | <
-Tabela 7 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
-///
-/// caption
-Fonte: Laís Cecília
-///
+=== "UC002"
+
+    |UC002| Ver turmas arquivadas|
+    |---:|-----------|
+    |**Atores**| Qualquer usuário|
+    |**Frequência de uso**| Baixa|
+    |**Requisitos**| Já ter sido cadastrado na turma arquivada |
+    |**Condição de entrada**| Usuário clica em um dos seus cursos arquivados|
+    |**Fluxo Principal**| O sistema apresenta o curso no modo leitura |
+    |**Fluxos Alternativo**| Não há |
+    |**Fluxos de Exceção**| Não há |
+    |**Pós Condição**| O usuário estará na página do curso, em modo leitura|
+    |**Rastreabilidade**| RE09, RE |
+    /// caption | <
+    Tabela 3 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
+    ///
+    /// caption
+    Fonte: Laís Cecília (Autora)
+    ///
+
+=== "UC003"
+
+    |UC003| Auto-compactação de tarefas |
+    |---:|-----------|
+    |**Atores**| Aluno |
+    |**Frequência de uso**| Média |
+    |**Requisitos**| Já ter sido cadastrado na turma em que deseja enviar tarefa, ter baixado e realizado a tarefa |
+    |**Condição de entrada**| Usuário clica em submeter tarefas (FP003)|
+    |**Fluxo Principal**| Usuário, no processo de submeter tarefas (FP003), compacta o arquivo com sucesso (UC003)|
+    |**Fluxos Alternativo**| Não há |
+    |**Fluxos de Exceção**| Ocorre uma falha na compactação de arquivs (FE003) |
+    |**Pós Condição**| O usuário consegue comprimir o arquivo e enviá-lo ao sistema|
+    |**Rastreabilidade**| RE25 |
+    /// caption | <
+    Tabela 4 — Terceiro caso de uso, que representa a auto-compactação de tarefas no momento de seu envio.
+    ///
+    /// caption
+    Fonte: João Paulo (Autor)
+    ///
+
+=== "UC004"
+
+    |UC004| Buscar tópico dentro da turma|
+    |---:|-----------|
+    |**Atores**| Qualquer usuário|
+    |**Frequência de uso**| Alta|
+    |**Requisitos**| Estar matriculado no curso |
+    |**Condição de entrada**| Usuário clica em um dos seus cursos|
+    |**Fluxo Principal**| O sistema apresenta o curso no modo interativo |
+    |**Fluxos Alternativo**| 1. Se o usuário for um professor, o curso pode ser aberto no modo edição <br> 2. Se o usuário for um monitor, o curso é aberto no modo leitura |
+    |**Fluxos de Exceção**| Não há |
+    |**Pós Condição**| O usuário estará na página do curso|
+    |**Rastreabilidade**| RE02 |
+    /// caption | <
+    Tabela 5 — Divisão de requisitos não implementados, seus responsáveis e os casos de uso em que foram convertidos.
+    ///
+    /// caption
+    Fonte: Laís Cecília (Autora)
+    ///
+
+=== "UC005"
+
+    |UC005| Abrir uma vídeochamada |
+    |---:|-----------|
+    |**Atores**| Professor |
+    |**Frequência de uso**| - |
+    |**Requisitos**| Usuário 'Professor' estar cadastrado  como 'Professor' na turma na qual a vídeochamada for aberta |
+    |**Condição de entrada**| Usuário 'Professor' escolhe a turma na qual deseja abrir a vídeochamada |
+    |**Fluxo Principal**| O usuário 'Aluno' verifica se há uma vídeochamada aberta na turma (FP005) |
+    |**Fluxos Alternativo**| Não há |
+    |**Fluxos de Exceção**| Não há |
+    |**Pós Condição**| O usuário estará na tela "Meus Cursos"|
+    |**Rastreabilidade**| RE28 |
+    /// caption | <
+    Tabela 6 — Quinto caso de uso, que representa a possibilidade de abrir vídeochamadas em uma turma.
+    ///
+    /// caption
+    Fonte: Esther Sousa (Autora)
+    ///
+
+=== "UC006"
+
+    |UC006| Acessar turmas|
+    |---:|-----------|
+    |**Atores**| Qualquer usuário|
+    |**Frequência de uso**| Alta|
+    |**Requisitos**| Não há|
+    |**Condição de entrada**| Usuário clica na opção "Meus Cursos"|
+    |**Fluxo Principal**| O sistema apresenta os cursos em que o usuário está matriculado e o botão de ver cursos arquivados |
+    |**Fluxos Alternativo**| Ao clicar no botão de ver cursos arquivados, o sistema exibe os mesmos |
+    |**Fluxos de Exceção**| Não há |
+    |**Pós Condição**| O usuário estará na tela "Meus Cursos"|
+    |**Rastreabilidade**| RE12 |
+    /// caption | <
+    Tabela 7 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
+    ///
+    /// caption
+    Fonte: Laís Cecília (Autora)
+    ///
+
+---
 
 ## Referências
 
@@ -152,4 +175,5 @@ Fonte: Laís Cecília
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Feito upload da página | Rodrigo de Andrade| Laís Cecília | <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
+| v1.0   | Feito upload da página | Rodrigo de Andrade| Laís Cecília | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
+| v1.1   | Formatação | Laís Cecília| Rodrigo de Andrade | <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
