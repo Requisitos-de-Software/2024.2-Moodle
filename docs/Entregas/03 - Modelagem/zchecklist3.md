@@ -52,7 +52,7 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
     |  2   | Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios) | <span style="color:green">Conforme</span> | - | v1.2 - 08/12/2024 - 22:52|
     |  3   | As especificações dos Léxicos? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:53|
     |  4   | A definição do usuário nos Léxicos? |<span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:54|
-    |  5   | Os léxicos possuem ligações entre si? (hiper links) |<span style="color:red">Não Conforme</span> | - | v1.0 - 08/12/2024 - 22:55|
+    |  5   | Os léxicos possuem ligações entre si? (hiper links) |<span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 23:40|
     |  6   | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:56|
     |  7   | A especificação do caso de uso? | <span style="color:red">Não Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
     |  8   | Os atores principais e atores secundários no diagrama de caso de uso? | <span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
