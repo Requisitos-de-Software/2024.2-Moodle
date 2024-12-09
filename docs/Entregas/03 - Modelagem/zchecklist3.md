@@ -31,12 +31,12 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
     |  1   | O histórico de versão está padronizado? | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10|
     |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato? | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10|
     |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos |  <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10 |
-    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?   |  <span style="color:green">Conforme</span> | - | n/a -08/12/2024 - 22:13 |
+    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?   |  <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:13 |
     |  5   | Um texto fazendo uma introdução dos artefatos?  | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:11 |
-    |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  |  | - |  |
-    |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |  | - |   |
-    |  8   | A gravação da reunião do grupo. |  | - |  |
-    |  9   | Vídeo de apresentação na categoria “não listado” no youtube? |  | - |  |
+    |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  |<span style="color:red">Não Conforme</span> | - | v1.2 - 08/12/2024 - 22:22 |
+    |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | <span style="color:green">Conforme</span> | - | v1.0(ambas) - 08/12/2024 - 22:22 |
+    |  8   | A gravação da reunião do grupo. | <span style="color:green">Conforme</span> | - | v1.0(ambas) - 08/12/2024 - 22:23 |
+    |  9   | Vídeo de apresentação na categoria “não listado” no youtube? |<span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:24 |
     /// caption | <
     Tabela 1 — Checklist do desenvolvimento geral do projeto
     ///

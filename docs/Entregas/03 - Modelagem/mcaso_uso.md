@@ -56,7 +56,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Fluxos Alternativo**| Usuário encontra turmas com mesmo nome (FA001) |
     |**Fluxos de Exceção**| A turma não existe (FE001)|
     |**Pós Condição**| O usuário haverá encontrado a turma (FP001)|
-    |**Rastreabilidade**| RE031|
+    |**Rastreabilidade**| RE31|
     /// caption | <
     Tabela 2 — Primeiro caso de uso, que representa a procura de turmas.
     ///
@@ -76,7 +76,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Fluxos Alternativo**| Não há |
     |**Fluxos de Exceção**| Não há |
     |**Pós Condição**| O usuário estará na página do curso, em modo leitura|
-    |**Rastreabilidade**| RE09, RE |
+    |**Rastreabilidade**| RE09 |
     /// caption | <
     Tabela 3 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
     ///
