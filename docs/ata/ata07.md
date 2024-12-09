@@ -39,6 +39,6 @@ Ata da reunião - 03/12/2024
 ## Histórico
 
 
-| Versão | Descrição                  | Autor                   | Revisor                  | Data       |
-|--------|----------------------------|-------------------------|--------------------------|------------|
-| v1.0   | Ata 07                     | João Paulo Monteiro     | Júlia Lopes| 03/12/2024 |
+| Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
+|--------|----------------------------|-------------------------|--------------------------|-------|-----|
+| v1.0   | Ata 07                     | João Paulo Monteiro     | Júlia Lopes| <input type="checkbox" onclick="return false;" disabled />| 03/12/2024 |
