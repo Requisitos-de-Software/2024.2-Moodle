@@ -41,7 +41,7 @@ Figura 1 — Diagrama de casos de uso do Moodle com enfoque nos requisitos não 
 Fonte: Rodrigo Orlandi (Autor)
 ///
 
-## Especificação Suplementar
+## Especificação dos casos de uso
 
 
 === "UC001"
