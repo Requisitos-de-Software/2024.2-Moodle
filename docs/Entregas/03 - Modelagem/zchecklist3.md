@@ -20,6 +20,9 @@ Itens são avaliados das seguintes formas:
 * <span style="color:green">Conforme</span>: Projeto satisfaz a condição.
 * <span style="color:yellow">Sugestão de Melhoria</span>: Projeto satisfaz a condição, porém há margem para melhorias. Exige observação.
 * <span style="color:red">Não conforme</span>: Projeto NÃO satisfaz a condição.
+  
+
+As tabelas 1 e 2, a seguir, contém as listas de verificação.
 
 === "Desenvolvimento geral do projeto"
 
@@ -28,8 +31,8 @@ Itens são avaliados das seguintes formas:
     |  1   | O histórico de versão está padronizado? | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10|
     |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato? | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10|
     |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos |  <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10 |
-    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?   |  <span style="color:green">Conforme</span> | - | n/a -08/12/2024 - 22:11 |
-    |  5   | Um texto fazendo uma introdução dos artefatos?  | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10 |
+    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?   |  <span style="color:green">Conforme</span> | - | n/a -08/12/2024 - 22:13 |
+    |  5   | Um texto fazendo uma introdução dos artefatos?  | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:11 |
     |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  |  | - |  |
     |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |  | - |   |
     |  8   | A gravação da reunião do grupo. |  | - |  |
