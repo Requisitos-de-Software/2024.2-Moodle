@@ -389,4 +389,4 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Feito upload da página | Rodrigo de Andrade| Esther Sousa| <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
-| v1.1   | Hyperlinks entre léxicos | Laís Cecília | Esther Sousa| <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
+| v1.1   | Hyperlinks entre léxicos | Laís Cecília | Julia Lopes| <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |

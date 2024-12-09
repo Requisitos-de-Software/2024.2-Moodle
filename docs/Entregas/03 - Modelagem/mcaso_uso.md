@@ -193,3 +193,4 @@ Fonte: Rodrigo Orlandi (Autor)
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Feito upload da página | Rodrigo de Andrade| Laís Cecília | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
 | v1.1   | Formatação | Laís Cecília| Rodrigo de Andrade | <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
+| v1.2   | Correções pós reunião      | Rodrigo Orlandi |  Esther Sousa                        | <input type="checkbox" onclick="return false;" disabled /> | 08/12/2024 |

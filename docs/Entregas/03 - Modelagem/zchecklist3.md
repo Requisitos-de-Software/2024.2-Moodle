@@ -54,7 +54,7 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
     |  4   | A definição do usuário nos Léxicos? |<span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:54|
     |  5   | Os léxicos possuem ligações entre si? (hiper links) |<span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 23:40|
     |  6   | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:56|
-    |  7   | A especificação do caso de uso? | <span style="color:red">Não Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
+    |  7   | A especificação do caso de uso? | <span style="color:green">Conforme</span> | - | v1.2 - 08/12/2024 - 23:45|
     |  8   | Os atores principais e atores secundários no diagrama de caso de uso? | <span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
     |  9   | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | <span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
     |  10  | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? |<span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
@@ -87,3 +87,4 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              | João Paulo, Júlia Lopes |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
+| v1.1   | Correções pós reunião      | Laís Cecília |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled /> | 08/12/2024 |
