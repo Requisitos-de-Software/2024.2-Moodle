@@ -48,24 +48,24 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 
     | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
     |------|:----------|-------------|-------------|---------------------|
-    |  1   | As especificações dos cenários para o projeto |  | - | |
-    |  2   | Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios) |  | - | |
-    |  3   | As especificações dos Léxicos? |  | - | |
-    |  4   | A definição do usuário nos Léxicos? |  | - | |
-    |  5   | Os léxicos possuem ligações entre si? (hiper links) |  | - | |
-    |  6   | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? |  | - |  |
-    |  7   | A especificação do caso de uso? |  | - |  |
-    |  8   | Os atores principais e atores secundários no diagrama de caso de uso? |  | - |  |
-    |  9   | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? |  | - |  |
-    |  10  | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? |  | - | |
-    |  11   | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? |  | - | |
-    |  12  | No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão? |  | - | |
-    |  13  | A participação do cliente e/ou persona na validação do Diagrama de Casa de Uso? |  | - |  |
-    |  14  | A especificação suplementar? |  | - | |
-    |  15  | O artefato segue o modelo FURPS+? |  | - | |
-    |  16  | O documento especifica o tempo de resposta, no Desempenho? |  | - |  |
-    |  17  | O documento especifica qual plataforma o aplicativo pode ser executado? |  | - |  |
-    |  18  | Todos os requisitos podem ser testados (RF e RNF)? |  | - |  |
+    |  1   | As especificações dos cenários para o projeto | <span style="color:green">Conforme</span> | - | v1.2 - 08/12/2024 - 22:52|
+    |  2   | Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios) | <span style="color:green">Conforme</span> | - | v1.2 - 08/12/2024 - 22:52|
+    |  3   | As especificações dos Léxicos? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:53|
+    |  4   | A definição do usuário nos Léxicos? |<span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:54|
+    |  5   | Os léxicos possuem ligações entre si? (hiper links) |<span style="color:red">Não Conforme</span> | - | v1.0 - 08/12/2024 - 22:55|
+    |  6   | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:56|
+    |  7   | A especificação do caso de uso? | <span style="color:red">Não Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
+    |  8   | Os atores principais e atores secundários no diagrama de caso de uso? | <span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
+    |  9   | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | <span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
+    |  10  | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? |<span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 22:57|
+    |  11  | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? | <span style="color:yellow">Sugestão de melhoria</span> | Faltaram alguns | v1.1 - 08/12/2024 - 23:01|
+    |  12  | No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão? |<span style="color:green">Conforme</span> | - | v1.1 - 08/12/2024 - 23:01|
+    |  13  | A participação do cliente e/ou persona na validação do Diagrama de Casa de Uso? | <span style="color:red">Não Conforme</span> | - | v1.1 - 08/12/2024 - 23:02|
+    |  14  | A especificação suplementar? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 23:03|
+    |  15  | O artefato segue o modelo FURPS+? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 23:03|
+    |  16  | O documento especifica o tempo de resposta, no Desempenho? |<span style="color:red">Não Conforme</span> | - | v1.0 - 08/12/2024 - 23:06|
+    |  17  | O documento especifica qual plataforma o aplicativo pode ser executado? | <span style="color:red">Não Conforme</span> | - | v1.0 - 08/12/2024 - 23:11|
+    |  18  | Todos os requisitos podem ser testados (RF e RNF)? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 23:16|
     
     /// caption | <
     Tabela 2 — Checklist do conteúdo da disciplina
