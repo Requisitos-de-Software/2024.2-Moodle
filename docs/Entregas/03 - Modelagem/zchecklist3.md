@@ -25,11 +25,11 @@ Itens são avaliados das seguintes formas:
 
     | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
     |------|:----------|-------------|-------------|---------------------|
-    |  1   | O histórico de versão está padronizado? |  | - ||
-    |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato? |  | - ||
-    |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos |   | - | |
-    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?   |   | - | |
-    |  5   | Um texto fazendo uma introdução dos artefatos?  |  | - | |
+    |  1   | O histórico de versão está padronizado? | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10|
+    |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato? | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10|
+    |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos |  <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10 |
+    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?   |  <span style="color:green">Conforme</span> | - | n/a -08/12/2024 - 22:11 |
+    |  5   | Um texto fazendo uma introdução dos artefatos?  | <span style="color:green">Conforme</span> | - | n/a - 08/12/2024 - 22:10 |
     |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  |  | - |  |
     |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |  | - |   |
     |  8   | A gravação da reunião do grupo. |  | - |  |

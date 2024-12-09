@@ -31,7 +31,7 @@ Fonte: Rodrigo de Andrade (Autor)
 
 ## Diagrama de Caso de Uso
 
-A figura 1, a seguir, apresenta o diagrama de casos de uso, originalmente convertido dos trabalhos individuais dos membro. As tabelas 2-6, a seguir, explicam individualmente os casos de uso e seus detalhes em específico.
+A figura 1, a seguir, apresenta o diagrama de casos de uso, originalmente convertido dos trabalhos individuais dos membro. As tabelas 2-7, a seguir, explicam individualmente os casos de uso e seus detalhes em específico.
 
 ![Diagrama de caso de uso](../../img/diagrama_ucs_v1.png)
 /// caption | <
