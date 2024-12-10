@@ -33,7 +33,7 @@ Ata da reunião - 28/11/2024
 
 [https://youtu.be/OtJk8m_GBSM](https://youtu.be/OtJk8m_GBSM)
 
-<iframe width="500" height="285" src="https://www.youtube.com/watch?v=OtJk8m_GBSM" title="[2024-2] Requisitos - Grupo 2 - 31/10/2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="500" height="285" src="https://www.youtube.com/embed/OtJk8m_GBSM" title="[2024-2] Requisitos - Grupo 2 - 31/10/2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
