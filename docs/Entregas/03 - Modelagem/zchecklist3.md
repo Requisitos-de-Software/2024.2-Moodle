@@ -10,7 +10,7 @@ Após a conclusão dos outros artefatos da entrega 3, o grupo realizou a verific
 
 ## Gravação
 
-<iframe width="500" height="285" src="" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="500" height="285" src="https://www.youtube.com/embed/zx7J0LUcFmQ" title="[2024-2] Requisitos - Grupo 2 - Inspeção do Trabalho - Modelagem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Checklists
