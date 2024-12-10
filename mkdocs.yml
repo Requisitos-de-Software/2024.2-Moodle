@@ -32,7 +32,9 @@ theme:
 markdown_extensions:
   - attr_list
   - toc:
+      title: Índice
       permalink: true
+      toc_depth: 4
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.blocks.caption
