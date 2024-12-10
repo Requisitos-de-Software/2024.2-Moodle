@@ -8,7 +8,7 @@ A definição de léxicos auxilia na especificação de requisitos ao definir te
 
 ## Metodologia
 
-De acordo com a [divisão dos requisitos não implementados](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Casos%20de%20Uso/cenarios/) realizada, após a execução dos cenários, foram definidos léxicos relacionados aos requisitos e cenários desenvolvidos.
+De acordo com a [divisão dos requisitos não implementados](./areq_nao_imp.md#divisao) realizada, após a execução dos cenários, foram definidos léxicos relacionados aos requisitos e cenários desenvolvidos.
 
 Os léxicos serão apresentados de acordo com a estrutura da tabela 1, a seguir. Léxicos estão codificados na notação **LX**, onde **X** representa o número do léxico. Léxicos não estão ordenados de acordo com os requisitos como os cenários, considerando que são de utilidade mais geral ao projeto, fazendo com que uma ordenação de acordo com os requisitos não seja tão necessária. 
 
@@ -46,7 +46,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Quanto menor, mais fluída é a navegação pelo [sistema](#__tabbed_1_16) |
     | Sinônimo         | Duração |
     | Léxicos Relacionados | [Requisição](#__tabbed_1_2) |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 02 — Léxico de ‘tempo de resposta’
     ///
@@ -65,7 +65,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Permite que [usuários](#__tabbed_1_5) naveguem pelo [sistema](#__tabbed_1_16) |
     | Sinônimo         | Solicitação |
     | Léxicos Relacionados |  |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 03 — Léxico de ‘requisição’
     ///
@@ -84,7 +84,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Permite que [usuário ‘Aluno’](#__tabbed_1_6) encontre suas [turmas](#__tabbed_1_4) matriculadas. Permite que [usuários](#__tabbed_1_5) busquem [conteúdo](#__tabbed_1_12) desejado. |
     | Sinônimo         | Pesquisar |
     | Léxicos Relacionados | [Conteúdo](#__tabbed_1_12) |
-    | Requisito        | RE31, RE21 |
+    | Requisito        | [RE31, RE21](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 04 — Léxico referente a ‘buscar’
     ///
@@ -103,7 +103,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Organiza e disponibiliza [conteúdos](#__tabbed_1_12) para [‘Aluno’](#__tabbed_1_6) e [‘Monitor’](#__tabbed_1_8), permite que [professor](#__tabbed_1_7) monitore [‘Aluno’](#__tabbed_1_6) |
     | Sinônimo         | Disciplina, turma |
     | Léxicos Relacionados | [Tarefa](#__tabbed_1_10), [Conteúdo](#__tabbed_1_12) |
-    | Requisito        | RE31 |
+    | Requisito        | [RE31](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 05 — Léxico referente a 'curso'
     ///
@@ -122,7 +122,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Possui acesso à diversas funcionalidades do [Aplicativo Moodle](#__tabbed_1_16), dependendo de sua classificação |
     | Sinônimo         |  |
     | Léxicos Relacionados | [Aluno](#__tabbed_1_6), [Professor](#__tabbed_1_7), [Monitor](#__tabbed_1_8)  |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 06 — Léxico de ‘usuário’
     ///
@@ -141,7 +141,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Permite que alunos possam usufruir de [conteúdos](#__tabbed_1_12) e [realizar](#__tabbed_1_9) [tarefas](#__tabbed_1_10). Permite que [professores](#__tabbed_1_7) e [monitores](#__tabbed_1_8) possam [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10). |
     | Sinônimo         | Aprendiz, Estudante |
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5) |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 07 — Léxico de ‘aluno’
     ///
@@ -160,7 +160,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Professores podem criar [turmas](#__tabbed_1_4), matricular [alunos](#__tabbed_1_6), [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10). Permite que [monitores](#__tabbed_1_8) possam [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10), se matricularem em [turmas](#__tabbed_1_4). Permite que [alunos](#__tabbed_1_6) possam acessar [conteúdo](#__tabbed_1_12), [realizar](#__tabbed_1_9) [tarefas](#__tabbed_1_10). |
     | Sinônimo         | Docente, instrutor, educador |
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5), [Monitor](#__tabbed_1_8) |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 08 — Léxico de ‘professor’
     ///
@@ -179,7 +179,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Permite que [alunos](#__tabbed_1_6) possam ter suas [tarefas](#__tabbed_1_10) [corrigidas](#__tabbed_1_15) |
     | Sinônimo         | Fiscal, mentor, assistente do professor |
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5), [Professor](#__tabbed_1_7) |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 09 — Léxico de ‘monitor’
     ///
@@ -198,7 +198,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | [Professores](#__tabbed_1_7) e [monitores](#__tabbed_1_8) possam [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10). [Alunos](#__tabbed_1_6) podem visualizar [correções](#__tabbed_1_19). |
     | Sinônimo         | Fazer |
     | Léxicos Relacionados | [Tarefa](#__tabbed_1_10), [Enviar](#__tabbed_1_11) |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 10 — Léxico de ‘realizar’
     ///
@@ -217,7 +217,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Pode ser [realizada](#__tabbed_1_9) pelo [aluno](#__tabbed_1_6) e [enviada](#__tabbed_1_11) para que o [professor](#__tabbed_1_7) ou [monitor](#__tabbed_1_8) possam [corrigir](#__tabbed_1_15) |
     | Sinônimo         | Dever |
     | Léxicos Relacionados | [Conteúdo](#__tabbed_1_12) |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 11 — Léxico de ‘tarefa’
     ///
@@ -236,7 +236,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | [Aluno](#__tabbed_1_6) pode visualizar e [realizar](#__tabbed_1_9) [tarefa](#__tabbed_1_10). [Professor](#__tabbed_1_7) pode enviar [tarefa](#__tabbed_1_10) para a [turma](#__tabbed_1_4). |
     | Sinônimo         | Encaminhar, Fazer Upload, Adicionado |
     | Léxicos Relacionados | [Realizar](#__tabbed_1_9) |
-    | Requisito        | RE22 |
+    | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 12 — Léxico de ‘enviar’
     ///
@@ -255,7 +255,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          |  Permite que o [aluno](#__tabbed_1_6) e [monitor](#__tabbed_1_8) acesse os materiais necessários para acompanhar o [curso](#__tabbed_1_4) |
     | Sinônimo         | Tópico, Material didático, Tarefa, Arquivo, Documento |
     | Léxicos Relacionados | [Tarefa](#__tabbed_1_10) |
-    | Requisito        | RE22, RE26 |
+    | Requisito        | [RE22, RE26](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 13 — Léxico de ‘conteúdo’
     ///
@@ -274,7 +274,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Facilita e diminui o tempo de [envio](#__tabbed_1_11) de [tarefa](#__tabbed_1_10) do [usuário ‘aluno’](#__tabbed_1_6)|
     | Sinônimo         | Compressão |
     | Léxicos Relacionados | [Enviar](#__tabbed_1_11), [Limite de tamanho](#__tabbed_1_14) |
-    | Requisito        | RE25 |
+    | Requisito        | [RE25](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 14 — Léxico de ‘auto-compactação’
     ///
@@ -293,7 +293,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Evita que o [sistema](#__tabbed_1_16) possa ser sobrecarregado de dados pelo [envio](#__tabbed_1_11) de [tarefas](#__tabbed_1_10) e [conteúdos](#__tabbed_1_12) de peso excessivo |
     | Sinônimo         | Tamanho máximo |
     | Léxicos Relacionados | [Auto-compactação](#__tabbed_1_13), [Enviar](#__tabbed_1_11), [Tarefa](#__tabbed_1_10) |
-    | Requisito        | RE25 |
+    | Requisito        | [RE25](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 15 — Léxico de ‘limite de tamanho’
     ///
@@ -312,7 +312,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Permite que [usuários](#__tabbed_1_5) [‘professor’](#__tabbed_1_7) e [‘monitor’](#__tabbed_1_8) possam verificar as [tarefas](#__tabbed_1_10) [enviadas](#__tabbed_1_11) do [aluno](#__tabbed_1_6). Permite que o [aluno](#__tabbed_1_6) possa verificar o [feedback](#__tabbed_1_19) das [tarefas](#__tabbed_1_10). |
     | Sinônimo         | Verificar |
     | Léxicos Relacionados | [Feedback](#__tabbed_1_19), [Tarefa](#__tabbed_1_10), [Professor](#__tabbed_1_7), [Monitor](#__tabbed_1_8) |
-    | Requisito        | RE26 |
+    | Requisito        | [RE26](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 16 — Léxico de ‘corrigir’
     ///
@@ -331,7 +331,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Permite que todos os requisitos funcionais e não funcionais sejam implementados, permite [usuários](#__tabbed_1_5) navegarem pelo sistema |
     | Sinônimo         | Ordenação, Software, Plataforma Moodle, Aplicativo Moodle |
     | Léxicos Relacionados |  |
-    | Requisito        | RE28 |
+    | Requisito        | [RE28](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 17 — Léxico de ‘sistema’
     ///
@@ -350,7 +350,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Permite a realização de aulas remotas |
     | Sinônimo         | Videochamada, *videocall*, *call* |
     | Léxicos Relacionados | [Curso](#__tabbed_1_4) |
-    | Requisito        | RE28 |
+    | Requisito        | [RE28](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 18 — Léxico de ‘chamada de vídeo’
     ///
@@ -369,7 +369,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Acesso a esses [cursos](#__tabbed_1_4) é limitado ao modo leitura|
     | Sinônimo         | Curso fechado, Curso anterior |
     | Léxicos Relacionados | [Curso](#__tabbed_1_4) |
-    | Requisito        | RE09|
+    | Requisito        | [RE09](./areq_nao_imp.md#rni)|
     /// caption | <
     Tabela 19 — Léxico de ‘arquivado’
     ///
@@ -388,7 +388,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Impacto          | Oferece ao [aluno](#__tabbed_1_6) um retorno sobre as [tarefas](#__tabbed_1_10) [enviadas](#__tabbed_1_11)|
     | Sinônimo         | Retorno, Correção |
     | Léxicos Relacionados | [Corrigir](#__tabbed_1_15) |
-    | Requisito        | RE26|
+    | Requisito        | [RE26](./areq_nao_imp.md#rni)|
     /// caption | <
     Tabela 20 — Léxico de ‘feedback’
     ///

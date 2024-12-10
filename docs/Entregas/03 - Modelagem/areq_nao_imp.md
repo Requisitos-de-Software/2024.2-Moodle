@@ -2,11 +2,10 @@
 
 ## Introdução 
 
-Durante o levantamento de requisitos, foram identificados um número de requisitos não implementados, estes estão dispostos na tabela 1, extraída dos [Requisitos Elicitados](../../02%20-%20Elicitação/arequisitos_elicitados)
+Durante o levantamento de requisitos, foram identificados um número de requisitos não implementados, estes estão dispostos na tabela 1, extraída dos [Requisitos Elicitados](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos)
 
 A partir desses requisitos foram desenvolvidos os artefatos relacionados à modelagem.
 A aproximação justifica-se pelo intuito do projeto de analisar pontos que podem ser implementados ou melhorados no aplicativo, visando apresentar sugestões efetivas sobre sua performance como resultado do esforço contínuo, aplicado ao longo da disciplina de Requisitos de Software. 
-
 
 ## Requisitos
 
@@ -22,7 +21,7 @@ A aproximação justifica-se pelo intuito do projeto de analisar pontos que pode
 | RE29    |  Requisito Funcional       |  O sistema integra outros aplicativos da mesma família para uso da turma | NÃO | ANA25 |
 | RE31    |  Requisito não Funcional          | Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | NÃO | ENC03 |
 /// caption | <
-Tabela 1 — Tabela com todos os requisitos elicitados não implementados.
+#### Tabela 1 — Tabela com todos os requisitos elicitados não implementados. {#rni data-toc-label='Requisitos não implementados'}
 ///
 /// caption
 Fonte: Autores
@@ -38,13 +37,13 @@ Após separar os requisitos não implementados, estes foram divididos entre a eq
 | João Paulo       | <ul><li>RE21: O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários; <br><li> RE25: O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.</ul> |
 | Rodrigo Orlandi  | <ul><li>RE22:  sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique; <br><li> RE31: Encontrar a barra de busca de turmas é facilmente localizável e intuitiva. </ul>|
 /// caption | <
-Tabela 2 — Divisão de membros e seus respectivos requisitos não implementados escolhidos.
+#### Tabela 2 — Divisão de membros e seus respectivos requisitos não implementados escolhidos. { #divisao data-toc-label='Divisão de requisitos'}
 ///
 /// caption
 Fonte: Rodrigo de Andrade (Autor)
 ///
 
-Dada a escolha dos requisitos, o processo de desenvolvimento dos itens referentes à entrega três se deu na ordem de desenvolvimento de [Cenários](../cenarios), [Léxicos](../lexico), os [Casos de Uso](../mcaso_uso) e a [Especificação Suplementar](../nespecif_supl), respectivamente.
+Dada a escolha dos requisitos, o processo de desenvolvimento dos itens referentes à entrega três se deu na ordem de desenvolvimento de [Cenários](cenarios.md), [Léxicos](lexico.md), os [Casos de Uso](mcaso_uso.md) e a [Especificação Suplementar](nespecif_supl.md), respectivamente.
 
 
 ---

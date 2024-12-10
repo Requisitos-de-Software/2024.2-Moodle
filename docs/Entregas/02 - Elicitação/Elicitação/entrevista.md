@@ -14,7 +14,7 @@ O tipo de entrevista escolhido foi **entrevista estruturada**, por sua natureza 
 pode-se minimizar a ambiguidade na hora de elicitar requisitos.
 
 Foi desenvolvida um tipo de entrevista com objetivo de ser respondida pelos três 
-[perfis de usuário](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/) do projeto: aluno, monitor e professor. Ao ter o mesmo conjunto de perguntas respondido por usuários diferentes, pode-se perceber diferentes prioridades ou até atividades realizadas, possibilitando a elicitação de diferentes requisitos.
+[perfis de usuário](./Perfil%20dos%20Usuarios.md#perfis-de-usuario-do-projeto) do projeto: aluno, monitor e professor. Ao ter o mesmo conjunto de perguntas respondido por usuários diferentes, pode-se perceber diferentes prioridades ou até atividades realizadas, possibilitando a elicitação de diferentes requisitos.
 
 Sobre as perguntas realizadas na entrevista, foram desenvolvidas perguntas pelos autores e foram reutilizadas perguntas realizadas por um grupo de 2022 da Engenharia de Requisitos, [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/). O principal objetivo durante a escolha das perguntas foi entender o aplicativo Moodle por meio das respostas dos entrevistados, podendo elicitar sem dúvida requisitos funcionais, não-funcionais e não implementados.
 

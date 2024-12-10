@@ -3,11 +3,11 @@
 ## Introdução
 
 De acordo com [Vianna, et. al (2012)](https://cdn2.hubspot.net/hubfs/455690/Ofertas/E-books/Arquivos/Livro_Design_Thinking_-_Inovao_Negcios.pdf), encenação é "uma simulação improvisada de uma situação, que pode representar
-desde a interação de uma pessoa com uma máquina até um simples diálogo entre pessoas para encenar aspectos de um serviço". É uma técnica que complementa a implementação de [personas](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Personas/) no projeto, permitindo que elas "vivam" por meio da atuação dos membros do grupo, esclarecendo a perspectiva do perfil de usuário sobre o qual a persona foi desenvolvida.
+desde a interação de uma pessoa com uma máquina até um simples diálogo entre pessoas para encenar aspectos de um serviço". É uma técnica que complementa a implementação de [personas](./Personas.md#personas-desenvolvidas) no projeto, permitindo que elas "vivam" por meio da atuação dos membros do grupo, esclarecendo a perspectiva do perfil de usuário sobre o qual a persona foi desenvolvida.
 
 ## Planejamento 
 
-Na reunião geral do dia 15/11, foi decidido a próxima reunião de [personas](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Personas/) entre os autores deste artefato. Enquanto os perfis de usuário base definidos pela equipe estavam delineados, eles ainda estavam sendo definidos de acordo com o Moodle. Foi então decidido na reunião do dia 16/11 que a encenação poderia progredir enquanto os perfis de usuário estavam sendo consolidados.
+Na reunião geral do dia 15/11, foi decidido a próxima reunião de [personas](./Personas.md) entre os autores deste artefato. Enquanto os perfis de usuário base definidos pela equipe estavam delineados, eles ainda estavam sendo definidos de acordo com o Moodle. Foi então decidido na reunião do dia 16/11 que a encenação poderia progredir enquanto os perfis de usuário estavam sendo consolidados.
 
 | Dia     | Atividade                  | Participantes           | 
 |---------|----------------------------|-------------------------|
@@ -27,7 +27,7 @@ Fonte: Autores
 
 Após a reunião geral do dia 15/11, foi realizada uma reunião para a encenação. 
 
-Como os [perfis de usuário](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/) estavam sendo desenvolvidos, a execução da encenação utilizou as personas, que foram modeladas com base em como os perfis de usuário ficariam após sua conclusão: a conversão de todos os tipos de usuário que o Moodle disponibiliza em 'Professor', 'Monitor' e 'Aluno'.
+Como os [perfis de usuário](./Perfil%20dos%20Usuarios.md#perfis-de-usuario-do-projeto) estavam sendo desenvolvidos, a execução da encenação utilizou as personas, que foram modeladas com base em como os perfis de usuário ficariam após sua conclusão: a conversão de todos os tipos de usuário que o Moodle disponibiliza em 'Professor', 'Monitor' e 'Aluno'.
 
 Na encenação, foi utilizada a persona estudante Otávio para realizar as seguintes tarefas:
 

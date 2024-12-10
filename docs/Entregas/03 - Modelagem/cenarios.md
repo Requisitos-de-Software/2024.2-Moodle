@@ -13,7 +13,7 @@ Usar cenários na especificação de requisitos "tem um forte impacto positivo n
 
 ## Metodologia e Execução
 
-Dentro da especificação de requisitos, a utilização de cenários no projeto foi baseada em [requisitos não implementados](../areq_nao_imp) no Moodle.
+Dentro da especificação de requisitos, a utilização de cenários no projeto foi baseada em [requisitos não implementados](areq_nao_imp.md#rni) no Moodle.
 
 Os cenários foram codificados na ordem dos requisitos não implementados. **C01** representa **R09**, com **R09** sendo o primeiro requisito não implementado do projeto. Além disso, o modelo utilizado para desenvoler os cenários pode ser visto na tabela 1, a seguir:
 
@@ -27,7 +27,7 @@ Os cenários foram codificados na ordem dos requisitos não implementados. **C01
 | Restrições       | Imposição que restrinja um episódio de um cenário | 
 | Exceções     | Tratamento para uma situação excepcional ou de erro |
 /// caption | <
-Tabela 1 — Template dos cenários
+#### Tabela 1 — Template dos cenários { #markdown data-toc-label='Template dos cenários'}
 ///
 /// caption
 Fonte: Lichess, 2024, *apud* Leite, 2003.
@@ -35,7 +35,7 @@ Fonte: Lichess, 2024, *apud* Leite, 2003.
 
 ## Cenários Desenvolvidos
 
-As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados
+As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados, seguindo a [divisão dos requisitos](./areq_nao_imp.md#divisao).
 
 === "Revisitar Turma Anterior."
 
@@ -51,7 +51,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Restrições    | <ul><li> O usuário deve já ter participado da turma como aluno; <br> <li> O usuário poderá somente visualizar o conteúdo.</ul> | 
     | Exceções      | Se a sessão estiver esgotada, o usuário será redirecionado à tela de login |
     /// caption | <
-    Tabela 2 — Cenario referente ao [RE09](../areq_nao_imp/#requisitos): Revisitar turma anterior
+    Tabela 2 — Cenario referente ao [RE09](areq_nao_imp.md#rni): Revisitar turma anterior
     ///
     /// caption
     Fonte: Laís Cecília (Autora)
@@ -70,7 +70,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Restrições    | Não há um sistema de busca. | 
     | Exceções     | Falta de energia. |
     /// caption | <
-    Tabela 3 — Cenário referente ao [RE21](../areq_nao_imp/#requisitos): O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.
+    Tabela 3 — Cenário referente ao [RE21](areq_nao_imp.md#rni): O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.
     ///
     /// caption
     Fonte: João Paulo (Autor)
@@ -90,7 +90,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Restrições       | <ul><li>A tarefa será fechada em um minuto; <br><li> Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos. </ul>| 
     | Exceções     |<ul><li> Smartphone/computador sem conexão à Internet;<br><li> Smartphone/computador sem bateria. </ul>|
     /// caption | <
-    Tabela 4 — Cenário referente ao [RE22](../areq_nao_imp/#requisitos): O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique.
+    Tabela 4 — Cenário referente ao [RE22](areq_nao_imp.md#rni): O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique.
     ///
     /// caption
     Fonte: Rodrigo de Andrade (Autor)
@@ -110,7 +110,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Restrições    | Não há um sistema de auto-compactação. | 
     | Exceções     | Falta de energia. |
     /// caption | <
-    Tabela 5 — Cenário referente ao [RE25](../areq_nao_imp/#requisitos): O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.
+    Tabela 5 — Cenário referente ao [RE25](areq_nao_imp.md#rni): O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.
     ///
     /// caption
     Fonte: João Paulo (Autor)
@@ -130,7 +130,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Restrições    | Quantidade de atividades disponíveis na disciplina. | 
     | Exceções     | <ul><li> Não estar em uma disciplina no Moodle; <br> <li> Não ter atividades </ul>|
     /// caption | <
-    Tabela 6 — Cenário referente ao [RE26](../areq_nao_imp/#requisitos): O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.
+    Tabela 6 — Cenário referente ao [RE26](areq_nao_imp.md#rni): O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.
     ///
     /// caption
     Fonte: Esther Sousa (Autora)
@@ -150,7 +150,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Restrições    | Usuários terem câmera. | 
     | Exceções     | <ul><li> Não estar na disciplina no Moodle; <br> <li> Não ter uma câmera.</ul> |
     /// caption | <
-    Tabela 7 — Cenário referente ao [RE28](../areq_nao_imp/#requisitos): O sistema permite a realização de aulas síncronas por chamas de vídeo
+    Tabela 7 — Cenário referente ao [RE28](areq_nao_imp.md#rni): O sistema permite a realização de aulas síncronas por chamas de vídeo
     ///
     /// caption
     Fonte: Esther Sousa (Autora)
@@ -170,7 +170,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Restrições       | A barra de busca de disciplina tem de estar facilmente localizável |
     | Exceções     | <ul><li>Smartphone sem conexão à Internet; <br><li> Smartphone sem bateria.</ul> |
     /// caption | <
-    Tabela 8 — Cenário referente ao [RE31](../areq_nao_imp/#requisitos): Encontrar a barra de busca de turmas é facilmente localizável e intuitiva.
+    Tabela 8 — Cenário referente ao [RE31](areq_nao_imp.md#rni): Encontrar a barra de busca de turmas é facilmente localizável e intuitiva.
     ///
     /// caption
     Fonte: Júlia Lopes (Autor)

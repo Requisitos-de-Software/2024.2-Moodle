@@ -1,6 +1,13 @@
 # Requisitos Elicitados
 
-Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetidos, adquiridos durante a ulilização das metodologias de [análise de interface](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/)(ANAXX), [entrevista](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/)(ENTXX) e [encenação](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/)(ENCXX): 
+## Introdução
+
+Utilizando as várias metodologias de levantamento de requisitos, diversos requisitos funcionais e não-funcionais foram elicitados. Este documento reune todos eles, agrupando os duplicados em um só
+requisito.
+
+## Requisitos
+
+Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetidos, adquiridos durante a ulilização das metodologias de [análise de interface](./Elicitação/analise_interface.md#requisitos-elicitados)(ANAXX), [entrevista](./Elicitação/entrevista.md#requisitos-elicitados)(ENTXX) e [encenação](./Elicitação/encenacao.md#requisitos-elicitados)(ENCXX): 
 
 | Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  | Origem |
 |---------|----------------------------|-------------------------|---------------------|--------|
@@ -36,7 +43,7 @@ Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetid
 | RE30    |  Requisito Funcional       |  O sistema permite que usuários conversem por chats privados | SIM | ANA27 |
 | RE31    |  Requisito não Funcional          | Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | NÃO | ENC03 |
 /// caption | <
-Tabela 1 — Tabela com todos os requisitos elicitados e já priorizados
+Tabela 1 — Tabela com todos os requisitos elicitados e já priorizados 
 ///
 /// caption
 Fonte: Autores

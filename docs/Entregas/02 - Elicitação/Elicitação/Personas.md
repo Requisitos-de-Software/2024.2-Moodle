@@ -12,7 +12,7 @@ Dentro do tópico, incluem-se ainda **antipersonas**, que representam usuários 
 
 ## Planejamento e Metodologia
 
-Foram definidos pela equipe três [perfis de usuário](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/) para estudo, com base em tipos de usuário do Moodle e os tipos de usuário mais comuns dentro da Faculdade de Ciência e Tecnologia em Engenharias (FCTE): **professor, monitor e aluno**.
+Foram definidos pela equipe três [perfis de usuário](./Perfil%20dos%20Usuarios.md#perfis-de-usuario-do-projeto) para estudo, com base em tipos de usuário do Moodle e os tipos de usuário mais comuns dentro da Faculdade de Ciência e Tecnologia em Engenharias (FCTE): **professor, monitor e aluno**.
 
 Definimos, após o estudo do assunto, 4 personas no total: Um aluno, um professor, um monitor e uma antipersona, exemplificando assim os três tipos possíveis de usuários da plataforma e um tipo de pessoa que não se encaixaria como um possível usuário. A elaboração dos personas foi realizada no dia 17/11/24, por uma reunião em videochamada na plataforma Discord dos autores deste documento.
 
