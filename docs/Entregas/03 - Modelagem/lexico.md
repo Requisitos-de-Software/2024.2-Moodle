@@ -35,10 +35,11 @@ Fonte: Rodrigo de Andrade
 
 As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe acerca dos requisitos não implementados.
 
-=== "L01"
+=== "Tempo de Resposta"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L01** |
     | Nome             | Tempo de Resposta  |
     | Noção            | Tempo em que o [sistema](#__tabbed_1_16) responde a [requisições](#__tabbed_1_2) de [usuários](#__tabbed_1_5) |
     | Classificação    | Objeto |
@@ -53,10 +54,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L02"
+=== "Requisição"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L02** |
     | Nome             | Requisição  |
     | Noção            | Ação realizada pelo [usuário](#__tabbed_1_5) que o permite navegar pelo [sistema](#__tabbed_1_16). |
     | Classificação    | Objeto |
@@ -71,10 +73,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L03"
+=== "Buscar"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L03** |
     | Nome             | Buscar |
     | Noção            | Ato de pesquisar um [conteúdo](#__tabbed_1_12) por palavras chaves ou títulos. Busca de [turmas](#__tabbed_1_4) em que o [usuário ‘Aluno’](#__tabbed_1_6) esteja matriculado no [sistema](#__tabbed_1_16) |
     | Classificação    | Verbo |
@@ -89,10 +92,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade, João Paulo
     ///
 
-=== "L04"
+=== "Curso"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L04** |
     | Nome             | Curso |
     | Noção            | Ministrado pelo [usuário ‘Professor’](#__tabbed_1_7). [Usuários ‘Aluno’](#__tabbed_1_6) podem se inscrever nele para acessar [conteúdos](#__tabbed_1_12) e realizar [tarefas](#__tabbed_1_10). [Usuários ‘Monitor’](#__tabbed_1_8) podem receber o acesso para estudar o [conteúdo](#__tabbed_1_12). |
     | Classificação    | Objeto |
@@ -107,10 +111,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade, Laís Cecília
     ///
 
-=== "L05"
+=== "Usuário"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L05** |
     | Nome             | Usuário  |
     | Noção            | Quem acessa qualquer funcionalidade da [Plataforma Moodle](#__tabbed_1_16)|
     | Classificação    | Estado |
@@ -125,15 +130,16 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L06"
+=== "Aluno"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L06** |
     | Nome             | Aluno  |
     | Noção            | Tipo de [usuário](#__tabbed_1_5) que pode: se matricular em [turmas](#__tabbed_1_4), acessar [conteúdo](#__tabbed_1_12) de [turmas](#__tabbed_1_4), [realizar](#__tabbed_1_9) [tarefas](#__tabbed_1_10). |
     | Classificação    | Estado |
     | Impacto          | Permite que alunos possam usufruir de [conteúdos](#__tabbed_1_12) e [realizar](#__tabbed_1_9) [tarefas](#__tabbed_1_10). Permite que [professores](#__tabbed_1_7) e [monitores](#__tabbed_1_8) possam [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10). |
-    | Sinônimo         | Aprendiz |
+    | Sinônimo         | Aprendiz, Estudante |
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5) |
     | Requisito        | RE22 |
     /// caption | <
@@ -143,15 +149,16 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L07"
+=== "Professor"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L07** |
     | Nome             | Professor  |
     | Noção            | Tipo de [usuário](#__tabbed_1_5) que pode: criar [turmas](#__tabbed_1_4), [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10), [fazer upload](#__tabbed_1_11) de [conteúdo](#__tabbed_1_12) |
     | Classificação    |Estado |
     | Impacto          | Professores podem criar [turmas](#__tabbed_1_4), matricular [alunos](#__tabbed_1_6), [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10). Permite que [monitores](#__tabbed_1_8) possam [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10), se matricularem em [turmas](#__tabbed_1_4). Permite que [alunos](#__tabbed_1_6) possam acessar [conteúdo](#__tabbed_1_12), [realizar](#__tabbed_1_9) [tarefas](#__tabbed_1_10). |
-    | Sinônimo         | Reitor |
+    | Sinônimo         | Docente, instrutor, educador |
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5), [Monitor](#__tabbed_1_8) |
     | Requisito        | RE22 |
     /// caption | <
@@ -161,15 +168,16 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L08"
+=== "Monitor"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L08** |
     | Nome             | Monitor  |
     | Noção            | Tipo de [usuário](#__tabbed_1_5) que pode: [corrigir](#__tabbed_1_15) [tarefas](#__tabbed_1_10), acessar [turmas](#__tabbed_1_4), acessar [conteúdo](#__tabbed_1_12) |
     | Classificação    | Estado |
     | Impacto          | Permite que [alunos](#__tabbed_1_6) possam ter suas [tarefas](#__tabbed_1_10) [corrigidas](#__tabbed_1_15) |
-    | Sinônimo         | Fiscal |
+    | Sinônimo         | Fiscal, mentor, assistente do professor |
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5), [Professor](#__tabbed_1_7) |
     | Requisito        | RE22 |
     /// caption | <
@@ -179,10 +187,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L09"
+=== "Realizar"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L09** |
     | Nome             | Realizar  |
     | Noção            | Um usuário [‘aluno’](#__tabbed_1_6) pode realizar [tarefas](#__tabbed_1_10) e [enviá-las](#__tabbed_1_11) para [correção](#__tabbed_1_19) |
     | Classificação    | Verbo |
@@ -197,10 +206,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L10"
+=== "Tarefa"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L10** |
     | Nome             | Tarefa  |
     | Noção            | Tipo de [conteúdo](#__tabbed_1_12) que fica na [turma](#__tabbed_1_4) como atividade para o [usuário ‘Aluno’](#__tabbed_1_6). Necessita ser [realizada](#__tabbed_1_9) pelo [aluno](#__tabbed_1_6). [Enviada](#__tabbed_1_11) pelo [professor](#__tabbed_1_7). |
     | Classificação    | Objeto |
@@ -215,10 +225,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L11"
+=== "Enviar"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L11** |
     | Nome             | Enviar  |
     | Noção            | Um [usuário ‘aluno’](#__tabbed_1_6) pode enviar [tarefas](#__tabbed_1_10) [realizadas](#__tabbed_1_9) para [correção](#__tabbed_1_15). Um [usuário ‘professor’](#__tabbed_1_7) pode enviar [tarefas](#__tabbed_1_10) não [realizadas](#__tabbed_1_9) para o [aluno](#__tabbed_1_6) [realizar](#__tabbed_1_9) |
     | Classificação    | Verbo |
@@ -233,10 +244,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Rodrigo de Andrade
     ///
 
-=== "L12"
+=== "Conteúdo"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L12** |
     | Nome             | Conteúdo  |
     | Noção            | Unidade de informação digital que pode ser anexada, [enviada](#__tabbed_1_11) ou armazenada no [Moodle](#__tabbed_1_16). [Adicionado](#__tabbed_1_11) no [Moodle](#__tabbed_1_16) pelo [professor](#__tabbed_1_7). Pode incluir arquivos, links, vídeos, etc |
     | Classificação    | Objeto |
@@ -251,12 +263,13 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: João Paulo, Rodrigo Orlandi, Esther Sousa
     ///
 
-=== "L13"
+=== "Auto-compactação"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L13** |
     | Nome             | Auto-compactação  |
-    | Noção            | Ato de compactar os arquivos, se excederam o limite máximo de tamanho permitido no [envio](#__tabbed_1_9) da [tarefa](#__tabbed_1_10) |
+    | Noção            | Ato de compactar os arquivos, se excederam o limite máximo de tamanho permitido no [envio](#__tabbed_1_11) da [tarefa](#__tabbed_1_10) |
     | Classificação    | Verbo |
     | Impacto          | Facilita e diminui o tempo de [envio](#__tabbed_1_11) de [tarefa](#__tabbed_1_10) do [usuário ‘aluno’](#__tabbed_1_6)|
     | Sinônimo         | Compressão |
@@ -269,10 +282,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: João Paulo
     ///
 
-=== "L14"
+=== "Limite de tamanho"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L14** |
     | Nome             | Limite de tamanho  |
     | Noção            | Limite estabelecido pelo [sistema](#__tabbed_1_16) sobre o [envio](#__tabbed_1_11) de [conteúdo](#__tabbed_1_12) e [tarefas](#__tabbed_1_10) |
     | Classificação    | Objeto |
@@ -287,10 +301,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: João Paulo, Rodrigo Orlandi
     ///
 
-=== "L15"
+=== "Corrigir"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L15** |
     | Nome             | Corrigir  |
     | Noção            | Ato de verificar as respostas da [tarefa](#__tabbed_1_10) [enviada](#__tabbed_1_11) com o intuito de classificar como correto, incompleto ou errado. Pode ser realizado pelos [usuários](#__tabbed_1_5) [‘professor’](#__tabbed_1_7) e [‘monitor’](#__tabbed_1_8). |
     | Classificação    | Verbo |
@@ -305,10 +320,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Esther Sousa, Rodrigo Orlandi
     ///
 
-=== "L16"
+=== "Sistema"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L16** |
     | Nome             | Sistema  |
     | Noção            | Representa o software analisado, Moodle, como um conjunto universal denominado sistema. |
     | Classificação    | Objeto |
@@ -323,10 +339,11 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Esther Sousa, Rodrigo Orlandi
     ///
 
-=== "L17"
+=== "Chamada de vídeo"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L17** |
     | Nome             | Chamada de vídeo  |
     | Noção            | Funcionalidade do [sistema](#__tabbed_1_16) que permite [usuários](#__tabbed_1_5) se encontrarem em uma sala virtual, realizando uma chamada virtual em que se assemelhe a uma aula. Todos podem falar e ser escutados. |
     | Classificação    | Estado |
@@ -341,28 +358,30 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     Fonte: Esther Sousa, Rodrigo Orlandi
     ///
 
-=== "L18"
+=== "Arquivado"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
-    | Nome             | Curso arquivado  |
-    | Noção            | [Cursos](#__tabbed_1_4) encerrados pelo [professor](#__tabbed_1_7) podem ser acessados como arquivados |
+    | Código           | **L18** |
+    | Nome             | Arquivado  |
+    | Noção            | Estado de um [cursos](#__tabbed_1_4) que foi encerrado pelo [professor](#__tabbed_1_7) |
     | Classificação    | Estado |
-    | Impacto          | Acesso à esses [cursos](#__tabbed_1_4) é limitado ao modo leitura|
-    | Sinônimo         | Curso fechado |
+    | Impacto          | Acesso a esses [cursos](#__tabbed_1_4) é limitado ao modo leitura|
+    | Sinônimo         | Curso fechado, Curso anterior |
     | Léxicos Relacionados | [Curso](#__tabbed_1_4) |
     | Requisito        | RE09|
     /// caption | <
-    Tabela 19 — Léxico de ‘curso arquivado’
+    Tabela 19 — Léxico de ‘arquivado’
     ///
     /// caption
     Fonte: Laís Cecília
     ///
 
-=== "L19"
+=== "Feedback"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
+    | Código           | **L19** |
     | Nome             | Feedback |
     | Noção            | Correção e sugestões de melhoria de uma [tarefa](#__tabbed_1_10) [enviada](#__tabbed_1_11). Criado pelo [professor](#__tabbed_1_7) ou [monitor](#__tabbed_1_8) ao [corrigir](#__tabbed_1_15) uma [tarefa](#__tabbed_1_10) |
     | Classificação    | Objeto |
