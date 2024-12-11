@@ -16,7 +16,7 @@
       
       
       <link rel="icon" href="../../../img/logoslick.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.43">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.42">
     
     
       
@@ -392,7 +392,7 @@
         
   
   <span class="md-ellipsis">
-    Apresentação 2
+    Apresentação 3
   </span>
   
 
@@ -977,11 +977,32 @@
   
   
     <li class="md-nav__item">
+      <a href="../areq_nao_imp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Não Implementados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../cenarios/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Requisitos Não Implementados e Cenários
+    Cenários
   </span>
   
 
@@ -1051,7 +1072,9 @@
       
         
 
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
   
   
   
@@ -1060,7 +1083,7 @@
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
-      Table of contents
+      Índice
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
@@ -1401,7 +1424,9 @@
                   <div class="md-sidebar__inner">
                     
 
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
   
   
   
@@ -1410,7 +1435,7 @@
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
-      Table of contents
+      Índice
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
@@ -1507,8 +1532,8 @@
 <p>Um dos pontos mais importantes de um caso de uso é prover um resultado observável <a href="https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf">(SERRANO, 2017)</a>, um objetivo que é atingível com requisitos implementados de maneira concreta e sendo observáveis dentro do sistema. </p>
 <p>Casos de uso incluem fluxo primário, fluxos alternativos e de exceção. Os fluxos descrevem conjuntos de ações que o usuário tomaria e que ocorrem no sistema. Casos de uso incluem atores primários e secundários, localizados à esquerda e à direita do sistema, respectivamente, e o detalhamento dos casos de uso em si. Setas <em>extend</em> e <em>include</em> representam uma continuação opcional ou obrigatória do caso de uso, respectivamente.</p>
 <h2 id="metodologia">Metodologia<a class="headerlink" href="#metodologia" title="Permanent link">&para;</a></h2>
-<p>Como nos <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/">cenários</a> e <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/">léxicos</a> desenvolvidos, os requisitos que guiaram a implementação do diagrama de caso de uso foram os requisitos não implementados no Moodle. Essa decisão foi tomada com base em utilizar o projeto como sugestão de melhora para a plataforma Moodle, enquanto executamos o estudo e aplicação de técnicas de Requisitos de Software.</p>
-<p>Cada membro ficou responsável por trazer casos de uso relevantes aos requisitos escolhidos, que podem ser verificados na tabela 2 do artefato de <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/">Requisitos Não Implementados e Cenários</a>. Os casos de uso estão representados como <strong>'UCX'</strong>, com <strong>'X'</strong> sendo número cronológico de implementação. Os requisitos transformados convertidos em casos de uso podem ser verificados na tabela 1, a seguir: </p>
+<p>Como nos <a href="../cenarios/">cenários</a> e <a href="../lexico/">léxicos</a> desenvolvidos, os requisitos que guiaram a implementação do diagrama de caso de uso foram os <a href="../areq_nao_imp/#rni">requisitos não implementados</a> no Moodle. Essa decisão foi tomada com base em utilizar o projeto como sugestão de melhora para a plataforma Moodle, enquanto executamos o estudo e aplicação de técnicas de Requisitos de Software.</p>
+<p>Cada membro ficou responsável por trazer casos de uso relevantes aos <a href="../areq_nao_imp/#divisao">requisitos escolhidos</a>. Os casos de uso estão representados como <strong>'UCX'</strong>, com <strong>'X'</strong> sendo número cronológico de implementação. Os requisitos transformados convertidos em casos de uso podem ser verificados na tabela 1, a seguir: </p>
 <figure>
 <figure>
 <figcaption>
@@ -1567,7 +1592,7 @@
 <p><strong>Nome</strong> se refere ao título do diagrama de uso, identificando-o; </p>
 </li>
 <li>
-<p><strong>Descrição</strong> se refere à <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso">especificação de casos de uso</a> presentes após o diagrama de caso de uso, descrevendo os casos, pré e pós-condições, fluxos principais, alternativos e de exceção;    </p>
+<p><strong>Descrição</strong> se refere à <a href="#especificacao-dos-casos-de-uso">especificação de casos de uso</a> presentes após o diagrama de caso de uso, descrevendo os casos, pré e pós-condições, fluxos principais, alternativos e de exceção;    </p>
 </li>
 <li>
 <p><strong>Atores</strong> são divididos entre atores primários e secundários. Atores primários têm interesse em acessar o sistema para receber um serviço diretamente. Os atores secundários, também conhecidos como atores de suporte, interagem com o sistema para fornecer algum tipo de serviço ou informação. Os atores primários estão sempre presentes à esquerda do sistema, e os secundários à direita. No Moodle, os usuários 'Aluno', 'Professor' e 'Monitor' são atores primários e secundários;</p>
@@ -1646,7 +1671,7 @@
 </tr>
 <tr>
 <td style="text-align: right;"><strong>Rastreabilidade</strong></td>
-<td>RE31</td>
+<td><a href="../areq_nao_imp/#rni">RE31</a></td>
 </tr>
 </tbody>
 </table>
@@ -1704,7 +1729,7 @@
 </tr>
 <tr>
 <td style="text-align: right;"><strong>Rastreabilidade</strong></td>
-<td>RE09</td>
+<td><a href="../areq_nao_imp/#rni">RE09</a></td>
 </tr>
 </tbody>
 </table>
@@ -1762,7 +1787,7 @@
 </tr>
 <tr>
 <td style="text-align: right;"><strong>Rastreabilidade</strong></td>
-<td>RE25</td>
+<td><a href="../areq_nao_imp/#rni">RE25</a></td>
 </tr>
 </tbody>
 </table>
@@ -1820,7 +1845,7 @@
 </tr>
 <tr>
 <td style="text-align: right;"><strong>Rastreabilidade</strong></td>
-<td>RE02</td>
+<td><a href="../areq_nao_imp/#rni">RE02</a></td>
 </tr>
 </tbody>
 </table>
@@ -1878,7 +1903,7 @@
 </tr>
 <tr>
 <td style="text-align: right;"><strong>Rastreabilidade</strong></td>
-<td>RE28</td>
+<td><a href="../areq_nao_imp/#rni">RE28</a></td>
 </tr>
 </tbody>
 </table>
@@ -1936,7 +1961,7 @@
 </tr>
 <tr>
 <td style="text-align: right;"><strong>Rastreabilidade</strong></td>
-<td>RE12</td>
+<td><a href="../areq_nao_imp/#rni">RE12</a></td>
 </tr>
 </tbody>
 </table>

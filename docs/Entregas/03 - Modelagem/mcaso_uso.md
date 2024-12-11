@@ -10,9 +10,9 @@ Casos de uso incluem fluxo primário, fluxos alternativos e de exceção. Os flu
 
 ## Metodologia
 
-Como nos [cenários](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/) e [léxicos](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/) desenvolvidos, os requisitos que guiaram a implementação do diagrama de caso de uso foram os requisitos não implementados no Moodle. Essa decisão foi tomada com base em utilizar o projeto como sugestão de melhora para a plataforma Moodle, enquanto executamos o estudo e aplicação de técnicas de Requisitos de Software.
+Como nos [cenários](./cenarios.md) e [léxicos](./lexico.md) desenvolvidos, os requisitos que guiaram a implementação do diagrama de caso de uso foram os [requisitos não implementados](./areq_nao_imp.md#rni) no Moodle. Essa decisão foi tomada com base em utilizar o projeto como sugestão de melhora para a plataforma Moodle, enquanto executamos o estudo e aplicação de técnicas de Requisitos de Software.
 
-Cada membro ficou responsável por trazer casos de uso relevantes aos requisitos escolhidos, que podem ser verificados na tabela 2 do artefato de [Requisitos Não Implementados e Cenários](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/). Os casos de uso estão representados como **'UCX'**, com **'X'** sendo número cronológico de implementação. Os requisitos transformados convertidos em casos de uso podem ser verificados na tabela 1, a seguir: 
+Cada membro ficou responsável por trazer casos de uso relevantes aos [requisitos escolhidos](./areq_nao_imp.md#divisao). Os casos de uso estão representados como **'UCX'**, com **'X'** sendo número cronológico de implementação. Os requisitos transformados convertidos em casos de uso podem ser verificados na tabela 1, a seguir: 
 
 | Requisito        |  Responsável                 | Caso de Uso                  |  
 |------------------|------------------------------|------------------------------|
@@ -35,7 +35,7 @@ A estrutura do diagrama de caso de uso é dividida em Nome, Descrição, Atores,
 
 * **Nome** se refere ao título do diagrama de uso, identificando-o; 
 
-* **Descrição** se refere à [especificação de casos de uso](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso) presentes após o diagrama de caso de uso, descrevendo os casos, pré e pós-condições, fluxos principais, alternativos e de exceção;    
+* **Descrição** se refere à [especificação de casos de uso](#especificacao-dos-casos-de-uso) presentes após o diagrama de caso de uso, descrevendo os casos, pré e pós-condições, fluxos principais, alternativos e de exceção;    
 
 * **Atores** são divididos entre atores primários e secundários. Atores primários têm interesse em acessar o sistema para receber um serviço diretamente. Os atores secundários, também conhecidos como atores de suporte, interagem com o sistema para fornecer algum tipo de serviço ou informação. Os atores primários estão sempre presentes à esquerda do sistema, e os secundários à direita. No Moodle, os usuários 'Aluno', 'Professor' e 'Monitor' são atores primários e secundários;
 
@@ -72,7 +72,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Fluxos Alternativo**| Usuário encontra turmas com mesmo nome (FA001) |
     |**Fluxos de Exceção**| A turma não existe (FE001)|
     |**Pós Condição**| O usuário haverá encontrado a turma (FP001)|
-    |**Rastreabilidade**| RE31|
+    |**Rastreabilidade**| [RE31](./areq_nao_imp.md#rni)|
     /// caption | <
     Tabela 2 — Primeiro caso de uso, que representa a procura de turmas.
     ///
@@ -92,7 +92,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Fluxos Alternativo**| Não há |
     |**Fluxos de Exceção**| Não há |
     |**Pós Condição**| O usuário estará na página do curso, em modo leitura|
-    |**Rastreabilidade**| RE09 |
+    |**Rastreabilidade**| [RE09](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 3 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
     ///
@@ -112,7 +112,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Fluxos Alternativo**| Não há |
     |**Fluxos de Exceção**| Ocorre uma falha na compactação de arquivs (FE003) |
     |**Pós Condição**| O usuário consegue comprimir o arquivo e enviá-lo ao sistema|
-    |**Rastreabilidade**| RE25 |
+    |**Rastreabilidade**| [RE25](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 4 — Terceiro caso de uso, que representa a auto-compactação de tarefas no momento de seu envio.
     ///
@@ -132,7 +132,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Fluxos Alternativo**| 1. Se o usuário for um professor, o curso pode ser aberto no modo edição <br> 2. Se o usuário for um monitor, o curso é aberto no modo leitura |
     |**Fluxos de Exceção**| Não há |
     |**Pós Condição**| O usuário estará na página do curso|
-    |**Rastreabilidade**| RE02 |
+    |**Rastreabilidade**| [RE02](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 5 — Divisão de requisitos não implementados, seus responsáveis e os casos de uso em que foram convertidos.
     ///
@@ -152,7 +152,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Fluxos Alternativo**| Não há |
     |**Fluxos de Exceção**| Não há |
     |**Pós Condição**| O usuário estará na tela "Meus Cursos"|
-    |**Rastreabilidade**| RE28 |
+    |**Rastreabilidade**| [RE28](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 6 — Quinto caso de uso, que representa a possibilidade de abrir vídeochamadas em uma turma.
     ///
@@ -172,7 +172,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Fluxos Alternativo**| Ao clicar no botão de ver cursos arquivados, o sistema exibe os mesmos |
     |**Fluxos de Exceção**| Não há |
     |**Pós Condição**| O usuário estará na tela "Meus Cursos"|
-    |**Rastreabilidade**| RE12 |
+    |**Rastreabilidade**| [RE12](./areq_nao_imp.md#rni) |
     /// caption | <
     Tabela 7 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
     ///
