@@ -23,7 +23,7 @@ Apresentados na tabela 1, a seguir, estão os requisitos elicitados não repetid
 | RE10    |  Requisito Funcional       |  O sistema disponibiliza as notas do usuário | SIM | ANA24 |
 | RE11    |  Requisito Funcional       |  O usuário ‘Aluno’ deve poder consultar as notas das atividades já corrigidas. | SIM |ENT19 |
 | RE12    |  Requisito Funcional       |  O sistema permite que alunos visualizem as turmas em que estão cadastrados| SIM |  ANA05, ANA12, ANA20 |
-| RE13    |  Requisito não Funcional   |  O sistema permite que o 'aluno' veja feedback de tarefas|  SIM | ENC05 |
+| RE13    |  Requisito Funcional   |  O sistema permite que o 'aluno' veja feedback de tarefas|  SIM | ENC05 |
 | RE14    |  Requisito Funcional       |  O conteúdo deve poder ser organizado pelo usuário 'Professor' em tópicos e índices de tópicos. |  SIM |ENT04 |
 | RE15    |  Requisito Funcional       |  O sistema deve permitir que o usuário ‘Professor’ possa enviar conteúdos, que ficarão disponíveis ao tipo de usuário ‘Aluno’ e 'Monitor'. | SIM |ENT14 |
 | RE16    |  Requisito Funcional       |  O usuário 'Professor’ deve ser capaz de elegir um ou mais usuário(s) 'Monitor’ para a sua matéria. | SIM |ENT20 |
