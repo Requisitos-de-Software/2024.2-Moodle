@@ -37,7 +37,7 @@ Fonte: Lichess, 2024, *apud* Leite, 2003.
 
 As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados, seguindo a [divisão dos requisitos](./areq_nao_imp.md#divisao).
 
-=== "Revisitar Turma Anterior."
+=== "Revisitar Turma Anterior"
 
     | Categoria     | Descrição                  | 
     |---------------|----------------------------|
@@ -57,7 +57,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     Fonte: Laís Cecília (Autora)
     ///
 
-=== "Busca dentro da matéria."
+=== "Busca dentro da matéria"
     | Categoria     | Descrição                  | 
     |------------------|-----------------------------|
     | Código        | **C02** |
@@ -76,7 +76,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     Fonte: João Paulo (Autor)
     ///
 
-=== "Upload Rápido de Tarefa."
+=== "Upload Rápido de Tarefa"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
@@ -96,7 +96,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     Fonte: Rodrigo de Andrade (Autor)
     ///
 
-=== "Auto-compactação de arquivos."
+=== "Auto-compactação de arquivos"
 
     | Categoria     | Descrição                  | 
     |------------------|-----------------------------|
@@ -116,7 +116,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     Fonte: João Paulo (Autor)
     ///
 
-=== "Porcentagem de conclusão da disciplina." 
+=== "Porcentagem de conclusão da disciplina" 
 
     | Categoria     | Descrição                  | 
     |------------------|-----------------------------|
@@ -136,7 +136,7 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     Fonte: Esther Sousa (Autora)
     ///
 
-=== "Aulas síncronas por chamada de vídeo."
+=== "Aulas síncronas por chamada de vídeo"
 
     | Categoria     | Descrição                  | 
     |------------------|-----------------------------|
