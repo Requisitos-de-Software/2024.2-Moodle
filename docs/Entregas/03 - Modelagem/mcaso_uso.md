@@ -60,7 +60,7 @@ Fonte: Rodrigo Orlandi (Autor)
 ## Especificação dos casos de uso
 
 
-=== "UC001"
+=== "Procurar turma"
 
     |UC001| Procurar turma|
     |---:|-----------|
@@ -74,13 +74,13 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Pós Condição**| O usuário haverá encontrado a turma (FP001)|
     |**Rastreabilidade**| [RE31](./areq_nao_imp.md#rni)|
     /// caption | <
-    Tabela 2 — Primeiro caso de uso, que representa a procura de turmas.
+    #### Tabela 2 — Primeiro caso de uso, que representa a procura de turmas. { #__tabbed_1_1 data-toc-label="Procurar turma" }
     ///
     /// caption
     Fonte: Júlia Lopes, Rodrigo Orlandi (Autores)
     ///
 
-=== "UC002"
+=== "Ver turmas arquivadas"
 
     |UC002| Ver turmas arquivadas|
     |---:|-----------|
@@ -94,13 +94,13 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Pós Condição**| O usuário estará na página do curso, em modo leitura|
     |**Rastreabilidade**| [RE09](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 3 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
+    #### Tabela 3 — Segundo caso de uso, que representa a visualização de turmas arquivadas. { #__tabbed_1_2 data-toc-label="Ver turmas arquivadas" }
     ///
     /// caption
     Fonte: Laís Cecília (Autora)
     ///
 
-=== "UC003"
+=== "Auto-compactação de tarefas"
 
     |UC003| Auto-compactação de tarefas |
     |---:|-----------|
@@ -114,13 +114,13 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Pós Condição**| O usuário consegue comprimir o arquivo e enviá-lo ao sistema|
     |**Rastreabilidade**| [RE25](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 4 — Terceiro caso de uso, que representa a auto-compactação de tarefas no momento de seu envio.
+    #### Tabela 4 — Terceiro caso de uso, que representa a auto-compactação de tarefas no momento de seu envio. { #__tabbed_1_3 data-toc-label="Auto-compactação de tarefas" }
     ///
     /// caption
     Fonte: João Paulo (Autor)
     ///
 
-=== "UC004"
+=== "Buscar tópico dentro da turma"
 
     |UC004| Buscar tópico dentro da turma|
     |---:|-----------|
@@ -134,13 +134,13 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Pós Condição**| O usuário estará na página do curso|
     |**Rastreabilidade**| [RE02](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 5 — Divisão de requisitos não implementados, seus responsáveis e os casos de uso em que foram convertidos.
+    #### Tabela 5 — Quarto caso de uso, que representa a funcionalidade de buscar tópicos dentro da turma. { #__tabbed_1_4 data-toc-label="Buscar tópico dentro da turma" }
     ///
     /// caption
-    Fonte: Laís Cecília (Autora)
+    Fonte: João Paulo(Autor)
     ///
 
-=== "UC005"
+=== "Abrir uma vídeochamada"
 
     |UC005| Abrir uma vídeochamada |
     |---:|-----------|
@@ -154,13 +154,13 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Pós Condição**| O usuário estará na tela "Meus Cursos"|
     |**Rastreabilidade**| [RE28](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 6 — Quinto caso de uso, que representa a possibilidade de abrir vídeochamadas em uma turma.
+    #### Tabela 6 — Quinto caso de uso, que representa a possibilidade de abrir vídeochamadas em uma turma. { #__tabbed_1_5 data-toc-label="Abrir uma vídeochamada" }
     ///
     /// caption
     Fonte: Esther Sousa (Autora)
     ///
 
-=== "UC006"
+=== "Acessar turmas"
 
     |UC006| Acessar turmas|
     |---:|-----------|
@@ -174,7 +174,7 @@ Fonte: Rodrigo Orlandi (Autor)
     |**Pós Condição**| O usuário estará na tela "Meus Cursos"|
     |**Rastreabilidade**| [RE12](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 7 — Segundo caso de uso, que representa a visualização de turmas arquivadas.
+    #### Tabela 7 — Segundo caso de uso, que representa a visualização de turmas arquivadas. { #__tabbed_1_6 data-toc-label="Acessar turmas" }
     ///
     /// caption
     Fonte: Laís Cecília (Autora)
@@ -194,3 +194,4 @@ Fonte: Rodrigo Orlandi (Autor)
 | v1.0   | Feito upload da página | Rodrigo de Andrade| Laís Cecília | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
 | v1.1   | Formatação | Laís Cecília| Rodrigo de Andrade | <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
 | v1.2   | Correções pós reunião      | Rodrigo Orlandi |  Esther Sousa                        | <input type="checkbox" onclick="return false;" disabled /> | 08/12/2024 |
+| v1.3   | Mudanças tabs              | Laís Cecília    | João Paulo                           | <input type="checkbox" onclick="return false;" disabled/>  | 11/12/2024

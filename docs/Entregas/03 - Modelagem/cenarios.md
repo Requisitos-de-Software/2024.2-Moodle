@@ -37,7 +37,7 @@ Fonte: Lichess, 2024, *apud* Leite, 2003.
 
 As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados, seguindo a [divisão dos requisitos](./areq_nao_imp.md#divisao).
 
-=== "Revisitar Turma Anterior"
+=== "Revisitar turma anterior"
 
     | Categoria     | Descrição                  | 
     |---------------|----------------------------|
@@ -50,8 +50,9 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Episódios     | <ol><li> O usuário acessa a página "Meus Cursos" no aplicativo; <br> <li> O usuário clica no botão "Ver cursos arquivados"; <br> <li> O usuário seleciona a turma que deseja consultar.</ol>| 
     | Restrições    | <ul><li> O usuário deve já ter participado da turma como aluno; <br> <li> O usuário poderá somente visualizar o conteúdo.</ul> | 
     | Exceções      | Se a sessão estiver esgotada, o usuário será redirecionado à tela de login |
+    | Requisito    | [RE09](areq_nao_imp.md#rni): Revisitar turma anterior. |
     /// caption | <
-    Tabela 2 — Cenario referente ao [RE09](areq_nao_imp.md#rni): Revisitar turma anterior
+    ####Tabela 2 — Cenario de "Revisitar turma anterior" { #__tabbed_1_1 data-toc-label="Revisitar turma anterior" }
     ///
     /// caption
     Fonte: Laís Cecília (Autora)
@@ -69,14 +70,15 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Episódios     | <ol><li> Aluno acessa o Moodle; <br><li> Aluno entra na matéria de um professor; <br><li> Aluno busca por um conteúdo específico.</ol> | 
     | Restrições    | Não há um sistema de busca. | 
     | Exceções     | Falta de energia. |
+    | Requisito    |  [RE21](areq_nao_imp.md#rni): O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários. |
     /// caption | <
-    Tabela 3 — Cenário referente ao [RE21](areq_nao_imp.md#rni): O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.
+    #### Tabela 3 — Cenário de "Busca dentro da matéria" { #__tabbed_1_2 data-toc-label="Busca dentro da matéria" }
     ///
     /// caption
     Fonte: João Paulo (Autor)
     ///
 
-=== "Upload Rápido de Tarefa"
+=== "Upload rápido de tarefa"
 
     | Categoria        | Descrição                                                                                  |  
     |------------------|--------------------------------------------------------------------------------------------|
@@ -89,8 +91,9 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Episódios        | <ol><li> O usuário faz login e acessa o aplicativo de framework Moodle; <br> <li> O usuário acessa a disciplina e encontra a entrega da tarefa; <br> <li> O usuário faz upload da tarefa e clica em enviar tarefa; <br> <li>A tarefa é considerada enviada com sucesso. </ol>| 
     | Restrições       | <ul><li>A tarefa será fechada em um minuto; <br><li> Tempo de espera entre clicar e carregar a página deve ser menor que dois segundos. </ul>| 
     | Exceções     |<ul><li> Smartphone/computador sem conexão à Internet;<br><li> Smartphone/computador sem bateria. </ul>|
+    | Requisito    | [RE22](areq_nao_imp.md#rni): O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique. |
     /// caption | <
-    Tabela 4 — Cenário referente ao [RE22](areq_nao_imp.md#rni): O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique.
+    #### Tabela 4 — Cenário de "Upload Rápido de Tarefa" { #__tabbed_1_3 data-toc-label="Upload rápido de tarefa" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade (Autor)
@@ -109,8 +112,9 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Episódios     | <ol><li> Aluno acessa o Moodle; <br> <li>Aluno entra na matéria de um professor; <br> <li>Aluno envia um arquivo; <br><li> O arquivo é compactado pelo sistema. </ol> | 
     | Restrições    | Não há um sistema de auto-compactação. | 
     | Exceções     | Falta de energia. |
+    | Requisito    | [RE25](areq_nao_imp.md#rni): O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo. |
     /// caption | <
-    Tabela 5 — Cenário referente ao [RE25](areq_nao_imp.md#rni): O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.
+    #### Tabela 5 — Cenário de "Auto-compactação de arquivos" { #__tabbed_1_4 data-toc-label="Auto-compactação de arquivos" }
     ///
     /// caption
     Fonte: João Paulo (Autor)
@@ -129,8 +133,9 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Episódios     | <ol><li> O aluno realiza uma atividade; <br> <li> Abre a seção de porcentagem de conclusão do curso; <br> <li> Visualiza a porcentagem que acabou de subir em relação a porcentagem anterior. </ol>| 
     | Restrições    | Quantidade de atividades disponíveis na disciplina. | 
     | Exceções     | <ul><li> Não estar em uma disciplina no Moodle; <br> <li> Não ter atividades </ul>|
+    | Requisito    | [RE26](areq_nao_imp.md#rni): O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina. |
     /// caption | <
-    Tabela 6 — Cenário referente ao [RE26](areq_nao_imp.md#rni): O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.
+    #### Tabela 6 — Cenário de "Porcentagem de conclusão da disciplina" { #__tabbed_1_5 data-toc-label="Porcentagem de conclusão da disciplina" }
     ///
     /// caption
     Fonte: Esther Sousa (Autora)
@@ -149,8 +154,9 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Episódios     | <ol><li>O professor faz login no Moodle; <br> <li> O professor em sua disciplina inicia uma chamada de vídeo disponível para os alunos da disciplina pelo Moodle; <br> <li> O aluno faz login no Moodle; <br> <li> O aluno entra na página da disciplina; <br> <li> O aluno entra na seção de aulas por chamada de vídeo; <br> <li> O aluno entra na chamada de vídeo criada pelo professor no momento. </ol>| 
     | Restrições    | Usuários terem câmera. | 
     | Exceções     | <ul><li> Não estar na disciplina no Moodle; <br> <li> Não ter uma câmera.</ul> |
+    | Requisito    | [RE28](areq_nao_imp.md#rni): O sistema permite a realização de aulas síncronas por chamas de vídeo.  |
     /// caption | <
-    Tabela 7 — Cenário referente ao [RE28](areq_nao_imp.md#rni): O sistema permite a realização de aulas síncronas por chamas de vídeo
+    #### Tabela 7 — Cenário de "Aulas síncronas por chamada de vídeo" { #__tabbed_1_6 data-toc-label="Aulas síncronas por chamada de vídeo" }
     ///
     /// caption
     Fonte: Esther Sousa (Autora)
@@ -169,8 +175,9 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
     | Episódios        | <ol><li> O usuário faz login e acessa o aplicativo de framework Moodle; <br><li>O usuário encontra a barra de busca e insere o código da matéria; <br><li> O usuário se inscreve na matéria ao utilizar a senha.</ol> |
     | Restrições       | A barra de busca de disciplina tem de estar facilmente localizável |
     | Exceções     | <ul><li>Smartphone sem conexão à Internet; <br><li> Smartphone sem bateria.</ul> |
+    | Requisito    | [RE31](areq_nao_imp.md#rni): Encontrar a barra de busca de turmas é facilmente localizável e intuitiva.  |
     /// caption | <
-    Tabela 8 — Cenário referente ao [RE31](areq_nao_imp.md#rni): Encontrar a barra de busca de turmas é facilmente localizável e intuitiva.
+    #### Tabela 8 — Cenário de "Pesquisar por turma" { #__tabbed_1_7 data-toc-label="Pesquisar por turma" }
     ///
     /// caption
     Fonte: Júlia Lopes (Autor)
@@ -193,5 +200,5 @@ As tabelas 2-8, a seguir, representam os cenários desenvolvidos pela equipe ace
 | v1.0   | Feito upload da página | Rodrigo de Andrade| João Paulo | <input type="checkbox" onclick="return false;" disabled/> | 07/12/2024 |
 | v1.1   | RE09                       | Laís Cecília                    | João Paulo               | <input type="checkbox" onclick="return false;" disabled /> | 07/12/2024 |
 | v1.2   | Cenários reunidos          | Laís Cecília                    | João Paulo               | <input type="checkbox" onclick="return false;" disabled /> | 08/12/2024 |
-| v1.3   | Separada a parte de requisitos não implementados          | Laís Cecília                    | Júlia Lopes               | <input type="checkbox" onclick="return false;" disabled /> | 10/12/2024 |
+| v1.3   | Separada a parte de requisitos não implementados + mudanças tabs          | Laís Cecília                    | Júlia Lopes               | <input type="checkbox" onclick="return false;" disabled /> | 10/12/2024 |
 

@@ -48,7 +48,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Requisição](#__tabbed_1_2) |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 02 — Léxico de ‘tempo de resposta’
+    #### Tabela 02 — Léxico de ‘tempo de resposta’ { #__tabbed_1_1 data-toc-label="Tempo de resposta" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -67,7 +67,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados |  |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 03 — Léxico de ‘requisição’
+    #### Tabela 03 — Léxico de ‘requisição’ { #__tabbed_1_2 data-toc-label="Requisição" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -86,7 +86,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Conteúdo](#__tabbed_1_12) |
     | Requisito        | [RE31, RE21](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 04 — Léxico referente a ‘buscar’
+    #### Tabela 04 — Léxico referente a ‘buscar’ { #__tabbed_1_3 data-toc-label="Buscar" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade, João Paulo
@@ -105,7 +105,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Tarefa](#__tabbed_1_10), [Conteúdo](#__tabbed_1_12) |
     | Requisito        | [RE31](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 05 — Léxico referente a 'curso'
+    #### Tabela 05 — Léxico referente a 'curso' { #__tabbed_1_4 data-toc-label="Curso" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade, Laís Cecília
@@ -124,7 +124,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Aluno](#__tabbed_1_6), [Professor](#__tabbed_1_7), [Monitor](#__tabbed_1_8)  |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 06 — Léxico de ‘usuário’
+    #### Tabela 06 — Léxico de ‘usuário’ { #__tabbed_1_5 data-toc-label="Usuário" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -143,7 +143,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5) |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 07 — Léxico de ‘aluno’
+    #### Tabela 07 — Léxico de ‘aluno’ { #__tabbed_1_6 data-toc-label="Aluno" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -162,7 +162,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5), [Monitor](#__tabbed_1_8) |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 08 — Léxico de ‘professor’
+    #### Tabela 08 — Léxico de ‘professor’ { #__tabbed_1_7 data-toc-label="Professor" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -181,7 +181,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Usuário](#__tabbed_1_5), [Professor](#__tabbed_1_7) |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 09 — Léxico de ‘monitor’
+    #### Tabela 09 — Léxico de ‘monitor’ { #__tabbed_1_8 data-toc-label="Monitor" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -200,7 +200,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Tarefa](#__tabbed_1_10), [Enviar](#__tabbed_1_11) |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 10 — Léxico de ‘realizar’
+    #### Tabela 10 — Léxico de ‘realizar’ { #__tabbed_1_9 data-toc-label="Realizar" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -219,7 +219,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Conteúdo](#__tabbed_1_12) |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 11 — Léxico de ‘tarefa’
+    #### Tabela 11 — Léxico de ‘tarefa’ { #__tabbed_1_10 data-toc-label="Tarefa" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -238,7 +238,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Realizar](#__tabbed_1_9) |
     | Requisito        | [RE22](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 12 — Léxico de ‘enviar’
+    #### Tabela 12 — Léxico de ‘enviar’ { #__tabbed_1_11 data-toc-label="Enviar" }
     ///
     /// caption
     Fonte: Rodrigo de Andrade
@@ -257,7 +257,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Tarefa](#__tabbed_1_10) |
     | Requisito        | [RE22, RE26](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 13 — Léxico de ‘conteúdo’
+    #### Tabela 13 — Léxico de ‘conteúdo’ { #__tabbed_1_12 data-toc-label="Conteúdo" }
     ///
     /// caption
     Fonte: João Paulo, Rodrigo Orlandi, Esther Sousa
@@ -276,7 +276,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Enviar](#__tabbed_1_11), [Limite de tamanho](#__tabbed_1_14) |
     | Requisito        | [RE25](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 14 — Léxico de ‘auto-compactação’
+    #### Tabela 14 — Léxico de ‘auto-compactação’ { #__tabbed_1_13 data-toc-label="Auto-compactação" }
     ///
     /// caption
     Fonte: João Paulo
@@ -295,7 +295,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Auto-compactação](#__tabbed_1_13), [Enviar](#__tabbed_1_11), [Tarefa](#__tabbed_1_10) |
     | Requisito        | [RE25](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 15 — Léxico de ‘limite de tamanho’
+    #### Tabela 15 — Léxico de ‘limite de tamanho’ { #__tabbed_1_14 data-toc-label="Limite de tamanho" }
     ///
     /// caption
     Fonte: João Paulo, Rodrigo Orlandi
@@ -314,7 +314,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Feedback](#__tabbed_1_19), [Tarefa](#__tabbed_1_10), [Professor](#__tabbed_1_7), [Monitor](#__tabbed_1_8) |
     | Requisito        | [RE26](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 16 — Léxico de ‘corrigir’
+    #### Tabela 16 — Léxico de ‘corrigir’ { #__tabbed_1_15 data-toc-label="Corrigir" }
     ///
     /// caption
     Fonte: Esther Sousa, Rodrigo Orlandi
@@ -333,7 +333,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados |  |
     | Requisito        | [RE28](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 17 — Léxico de ‘sistema’
+    #### Tabela 17 — Léxico de ‘sistema’ { #__tabbed_1_16 data-toc-label="Sistema" }
     ///
     /// caption
     Fonte: Esther Sousa, Rodrigo Orlandi
@@ -352,7 +352,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Curso](#__tabbed_1_4) |
     | Requisito        | [RE28](./areq_nao_imp.md#rni) |
     /// caption | <
-    Tabela 18 — Léxico de ‘chamada de vídeo’
+    #### Tabela 18 — Léxico de ‘chamada de vídeo’ { #__tabbed_1_17 data-toc-label="Chamada de vídeo" }
     ///
     /// caption
     Fonte: Esther Sousa, Rodrigo Orlandi
@@ -371,7 +371,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Curso](#__tabbed_1_4) |
     | Requisito        | [RE09](./areq_nao_imp.md#rni)|
     /// caption | <
-    Tabela 19 — Léxico de ‘arquivado’
+    #### Tabela 19 — Léxico de ‘arquivado’ { #__tabbed_1_18 data-toc-label="Arquivado" }
     ///
     /// caption
     Fonte: Laís Cecília
@@ -390,7 +390,7 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
     | Léxicos Relacionados | [Corrigir](#__tabbed_1_15) |
     | Requisito        | [RE26](./areq_nao_imp.md#rni)|
     /// caption | <
-    Tabela 20 — Léxico de ‘feedback’
+    #### Tabela 20 — Léxico de ‘feedback’ { #__tabbed_1_19 data-toc-label="Feedback" }
     ///
     /// caption
     Fonte: Laís Cecília
@@ -407,5 +407,6 @@ As tabelas 02-20, a seguir, representam os léxicos desenvolvidos pela equipe ac
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Feito upload da página | Rodrigo de Andrade| Esther Sousa| <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
-| v1.1   | Hyperlinks entre léxicos | Laís Cecília | Julia Lopes| <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
+| v1.0   | Feito upload da página | Rodrigo de Andrade| Esther Sousa| <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
+| v1.1   | Hyperlinks entre léxicos | Laís Cecília | Julia Lopes| <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
+| v1.2   | Mudanças nas tabs+L19    | Laís Cecília | Júlia Lopes |  <input type="checkbox" onclick="return false;" disabled/>        | 11/12/2024 |
