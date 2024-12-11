@@ -38,7 +38,7 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
     |  8   | A gravação da reunião do grupo. | <span style="color:green">Conforme</span> | - | v1.0(ambas) - 08/12/2024 - 22:23 |
     |  9   | Vídeo de apresentação na categoria “não listado” no youtube? |<span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 22:24 |
     /// caption | <
-    Tabela 1 — Checklist do desenvolvimento geral do projeto
+    #### Tabela 1 — Checklist do desenvolvimento geral do projeto { #__tabbed_1_1 data-toc-label="Desenvolvimento geral do projeto" }
     ///
     /// caption
     Fonte: André Barros
@@ -68,7 +68,7 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
     |  18  | Todos os requisitos podem ser testados (RF e RNF)? | <span style="color:green">Conforme</span> | - | v1.0 - 08/12/2024 - 23:16|
     
     /// caption | <
-    Tabela 2 — Checklist do conteúdo da disciplina
+    #### Tabela 2 — Checklist do conteúdo da disciplina { #__tabbed_1_2 data-toc-label="Conteúdo da disciplina" }
     ///
     /// caption
     Fonte: André Barros
@@ -88,4 +88,4 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              | João Paulo, Júlia Lopes |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
 | v1.1   | Lista preenchida em reunião      | todos | n/a                   |n/a | 08/12/2024 |
-| v1.2   | Correções pós reunião      | Laís Cecília |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled /> | 08/12/2024 |
+| v1.2   | Correções pós reunião + mudanças tabs      | Laís Cecília |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled /> | 08/12/2024 |
