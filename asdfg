@@ -1,0 +1,190 @@
+<table>
+    <tr>
+        <td style="text-align: center">Tema</td>
+        <td style="text-align: center">Épico</td>
+        <td style="text-align: center">História de Usuário</td>
+        <td style="text-align: center">Código</td>
+        <td style="text-align: center">Prioridade</td>
+        <td style="text-align: center">Requisito de Origem</td>
+    </tr>
+    <tr>
+        <!-- Tema -->
+        <td style="vertical-align: middle" rowspan=6>Sistema</td>
+        <!-- Épico -->
+        <td style="vertical-align: middle" rowspan=2>Login</td>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Alta</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>US001</td>
+        <!-- Prioridade -->
+        <td>Média</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+         <td style="vertical-align: middle" rowspan=2>Limite Máximo</td>
+         <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Baixa</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Baixa</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+        </tr>
+        <tr>
+        <!-- Épico -->
+         <td style="vertical-align: middle" rowspan=2>Filtragem</td>
+         <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Baixa</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Baixa</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+        </tr>
+          <!-- Tema -->
+        <td style="vertical-align: middle" rowspan=2 >Notificação</td>
+        <!-- Épico -->
+        <td style="vertical-align: middle" rowspan=2>Calendário</td>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Alta</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>US001</td>
+        <!-- Prioridade -->
+        <td>Média</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+          <!-- Tema -->
+        <td style="vertical-align: middle" rowspan=8>Tarefas</td>
+        <!-- Épico -->
+        <td style="vertical-align: middle" rowspan=2>Épico 1</td>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Alta</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>US001</td>
+        <!-- Prioridade -->
+        <td>Média</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+         <td style="vertical-align: middle" rowspan=2>Épico 2</td>
+         <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Baixa</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+     <!-- Épico -->
+        <td style="vertical-align: middle" rowspan=2>Épico 1</td>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Alta</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>US001</td>
+        <!-- Prioridade -->
+        <td>Média</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+         <td style="vertical-align: middle" rowspan=2>Épico 2</td>
+         <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Baixa</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+     <!-- Épico -->
+        <td style="vertical-align: middle" rowspan=2>Épico 1</td>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>USXXX</td>
+        <!-- Prioridade -->
+        <td>Alta</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+    <tr>
+        <!-- História de Usuário-->
+        <td>Eu, como usuário...</td>
+        <!-- Código -->
+        <td>US001</td>
+        <!-- Prioridade -->
+        <td>Média</td>
+        <!-- Rastreabilidade -->
+        <td>REXX</td>
+    </tr>
+</table>
