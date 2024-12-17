@@ -52,9 +52,9 @@ A tabela 3 a seguir demonstra os possíveis graus de cumprimento dos softgoals, 
 | Símbolo | Nome & Significado| 
 |:-----------------------:|:-------------------|
 |  ![check](../../img/check.png){width="100" height="100"} | **Satisfeito**: Pode ou é cumprido segundo a análise. |
-|  ![check](../../img/check.png){width="100" height="100"} | **Satisfeito (fraco)**: É parcialmente cumprido. |
+|  ![check](../../img/aceito-fracos.png){width="100" height="100"} | **Satisfeito (fraco)**: É parcialmente cumprido. |
 |  ![check](../../img/check.png){width="100" height="100"} | **Não decidido**: A realização do softgoal não pode ser. confirmada ou negada. |
-|  ![check](../../img/check.png){width="100" height="100"} | **Recusado (fraco)**: Há indicadores que vão contra o softgoal. |
+|  ![recufra](../../img/recusa_fraca.png){width="100" height="100"} | **Recusado (fraco)**: Há indicadores que vão contra o softgoal. |
 |  ![x](../../img/x.png){width="100" height="100"} | **Recusado**: O softgoal não é cumprido, segundo a análise. |
 |  ![check](../../img/check.png){width="100" height="100"} | **Conflito**: Existem indicadores positivos e negativos para o cumprimento do softgoal. |
 /// caption | <
@@ -98,7 +98,7 @@ As figuras 1 a 3 a seguir apresentam as Frameworks NFRs desenvolvidas pelo grupo
 
 ![nfr1](../../img/NFR-usabilidade.png)
 /// caption | <
-Figura X — Framework NFR de Usabilidade, acerca dos requisitos não funcionais elicitados.
+Figura 1 — Framework NFR de Usabilidade, acerca dos requisitos não funcionais elicitados.
 ///
 /// caption
 Fonte: Rodrigo Orlandi (Autor)
@@ -106,7 +106,7 @@ Fonte: Rodrigo Orlandi (Autor)
 
 ![nfr2](../../img/NFR-confiabilidade.png)
 /// caption | <
-Figura X — Framework NFR de Confiabilidade, acerca dos requisitos não funcionais elicitados.
+Figura 2 — Framework NFR de Confiabilidade, acerca dos requisitos não funcionais elicitados.
 ///
 /// caption
 Fonte: Rodrigo Orlandi (Autor)
@@ -114,7 +114,7 @@ Fonte: Rodrigo Orlandi (Autor)
 
 ![nfr3](../../img/NFR-performance.png)
 /// caption | <
-Figura X — Framework NFR de Performance, acerca dos requisitos não funcionais elicitados.
+Figura 3 — Framework NFR de Performance, acerca dos requisitos não funcionais elicitados.
 ///
 /// caption
 Fonte: Rodrigo Orlandi (Autor)
@@ -128,10 +128,31 @@ A gravação a seguir apresenta a revisão feita com um usuário do aplicativo M
 
 <iframe width="500" height="285" src="https://www.youtube.com/embed/hyQK7UKK2p4" title="[2024-2] Requisitos - Grupo 2 - Gravação de NFRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+As figuras 4 a 6, a seguir, apresenta a versão revisada dos NFRs após discussão com o cliente, demonstrando o grau no qual os softgoals foram cumpridos.
 
+![nfr4](../../img/[R]nfr-usabilidade.png)
+/// caption | <
+Figura 4 — Framework NFR de Usabilidade revisado, levando em consideração RNFs implementados e opinião do cliente.
+///
+/// caption
+Fonte: Rodrigo Orlandi (Autor)
+///
 
-Gravação: https://youtu.be/hyQK7UKK2p4
+![nfr5](../../img/[R]nfr-confiabilidade.png)
+/// caption | <
+Figura 5 — Framework NFR de Confiabilidade revisado, levando em consideração RNFs implementados e opinião do cliente.
+///
+/// caption
+Fonte: Rodrigo Orlandi (Autor)
+///
 
+![nfr6](../../img/[R]nfr-performance.png)
+/// caption | <
+Figura 6 — Framework NFR de Performance revisado, levando em consideração RNFs implementados e opinião do cliente.
+///
+/// caption
+Fonte: Rodrigo Orlandi (Autor)
+///
 
 ## Referências
 
