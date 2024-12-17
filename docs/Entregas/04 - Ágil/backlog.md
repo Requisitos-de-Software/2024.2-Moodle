@@ -6,7 +6,7 @@ O *Backlog* de produto(regisitro pendente de trabalhos) é uma lista que reune o
 
 ## Metodologia
 
-A partir dos [Requisitos](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) elicitados anteriormente, foi feita uma análise que os categorizou em diversos épicos, os mesmo sendo categorizados em temas. Além disso, para cada requisito foi desenvolvida uma [História de Usuário] que o caracteriza, foi também atribuida a [Prioridade] determinada a ele. A tabela 1, a seguir, mostra o template seguido ao montar a tabela de Backlog.
+A partir dos [Requisitos](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) funcionais elicitados anteriormente, foi feita uma análise que os categorizou em diversos épicos, os mesmo sendo categorizados em temas. Além disso, para cada requisito foi desenvolvida uma [História de Usuário] que o caracteriza, foi também atribuida a [Prioridade] determinada a ele. A tabela 1, a seguir, mostra o template seguido ao montar a tabela de Backlog.
 
 <table>
     <tr>
@@ -131,13 +131,13 @@ Fonte: Laís Cecília(Autora)
     </tr>
     <tr>
         <!-- Tema -->
-        <td style="vertical-align: middle" rowspan=10>Sistema</td>
+        <td style="vertical-align: middle" rowspan=6>Sistema</td>
         <!-- Épico -->
         <td style="vertical-align: middle" rowspan=2>Login</td>
         <!-- História de Usuário-->
         <td>Eu, como professor, quero realizar o login para acessar minhas turmas.</td>
         <!-- Código -->
-        <td>USXXX</td>
+        <td>US01</td>
         <!-- Prioridade -->
         <td>Alta</td>
         <!-- Rastreabilidade -->
@@ -147,7 +147,7 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como aluno, quero entrar na turma e visualizar o conteúdo que o professor disponibilizou, para poder estudar.</td>
         <!-- Código -->
-        <td>US001</td>
+        <td>US02</td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
@@ -155,52 +155,11 @@ Fonte: Laís Cecília(Autora)
     </tr>
     <tr>
         <!-- Épico -->
-         <td style="vertical-align: middle" rowspan=3>Limite Máximo</td>
-         <!-- História de Usuário-->
-        <td>Eu, como aluno, gostaria que quando eu clico em algo, seja trocar de página ou abrir o site, que ele responda de forma rápida para não ficar esperando toda vez.</td>
-        <!-- Código -->
-        <td>USXXX</td>
-        <!-- Prioridade -->
-        <td>Baixa</td>
-        <!-- Rastreabilidade -->
-        <td>RE22</td>
-    </tr>
-    <tr>
-        <!-- História de Usuário-->
-        <td>Eu, como professor, quero que haja um limite da quantidade de material que devo baixar para não ocupar um espaço desnecessário e limitar o tamanho de informações que deve conter no arquivo.</td>
-        <!-- Código -->
-        <td>USXXX</td>
-        <!-- Prioridade -->
-        <td>Baixa</td>
-        <!-- Rastreabilidade -->
-        <td>RE24</td>
-        </tr>
-            <tr>
-        <!-- História de Usuário-->
-        <td>Eu, como administrador, quero definir o limite máximo de tamanho dos arquivos enviados, para que o sistema saiba quando acionar a funcionalidade de auto-compactação.</td>
-        <!-- Código -->
-        <td>US11</td>
-        <!-- Prioridade -->
-        <td>Baixa</td>
-        <!-- Rastreabilidade -->
-        <td>RE25</td>
-        </tr>
-        <tr>
-        <!-- Épico -->
-         <td style="vertical-align: middle" rowspan=5>Filtragem</td>
-         <!-- História de Usuário-->
-        <td>Eu, como aluno, gostaria de toda vez que desejo pesquisar por uma turma eu não tivesse que rodear o site para lembrar onde a barra de busca se encontra.</td>
-        <!-- Código -->
-        <td>USXXX</td>
-        <!-- Prioridade -->
-        <td>Baixa</td>
-        <!-- Rastreabilidade -->
-        <td>RE31</td>
-    </tr>
+         <td style="vertical-align: middle" rowspan=4>Filtragem</td>
         <!-- História de Usuário-->
         <td>Eu como aluno, quero pesquisar por palavras-chave dentro de uma disciplina, para encontrar rapidamente materiais, atividades ou informações relacionadas ao que estou estudando.</td>
         <!-- Código -->
-        <td>US07</td>
+        <td>US20</td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
@@ -209,7 +168,7 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu como aluno, quero utilizar filtros na busca dentro de uma disciplina, para refinar os resultados e encontrar rapidamente o que procuro.</td>
         <!-- Código -->
-        <td>US08</td>
+        <td>US21</td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
@@ -219,7 +178,7 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu como aluno, quero filtrar pelas minhas matérias para achar o que tenho que estudar mais facilmente.</td>
         <!-- Código -->
-        <td>USXXX</td>
+        <td>US03</td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
@@ -228,33 +187,20 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como usuário, desejo poder ver as notas que obtive para poder estar ciente da minha situação na matéria.</td>
         <!-- Código -->
-        <td>USXXX</td>
+        <td>US08</td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
         <td>RE10</td>
     </tr>
           <!-- Tema -->
-        <td style="vertical-align: middle" rowspan=1 >Notificação</td>
-        <!-- Épico -->
-        <td style="vertical-align: middle" rowspan=1>Calendário</td>
-        <!-- História de Usuário-->
-        <td>Eu como aluno, gostaria de ser notificado por ferramentas, como calendários/dashboards, de entregas que se aproximam da Deadline para que eu possa reagir de acordo.</td>
-        <!-- Código -->
-        <td>USXXX</td>
-        <!-- Prioridade -->
-        <td>Alta</td>
-        <!-- Rastreabilidade -->
-        <td>RE06</td>
-    </tr>
-          <!-- Tema -->
-        <td style="vertical-align: middle" rowspan=13>Turmas</td>
+        <td style="vertical-align: middle" rowspan=12>Turmas</td>
         <!-- Épico -->
         <td style="vertical-align: middle" rowspan=4>Tarefas</td>
         <!-- História de Usuário-->
         <td>Eu, como aluno, gostaria de poder baixar arquivos do moodle, para facilitar meu acesso a esses arquivos sem a necessidade de acessar o site toda vez.</td>
         <!-- Código -->
-        <td>USXXX</td>
+        <td>US10</td>
         <!-- Prioridade -->
         <td>Alta</td>
         <!-- Rastreabilidade -->
@@ -264,7 +210,7 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como aluno, quero poder enviar o arquivo pedido na tarefa  para poder ser avaliado pelo professor.</td>
         <!-- Código -->
-        <td>US001</td>
+        <td>US27</td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
@@ -275,7 +221,7 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como professor, quero poder corrigir as atividades enviadas por alunos para poder acompanhar a evolução do aprendizado.</td>
         <!-- Código -->
-        <td>US001</td>
+        <td>US04</td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
@@ -287,59 +233,29 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como usuário, desejo poder realizar atividades e testes no formato de questionário pelo Moodle, para poder ter a flexibilidade de um ensino híbrido ou remoto.</td>
         <!-- Código -->
-        <td>US001</td>
+        <td>US07</td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
         <td>RE23</td>
     </tr>
     <tr>
-        <!-- Épico -->
-         <td style="vertical-align: middle" rowspan=2>Enviar Conteúdo</td>
-         <!-- História de Usuário-->
-        <td>Eu, como usuário, desejo poder ver o feedback do professor sobre os meus envios de atividades para poder saber o que fiz bem e o que eu posso melhorar.</td>
-        <!-- Código -->
-        <td>USXXX</td>
-        <!-- Prioridade -->
-        <td>Baixa</td>
-        <!-- Rastreabilidade -->
-        <td>RE13</td>
-    </tr>
-            <!-- História de Usuário-->
-        <td>Como aluno, quero que o sistema compacte automaticamente meus arquivos quando o tamanho ultrapassar o limite permitido, para que eu possa enviá-los sem precisar realizar a compactação manualmente.</td>
-        <!-- Código -->
-        <td>US09</td>
-        <!-- Prioridade -->
-        <td>Alta</td>
-        <!-- Rastreabilidade -->
-        <td>RE25</td>
-     <tr>
      <!-- Épico -->
-        <td style="vertical-align: middle" rowspan=4>Organização</td>
+        <td style="vertical-align: middle" rowspan=5>Organização</td>
         <!-- História de Usuário-->
         <td>Eu, como aluno, quero visualizar a porcentagem restante para concluir a disciplina para poder me organizar no andamento do semestre.</td>
         <!-- Código -->
-        <td>USXXX</td>
+        <td>US24</td>
         <!-- Prioridade -->
         <td>Alta</td>
         <!-- Rastreabilidade -->
         <td>RE28</td>
     </tr>
-    <tr>
-        <!-- História de Usuário-->
-        <td>Eu, como usuário, quero poder não ter dificuldade para interagir com a plataforma baseado em sua usabilidade para poder usar a plataforma de modo mais eficiente e confortável possível.</td>
-        <!-- Código -->
-        <td>US001</td>
-        <!-- Prioridade -->
-        <td>Média</td>
-        <!-- Rastreabilidade -->
-        <td>RE20</td>
-    </tr>
      <tr>
         <!-- História de Usuário-->
         <td>Eu, como professor, quero organizar o conteúdo a ser dado em tópicos para deixar as turmas mais organizadas, deixando-o mais legível para mim e para os alunos.</td>
         <!-- Código -->
-        <td>US001</td>
+        <td>US05</td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
@@ -349,11 +265,31 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como usuário, desejo ser capaz de revisitar turmas anteriores para poder ver quem foram os meus colegas e professores.</td>
         <!-- Código -->
-        <td>US001</td>
+        <td>US06</td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
         <td>RE09</td>
+    </tr>
+         <tr>
+        <!-- História de Usuário-->
+        <td> Eu como aluno, quero ser notificado com antecedência personalizável (por exemplo, 1, 3 ou 7 dias antes) sobre as deadlines, para que eu tenha tempo suficiente para concluir as tarefas.</td>
+        <!-- Código -->
+        <td>US17</td>
+        <!-- Prioridade -->
+        <td>Média</td>
+        <!-- Rastreabilidade -->
+        <td>RE06</td>
+    </tr>
+         <tr>
+        <!-- História de Usuário-->
+        <td> Eu, como aluno, quero poder assistir aula síncronas a distância na plataforma, sem precisar de terceiros para ter a praticidade de acompanhar as aulas mesmo a distância.</td>
+        <!-- Código -->
+        <td>US25</td>
+        <!-- Prioridade -->
+        <td>Média</td>
+        <!-- Rastreabilidade -->
+        <td>RE28</td>
     </tr>
     <tr>
         <!-- Épico -->
@@ -361,7 +297,7 @@ Fonte: Laís Cecília(Autora)
          <!-- História de Usuário-->
         <td>Eu como aluno gostaria de fazer utilização de chats de conversa privado para tirar dúvidas com monitores/professores</td>
         <!-- Código -->
-        <td>USXXX</td>
+        <td>US13</td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
@@ -370,7 +306,7 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu como aluno, quero acessar um fórum para conversar com meus professores e colegas, para esclarecer dúvidas e discutir temas relacionados à disciplina.</td>
         <!-- Código -->
-        <td>US05</td>
+        <td>US18</td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
@@ -379,7 +315,7 @@ Fonte: Laís Cecília(Autora)
      <!-- História de Usuário-->
         <td>Eu como aluno, quero receber notificações quando alguém responder a meus tópicos ou comentários no fórum, para acompanhar as discussões em tempo </td>
         <!-- Código -->
-        <td>US05</td>
+        <td>US19</td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
