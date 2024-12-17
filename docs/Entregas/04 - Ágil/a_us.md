@@ -41,6 +41,24 @@ As histórias de usuário foram elaboradas com base na tabela de requisitos elic
 | US27 | Eu, como aluno, quero poder enviar o arquivo pedido na tarefa para poder ser avaliado pelo professor. | - O aluno deve estar matriculado na disciplina em que deseja realizar a atividade;<br>- A disciplina deve ter tarefas, provas e/ou projetos postados no moodle que precisa de envio de arquivos;<br>- O aluno e o professor devem ter um aparelho eletrônico que comporta o site ou o aplicativo da plataforma. | [RE27](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
 | US28 | Eu, como usuário, quero poder não ter dificuldade para interagir com a plataforma baseado em sua usabilidade para poder usar a plataforma de modo mais eficiente e confortável possível. | - O usuário deve estar cadastrado na plataforma;<br>- O usuário deve ter um aparelho eletrônico que comporta o site ou o aplicativo da plataforma; | [RE20](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
 
+## Vídeos de Verificação de Critérios de Aceitação
+
+Rodrigo Orlandi:
+<iframe width="500" height="285" src="https://www.youtube.com/embed/8LSGsNO6r2A" title="Rodrigo Histórias de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Júlia Lopes:
+<iframe width="500" height="285" src="https://www.youtube.com/embed/ypJj_dVTpQA" title="Wonz História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Esther Sousa:
+<iframe width="500" height="285" src="https://www.youtube.com/embed/m-pNLnzIOTA" title="Esther História de Usuários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Laís Cecília:
+<iframe width="500" height="285" src="https://www.youtube.com/embed/cKmPrdEidOc" title="Entrevista validação user stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Referência
 | # | Fonte|
 |---|:------|
@@ -50,4 +68,4 @@ As histórias de usuário foram elaboradas com base na tabela de requisitos elic
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Feito upload da página | João Paulo | Rodrigo Orlandi | <input type="checkbox" onclick="return false;" disabled/> | 17/12/2024 |
-| v1.1   | Adicionadas referências | Rodrigo Orlandi | Esther Sousa| <input type="checkbox" onclick="return false;" disabled/> | 17/12/2024 |
+| v1.1   | Adicionadas referências e vídeos | Rodrigo Orlandi | Esther Sousa| <input type="checkbox" onclick="return false;" disabled/> | 17/12/2024 |
