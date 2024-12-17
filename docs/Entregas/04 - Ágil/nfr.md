@@ -52,7 +52,7 @@ A tabela 3 a seguir demonstra os possíveis graus de cumprimento dos softgoals, 
 | Símbolo | Nome & Significado| 
 |:-----------------------:|:-------------------|
 |  ![check](../../img/check.png){width="100" height="100"} | **Satisfeito**: Pode ou é cumprido segundo a análise. |
-|  ![check](../../img/aceito-fracos.png){width="100" height="100"} | **Satisfeito (fraco)**: É parcialmente cumprido. |
+|  ![acefra](../../img/aceito-fraco.png){width="100" height="100"} | **Satisfeito (fraco)**: É parcialmente cumprido. |
 |  ![check](../../img/check.png){width="100" height="100"} | **Não decidido**: A realização do softgoal não pode ser. confirmada ou negada. |
 |  ![recufra](../../img/recusa_fraca.png){width="100" height="100"} | **Recusado (fraco)**: Há indicadores que vão contra o softgoal. |
 |  ![x](../../img/x.png){width="100" height="100"} | **Recusado**: O softgoal não é cumprido, segundo a análise. |
