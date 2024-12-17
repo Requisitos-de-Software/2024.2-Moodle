@@ -12,7 +12,7 @@ Para o desenvolvimento de frameworks NFR, são necessários os requisitos não f
 
 Os requisitos não funcionais foram elicitados pela equipe em [entregas anteriores](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/arequisitos_elicitados/), com a necessidade adicional de tornar os requisitos mensuráveis para que possam ser propriamente analisados. 
 
-A tabela 1, a seguir, apresenta uma versão revisada dos requisitos não funcionais elicitados pelo projeto, a fim de torná-los propriamente mensuráveis e ajustá-los dentro do formato de requisitos não funcionais quando necessário.
+A tabela 1, a seguir, apresenta uma versão revisada dos requisitos não funcionais elicitados pelo projeto, a fim de torná-los mensuráveis e ajustá-los dentro do formato de requisitos não funcionais quando necessário.
 
 | Código  | Tipo de Requisito          | Descrição do Requisito  |  Foi implementado?  | Origem |
 |---------|----------------------------|-------------------------|---------------------|--------|
