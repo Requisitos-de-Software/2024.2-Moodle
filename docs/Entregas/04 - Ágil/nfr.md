@@ -33,9 +33,7 @@ A tabela 2, a seguir, denomina os tipos de softgoals abordados e alguns dos oper
 
 | Imagem | Nome & Descrição| 
 |:-----------------------:|:-------------------|
-|  ![softgoalnfr](../../img/cloud2.png){width="100" height="100"}  | **Softgoal NFR**: Característica abstrata, a qual se deseja considerar na
-análise, visando saber se a mesma será cumprida ou não cumprida, ou
-seja, escolhida ou não escolhida para ser implementada [(Serrano et. al, 2017)](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). |
+|  ![softgoalnfr](../../img/cloud2.png){width="100" height="100"}  | **Softgoal NFR**: Característica abstrata, a qual se deseja considerar na análise, visando saber se a mesma será cumprida ou não cumprida, ou seja, escolhida ou não escolhida para ser implementada [(Serrano et. al, 2017)](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). |
 |  ![softgoalope](../../img/cloud1.png){width="100" height="100"} | **Softgoal de Operacionalização**: Representa soluções de implementação que satisfazem softgoals NFR ou outros softgoals de operacionalização. Pode incluir operações, processos, estruturações e restrições no sistema. Representam as funcionalidades |
 |  ![softgoalafi](../../img/cloud3.png){width="100" height="100"} | **Softgoal de Afirmação**: permitem que as características do domínio sejam consideradas e refletidas no processo de tomada de decisão. Servem como justificativa para apoiar ou negar a forma como os softgoals são priorizados, refinados e os componentes são selecionados. |
 | AND | **Operador AND**: Implica que se os softgoals descendentes forem atendidos, os acendentes também serão. |
