@@ -37,7 +37,7 @@ A tabela 2, a seguir, denomina os tipos de softgoals abordados e alguns dos oper
 |  ![softgoalope](../../img/cloud1.png){width="100" height="100"} | **Softgoal de Operacionalização**: Representa soluções de implementação que satisfazem softgoals NFR ou outros softgoals de operacionalização. Pode incluir operações, processos, estruturações e restrições no sistema. Representam as funcionalidades |
 |  ![softgoalafi](../../img/cloud3.png){width="100" height="100"} | **Softgoal de Afirmação**: permitem que as características do domínio sejam consideradas e refletidas no processo de tomada de decisão. Servem como justificativa para apoiar ou negar a forma como os softgoals são priorizados, refinados e os componentes são selecionados. |
 | AND | **Operador AND**: Implica que se os softgoals descendentes forem atendidos, os acendentes também serão. |
-| AND | **Help (+)**: FILHO com contribuição positiva parcial, que sozinho não chega a satisfazer o PAI sob a perspectiva dos envolvidos [(Serrano et. al, 2017)](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). |
+| + | **Help (+)**: O softgoal filho com contribuição positiva parcial, que sozinho não chega a satisfazer o softgoal pai sob a perspectiva dos envolvidos [(Serrano et. al, 2017)](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). |
 /// caption | <
 #### Tabela 2 — Siginificado dos elementos visuais de diagramas da Framework NFR.
 ///
