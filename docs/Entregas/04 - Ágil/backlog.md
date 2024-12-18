@@ -330,7 +330,9 @@ Tabela 2 — Tabela de Backlog de produto
 Fonte: Júlia Lopes
 ///
 
+## Gravação
 
+<iframe width="500" height="285" src="https://www.youtube.com/embed/_dWPeMfJdwI" title="[2024-2] Requisitos - Grupo 2 - Gravação de Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
