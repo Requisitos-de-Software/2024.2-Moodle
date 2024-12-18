@@ -2,6 +2,9 @@
 
 ## Introdução
 
+De acordo com [(Serrano et. al, 2017)](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf), "trata-se de um framework conceitual para condução da Engenharia de Requisitos orientada
+aos requisitos não funcionais, com uma extensão que apoia suposições para avaliação de
+satisfação das metas-flexíveis".
 
 ## Metodologia
 
@@ -88,7 +91,7 @@ Fonte:Rodrigo Orlandi (Autor)
 |  **Perfomance**    | RE22              |
 |  **Confiabilidade**| RE24, RE25        |
 /// caption | <
-Tabela 4 — Relação de tópicos do FURPS+ com RNFs elicitados anteriormente no projeto.
+Tabela 5 — Relação de tópicos do FURPS+ com RNFs elicitados anteriormente no projeto.
 ///
 /// caption
 Fonte:Rodrigo Orlandi (Autor)
