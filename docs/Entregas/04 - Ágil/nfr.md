@@ -39,7 +39,7 @@ A tabela 2, a seguir, denomina os tipos de softgoals abordados e alguns dos oper
 | AND | **Operador AND**: Implica que se os softgoals descendentes forem atendidos, os acendentes também serão. |
 | + | **Help (+)**: O softgoal filho com contribuição positiva parcial, que sozinho não chega a satisfazer o softgoal pai sob a perspectiva dos envolvidos [(Serrano et. al, 2017)](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). |
 /// caption | <
-#### Tabela 2 — Siginificado dos elementos visuais de diagramas da Framework NFR.
+Tabela 2 — Siginificado dos elementos visuais de diagramas da Framework NFR.
 ///
 /// caption
 Fonte:Rodrigo Orlandi (Autor)
@@ -58,7 +58,7 @@ A tabela 3 a seguir demonstra os possíveis graus de cumprimento dos softgoals, 
 |  ![x](../../img/x.png){width="100" height="100"} | **Recusado**: O softgoal não é cumprido, segundo a análise. |
 |  ![conflito](../../img/conflito.png){width="100" height="100"} | **Conflito**: Existem indicadores positivos e negativos para o cumprimento do softgoal. |
 /// caption | <
-#### Tabela 3 — Símbolos e significados respectivos dos graus de cumprimento de softgoals.
+Tabela 3 — Símbolos e significados respectivos dos graus de cumprimento de softgoals.
 ///
 /// caption
 Fonte: [(Serrano et. al, 2017)](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf) (Adaptado).
@@ -66,16 +66,17 @@ Fonte: [(Serrano et. al, 2017)](https://aprender3.unb.br/pluginfile.php/2972516/
 
 ## Frameworks NFRs e Revisão 
 
-Foram desenvolvidas três frameworks NFR com base nos requisitos não funcionais elicitados pelo projeto, referente aos tópicos Usabilidade, Confiabilidade e Performance, originados do FURPS+. A tabela 3, a seguir, explica cada um dos tópicos em mais detalhes.
+Foram desenvolvidas três frameworks NFR com base nos requisitos não funcionais elicitados pelo projeto, referente aos tópicos Usabilidade, Confiabilidade e Performance, originados do FURPS+. A tabela 4, a seguir, explica cada um dos tópicos em mais detalhes.
 
-A escolha de três tópicos é explicada pela alocação dos requisitos não funcionais elicitados no projeto de acordo com o tópico que os melhor descrevem. A tabela 4, a seguir, demonstra a relação entre tópicos da FURPS+ e os requisitos não funcionais.
+A escolha de três tópicos é explicada pela alocação dos requisitos não funcionais elicitados no projeto de acordo com o tópico que os melhor descrevem. A tabela 5, a seguir, demonstra a relação entre tópicos da FURPS+ e os requisitos não funcionais.
 
 | Título do Tópico | Descrição| 
 |:-----------------------:|:-------------------|
 |  **Usabilidade**   | Refere-se à "eficiência, eficácia e satisfação com a qual os públicos do produto alcançam objetivos em um determinado ambiente", de acordo com a [ISO 9241-11:2018](https://www.iso.org/standard/63500.html).  |
 |  **Perfomance**    | Refere-se à capacidade do sistema de executar programas dentro de padrões como dentro de certos períodos de tempo, a eficácia de como consegue aproveitar o tempo para um certo número de execuções, entre outros. |
 |  **Confiabilidade**| Refere-se à capacidade do sistema de funcionar corretamente, de forma que evite ao máximo erros e brechas de dados dentro de sua execução.|
-#### Tabela 3 — Tópicos de FURPS+ abordados pelos requisitos não funcionais do projeto.
+/// caption | <
+Tabela 4 — Tópicos de FURPS+ abordados pelos requisitos não funcionais do projeto.
 ///
 /// caption
 Fonte:Rodrigo Orlandi (Autor)
@@ -86,7 +87,8 @@ Fonte:Rodrigo Orlandi (Autor)
 |  **Usabilidade**   | RE06, RE20, RE31  |
 |  **Perfomance**    | RE22              |
 |  **Confiabilidade**| RE24, RE25        |
-#### Tabela 4 — Relação de tópicos do FURPS+ com RNFs elicitados anteriormente no projeto.
+/// caption | <
+Tabela 4 — Relação de tópicos do FURPS+ com RNFs elicitados anteriormente no projeto.
 ///
 /// caption
 Fonte:Rodrigo Orlandi (Autor)
