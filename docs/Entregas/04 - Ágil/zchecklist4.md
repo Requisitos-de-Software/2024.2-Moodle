@@ -6,12 +6,11 @@ Após a conclusão dos outros artefatos da entrega 4, o grupo realizou a verific
 
 ## Data de realização
 
-DD/MM das HH:mm às HH:mm.
+18/12 das 20:20: às 20:50.
 
 ## Gravação
 
-LINK E EMBED DA GRAVAÇÃO
-
+<iframe width="500" height="285" src="https://www.youtube.com/embed/BCv7e_-4sH4" title="[2024-2] Requisitos - Grupo 2 - Inspeção do Trabalho - Modelagem Ágil" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Checklists
 
