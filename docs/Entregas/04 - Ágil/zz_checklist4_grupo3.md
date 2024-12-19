@@ -83,4 +83,4 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              | Laís Cecília |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled/> | 17/12/2024 |
+| v1.0   | Página Criada              | Rodrigo Orlandi |  Laís cecília                     | <input type="checkbox" onclick="return false;" disabled/> | 18/12/2024 |
