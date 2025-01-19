@@ -1,15 +1,15 @@
-# Forward-To e Forward-From
+# Backward-From e Forward-From
 
 ## Introdução
 
 Rastreabilidade de requisitos refere-se à ciência sobre a origem e destino de um artefato, podendo traçar um caminho claro que inclua todos os artefatos referentes ao original. Ela é de grande importância para um projeto ao ajudar correção de defeitos, validação, resolução de requisitos em conflito, e reutilização de componentes e artefatos, entre outros [(SERRANO, SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf).  
 
-A rastreabilidade Forward-To é um tipo de rastreabilidade que liga
-"documentos obtidos no processo de elicitação no plano de negócio a requisitos relevantes"
+A rastreabilidade Backward-From é um tipo de rastreabilidade que liga
+"requisitos às suas fontes"
 [(SERRANO, SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf), sendo classificado como rastreabilidade de pré-ordem.
 
-A Rastreabilidade Forward-To é um tipo de rastreabilidade de pré-ordem que liga
-"documentos obtidos no processo de elicitação no plano de negócio a requisitos relevantes"
+A Rastreabilidade Forward-From é um tipo de rastreabilidade de pós-ordem que liga
+"requisitos a artefatos de desenho e implementação"
 [(SERRANO, SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf), sendo classificada como rastreabilidade de pós-ordem.
 
 Ambas as rastreabilidades podem ser verificadas na figura 1, a seguir, que ilustra os tipos de rastreabilidade de um projeto de software.
@@ -24,7 +24,7 @@ Fonte: [Serrano, Serrano - Página 6, 2017](https://aprender3.unb.br/pluginfile.
 
 ## Metodologia
 
-Para devidamente ilustrar as relações de rastreabilidade ao longo deste projeto, foram pegos os requisitos elicitados como base e foram ilustradas as conexões de rastreabilidade **Forward-To** e **Forward-From**, a fim de prover uma base sólida de pré e pós-rastreabilidade que permita a navegabilidade e a gerência entre os requisitos do projeto, os artefatos utilizados como base para seu desenvolvimento e os artefatos desenvolvidos a partir dos requisitos. 
+Para devidamente ilustrar as relações de rastreabilidade ao longo deste projeto, foram pegos os requisitos elicitados como base e foram ilustradas as conexões de rastreabilidade **Backward-From** e **Forward-From**, a fim de prover uma base sólida de pré e pós-rastreabilidade que permita a navegabilidade e a gerência entre os requisitos do projeto, os artefatos utilizados como base para seu desenvolvimento e os artefatos desenvolvidos a partir dos requisitos. 
 
 Além de prover a navegabilidade, os elos foram classificados a partir dos meta-modelos de Toranzo, possibilitando um entendimento mais profundo dos tipos de elo presentes no projeto. A tabela 1 a seguir detalha os níveis disponíveis no meta-modelo que indicam o conteúdo tratado pelos elos.
 
@@ -58,15 +58,15 @@ Tabela 2 — Tipos de elos de acordo com o meta-modelo de Toranzo.
 Fonte: [Serrano, Serrano - Página 21, 2017](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) (Adaptado)
 ///
 
-## Tabela Forward-To
+## Tabela Backwards-From
 
-Na tabela 3, a seguir, as relações Forward-To do projeto estão detalhadas e classificadas de acordo com o nível e tipos de elos de rastreabilidade de acordo com o meta-modelo de Toranzo. A origem dos requisitos está codificado da seguinte maneira, de acordo com seus respectivos artefatos: 
+Na tabela 3, a seguir, as relações Backwards-From do projeto estão detalhadas e classificadas de acordo com o nível e tipos de elos de rastreabilidade de acordo com o meta-modelo de Toranzo. A origem dos requisitos está codificado da seguinte maneira, de acordo com seus respectivos artefatos: 
 
 * [Análise de interface](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/)(ANAXX), 
 * [Entrevista](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/)(ENTXX), 
 * [Encenação](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/)(ENCXX).
 
-Na Rastreabilidade Forward-To, foram notados diversos elos de **satisfação**, que analisam se o requisito proposto cumpre às necessidades do entrevistado ou se são retroativamente satisfeitos pela análise de interface, e **alocado**, que nesta tabela representa primariamente o requisito não implementado alocado no grupo de requisitos não implementado.
+Na Rastreabilidade Backword-From, foram notados diversos elos de **satisfação**, que analisam se o requisito proposto cumpre às necessidades do entrevistado ou se são retroativamente satisfeitos pela análise de interface, e **alocado**, que nesta tabela representa primariamente o requisito não implementado alocado no grupo de requisitos não implementado.
 
 | ID| REQUISITO | DESCRIÇÃO | ORIGINADO EM: | CATEGORIA (Toranzo) |
 | -------- | ------- | ------- | ------- | ------------|
@@ -121,6 +121,8 @@ Na tabela 4, a seguir, as relações Forward-From do projeto estão detalhadas e
 
 Na rastreabilidade Forward-From, a maioria dos elos foi categorizado como **representação**, por estar representando requisitos em forma de gráfico ou esquema; **alocado**, como parte de um conjunto maior (referindo-se aos casos de usos implementados no Backlog), ou como uma mistura de ambos, dependendo de sua utilização. 
 
+Os requisitos com espaços nulos não foram utilizados por novos artefatos no momento de escrita.
+
 | ID| REQUISITO | DESCRIÇÃO | UTILIZADO EM: | CATEGORIA (Toranzo) |
 | -------- | ------- | ------- | ------- | ------------|
 | 01 | RE01 - RF01   |  Sistema requer login do usuário para ser acessado. | [US01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios) | Desenvolvimento - Alocada |
@@ -155,7 +157,7 @@ Na rastreabilidade Forward-From, a maioria dos elos foi categorizado como **repr
 | 30 | RE30 - RF25   |  O sistema permite que usuários conversem por chats privados | [US13](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios) | Desenvolvimento - Alocado |
 | 31 | RE31 - RNF06   |  Encontrar a barra de busca de turmas é facilmente localizável e intuitiva |[CEN07](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX03, LEX04](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos), [UC01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso), [ESP01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/nespecif_supl/#execucao), [US14](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios), [NFR06](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia)  | Desenvolvimento - Representação/Alocado |
 /// caption | <
-Tabela 4 — Relacionamentos Forward-To do projeto.
+Tabela 4 — Relacionamentos Backward-From do projeto.
 ///
 /// caption
 Fonte: Rodrigo Orlandi e João Paulo (Autores)
@@ -171,4 +173,4 @@ Fonte: Rodrigo Orlandi e João Paulo (Autores)
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada | Rodrigo Orlandi e João Paulo | Rodrigo Orlandi | <input type="checkbox" onclick="return false;" disabled/> | 19/01/2025 |
+| v1.0   | Página Criada | Rodrigo Orlandi e João Paulo | Laís Cecília | <input type="checkbox" onclick="return false;" disabled/> | 19/01/2025 |
