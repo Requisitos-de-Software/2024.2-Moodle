@@ -138,5 +138,5 @@
 
 | Versão | Descrição                  | Autor                         | Revisor | Revisado| Data       |
 |--------|----------------------------|-------------------------------|---------|----------|------------|
-| v1.0   | Criação do Cronograma Executado           |  Esther Sousa     |       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
+| v1.0   | Criação do Cronograma Executado           |  Esther Sousa     |  Laís Cecília     |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
 
