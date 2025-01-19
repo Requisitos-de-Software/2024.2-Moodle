@@ -31,11 +31,9 @@ Além de prover a navegabilidade, os elos foram classificados a partir dos meta-
 |  Nível     | Descrição             |
 | ---------- | --------------------- |
 |  Ambiental | Informações oriundas do contexto no qual a organização está inserida. |
-|  Organizacional | Informações pertencentes à organização (missão,
-objetivos e estratégias). |
+|  Organizacional | Informações pertencentes à organização (missão, objetivos e estratégias). |
 |  Gerencial | Informações que auxiliam a gerência do projeto. |
-|  Desenvolvimento |  Dados ao longo do processo de desenvolvimento (artefatos de
-requisitos, diagramas, códigos, casos de teste e outros). |
+|  Desenvolvimento |  Dados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros). |
 /// caption | <
 Tabela 1 — Níveis de elos de acordo com o meta-modelo de Toranzo.
 ///
@@ -47,16 +45,11 @@ A segunda classificação refere-se aos tipos de elos de Toranzo. A tabela 2, a 
 
 |  Tipo    | Descrição             |
 | ---------- | --------------------- |
-|  Satisfação | Classe origem tem dependência de satisfação com a classe
-destino. |
-|  Recurso | Classe origem tem dependência de recurso com a classe
-destino. |
-|  Responsabilidade | Registra a participação, responsabilidade e ação de
-pessoas sobre artefatos. |
-|  Representação |  Captura a representação ou modelagem dos requisitos
-em outras linguagens. |
-|  Alocado |  Classe origem está relacionada à classe destino, que
-representa um subsistema. |
+|  Satisfação | Classe origem tem dependência de satisfação com a classe destino. |
+|  Recurso | Classe origem tem dependência de recurso com a classe destino. |
+|  Responsabilidade | Registra a participação, responsabilidade e ação de pessoas sobre artefatos. |
+|  Representação |  Captura a representação ou modelagem dos requisitos em outras linguagens. |
+|  Alocado |  Classe origem está relacionada à classe destino, que representa um subsistema. |
 |  Agregação |  Indica “composição” de elementos.|
 /// caption | <
 Tabela 2 — Tipos de elos de acordo com o meta-modelo de Toranzo.
