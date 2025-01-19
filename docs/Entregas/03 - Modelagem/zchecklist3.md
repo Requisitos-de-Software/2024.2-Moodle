@@ -88,4 +88,4 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              | João Paulo, Júlia Lopes |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
 | v1.1   | Lista preenchida em reunião      | todos | n/a                   |n/a | 08/12/2024 |
-| v1.2   | Correções pós reunião + mudanças tabs      | Laís Cecília |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled /> | 08/12/2024 |
+| v1.2   | Correções pós reunião + mudanças tabs      | Laís Cecília |  Rodrigo de Andrade                        | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |

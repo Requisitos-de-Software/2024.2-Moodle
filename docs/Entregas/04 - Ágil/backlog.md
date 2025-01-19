@@ -346,4 +346,5 @@ Fonte: Júlia Lopes
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              | Laís Cecília, Júlia Lopes  |  Esther Sousa                        | <input type="checkbox" onclick="return false;" disabled/> | 14/12/2024 |
+| v1.0   | Página Criada              | Laís Cecília, Júlia Lopes  |  Esther Sousa                        | <input type="checkbox" onclick="return false;" disabled checked/> | 14/12/2024 |
+| v1.1 | Pendência entrega passada (referência à tabela) | Laís Cecília | Rodrigo de Andrade | <input type="checkbox" onclick="return false;" disabled checked/> | 19/01/2025 |
