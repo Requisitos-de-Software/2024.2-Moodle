@@ -170,4 +170,4 @@ Fonte: Rodrigo Orlandi (Autor)
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              | Rodrigo Orlandi  |  Laís Cecília                       | <input type="checkbox" onclick="return false;" disabled/> | 17/12/2024 |
+| v1.0   | Página Criada              | Rodrigo Orlandi  |  Laís Cecília                       | <input type="checkbox" onclick="return false;" disabled checked/> | 17/12/2024 |

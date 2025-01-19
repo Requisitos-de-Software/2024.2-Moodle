@@ -70,4 +70,4 @@ Fonte: Rodrigo de Andrade
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Feito upload da página | Rodrigo de Andrade| Esther Sousa | <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
+| v1.0   | Feito upload da página | Rodrigo de Andrade| Esther Sousa | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |

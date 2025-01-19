@@ -56,6 +56,6 @@ Dada a escolha dos requisitos, o processo de desenvolvimento dos itens referente
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página criada | Laís Cecília | Júlia Lopes | <input type="checkbox" onclick="return false;" disabled/> | 10/12/2024 |
+| v1.0   | Página criada | Laís Cecília | Júlia Lopes | <input type="checkbox" onclick="return false;" disabled checked/> | 10/12/2024 |
 
 

@@ -8,7 +8,9 @@ A História de Usuário (User Story) é uma ferramenta fundamental nas metodolog
 As histórias de usuário foram elaboradas com base na tabela de requisitos elicitados. Para validar essas histórias, cada integrante da equipe realizou entrevistas com usuários do aplicativo Moodle. Durante as entrevistas, foi questionado se a história apresentada era válida, se estava completa, ou se não era aplicável ao contexto. Esse processo permitiu avaliar a relevância e a clareza das histórias, garantindo sua adequação às necessidades reais dos usuários.
 
 
-## Tabela com Histórias de usuários
+## Histórias de usuários - US
+
+A tabela 1, a seguir, junta todas as histórias de usuário elaboradas pela equipe.
 
 | ID | Descrição | Critérios de aceitação | Referência | 
 |----|-----------|------------------------|------------|
@@ -37,9 +39,15 @@ As histórias de usuário foram elaboradas com base na tabela de requisitos elic
 | US23 | Eu como administrador(sistema), quero definir o limite máximo de tamanho dos arquivos enviados, para que o sistema saiba quando acionar a funcionalidade de auto-compactação. | - O sistema permite que o administrador configure o limite máximo de tamanho de arquivos para uploads;<br>- A configuração aplica-se a todas as disciplinas ou a disciplinas específicas;<br>- O limite é respeitado tanto para arquivos únicos quanto para uploads em lote. | [RE25](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
 | US24 | Eu, como aluno, quero visualizar a porcentagem restante para concluir a disciplina para poder me organizar no andamento do semestre. | - O aluno deve estar matriculado na disciplina em que deseja visualizar a porcentagem;<br>- A disciplina deve ter conteúdos, tarefas, provas e/ou projetos postados no moodle;<br>- As tarefas, provas e/ou projetos devem ser corrigidos, avaliados ou a postagem das notas no moodle.  | [RE26](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
 | US25 | Eu, como aluno, quero poder assistir aula síncronas a distância na plataforma, sem precisar de terceiros para ter a praticidade de acompanhar as aulas mesmo a distância. | - O aluno deve estar matriculado na disciplina na qual o professor vá realizar as aulas síncronas a distância;<br>- O aluno e o professor deve ter um aparelho eletrônico que comporta o site ou o aplicativo da plataforma;<br>- Tanto o aluno, quanto o professor devem ter internet disponível no momento. | [RE28](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
-| US26 | Eu, como professor, quero que haja um limite da quantidade de material que devo baixar para não ocupar um espaço desnecessário e limitar o tamanho de informações que deve conter no arquivo. | - O aluno deve estar matriculado na turma em que esteja a atividade;<br>- A disciplina deve ter tarefas, provas e/ou projetos postados no moodle que permita o envio de arquivos;<br>- O aluno e o professor deve ter um aparelho eletrônico que comporta o site ou o aplicativo da plataforma;<br>- O aluno precisa que um arquivo tenha o tamanho aceitável pedido no envio. | [RE24](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
+| ~~US26~~ | ~~Eu, como professor, quero que haja um limite da quantidade de material que devo baixar para não ocupar um espaço desnecessário e limitar o tamanho de informações que deve conter no arquivo.~~ | - ~~O aluno deve estar matriculado na turma em que esteja a atividade~~;<br>- ~~A disciplina deve ter tarefas, provas e/ou projetos postados no moodle que permita o envio de arquivos~~;<br>- ~~O aluno e o professor deve ter um aparelho eletrônico que comporta o site ou o aplicativo da plataforma~~;<br>- ~~O aluno precisa que um arquivo tenha o tamanho aceitável pedido no envio~~. | [RE24](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
 | US27 | Eu, como aluno, quero poder enviar o arquivo pedido na tarefa para poder ser avaliado pelo professor. | - O aluno deve estar matriculado na disciplina em que deseja realizar a atividade;<br>- A disciplina deve ter tarefas, provas e/ou projetos postados no moodle que precisa de envio de arquivos;<br>- O aluno e o professor devem ter um aparelho eletrônico que comporta o site ou o aplicativo da plataforma. | [RE27](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
-| US28 | Eu, como usuário, quero poder não ter dificuldade para interagir com a plataforma baseado em sua usabilidade para poder usar a plataforma de modo mais eficiente e confortável possível. | - O usuário deve estar cadastrado na plataforma;<br>- O usuário deve ter um aparelho eletrônico que comporta o site ou o aplicativo da plataforma; | [RE20](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
+| ~~US28~~ | ~~Eu, como usuário, quero poder não ter dificuldade para interagir com a plataforma baseado em sua usabilidade para poder usar a plataforma de modo mais eficiente e confortável possível.~~ | - ~~O usuário deve estar cadastrado na plataforma~~;<br>- ~~O usuário deve ter um aparelho eletrônico que comporta o site ou o aplicativo da plataforma~~; | [RE20](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) |
+/// caption | <
+Tabela 1 — Histórias de usuário
+///
+/// caption
+Fonte: Autores
+///
 
 ## Vídeos de Verificação de Critérios de Aceitação
 
@@ -67,5 +75,6 @@ Laís Cecília:
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Feito upload da página | João Paulo | Rodrigo Orlandi | <input type="checkbox" onclick="return false;" disabled/> | 17/12/2024 |
-| v1.1   | Adicionadas referências e vídeos | Rodrigo Orlandi | Esther Sousa| <input type="checkbox" onclick="return false;" disabled/> | 17/12/2024 |
+| v1.0   | Feito upload da página | João Paulo | Rodrigo Orlandi | <input type="checkbox" onclick="return false;" disabled checked/> | 17/12/2024 |
+| v1.1   | Adicionadas referências e vídeos | Rodrigo Orlandi | Esther Sousa| <input type="checkbox" onclick="return false;" disabled checked/> | 17/12/2024 |
+| v1.2   | Pendências entrega passada: referências à tabela, remoção US26,US28  | Laís Cecília | Júlia Lopes | <input type="checkbox" onclick="return false;" disabled checked/> | 19/01/2025 | 
