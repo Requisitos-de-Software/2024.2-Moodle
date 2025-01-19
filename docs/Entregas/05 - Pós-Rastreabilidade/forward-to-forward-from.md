@@ -128,7 +128,7 @@ Na tabela 4, a seguir, as relações Forward-From do projeto estão detalhadas e
 | 06 | RE06 - RNF01    |   O sistema deve notificar o aluno de entregas se aproximando da deadline por meio do Calendário ou Painel/Dashboard. |  | Desenvolvimento - Satisfação |
 | 07 | RE07 - RF06    |  O sistema deve permitir que os usuários 'Professor’ e 'Monitor’ possam corrigir atividades enviadas pelo usuário ‘Aluno'. | | Desenvolvimento - Satisfação |
 | 08 | RE08 - RF07    |  O sistema deve avisar o aluno quando ele tiver alguma atividade próxima.| | Ambiental - Satisfação |
-| 09 | RE09 - RF08    |  O sistema permite que alunos visualizem as turmas em que já foram cadastrados (arquivadas) || Organizacional - Alocado |
+| 09 | RE09 - RF08    |  O sistema permite que alunos visualizem as turmas em que já foram cadastrados (arquivadas) | [CEN01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX18](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos) | Desenvolvimento - Representação |
 | 10 | RE10 - RF09    |  O sistema disponibiliza as notas do aluno. | | Organizacional - Satisfação |
 | 11 | RE11 - RF10   |  O aluno deve poder consultar as notas das atividades já corrigidas. | | Desenvolvimento - Satisfação |
 | 12 | RE12 - RF11   |  O sistema permite que alunos visualizem as turmas em que estão cadastrados| | Desenvolvimento - Satisfação |
@@ -140,17 +140,17 @@ Na tabela 4, a seguir, as relações Forward-From do projeto estão detalhadas e
 | 18 | RE18 - RF17    |  O sistema deve permitir que o monitor possa acompanhar o conteúdo da mesma forma que o aluno para poder ajudá-los no conteúdo. | | Ambiental - Satisfação |
 | 19 | RE19 - RF18   |  O sistema deve possuir uma funcionalidade calendário, permitindo que o usuário 'Aluno' possa vizualizar atividades próximas. |  | Organizacional - Satisfação |
 | 20 | RE20 - RNF02   |   A navegação do aplicativo mobile deve ter símbolos grandes e posicionados de maneira a tornar a navegação mais simples, com presença de diversos atalhos. |  | Organizacional - Alocado |
-| 21 | RE21 - RF19    |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| | Organizacional/Ambiental - Alocado |
-| 22 | RE22 - RNF03    |   O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique. | | Gerencial - Alocado |
+| 21 | RE21 - RF19    |  O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.| [CEN02](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX03](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos)  | Desenvolvimento - Representação |
+| 22 | RE22 - RNF03    |   O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique. | [CEN03](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX01, LEX02, LEX05, LEX06, LEX07, LEX08, LEX09, LEX10, LEX11, LEX12](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos) | Desenvolvimento - Representação |
 | 23 | RE23 - RF20    |  O sistema deve permitir que usuários possam responder formulários. |  | Desenvolvimento - Satisfação |
 | 24 | RE24 - RNF04  |   Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho. |  | Gerencial - Satisfação |
-| 25 | RE25 - RNF05    |   O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.|  | Gerencial - Alocado |
-| 26 | RE26 - RF21    |  O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.| | Ambiental - Satisfação |
+| 25 | RE25 - RNF05    |   O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.| [CEN04](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX13, LEX14](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos) | Desenvolvimento - Representação |
+| 26 | RE26 - RF21    |  O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.| [CEN05](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX12, LEX15, LEX19](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos) | Desenvolvimento - Representação |
 | 27 | RE27 - RF22    |  O sistema permite que alunos façam upload de tarefas | | Desenvolvimento - Satisfação |
-| 28 | RE28 - RF23     |  O sistema permite a realização de aulas síncronas por chamas de vídeo || Desenvolvimento - Alocado |
+| 28 | RE28 - RF23     |  O sistema permite a realização de aulas síncronas por chamas de vídeo |[CEN06](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX16, LEX17](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos) | Desenvolvimento - Representação |
 | 29 | RE29 - RF24    |  O sistema integra outros aplicativos da mesma família para uso da turma |  | Ambiente - Alocado |
 | 30 | RE30 - RF25   |  O sistema permite que usuários conversem por chats privados |  | Desenvolvimento - Satisfação |
-| 31 | RE31 - RNF06   |  Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | | Organizacional - Alocado |
+| 31 | RE31 - RNF06   |  Encontrar a barra de busca de turmas é facilmente localizável e intuitiva |[CEN07](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX03, LEX04](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos)  | Desenvolvimento - Representação |
 
 ## Referências
 
