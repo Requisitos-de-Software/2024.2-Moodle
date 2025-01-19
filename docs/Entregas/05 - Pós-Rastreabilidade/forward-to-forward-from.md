@@ -31,8 +31,7 @@ Além de prover a navegabilidade, os elos foram classificados a partir dos meta-
 |  Nível     | Descrição             |
 | ---------- | --------------------- |
 |  Ambiental | Informações oriundas do contexto no qual a organização está inserida. |
-|  Organizacional | Informações pertencentes à organização (missão,
-objetivos e estratégias). |
+|  Organizacional | Informações pertencentes à organização (missão, objetivos e estratégias). |
 |  Gerencial | Informações que auxiliam a gerência do projeto. |
 |  Desenvolvimento |  Dados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros). |
 /// caption | <
