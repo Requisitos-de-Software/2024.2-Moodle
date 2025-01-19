@@ -6,11 +6,11 @@ Rastreabilidade de requisitos refere-se à ciência sobre a origem e destino de 
 
 A rastreabilidade Forward-To é um tipo de rastreabilidade que liga
 "documentos obtidos no processo de elicitação no plano de negócio a requisitos relevantes"
-([(SERRANO, SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf)), sendo classificado como rastreabilidade de pré-ordem.
+[(SERRANO, SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf), sendo classificado como rastreabilidade de pré-ordem.
 
 A Rastreabilidade Forward-To é um tipo de rastreabilidade de pré-ordem que liga
 "documentos obtidos no processo de elicitação no plano de negócio a requisitos relevantes"
-([(SERRANO, SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf)), sendo classificada como rastreabilidade de pós-ordem.
+[(SERRANO, SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf), sendo classificada como rastreabilidade de pós-ordem.
 
 Ambas as rastreabilidades podem ser verificadas na figura 1, a seguir, que ilustra os tipos de rastreabilidade de um projeto de software.
 
@@ -19,7 +19,7 @@ Ambas as rastreabilidades podem ser verificadas na figura 1, a seguir, que ilust
 Figura 1 — Tipos de rastreabilidade.
 ///
 /// caption
-Fonte: [Serrano, Serrano - Página 19, 2017](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) (Adaptado)
+Fonte: [Serrano, Serrano - Página 6, 2017](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) (Adaptado)
 ///
 
 ## Metodologia
@@ -124,7 +124,7 @@ Na rastreabilidade Forward-From, a maioria dos elos foi categorizado como **repr
 | ID| REQUISITO | DESCRIÇÃO | UTILIZADO EM: | CATEGORIA (Toranzo) |
 | -------- | ------- | ------- | ------- | ------------|
 | 01 | RE01 - RF01   |  Sistema requer login do usuário para ser acessado. | [US01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios) | Desenvolvimento - Alocada |
-| 02 | RE02 - RF02   |  O sistema deve permitir que o aluno possa vizualizar o material disponibilizado pelo professor. | |  |
+| 02 | RE02 - RF02   |  O sistema deve permitir que o aluno possa vizualizar o material disponibilizado pelo professor. | - | - |
 | 03 | RE03 - RF03    |  O sistema deve permitir que o aluno possa baixar arquivos. | [UC04](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso), [US02, US10](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios) | Desenvolvimento - Representação/Alocado |
 | 04 | RE04 - RF04    |  O sistema deve permitir que alunos possam filtrar as suas matérias cursadas. | [US03](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios) |  Desenvolvimento - Alocado |
 | 05 | RE05 - RF05    |  O sistema deve possuir usuários do tipo 'Aluno', 'Professor' e 'Monitor'. | - |  - |
@@ -153,7 +153,7 @@ Na rastreabilidade Forward-From, a maioria dos elos foi categorizado como **repr
 | 28 | RE28 - RF23     |  O sistema permite a realização de aulas síncronas por chamas de vídeo |[CEN06](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX16, LEX17](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos), [UC05](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso), [US25](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios)  | Desenvolvimento - Representação/Alocado |
 | 29 | RE29 - RF24    |  O sistema integra outros aplicativos da mesma família para uso da turma | - | -|
 | 30 | RE30 - RF25   |  O sistema permite que usuários conversem por chats privados | [US13](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios) | Desenvolvimento - Alocado |
-| 31 | RE31 - RNF06   |  Encontrar a barra de busca de turmas é facilmente localizável e intuitiva |[CEN07](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX03, LEX04](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos), [UC01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso), [ESP01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/nespecif_supl/#execucao), [US14](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios), [NFR06] (https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia)  | Desenvolvimento - Representação/Alocado |
+| 31 | RE31 - RNF06   |  Encontrar a barra de busca de turmas é facilmente localizável e intuitiva |[CEN07](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos), [LEX03, LEX04](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos), [UC01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso), [ESP01](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/nespecif_supl/#execucao), [US14](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios), [NFR06](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia)  | Desenvolvimento - Representação/Alocado |
 /// caption | <
 Tabela 4 — Relacionamentos Forward-To do projeto.
 ///
