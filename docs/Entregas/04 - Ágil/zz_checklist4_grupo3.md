@@ -27,15 +27,15 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 
     | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
     |------|:----------|-------------|-------------|---------------------|
-    |  1   | O histórico de versão está padronizado?                                                                                                        | - | - | - |
-    |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                          | - | - | - |
-    |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos                                                                             | - | - | - |
-    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?                                                                  | - | - | - |
-    |  5   | Um texto fazendo uma introdução dos artefatos?                                                                                                 | - | - | - |
-    |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  | - | - | - |
-    |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                             | - | - | - |
-    |  8   | A gravação da reunião do grupo.                                                                                                                | - | - | - |
-    |  9   | Vídeo de apresentação na categoria “não listado” no youtube?                                                                                   | - | - | - |
+    |  1   | O histórico de versão está padronizado?                                                                                                        | <span style="color:green">Conforme</span> | - | n/a - 18/12/24 - 21:21 |
+    |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                          | <span style="color:green">Conforme</span> | - | n/a - 18/12/24 - 21:21 |
+    |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos                                                                             | <span style="color:green">Conforme</span> | - | n/a - 18/12/24 - 21:21 |
+    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?                                                                  | <span style="color:yellow">Não Conforme</span> | Algumas tabelas não são chamadas/ são chamadas incorretamente | n/a - 18/12/24 - 21:26 |
+    |  5   | Um texto fazendo uma introdução dos artefatos?                                                                                                 | <span style="color:green">Conforme</span> | - | n/a - 18/12/24 - 21:26 |
+    |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  | <span style="color:green">Conforme</span> | - | 1.3 - 18/12/24 - 21:26 |
+    |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                             | <span style="color:green">Conforme</span> | - | 1.0 - 18/12/24 - 21:27 |
+    |  8   | A gravação da reunião do grupo.                                                                                                                | <span style="color:green">Conforme</span> | - | 1.0 - 18/12/24 - 21:27 |
+    |  9   | Vídeo de apresentação na categoria “não listado” no youtube?                                                                                   | <span style="color:green">Conforme</span> | - | 1.0 - 18/12/24 - 21:27 |
     /// caption | <
     #### Tabela 1 — Checklist do desenvolvimento geral do projeto { #__tabbed_1_1 data-toc-label="Desenvolvimento geral do projeto" }
     ///
@@ -47,22 +47,22 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 
     | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
     |------|:----------|-------------|-------------|---------------------|
-    |  1   | O projeto possui as histórias de Usuário?                                       | - | - | - |
-    |  2   | Os títulos das histórias são auto-explicativos?                                 | - | - | - |
-    |  3   | O “quem”, “o que” e o “por que” estão definidos na história de usuário?         | - | - | - |
-    |  4   | A participação do cliente e/ou persona na validação das histórias de usuário?   | - | - | - |
-    |  5   | A história possui critérios de aceitação?                                       | - | - | - |
-    |  6   | A participação do cliente e/ou persona na elicitação de requisitos?             | - | - | - |
-    |  7   | Todas as histórias de usuários podem ser testadas?                              | - | - | - |
-    |  8   | O projeto possui o backlog?                                                     | - | - | - |
-    |  9   | O backlog possui épicos e temas bem definidos e descritos?                      | - | - | - |
-    |  10  | As Histórias de Usuário seguem algum modelo ou padrão?                          | - | - | - |
-    |  11  | O projeto possui a NFR Framework?                                               | - | - | - |
-    |  12  | O projeto possui a definição do RNF e as fontes de evidência na literatura?     | - | - | - |
-    |  13  | O projeto possui o cartão de especificação do RNF?                              | - | - | - |
-    |  14  | Os softgoals condizem com o contexto?                                           | - | - | - |
-    |  15  | Softgoals representam metas bem definidas?                                      | - | - | - |
-    |  16  | Os impactos foram corretamente propagados?                                      | - | - | - |
+    |  1   | O projeto possui as histórias de Usuário?                                       | <span style="color:green">Conforme</span> | - | 1.4 - 18/12/24 - 21:28 |
+    |  2   | Os títulos das histórias são auto-explicativos?                                 | <span style="color:green">Conforme</span> | - | 1.4 - 18/12/24 - 21:28 |
+    |  3   | O “quem”, “o que” e o “por que” estão definidos na história de usuário?         | <span style="color:green">Conforme</span> | - | 1.4 - 18/12/24 - 21:30 |
+    |  4   | A participação do cliente e/ou persona na validação das histórias de usuário?   | <span style="color:green">Conforme</span> | - | 1.4 - 18/12/24 - 21:31 |
+    |  5   | A história possui critérios de aceitação?                                       | <span style="color:green">Conforme</span> | - | 1.4 - 18/12/24 - 21:30 |
+    |  6   | A participação do cliente e/ou persona na elicitação de requisitos?             | <span style="color:green">Conforme</span>*  | Assumimos que isso se refira às US ou backlog  | 1.4 - 18/12/24 - 21:32 |
+    |  7   | Todas as histórias de usuários podem ser testadas?                              | <span style="color:green">Conforme</span>* | Especificar melhor US24, US37, US38 | 1.4 - 18/12/24 - 21:40 |
+    |  8   | O projeto possui o backlog?                                                     | <span style="color:green">Conforme</span> | - | 1.6 - 18/12/24 - 21:41 |
+    |  9   | O backlog possui épicos e temas bem definidos e descritos?                      | <span style="color:green">Conforme</span> | - | 1.6 - 18/12/24 - 21:41 |
+    |  10  | As Histórias de Usuário seguem algum modelo ou padrão?                          | <span style="color:green">Conforme</span> | - | 1.4 - 18/12/24 - 21:41 |
+    |  11  | O projeto possui a NFR Framework?                                               | <span style="color:green">Conforme</span> | - | 1.5 - 18/12/24 - 21:42 |
+    |  12  | O projeto possui a definição do RNF e as fontes de evidência na literatura?     | <span style="color:green">Conforme</span> | - | 1.5 - 18/12/24 - 21:42 |
+    |  13  | O projeto possui o cartão de especificação do RNF?                              | <span style="color:red">Não conforme</span> | - | 1.5 - 18/12/24 - 21:42 |
+    |  14  | Os softgoals condizem com o contexto?                                           | <span style="color:green">Conforme</span> | - | 1.5 - 18/12/24 - 21:43 |
+    |  15  | Softgoals representam metas bem definidas?                                      | <span style="color:red">Não conforme</span> | - | 1.5 - 18/12/24 - 21:46 |
+    |  16  | Os impactos foram corretamente propagados?                                      | <span style="color:green">Conforme</span> | - | 1.5 - 18/12/24 - 21:46 |
     
     /// caption | <
     #### Tabela 2 — Checklist do conteúdo da disciplina { #__tabbed_1_2 data-toc-label="Conteúdo da disciplina" }
