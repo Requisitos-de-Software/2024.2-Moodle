@@ -6,11 +6,11 @@ Após a conclusão dos outros artefatos da entrega 6, o grupo realizou a verific
 
 ## Data de realização
 
-19/01/25 das <span style="color:pink">HORAS</span> às <span style="color:pink">HORAS</span>.
+19/01/25 das 21:15 às 21:35.
 
 ## Gravação
 
-<span style="color:pink">GRAVAÇÃO</span>
+<iframe width="500" height="285" src="https://www.youtube.com/embed/EgZLCfmgd6Y?si=tpT7gzACspWxMoz2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Checklists
 
@@ -27,15 +27,15 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 
     | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
     |------|:----------|-------------|-------------|---------------------|
-    |  1   | O histórico de versão está padronizado?                                                                                                        | - | - | - |
-    |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                          | - | - | - |
-    |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos                                                                             | - | - | - |
-    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?                                                                  | - | - | - |
-    |  5   | Um texto fazendo uma introdução dos artefatos?                                                                                                 | - | - | - |
-    |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  | - | - | - |
-    |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                             | - | - | - |
-    |  8   | A gravação da reunião do grupo.                                                                                                                | - | - | - |
-    |  9   | Vídeo de apresentação na categoria “não listado” no youtube?                                                                                   | - | - | - |
+    |  1   | O histórico de versão está padronizado?                                                                                                        | <span style="color:green">Conforme</span> | - | tudo v1.0 - 19/01/25 - 21:25 |
+    |  2   | O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                          | <span style="color:green">Conforme</span> | - | tudo v1.0 - 19/01/25 - 21:25 |
+    |  3   | Referências bibliográficas e/ou bibliografia em todos os artefatos                                                                             | <span style="color:green">Conforme</span> | - | tudo v1.0 - 19/01/25 - 21:25 |
+    |  4   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?                                                                  | <span style="color:green">Conforme</span> | - | tudo v1.0 - 19/01/25 - 21:26 |
+    |  5   | Um texto fazendo uma introdução dos artefatos?                                                                                                 | <span style="color:green">Conforme</span> | - | matriz de requisitos v1.1, cronograma v1.1, resto v1.0 - 19/01/25 - 21:28 |
+    |  6   | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.  | <span style="color:green">Conforme</span> | - | v1.0 - 19/01/25 - 21:30 |
+    |  7   | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                             | <span style="color:green">Conforme</span> | - | v1.0 - 19/01/25 - 21:31 |
+    |  8   | A gravação da reunião do grupo.                                                                                                                | <span style="color:green">Conforme</span>* | Video renderizando durante a verificação | v1.0 - 19/01/25 - 21:32 |
+    |  9   | Vídeo de apresentação na categoria “não listado” no youtube?                                                                                   | <span style="color:green">Conforme</span> | - | v1.0 - 19/01/25 - 21:33 |
     /// caption | <
     #### Tabela 1 — Checklist do desenvolvimento geral do projeto { #__tabbed_1_1 data-toc-label="Desenvolvimento geral do projeto" }
     ///
@@ -47,11 +47,11 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 
     | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
     |------|:----------|-------------|-------------|---------------------|
-    |  1   | Cada membro do grupo elaborou ao menos 5 elos de rastreabilidade?                | - | - | - |
-    |  2   | Cada requisito está rastreado à sua(s) origem(ns), e o elo especificado? (rastreabilidade Backward-from)![Rastreabilidade Backward-from](../../img/backward-from.png)[^3^](#referencia) | - | - | - |
-    |  3   | Os elos são especificados seguindo o meta-modelo de Toranzo? ![Meta-Modelo de Toranzo](../../img/metamodelo-toranzo.png)[^2^](#referencia)                     | - | - | - |
-    |  4   | Cada requisito está rastreado ao(s) artefato(s) que originou? (rastreabilidade Forward-from)![Rastreabilidade Forward-from](../../img/forward-from.png)[^3^](#referencia) | - | - | - |
-    |  5   | Existe uma matriz que agrega a rastreabilidade Forward-from e Backward-from?  | - | - | - | 
+    |  1   | Cada membro do grupo elaborou ao menos 5 elos de rastreabilidade?                | <span style="color:green">Conforme</span> | - | v1.0 - 19/01/25 - 21:18 |
+    |  2   | Cada requisito está rastreado à sua(s) origem(ns), e o elo especificado? (rastreabilidade Backward-from)![Rastreabilidade Backward-from](../../img/backward-from.png)[^3^](#referencia) | <span style="color:green">Conforme</span> | - | v1.0 - 19/01/25 - 21:19 |
+    |  3   | Os elos são especificados seguindo o meta-modelo de Toranzo? ![Meta-Modelo de Toranzo](../../img/metamodelo-toranzo.png)[^2^](#referencia)                     | <span style="color:green">Conforme</span> | - | v1.0 - 19/01/25 - 21:20 |
+    |  4   | Cada requisito está rastreado ao(s) artefato(s) que originou? (rastreabilidade Forward-from)![Rastreabilidade Forward-from](../../img/forward-from.png)[^3^](#referencia) | <span style="color:green">Conforme</span> | - | v1.0 - 19/01/25 - 21:22 |
+    |  5   | Existe uma matriz que agrega a rastreabilidade Forward-from e Backward-from?  | <span style="color:green">Conforme</span> | - | v1.0 - 19/01/25 - 21:23|
     /// caption | <
     #### Tabela 2 — Checklist de pós-rastreabilidade { #__tabbed_1_2 data-toc-label="Pós-rastreabilidade" }
     ///
@@ -73,4 +73,5 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada              | Laís Cecília |  João Paulo                        | <input type="checkbox" onclick="return false;" disabled/> | 19/01/2025 |
+| v1.0   | Página Criada              | Laís Cecília |  João Paulo                        | <input type="checkbox" onclick="return false;" disabled checked/> | 19/01/2025 |
+| v1.1   | Checklist preenchida       | Laís Cecília | Esther Sousa                       |<input type="checkbox" onclick="return false;" disabled/> | 19/01/2025 |
