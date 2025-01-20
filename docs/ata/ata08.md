@@ -36,7 +36,7 @@ tabelas de rastreabilidades ).
 
 [https://www.youtube.com/watch?v=i54YL1HuMhE](https://www.youtube.com/watch?v=i54YL1HuMhE)
 
-<iframe width="500" height="285" src="https://www.youtube.com/watch?v=i54YL1HuMhE" title="[2024-2] Requisitos - Grupo 2 - 03/12/2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="500" height="285" src="https://www.youtube.com/embed/i54YL1HuMhE" title="[2024-2] Requisitos - Grupo 2 - 15/01/2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -45,4 +45,4 @@ tabelas de rastreabilidades ).
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
 |--------|----------------------------|-------------------------|--------------------------|-------|-----|
-| v1.0   | Ata 07                     | Júlia Lopes     | | <input type="checkbox" onclick="return false;" disabled />| 03/12/2024 |
+| v1.0   | Ata 07                     | Júlia Lopes     | Rodrigo Orlandi | <input type="checkbox" onclick="return false;" disabled />| 03/12/2024 |

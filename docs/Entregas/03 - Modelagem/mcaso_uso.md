@@ -192,6 +192,6 @@ Fonte: Rodrigo Orlandi (Autor)
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Feito upload da página | Rodrigo de Andrade| Laís Cecília | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
-| v1.1   | Formatação | Laís Cecília| Rodrigo de Andrade | <input type="checkbox" onclick="return false;" disabled/> | 08/12/2024 |
-| v1.2   | Correções pós reunião      | Rodrigo Orlandi |  Esther Sousa                        | <input type="checkbox" onclick="return false;" disabled /> | 08/12/2024 |
-| v1.3   | Mudanças tabs              | Laís Cecília    | João Paulo                           | <input type="checkbox" onclick="return false;" disabled/>  | 11/12/2024
+| v1.1   | Formatação | Laís Cecília| Rodrigo de Andrade | <input type="checkbox" onclick="return false;" disabled checked/> | 08/12/2024 |
+| v1.2   | Correções pós reunião      | Rodrigo Orlandi |  Esther Sousa                        | <input type="checkbox" onclick="return false;" disabled checked /> | 08/12/2024 |
+| v1.3   | Mudanças tabs              | Laís Cecília    | João Paulo                           | <input type="checkbox" onclick="return false;" disabled checked/>  | 11/12/2024
