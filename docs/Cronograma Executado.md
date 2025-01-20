@@ -1,5 +1,7 @@
 # Cronograma Executado
 
+## Introdução 
+
   O cronograma do projeto foi dividido de acordo com as datas das entregas disponíveis no plano de ensino[¹](https://requisitos-de-software.github.io/2024.2-Grupo02/Entregas/01%20-%20Planejamento/cronograma_planejado/#Ref%C3%AArencias) da disciplina de Requisitos de Software.
   Este artefato é essencial para o documentação do projeto do grupo de acordo com as tarefas e atividades realizadas durante o desenvolvimento, fornecendo uma base sólida sobre a qual o projeto está sendo construído.
 
@@ -13,7 +15,10 @@
 <br />
 
 ## Entrega 1 - Planejamento do Projeto
-### Data da Entrega: 06/11/2024
+
+**Data da Entrega: 06/11/2024**
+
+A tabela 1, a seguir, apresenta a execução da primeira entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -38,7 +43,10 @@
 <br />
 
 ## Entrega 2 - Elicitação - Técnicas e Priorização
-### Data da Entrega: 24/11/2024
+
+**Data da Entrega: 24/11/2024**
+
+A tabela 2, a seguir, apresenta a execução da segunda entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -59,7 +67,10 @@
 <br />
 
 ## Entrega 3 - Modelagem de Requisitos
-### Data da Entrega: 08/12/2024
+
+**Data da Entrega: 08/12/2024**
+
+A tabela 3, a seguir, apresenta a execução da terceira entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -82,7 +93,10 @@
 <br />
 
 ## Entrega 4 - Modelagem de Requisitos - Ágil
-### Data da Entrega: 15/12/2024
+
+**Data da Entrega: 15/12/2024**
+
+A tabela 4, a seguir, apresenta a execução da quarta entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -105,7 +119,10 @@
 
 
 ## Entrega 6 - Pós-Rastreabilidade
-### Data da Entrega: 19/01/2025
+
+**Data da Entrega: 19/01/2025**
+
+A tabela 6, a seguir, apresenta a execução da sexta entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -139,4 +156,5 @@
 | Versão | Descrição                  | Autor                         | Revisor | Revisado| Data       |
 |--------|----------------------------|-------------------------------|---------|----------|------------|
 | v1.0   | Criação do Cronograma Executado           |  Esther Sousa     |  Laís Cecília     |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
+| v1.1  | Chamadas de tabelas | Laís Cecília | Esther Sousa |<input type="checkbox" onclick="return false;" disabled checked/>        | 19/01/2025 |
 

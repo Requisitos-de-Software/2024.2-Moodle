@@ -74,4 +74,4 @@ As tabelas 1 e 2, a seguir, contém as listas de verificação.
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              | Laís Cecília |  João Paulo                        | <input type="checkbox" onclick="return false;" disabled checked/> | 19/01/2025 |
-| v1.1   | Checklist preenchida       | Laís Cecília | Esther Sousa                       |<input type="checkbox" onclick="return false;" disabled/> | 19/01/2025 |
+| v1.1   | Checklist preenchida       | Laís Cecília | Esther Sousa                       |<input type="checkbox" onclick="return false;" disabled checked/> | 19/01/2025 |

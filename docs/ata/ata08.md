@@ -45,4 +45,4 @@ tabelas de rastreabilidades ).
 
 | Versão | Descrição                  | Autor                   | Revisor                  | Revisado | Data       |
 |--------|----------------------------|-------------------------|--------------------------|-------|-----|
-| v1.0   | Ata 07                     | Júlia Lopes     | Rodrigo Orlandi | <input type="checkbox" onclick="return false;" disabled />| 03/12/2024 |
+| v1.0   | Ata 08                     | Júlia Lopes     | Rodrigo Orlandi | <input type="checkbox" onclick="return false;" disabled />| 19/01/2024 |

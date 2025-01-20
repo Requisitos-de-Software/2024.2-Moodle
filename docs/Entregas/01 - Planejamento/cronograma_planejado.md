@@ -15,9 +15,10 @@
 <br />
 
 ## Entrega 1 - Planejamento do Projeto
-### Data da Entrega: 06/11/2024
 
-   A tabela 1, a seguir,  mostra a execução da primeira entrega.
+**Data da Entrega: 06/11/2024**
+
+   A tabela 1, a seguir,  mostra o planejamento da primeira entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -42,9 +43,10 @@
 <br />
 
 ## Entrega 2 - Elicitação - Técnicas e Priorização
-### Data da Entrega: 24/11/2024
 
-   A tabela 2, a seguir,  mostra a execução da segunda entrega.
+**Data da Entrega: 24/11/2024**
+
+   A tabela 2, a seguir,  mostra o planejamento da segunda entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -65,9 +67,10 @@
 <br />
 
 ## Entrega 3 - Modelagem de Requisitos
-### Data da Entrega: 08/12/2024
 
-   A tabela 3, a seguir,  mostra a execução da terceira entrega.
+**Data da Entrega: 08/12/2024**
+
+   A tabela 3, a seguir,  mostra o planejamento da terceira entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -90,9 +93,10 @@
 <br />
 
 ## Entrega 4 - Modelagem de Requisitos - Ágil
-### Data da Entrega: 15/12/2024
 
-   A tabela 5, a seguir,  mostra a execução da quarta entrega.
+**Data da Entrega: 15/12/2024**
+
+   A tabela 5, a seguir,  mostra o planejamento da quarta entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -114,9 +118,10 @@
 <br />
 
 ## Entrega 5 - Análise de Requisitos - Verificação e Validação
-### Data da Entrega: 30/01/2025
 
-A tabela 5, a seguir,  mostra a execução da quinta entrega.
+**Data da Entrega: 30/01/2025**
+
+A tabela 5, a seguir,  mostra o planejamento da quinta entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -136,7 +141,10 @@ A tabela 5, a seguir,  mostra a execução da quinta entrega.
 <br />
 
 ## Entrega 6 - Pós-Rastreabilidade
-### Data da Entrega: 19/01/2025
+
+**Data da Entrega: 19/01/2025**
+
+A tabela 5, a seguir,  mostra o planejamento da sexta entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -154,8 +162,8 @@ A tabela 5, a seguir,  mostra a execução da quinta entrega.
    ///
 
 ## Entrega Final - Pós-Rastreabilidade
-### Data da Entrega: 10/02/2025
-### Período de Gravação da Apresentação: 07/02/2025 - 10/02/2025 
+**Data da Entrega: 10/02/2025**
+
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -192,3 +200,4 @@ A tabela 5, a seguir,  mostra a execução da quinta entrega.
 | v1.1   | Adicionada entrega final           | Rodrigo Orlandi     | Esther Sousa       |<input type="checkbox" onclick="return false;" disabled checked/>| 20/11/2024 |
 | v1.15   | Correção do Monitor - Movida "gravação" para as tabelas    | Rodrigo Orlandi     | Esther Sousa       |<input type="checkbox" onclick="return false;" disabled checked/>| 20/11/2024 |
 | v1.2   | Formatação                 | Laís Cecília            | Rodrigo Orlandi                        |<input type="checkbox" onclick="return false;" disabled checked/>        | 23/11/2024 |
+| v1.3  | Chamadas de tabelas | Laís Cecília | Esther Sousa  |<input type="checkbox" onclick="return false;" disabled checked/>        | 19/01/2025 |

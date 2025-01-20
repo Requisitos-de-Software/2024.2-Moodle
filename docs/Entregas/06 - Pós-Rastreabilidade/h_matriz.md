@@ -60,4 +60,5 @@ Fonte: Rodrigo Orlandi (Autor)
 
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Página Criada | Rodrigo Orlandi | Laís Cecília | <input type="checkbox" onclick="return false;" disabled/> | 19/01/2025 |
+| v1.0   | Página Criada | Rodrigo Orlandi | Laís Cecília | <input type="checkbox" onclick="return false;" disabled checked/> | 19/01/2025 |
+| v1.1   | Pequena correção | Rodrigo ORlandi | Júlia Lopes | <input type="checkbox" onclick="return false;" disabled checked/> | 19/01/2025 |
