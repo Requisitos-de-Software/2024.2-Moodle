@@ -1,0 +1,2564 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../04%20-%20%C3%81gil/zz_checklist4_grupo3/">
+      
+      
+<<<<<<< HEAD:site/Entregas/05 - Pós-Rastreabilidade/forward-to-forward-from/index.html
+        <link rel="next" href="../z_baseline/">
+=======
+        <link rel="next" href="../h_matriz/">
+>>>>>>> main:site/Entregas/06 - Pós-Rastreabilidade/forward-to-forward-from/index.html
+      
+      
+      <link rel="icon" href="../../../img/logoslick.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.42">
+    
+    
+      
+        <title>Backward-From e Forward-From - Moodle - Requisitos de Software</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.0253249f.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#backward-from-e-forward-from" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Moodle - Requisitos de Software" class="md-header__button md-logo" aria-label="Moodle - Requisitos de Software" data-md-component="logo">
+      
+  <img src="../../../img/logowhite.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Moodle - Requisitos de Software
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Backward-From e Forward-From
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="blue"  aria-label="Modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2024.2-Grupo02" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2024.2-Grupo02
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Moodle - Requisitos de Software" class="md-nav__button md-logo" aria-label="Moodle - Requisitos de Software" data-md-component="logo">
+      
+  <img src="../../../img/logowhite.png" alt="logo">
+
+    </a>
+    Moodle - Requisitos de Software
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2024.2-Grupo02" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2024.2-Grupo02
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo 02 - Moodle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Cronograma%20Executado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Executado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+<<<<<<< HEAD:site/Entregas/05 - Pós-Rastreabilidade/forward-to-forward-from/index.html
+=======
+    <li class="md-nav__item">
+      <a href="../../../C%C3%B3pias_das_licensas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cópias das licensas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+>>>>>>> main:site/Entregas/06 - Pós-Rastreabilidade/forward-to-forward-from/index.html
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Apresenta%C3%A7%C3%B5es/apresentacao4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entregas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entregas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    01   Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            01   Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01%20-%20Planejamento/Checklist%20Rich%20Picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Checklist Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01%20-%20Planejamento/Ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01%20-%20Planejamento/cronograma_planejado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Planejado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01%20-%20Planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heatmap do grupo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01%20-%20Planejamento/revisaomaisum/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Revisão do grupo + 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01%20-%20Planejamento/rich_picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    02   Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            02   Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/arequisitos_elicitados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/checklist/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação - Elicitação e Priorização
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_3" id="__nav_4_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Perfil%20dos%20Usuarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfis de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/Personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Interface de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Encenação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_4" id="__nav_4_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/priorizacao_tabela/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Priorização por Tabelas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02%20-%20Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/priorizacao_three-level_scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Priorização por Escala de Três Níveis (Three-Level Scale)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    03   Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            03   Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20-%20Modelagem/areq_nao_imp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Não Implementados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20-%20Modelagem/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20-%20Modelagem/checklist/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação - Elicitação e Priorização
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20-%20Modelagem/lexico/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxico
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20-%20Modelagem/mcaso_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caso de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20-%20Modelagem/nespecif_supl/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20-%20Modelagem/zchecklist3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação - Modelagem de Requisitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_4" id="__nav_4_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    04   Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            04   Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04%20-%20%C3%81gil/a_us/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04%20-%20%C3%81gil/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog de Produto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04%20-%20%C3%81gil/nfr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Framework NFR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04%20-%20%C3%81gil/zchecklist4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação - Ágil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04%20-%20%C3%81gil/zz_checklist4_grupo3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Grupo + 1 - Ágil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4_5" id="__nav_4_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    06   Pós Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            06   Pós Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Backward-From e Forward-From
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Backward-From e Forward-From
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-backwards-from" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela Backwards-From
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-forward-from" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela Forward-From
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    <span class="md-ellipsis">
+      Referências
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+<<<<<<< HEAD:site/Entregas/05 - Pós-Rastreabilidade/forward-to-forward-from/index.html
+=======
+      <a href="../h_matriz/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Requisitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+>>>>>>> main:site/Entregas/06 - Pós-Rastreabilidade/forward-to-forward-from/index.html
+      <a href="../z_baseline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Baseline
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../zchecklist6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação - Pós-Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../zzchecklist6_grupo3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação grupo +1 - Pós-Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ata
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ata
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ata/ata01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    17/10/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ata/ata02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    24/10/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ata/ata03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    31/10/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ata/ata04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    15/11/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ata/ata05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    22/11/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ata/ata06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    28/11/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ata/ata07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    03/12/2024
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ata/ata08/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    15/01/2025
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-backwards-from" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela Backwards-From
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabela-forward-from" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela Forward-From
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    <span class="md-ellipsis">
+      Referências
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="backward-from-e-forward-from">Backward-From e Forward-From<a class="headerlink" href="#backward-from-e-forward-from" title="Permanent link">&para;</a></h1>
+<h2 id="introducao">Introdução<a class="headerlink" href="#introducao" title="Permanent link">&para;</a></h2>
+<p>Rastreabilidade de requisitos refere-se à ciência sobre a origem e destino de um artefato, podendo traçar um caminho claro que inclua todos os artefatos referentes ao original. Ela é de grande importância para um projeto ao ajudar correção de defeitos, validação, resolução de requisitos em conflito, e reutilização de componentes e artefatos, entre outros <a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">(SERRANO, SERRANO, 2017)</a>.  </p>
+<p>A rastreabilidade Backward-From é um tipo de rastreabilidade que liga
+"requisitos às suas fontes"
+<a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">(SERRANO, SERRANO, 2017)</a>, sendo classificado como rastreabilidade de pré-ordem.</p>
+<p>A Rastreabilidade Forward-From é um tipo de rastreabilidade de pós-ordem que liga
+"requisitos a artefatos de desenho e implementação"
+<a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">(SERRANO, SERRANO, 2017)</a>, sendo classificada como rastreabilidade de pós-ordem.</p>
+<p>Ambas as rastreabilidades podem ser verificadas na figura 1, a seguir, que ilustra os tipos de rastreabilidade de um projeto de software.</p>
+<figure>
+<figure>
+<figcaption>
+<p>Figura 1 — Tipos de rastreabilidade.</p>
+</figcaption>
+<p><img alt="tipos_rastr" src="../../../img/tipos_rastreabilidade.png" /></p>
+</figure>
+<figcaption>
+<p>Fonte: <a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">Serrano, Serrano - Página 6, 2017</a> (Adaptado)</p>
+</figcaption>
+</figure>
+<h2 id="metodologia">Metodologia<a class="headerlink" href="#metodologia" title="Permanent link">&para;</a></h2>
+<p>Para devidamente ilustrar as relações de rastreabilidade ao longo deste projeto, foram pegos os requisitos elicitados como base e foram ilustradas as conexões de rastreabilidade <strong>Backward-From</strong> e <strong>Forward-From</strong>, a fim de prover uma base sólida de pré e pós-rastreabilidade que permita a navegabilidade e a gerência entre os requisitos do projeto, os artefatos utilizados como base para seu desenvolvimento e os artefatos desenvolvidos a partir dos requisitos. </p>
+<p>Além de prover a navegabilidade, os elos foram classificados a partir dos meta-modelos de Toranzo, possibilitando um entendimento mais profundo dos tipos de elo presentes no projeto. A tabela 1 a seguir detalha os níveis disponíveis no meta-modelo que indicam o conteúdo tratado pelos elos.</p>
+<figure>
+<figure>
+<figcaption>
+<p>Tabela 1 — Níveis de elos de acordo com o meta-modelo de Toranzo.</p>
+</figcaption>
+<table>
+<thead>
+<tr>
+<th>Nível</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ambiental</td>
+<td>Informações oriundas do contexto no qual a organização está inserida.</td>
+</tr>
+<tr>
+<td>Organizacional</td>
+<td>Informações pertencentes à organização (missão, objetivos e estratégias).</td>
+</tr>
+<tr>
+<td>Gerencial</td>
+<td>Informações que auxiliam a gerência do projeto.</td>
+</tr>
+<tr>
+<td>Desenvolvimento</td>
+<td>Dados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros).</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<figcaption>
+<p>Fonte: <a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">Serrano, Serrano - Página 19, 2017</a> (Adaptado)</p>
+</figcaption>
+</figure>
+<p>A segunda classificação refere-se aos tipos de elos de Toranzo. A tabela 2, a seguir, detalha como os elos em si podem ser classificados de acordo com o tipo de relação que cumprem.</p>
+<figure>
+<figure>
+<figcaption>
+<p>Tabela 2 — Tipos de elos de acordo com o meta-modelo de Toranzo.</p>
+</figcaption>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Satisfação</td>
+<td>Classe origem tem dependência de satisfação com a classe destino.</td>
+</tr>
+<tr>
+<td>Recurso</td>
+<td>Classe origem tem dependência de recurso com a classe destino.</td>
+</tr>
+<tr>
+<td>Responsabilidade</td>
+<td>Registra a participação, responsabilidade e ação de pessoas sobre artefatos.</td>
+</tr>
+<tr>
+<td>Representação</td>
+<td>Captura a representação ou modelagem dos requisitos em outras linguagens.</td>
+</tr>
+<tr>
+<td>Alocado</td>
+<td>Classe origem está relacionada à classe destino, que representa um subsistema.</td>
+</tr>
+<tr>
+<td>Agregação</td>
+<td>Indica “composição” de elementos.</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<figcaption>
+<p>Fonte: <a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">Serrano, Serrano - Página 21, 2017</a> (Adaptado)</p>
+</figcaption>
+</figure>
+<h2 id="tabela-backwards-from">Tabela Backwards-From<a class="headerlink" href="#tabela-backwards-from" title="Permanent link">&para;</a></h2>
+<p>Na tabela 3, a seguir, as relações Backwards-From do projeto estão detalhadas e classificadas de acordo com o nível e tipos de elos de rastreabilidade de acordo com o meta-modelo de Toranzo. A origem dos requisitos está codificado da seguinte maneira, de acordo com seus respectivos artefatos: </p>
+<ul>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/">Análise de interface</a>(ANAXX), </li>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/">Entrevista</a>(ENTXX), </li>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/">Encenação</a>(ENCXX).</li>
+</ul>
+<p>Na Rastreabilidade Backword-From, foram notados diversos elos de <strong>satisfação</strong>, que analisam se o requisito proposto cumpre às necessidades do entrevistado ou se são retroativamente satisfeitos pela análise de interface, e <strong>alocado</strong>, que nesta tabela representa primariamente o requisito não implementado alocado no grupo de requisitos não implementado.</p>
+<figure>
+<figure>
+<figcaption>
+<p>Tabela 3 — Relacionamentos Forward-From do projeto.</p>
+</figcaption>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>REQUISITO</th>
+<th>DESCRIÇÃO</th>
+<th>ORIGINADO EM:</th>
+<th>CATEGORIA (Toranzo)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01</td>
+<td>RE01 - RF01</td>
+<td>Sistema requer login do usuário para ser acessado.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA01, ANA08, ANA16</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/#requisitos-elicitados">ENC01</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT01</a></td>
+<td>Gerencial - Satisfação</td>
+</tr>
+<tr>
+<td>02</td>
+<td>RE02 - RF02</td>
+<td>O sistema deve permitir que o aluno possa vizualizar o material disponibilizado pelo professor.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA02</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA21</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/#requisitos-elicitados">ENC02</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT02</a></td>
+<td>Desenvolvivmento - Satisfação</td>
+</tr>
+<tr>
+<td>03</td>
+<td>RE03 - RF03</td>
+<td>O sistema deve permitir que o aluno possa baixar arquivos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA03</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA10</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA22</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT03</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>04</td>
+<td>RE04 - RF04</td>
+<td>O sistema deve permitir que alunos possam filtrar as suas matérias cursadas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT21</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>05</td>
+<td>RE05 - RF05</td>
+<td>O sistema deve possuir usuários do tipo 'Aluno', 'Professor' e 'Monitor'.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT16</a></td>
+<td>Organizacional/Gerencial - Representação</td>
+</tr>
+<tr>
+<td>06</td>
+<td>RE06 - RNF01</td>
+<td>O sistema deve notificar o aluno de entregas se aproximando da deadline por meio do Calendário ou Painel/Dashboard.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT17</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA04</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA11</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA18</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>07</td>
+<td>RE07 - RF06</td>
+<td>O sistema deve permitir que os usuários 'Professor’ e 'Monitor’ possam corrigir atividades enviadas pelo usuário ‘Aluno'.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT18</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>08</td>
+<td>RE08 - RF07</td>
+<td>O sistema deve avisar o aluno quando ele tiver alguma atividade próxima.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT08</a></td>
+<td>Ambiental - Satisfação</td>
+</tr>
+<tr>
+<td>09</td>
+<td>RE09 - RF08</td>
+<td>O sistema permite que alunos visualizem as turmas em que já foram cadastrados (arquivadas)</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA13</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA19</a></td>
+<td>Organizacional - Alocado</td>
+</tr>
+<tr>
+<td>10</td>
+<td>RE10 - RF09</td>
+<td>O sistema disponibiliza as notas do aluno.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA24</a></td>
+<td>Organizacional - Satisfação</td>
+</tr>
+<tr>
+<td>11</td>
+<td>RE11 - RF10</td>
+<td>O aluno deve poder consultar as notas das atividades já corrigidas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT19</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>12</td>
+<td>RE12 - RF11</td>
+<td>O sistema permite que alunos visualizem as turmas em que estão cadastrados</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA05</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA12</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA20</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>13</td>
+<td>RE13 - RF12</td>
+<td>O sistema permite que o aluno veja feedback de tarefas</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/#requisitos-elicitados">ENC05</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>14</td>
+<td>RE14 - RF13</td>
+<td>O conteúdo deve poder ser organizado pelo professor em tópicos e índices de tópicos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT04</a></td>
+<td>Desenvolvimento - Responsabilidade</td>
+</tr>
+<tr>
+<td>15</td>
+<td>RE15 - RF14</td>
+<td>O sistema deve permitir que o professor possa enviar conteúdos, que ficarão disponíveis ao aluno e monitor.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT14</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>16</td>
+<td>RE16 - RF15</td>
+<td>O professor deve ser capaz de elegir um ou mais monitores para a sua matéria.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT20</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>17</td>
+<td>RE17 - RF16</td>
+<td>O sistema disponibiliza um fórum para conversa entre alunos e professores</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA06, ANA14, ANA26</a></td>
+<td>Organizacional - Satisfação</td>
+</tr>
+<tr>
+<td>18</td>
+<td>RE18 - RF17</td>
+<td>O sistema deve permitir que o monitor possa acompanhar o conteúdo da mesma forma que o aluno para poder ajudá-los no conteúdo.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT10</a></td>
+<td>Ambiental - Satisfação</td>
+</tr>
+<tr>
+<td>19</td>
+<td>RE19 - RF18</td>
+<td>O sistema deve possuir uma funcionalidade calendário, permitindo que o usuário 'Aluno' possa vizualizar atividades próximas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT05</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA04, ANA11, ANA18</a></td>
+<td>Organizacional - Satisfação</td>
+</tr>
+<tr>
+<td>20</td>
+<td>RE20 - RNF02</td>
+<td>A navegação do aplicativo mobile deve ter símbolos grandes e posicionados de maneira a tornar a navegação mais simples, com presença de diversos atalhos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA15</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT06</a></td>
+<td>Organizacional - Alocado</td>
+</tr>
+<tr>
+<td>21</td>
+<td>RE21 - RF19</td>
+<td>O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT07</a></td>
+<td>Organizacional/Ambiental - Alocado</td>
+</tr>
+<tr>
+<td>22</td>
+<td>RE22 - RNF03</td>
+<td>O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT09</a></td>
+<td>Gerencial - Alocado</td>
+</tr>
+<tr>
+<td>23</td>
+<td>RE23 - RF20</td>
+<td>O sistema deve permitir que usuários possam responder formulários.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT11</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>24</td>
+<td>RE24 - RNF04</td>
+<td>Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT12</a></td>
+<td>Gerencial - Satisfação</td>
+</tr>
+<tr>
+<td>25</td>
+<td>RE25 - RNF05</td>
+<td>O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT13</a></td>
+<td>Gerencial - Alocado</td>
+</tr>
+<tr>
+<td>26</td>
+<td>RE26 - RF21</td>
+<td>O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/entrevista/#requisitos-elicitados">ENT15</a></td>
+<td>Ambiental - Satisfação</td>
+</tr>
+<tr>
+<td>27</td>
+<td>RE27 - RF22</td>
+<td>O sistema permite que alunos façam upload de tarefas</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA07, ANA16, ANA23</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/#requisitos-elicitados">ENC04</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>28</td>
+<td>RE28 - RF23</td>
+<td>O sistema permite a realização de aulas síncronas por chamas de vídeo</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA17</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>29</td>
+<td>RE29 - RF24</td>
+<td>O sistema integra outros aplicativos da mesma família para uso da turma</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA25</a></td>
+<td>Ambiente - Alocado</td>
+</tr>
+<tr>
+<td>30</td>
+<td>RE30 - RF25</td>
+<td>O sistema permite que usuários conversem por chats privados</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/analise_interface/#requisitos-elicitados">ANA27</a></td>
+<td>Desenvolvimento - Satisfação</td>
+</tr>
+<tr>
+<td>31</td>
+<td>RE31 - RNF06</td>
+<td>Encontrar a barra de busca de turmas é facilmente localizável e intuitiva</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/Elicita%C3%A7%C3%A3o/encenacao/#requisitos-elicitados">ENC03</a></td>
+<td>Organizacional - Alocado</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<figcaption>
+<p>Fonte: João Paulo e Rodrigo Orlandi (Autores)</p>
+</figcaption>
+</figure>
+<h2 id="tabela-forward-from">Tabela Forward-From<a class="headerlink" href="#tabela-forward-from" title="Permanent link">&para;</a></h2>
+<p>Na tabela 4, a seguir, as relações Forward-From do projeto estão detalhadas e classificadas de acordo com o nível e tipos de elos de rastreabilidade de acordo com o meta-modelo de Toranzo. Os artefatos que utilizam os requisitos estão codificados da seguinte maneira: </p>
+<ul>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/">Cenários</a>(CENXX),</li>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/">Léxico</a>(LEXXX),</li>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/">Casos de Uso</a>(UCXX),</li>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/nespecif_supl/">Especificação Suplementar</a>(ESPXX),</li>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/">Histórias de Usuário e Backlog</a>(USXX),</li>
+<li><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/">Framework NFR</a>(NFRXX).</li>
+</ul>
+<p>Na rastreabilidade Forward-From, a maioria dos elos foi categorizado como <strong>representação</strong>, por estar representando requisitos em forma de gráfico ou esquema; <strong>alocado</strong>, como parte de um conjunto maior (referindo-se aos casos de usos implementados no Backlog), ou como uma mistura de ambos, dependendo de sua utilização. </p>
+<p>Os requisitos com espaços nulos não foram utilizados por novos artefatos no momento de escrita.</p>
+<figure>
+<figure>
+<figcaption>
+<p>Tabela 4 — Relacionamentos Backward-From do projeto.</p>
+</figcaption>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>REQUISITO</th>
+<th>DESCRIÇÃO</th>
+<th>UTILIZADO EM:</th>
+<th>CATEGORIA (Toranzo)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01</td>
+<td>RE01 - RF01</td>
+<td>Sistema requer login do usuário para ser acessado.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US01</a></td>
+<td>Desenvolvimento - Alocada</td>
+</tr>
+<tr>
+<td>02</td>
+<td>RE02 - RF02</td>
+<td>O sistema deve permitir que o aluno possa vizualizar o material disponibilizado pelo professor.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>03</td>
+<td>RE03 - RF03</td>
+<td>O sistema deve permitir que o aluno possa baixar arquivos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso">UC04</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US02, US10</a></td>
+<td>Desenvolvimento - Representação/Alocado</td>
+</tr>
+<tr>
+<td>04</td>
+<td>RE04 - RF04</td>
+<td>O sistema deve permitir que alunos possam filtrar as suas matérias cursadas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US03</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>05</td>
+<td>RE05 - RF05</td>
+<td>O sistema deve possuir usuários do tipo 'Aluno', 'Professor' e 'Monitor'.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>06</td>
+<td>RE06 - RNF01</td>
+<td>O sistema deve notificar o aluno de entregas se aproximando da deadline por meio do Calendário ou Painel/Dashboard.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US11, US15, US16, US17</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia">NFR01</a></td>
+<td>Desenvolvimento - Alocado/Representação</td>
+</tr>
+<tr>
+<td>07</td>
+<td>RE07 - RF06</td>
+<td>O sistema deve permitir que os usuários 'Professor’ e 'Monitor’ possam corrigir atividades enviadas pelo usuário ‘Aluno'.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>08</td>
+<td>RE08 - RF07</td>
+<td>O sistema deve avisar o aluno quando ele tiver alguma atividade próxima.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US04</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>09</td>
+<td>RE09 - RF08</td>
+<td>O sistema permite que alunos visualizem as turmas em que já foram cadastrados (arquivadas)</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos">CEN01</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos">LEX18</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso">UC02</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US06</a></td>
+<td>Desenvolvimento - Representação/Alocado</td>
+</tr>
+<tr>
+<td>10</td>
+<td>RE10 - RF09</td>
+<td>O sistema disponibiliza as notas do aluno.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US08</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>11</td>
+<td>RE11 - RF10</td>
+<td>O aluno deve poder consultar as notas das atividades já corrigidas.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>12</td>
+<td>RE12 - RF11</td>
+<td>O sistema permite que alunos visualizem as turmas em que estão cadastrados</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso">UC06</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>13</td>
+<td>RE13 - RF12</td>
+<td>O sistema permite que o aluno veja feedback de tarefas</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US09</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>14</td>
+<td>RE14 - RF13</td>
+<td>O conteúdo deve poder ser organizado pelo professor em tópicos e índices de tópicos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US05</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>15</td>
+<td>RE15 - RF14</td>
+<td>O sistema deve permitir que o professor possa enviar conteúdos, que ficarão disponíveis ao aluno e monitor.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>16</td>
+<td>RE16 - RF15</td>
+<td>O professor deve ser capaz de elegir um ou mais monitores para a sua matéria.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>17</td>
+<td>RE17 - RF16</td>
+<td>O sistema disponibiliza um fórum para conversa entre alunos e professores</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US18, US19</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>18</td>
+<td>RE18 - RF17</td>
+<td>O sistema deve permitir que o monitor possa acompanhar o conteúdo da mesma forma que o aluno para poder ajudá-los no conteúdo.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>19</td>
+<td>RE19 - RF18</td>
+<td>O sistema deve possuir uma funcionalidade calendário, permitindo que o usuário 'Aluno' possa vizualizar atividades próximas.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>20</td>
+<td>RE20 - RNF02</td>
+<td>A navegação do aplicativo mobile deve ter símbolos grandes e posicionados de maneira a tornar a navegação mais simples, com presença de diversos atalhos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US28</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia">NFR02</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>21</td>
+<td>RE21 - RF19</td>
+<td>O sistema deve possuir um sistema de busca, dentro das disciplinas, para facilitar e simplificar a navegação dos usuários.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos">CEN02</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos">LEX03</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US20. US21</a></td>
+<td>Desenvolvimento - Representação/Alocado</td>
+</tr>
+<tr>
+<td>22</td>
+<td>RE22 - RNF03</td>
+<td>O sistema deve ter um tempo de resposta menor ou igual a dois segundos para cada clique.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos">CEN03</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos">LEX01, LEX02, LEX05, LEX06, LEX07, LEX08, LEX09, LEX10, LEX11, LEX12</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US12</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia">NFR03</a></td>
+<td>Desenvolvimento - Representação/Alocado</td>
+</tr>
+<tr>
+<td>23</td>
+<td>RE23 - RF20</td>
+<td>O sistema deve permitir que usuários possam responder formulários.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US07</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>24</td>
+<td>RE24 - RNF04</td>
+<td>Os arquivos enviados ao sistema devem possuir um limite máximo de tamanho.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US26</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia">NFR04</a></td>
+<td>Desenvolvimento - Alocado/Representação</td>
+</tr>
+<tr>
+<td>25</td>
+<td>RE25 - RNF05</td>
+<td>O sistema deve possuir uma auto-compactação de arquivos se recebê-los exceder o tamanho máximo do arquivo.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos">CEN04</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos">LEX13, LEX14</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso">UC03</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/nespecif_supl/#execucao">ESP02</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US22, US23</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia">NFR05</a></td>
+<td>Desenvolvimento - Representação</td>
+</tr>
+<tr>
+<td>26</td>
+<td>RE26 - RF21</td>
+<td>O sistema deve automaticamente considerar conteúdos dados, atividades corrigidas, notas de prova e de projetos, resumindo-os em uma porcentagem de conclusão da disciplina.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos">CEN05</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos">LEX12, LEX15, LEX19</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US24</a></td>
+<td>Desenvolvimento - Representação</td>
+</tr>
+<tr>
+<td>27</td>
+<td>RE27 - RF22</td>
+<td>O sistema permite que alunos façam upload de tarefas</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US27</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>28</td>
+<td>RE28 - RF23</td>
+<td>O sistema permite a realização de aulas síncronas por chamas de vídeo</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos">CEN06</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos">LEX16, LEX17</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso">UC05</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US25</a></td>
+<td>Desenvolvimento - Representação/Alocado</td>
+</tr>
+<tr>
+<td>29</td>
+<td>RE29 - RF24</td>
+<td>O sistema integra outros aplicativos da mesma família para uso da turma</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>30</td>
+<td>RE30 - RF25</td>
+<td>O sistema permite que usuários conversem por chats privados</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US13</a></td>
+<td>Desenvolvimento - Alocado</td>
+</tr>
+<tr>
+<td>31</td>
+<td>RE31 - RNF06</td>
+<td>Encontrar a barra de busca de turmas é facilmente localizável e intuitiva</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/cenarios/#cenarios-desenvolvidos">CEN07</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/lexico/#lexicos-desenvolvidos">LEX03, LEX04</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/mcaso_uso/#especificacao-dos-casos-de-uso">UC01</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/03%20-%20Modelagem/nespecif_supl/#execucao">ESP01</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/a_us/#tabela-com-historias-de-usuarios">US14</a>, <a href="https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/04%20-%20%C3%81gil/nfr/#metodologia">NFR06</a></td>
+<td>Desenvolvimento - Representação/Alocado</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<figcaption>
+<p>Fonte: Rodrigo Orlandi e João Paulo (Autores)</p>
+</figcaption>
+</figure>
+<h2 id="referencias">Referências<a class="headerlink" href="#referencias" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th style="text-align: left;">Fonte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td style="text-align: left;">SERRANO, Milene. SERRANO, Maurício. Requisitos - Aula 26. UnB Gama (FCTE). Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf</a>. Acesso em: 19/01/2025.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="historico">Histórico<a class="headerlink" href="#historico" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autor</th>
+<th>Revisor</th>
+<th>Revisado</th>
+<th>Data</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>v1.0</td>
+<td>Página Criada</td>
+<td>Rodrigo Orlandi e João Paulo</td>
+<td>Laís Cecília</td>
+<td><input type="checkbox" onclick="return false;" disabled/></td>
+<td>19/01/2025</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+    
+  </body>
+</html>
