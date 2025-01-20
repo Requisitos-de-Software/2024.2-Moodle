@@ -1,5 +1,7 @@
 # Cronograma Planejado
 
+## Introdução
+
   O cronograma do projeto foi dividido de acordo com as datas das entregas disponíveis no plano de ensino[¹](https://requisitos-de-software.github.io/2024.2-Grupo02/Entregas/01%20-%20Planejamento/cronograma_planejado/#Ref%C3%AArencias) da disciplina de Requisitos de Software.
   Este artefato é essencial para o planejamento do grupo de acordo com as tarefas e atividades propostas, fornecendo uma base sólida sobre a qual o projeto será construído.
 
@@ -14,6 +16,8 @@
 
 ## Entrega 1 - Planejamento do Projeto
 ### Data da Entrega: 06/11/2024
+
+   A tabela 1, a seguir,  mostra a execução da primeira entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -40,6 +44,8 @@
 ## Entrega 2 - Elicitação - Técnicas e Priorização
 ### Data da Entrega: 24/11/2024
 
+   A tabela 2, a seguir,  mostra a execução da segunda entrega.
+
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Perfis dos Usuários**   |      | 22/11/2024   | 22/11/2024 - 24/11/2024 |  Laís Cecília, Esther Sousa       |    Júlia Lopes      |
@@ -60,6 +66,8 @@
 
 ## Entrega 3 - Modelagem de Requisitos
 ### Data da Entrega: 08/12/2024
+
+   A tabela 3, a seguir,  mostra a execução da terceira entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
@@ -84,6 +92,8 @@
 ## Entrega 4 - Modelagem de Requisitos - Ágil
 ### Data da Entrega: 15/12/2024
 
+   A tabela 5, a seguir,  mostra a execução da quarta entrega.
+
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|
    |  **Histórias de Usuário**   |      | 13/12/2024   | 14/12/2024 - 15/12/2024 | João Paulo, Júlia Lopes       |  Laís Cecília     |
@@ -106,7 +116,7 @@
 ## Entrega 5 - Análise de Requisitos - Verificação e Validação
 ### Data da Entrega: 30/01/2025
 
-Essa entrega será realizada ao longo do projeto, verificando e validando artefatos desenvolvidos.
+A tabela 5, a seguir,  mostra a execução da quinta entrega.
 
    | Artefato | Descrição                                                                                    | Data da Entrega Sugerida | Período de Revisão | Autor | Revisor |
    |------|:-------------------------------------------------------------------------------------------------|-------------|-------------|-------------|-------------|

@@ -1,4 +1,4 @@
-# Lista de Verificação - Pós-Rastreabilidade
+# Lista de Verificação grupo +1 - Pós-Rastreabilidade
 
 ## Introdução
 
@@ -6,7 +6,7 @@ Após a conclusão dos outros artefatos da entrega 6, o grupo realizou a verific
 
 ## Data de realização
 
-19/01/25 das <span style="color:pink">HORAS</span> às <span style="color:pink">HORAS</span>.
+19/01/25 das 23:15 às <span style="color:pink">HORAS</span>.
 
 ## Gravação
 
