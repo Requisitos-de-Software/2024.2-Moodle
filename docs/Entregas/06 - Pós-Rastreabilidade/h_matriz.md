@@ -4,6 +4,8 @@
 
 A matriz de requisitos, neste projeto, é uma tabela que junta os requisitos, seus artefatos de origem e onde foram utilizados. "Uma matriz de rastreabilidade pode ser tão complexa quanto se queira"[(SERRANO, SERRANO, 2017)](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf), então o grupo decidiu juntar os requisitos com seus artefatos de origem e os artefatos desenvolvidos a partir dos requisitos, respectivamente.
 
+A tabela 1, a seguir, demonstra a matriz de requisitos.
+
 ## Metodologia
 
 | ID| REQUISITO  | ORIGINADO EM: | UTILIZADO EM: |
