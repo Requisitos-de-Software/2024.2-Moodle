@@ -6,7 +6,7 @@ Após a conclusão dos outros artefatos da entrega 6, o grupo realizou a verific
 
 ## Data de realização
 
-20/01/25 das 22:35 às 23:00.
+20/01/25 das 22:35 às 23:05.
 
 ## Gravação
 
