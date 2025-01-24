@@ -13,7 +13,8 @@ A Baseline é composta por fases do projeto em diferentes versões, dispostas ao
 
 A figura 1, a seguir, representa as seções do projeto desenvolvidas ao longo de seu desenvolvimento.
 
-![baseline](../../img/baseline.png)
+![baseline](../../img/baseline.png#only-light)
+![baseline](../../img/crackerGraph.png#only-dark)
 /// caption | <
 Figura 1 — Baseline do andamento do projeto, dividido em fases por mês.
 ///
@@ -32,3 +33,4 @@ Fonte: Júlia Lopes (Autor)
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada | Júlia Lopes, Rodrigo Orlandi | Laís Cecília | <input type="checkbox" onclick="return false;" disabled checked/> | 19/01/2025 |
+| v1.1   | Gráfico dark mode | Júlia Lopes |  Laís Cecília | <input type="checkbox" onclick="return false;" disabled checked/> | 23/01/2025 |

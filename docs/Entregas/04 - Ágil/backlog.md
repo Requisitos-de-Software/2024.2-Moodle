@@ -6,7 +6,7 @@ O *Backlog* de produto(regisitro pendente de trabalhos) é uma lista que reune o
 
 ## Metodologia
 
-A partir dos [Requisitos](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) funcionais elicitados anteriormente, foi feita uma análise que os categorizou em diversos épicos, os mesmo sendo categorizados em temas. Além disso, para cada requisito foi desenvolvida uma [História de Usuário] que o caracteriza, foi também atribuida a [Prioridade] determinada a ele. A tabela 1, a seguir, mostra o template seguido ao montar a tabela de Backlog.
+A partir dos [Requisitos](../02%20-%20Elicitação/arequisitos_elicitados.md#requisitos) funcionais elicitados anteriormente, foi feita uma análise que os categorizou em diversos épicos, os mesmo sendo categorizados em temas. Além disso, para cada requisito foi desenvolvida uma [História de Usuário](./a_us.md) que o caracteriza, foi também atribuida a [Prioridade](../02%20-%20Elicitação/Priorização/index.md) determinada a ele. A tabela 1, a seguir, mostra o template seguido ao montar a tabela de Backlog.
 
 <table>
     <tr>
@@ -120,6 +120,8 @@ Fonte: Laís Cecília(Autora)
 
 ## Backlog
 
+Segue, na tabela 2, o backlog formulado para o Moodle.
+
 <table>
     <tr>
         <td style="text-align: center">Tema</td>
@@ -137,21 +139,21 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como professor, quero realizar o login para acessar minhas turmas.</td>
         <!-- Código -->
-        <td>US01</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US01</a></td>
         <!-- Prioridade -->
         <td>Alta</td>
         <!-- Rastreabilidade -->
-        <td>RE01</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE01</a></td>
     </tr>
     <tr>
         <!-- História de Usuário-->
         <td>Eu, como aluno, quero entrar na turma e visualizar o conteúdo que o professor disponibilizou, para poder estudar.</td>
         <!-- Código -->
-        <td>US02</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US02</a></td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
-        <td>RE02</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE02</a></td>
     </tr>
     <tr>
         <!-- Épico -->
@@ -159,39 +161,39 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu como aluno, quero pesquisar por palavras-chave dentro de uma disciplina, para encontrar rapidamente materiais, atividades ou informações relacionadas ao que estou estudando.</td>
         <!-- Código -->
-        <td>US20</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US20</a></td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
-        <td>RE21</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE21</a></td>
     </tr>
         <!-- História de Usuário-->
         <td>Eu como aluno, quero utilizar filtros na busca dentro de uma disciplina, para refinar os resultados e encontrar rapidamente o que procuro.</td>
         <!-- Código -->
-        <td>US21</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US21</a></td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
-        <td>RE21</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE21</a></td>
     </tr>
     <tr>
         <!-- História de Usuário-->
         <td>Eu como aluno, quero filtrar pelas minhas matérias para achar o que tenho que estudar mais facilmente.</td>
         <!-- Código -->
-        <td>US03</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US03</a></td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
-        <td>RE04</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE04</a></td>
         </tr>
         <!-- História de Usuário-->
         <td>Eu, como usuário, desejo poder ver as notas que obtive para poder estar ciente da minha situação na matéria.</td>
         <!-- Código -->
-        <td>US08</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US08</a></td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
-        <td>RE10</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE10</a></td>
     </tr>
           <!-- Tema -->
         <td style="vertical-align: middle" rowspan=12>Turmas</td>
@@ -200,32 +202,32 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como aluno, gostaria de poder baixar arquivos do moodle, para facilitar meu acesso a esses arquivos sem a necessidade de acessar o site toda vez.</td>
         <!-- Código -->
-        <td>US10</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US10</a></td>
         <!-- Prioridade -->
         <td>Alta</td>
         <!-- Rastreabilidade -->
-        <td>RE03</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE03</a></td>
     </tr>
         <tr>
         <!-- História de Usuário-->
         <td>Eu, como aluno, quero poder enviar o arquivo pedido na tarefa  para poder ser avaliado pelo professor.</td>
         <!-- Código -->
-        <td>US27</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US27</a></td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
-        <td>RE27</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE27</a></td>
     </tr>
             <!-- Épico -->
         <tr>
         <!-- História de Usuário-->
         <td>Eu, como professor, quero poder corrigir as atividades enviadas por alunos para poder acompanhar a evolução do aprendizado.</td>
         <!-- Código -->
-        <td>US04</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US04</a></td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
-        <td>RE08</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE08</a></td>
     </tr>
         </tr>
             <!-- Épico -->
@@ -233,11 +235,11 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como usuário, desejo poder realizar atividades e testes no formato de questionário pelo Moodle, para poder ter a flexibilidade de um ensino híbrido ou remoto.</td>
         <!-- Código -->
-        <td>US07</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US07</a></td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
-        <td>RE23</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE23</a></td>
     </tr>
     <tr>
      <!-- Épico -->
@@ -245,51 +247,51 @@ Fonte: Laís Cecília(Autora)
         <!-- História de Usuário-->
         <td>Eu, como aluno, quero visualizar a porcentagem restante para concluir a disciplina para poder me organizar no andamento do semestre.</td>
         <!-- Código -->
-        <td>US24</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US24</a></td>
         <!-- Prioridade -->
         <td>Alta</td>
         <!-- Rastreabilidade -->
-        <td>RE28</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE28</a></td>
     </tr>
      <tr>
         <!-- História de Usuário-->
         <td>Eu, como professor, quero organizar o conteúdo a ser dado em tópicos para deixar as turmas mais organizadas, deixando-o mais legível para mim e para os alunos.</td>
         <!-- Código -->
-        <td>US05</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US05</a></td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
-        <td>RE14</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE14</a></td>
     </tr>
          <tr>
         <!-- História de Usuário-->
         <td>Eu, como usuário, desejo ser capaz de revisitar turmas anteriores para poder ver quem foram os meus colegas e professores.</td>
         <!-- Código -->
-        <td>US06</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US06</a></td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
-        <td>RE09</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE09</a></td>
     </tr>
          <tr>
         <!-- História de Usuário-->
         <td> Eu como aluno, quero ser notificado com antecedência personalizável (por exemplo, 1, 3 ou 7 dias antes) sobre as deadlines, para que eu tenha tempo suficiente para concluir as tarefas.</td>
         <!-- Código -->
-        <td>US17</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US17</a></td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
-        <td>RE06</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE06</a></td>
     </tr>
          <tr>
         <!-- História de Usuário-->
         <td> Eu, como aluno, quero poder assistir aula síncronas a distância na plataforma, sem precisar de terceiros para ter a praticidade de acompanhar as aulas mesmo a distância.</td>
         <!-- Código -->
-        <td>US25</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US25</a></td>
         <!-- Prioridade -->
         <td>Média</td>
         <!-- Rastreabilidade -->
-        <td>RE28</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE28</a></td>
     </tr>
     <tr>
         <!-- Épico -->
@@ -297,29 +299,29 @@ Fonte: Laís Cecília(Autora)
          <!-- História de Usuário-->
         <td>Eu como aluno gostaria de fazer utilização de chats de conversa privado para tirar dúvidas com monitores/professores</td>
         <!-- Código -->
-        <td>US13</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US13</a></td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
-        <td>RE30</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE30</a></td>
     </tr>
         <!-- História de Usuário-->
         <td>Eu como aluno, quero acessar um fórum para conversar com meus professores e colegas, para esclarecer dúvidas e discutir temas relacionados à disciplina.</td>
         <!-- Código -->
-        <td>US18</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US18</a></td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
-        <td>RE17</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE17</a></td>
     </tr>
      <!-- História de Usuário-->
         <td>Eu como aluno, quero receber notificações quando alguém responder a meus tópicos ou comentários no fórum, para acompanhar as discussões em tempo </td>
         <!-- Código -->
-        <td>US19</td>
+        <td><a href="../a_us#historias-de-usuarios-us">US19</a></td>
         <!-- Prioridade -->
         <td>Baixa</td>
         <!-- Rastreabilidade -->
-        <td>RE17</td>
+        <td><a href="../../02 - Elicitação/arequisitos_elicitados#requisitos">RE17</a></td>
     </tr>
 </table>
 

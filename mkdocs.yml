@@ -27,6 +27,8 @@ theme:
     locale: pt_br
     logo: ./img/logowhite.png # logo na barra de navegação do site
     favicon: ./img/logoslick.png # logo na aba do navegador
+    features:
+    - navigation.indexes
     
     
 markdown_extensions:
