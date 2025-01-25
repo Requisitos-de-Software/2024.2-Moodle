@@ -4,6 +4,7 @@ repo_name: 2024.2-Grupo02
 # TODO - MUDAR A LOGO E FAVICON QUANDO DECIDIR O APP
 
 site_name: Moodle - Requisitos de Software
+site_url: https://requisitos-de-software.github.io/2024.2-Moodle/
 extra_css:
   - stylesheets/extra.css
 theme:
@@ -29,6 +30,7 @@ theme:
     favicon: ./img/logoslick.png # logo na aba do navegador
     features:
     - navigation.indexes
+    - navigation.instant.preview
     
     
 markdown_extensions:
