@@ -45,7 +45,7 @@ As imagens 1 a 4 a seguir, representam os protótipos de alta fidelidade desenvo
  **Figura 4**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE28. **Fonte**: Laís (Autora). 
 
  ![alta_fide4](../../../img/alta_fide4.jpeg) 
- **Figura 5**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE09. **Fonte**: Laís (Autora). 
+ **Figura 5**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE28. **Fonte**: Laís (Autora). 
 
 ## Resposta do Moodle
 
