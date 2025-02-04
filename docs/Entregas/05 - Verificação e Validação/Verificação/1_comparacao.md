@@ -109,7 +109,7 @@ As tabelas 5-11, a seguir, representam as listas de verificação desenvolvidas 
 === "Elicitação"
 
     | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação | Autor |
-    |------|:----------|-------------|-------------|---------------------|----------|
+    |------|----------|-------------|-------------|---------------------|----------|
     |  1   | As personas utilizadas no projeto representam, com grande precisão, os usuários finais do software. [2, p. 167] | <span style="color:green">Conforme</span>| - | - | Júlia Lopes |
     |  2   | Todos os membros da equipe conhecem as personas e as tratam como um membro real da equipe. [2, p. 169] | <span style="color:red">Não conforme</span> | - | - | Júlia Lopes |
     |  3   | A utilização de personas permitiu que a equipe ganhasse uma visão mais clara dos objetivos dos usuários. [2, p. 169]| <span style="color:green">Conforme</span> | - | - | Júlia Lopes |
