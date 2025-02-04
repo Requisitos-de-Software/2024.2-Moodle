@@ -281,20 +281,20 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     | No mínimo duas técnicas de priorização (quanto mais melhor)? | <span style="color:green">Conforme</span> | Os entrevistados foram informados sobre o propósito da pesquisa?[1, p. 174] (João Paulo) | <span style="color:green">Conforme</span> |
     | A participação do cliente e/ou persona no processo de priorização? | <span style="color:red">Não conforme</span> | As respostas dos entrevistados foram registradas de forma precisa? [1, p. 173] (João Paulo) | <span style="color:green">Conforme</span> |
     | A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | <span style="color:green">Conforme</span> | O ambiente da entrevista foi apropriado e livre de distrações? [1, pág 169] (João Paulo) | <span style="color:green">Conforme</span> |
-    | - | - | Os entrevistados tiveram a oportunidade de fazer perguntas ou abordar assuntos que esquecemos durante a entrevista? [1, pág 174,175] | <span style="color:yellow">Sugestão de Melhoria</span> | - | - | João Paulo |
-    | - | - | Os entrevistadores já tinha formulado um roteiro préviamente?[1, pág 169] | <span style="color:green">Conforme</span> | - | - | João Paulo, Laís Cecília |
-    | - | - | Os usuários estão categorizados em grupos definidos pelas suas semelhanças como por exemplo: Idade, experiência, atitudes e tarefas primárias? [2, p. 166] | <span style="color:red">Não conforme</span> | - | - | Esther Silva |
-    | - | - | Caso tenha usado a técnica de elicitação Persona, Os personas foram definidos contendo sua identidade, status, objetivos, habilidades,tarefas, relacionamentos, requisitos e expectativas? [2, p. 167, 168] | <span style="color:green">Conforme</span> | - | - | Esther Silva |
-    | - | - | Caso tenha usado a técnica de elicitação Persona, No elenco de personas criado possui pelo menos uma persona primária? [2, p. 169] | <span style="color:green">Conforme</span> | - | - | Esther Silva |
-    | - | - | Foi apresentado o planejamento da atividade? [1, p. 141] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-    | - | - | Os objetivos da entrevista foram claramente definidos antes de sua realização? [1, p. 167] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-    | - | - | Os entrevistados selecionados foram adequados, da forma como definido na preparação? [1, p. 167] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-    | - | - | Os entrevistados foram apresentados um termo de consentimento, e suas assinaturas coletadas? [1, p. 172] | <span style="color:green">Conforme</span> | - | - |  Laís Cecília|
-    | - | - | O termo de consentimento captura adequadamente o consentimento à entrevista, gravação e a disponibilização das mesmas em meio acadêmico? | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-    | - | - | Foram entrevistadas pessoas diversas, de forma a proporcionar perspectivas diferentes e relevantes? [1, p. 168] | <span style="color:yellow">Sugestão de Melhoria</span> | Faltou entrevistar um professor | - | Laís Cecília |
-    | - | - | A entrevista ocorreu em local adequado, visando minimizar interrupções e distrações? [1, p. 168] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-    | - | - | As perguntas formuladas possuem complexidade adequada? Isto é, nem tão simples nem tão complicadas. [1, p. 169, 171] | <span style="color:yellow">Sugestão de Melhoria</span> | As perguntas foram bastante simples; isso se encaixa com os objetivos estabelecidos para a entrevista, porém ainda sim as perguntas poderiam ter sido mais complexas | - | Laís Cecília |
-    | - | - | Foi disponibilizada a gravação da entrevista? [1, p. 173] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | Os entrevistados tiveram a oportunidade de fazer perguntas ou abordar assuntos que esquecemos durante a entrevista? [1, pág 174,175] | <span style="color:yellow">Sugestão de Melhoria</span> | - | - | João Paulo |
+    | Os entrevistadores já tinha formulado um roteiro préviamente?[1, pág 169] | <span style="color:green">Conforme</span> | - | - | João Paulo, Laís Cecília |
+    |  Os usuários estão categorizados em grupos definidos pelas suas semelhanças como por exemplo: Idade, experiência, atitudes e tarefas primárias? [2, p. 166] | <span style="color:red">Não conforme</span> | - | - | Esther Silva |
+    |  Caso tenha usado a técnica de elicitação Persona, Os personas foram definidos contendo sua identidade, status, objetivos, habilidades,tarefas, relacionamentos, requisitos e expectativas? [2, p. 167, 168] | <span style="color:green">Conforme</span> | - | - | Esther Silva |
+    | Caso tenha usado a técnica de elicitação Persona, No elenco de personas criado possui pelo menos uma persona primária? [2, p. 169] | <span style="color:green">Conforme</span> | - | - | Esther Silva |
+    | Foi apresentado o planejamento da atividade? [1, p. 141] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | Os objetivos da entrevista foram claramente definidos antes de sua realização? [1, p. 167] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | Os entrevistados selecionados foram adequados, da forma como definido na preparação? [1, p. 167] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | Os entrevistados foram apresentados um termo de consentimento, e suas assinaturas coletadas? [1, p. 172] | <span style="color:green">Conforme</span> | - | - |  Laís Cecília|
+    | O termo de consentimento captura adequadamente o consentimento à entrevista, gravação e a disponibilização das mesmas em meio acadêmico? | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | Foram entrevistadas pessoas diversas, de forma a proporcionar perspectivas diferentes e relevantes? [1, p. 168] | <span style="color:yellow">Sugestão de Melhoria</span> | Faltou entrevistar um professor | - | Laís Cecília |
+    | A entrevista ocorreu em local adequado, visando minimizar interrupções e distrações? [1, p. 168] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | As perguntas formuladas possuem complexidade adequada? Isto é, nem tão simples nem tão complicadas. [1, p. 169, 171] | <span style="color:yellow">Sugestão de Melhoria</span> | As perguntas foram bastante simples; isso se encaixa com os objetivos estabelecidos para a entrevista, porém ainda sim as perguntas poderiam ter sido mais complexas | - | Laís Cecília |
+    | Foi disponibilizada a gravação da entrevista? [1, p. 173] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
     /// caption | <
     Tabela 8 — Elicitação.
     ///
