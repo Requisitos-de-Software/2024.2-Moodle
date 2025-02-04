@@ -1,11 +1,8 @@
-# Lista de Verificação - Elicitação e Priorização
+# Lista de Verificação - Grupo
 
 ## Introdução
 
 Após a conclusão dos outros artefatos da entrega 2, o grupo realizou a verificação a partir das listas disponibilizadas pelo professor no [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf).
-
-## Data de realização
-
 
 ## Checklists
 
