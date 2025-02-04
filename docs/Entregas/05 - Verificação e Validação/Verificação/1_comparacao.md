@@ -9,7 +9,7 @@
 
 ## Listas de Verificação ao longo do projeto
 
-As tabelas 1-4, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados, seguindo a [divisão dos requisitos](./areq_nao_imp.md#divisao).
+As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados, seguindo a [divisão dos requisitos](./areq_nao_imp.md#divisao).
 
 === "Elicitacao e Priorizacao"
 
@@ -101,8 +101,6 @@ As tabelas 1-4, a seguir, representam os cenários desenvolvidos pela equipe ace
     /// caption
     Fonte: André Barros
     ///
-
----
 
 ## Listas de Verificações novas
 
@@ -297,8 +295,12 @@ Fonte: André Barros
 | - | - | A entrevista ocorreu em local adequado, visando minimizar interrupções e distrações? [1, p. 168] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
 | - | - | As perguntas formuladas possuem complexidade adequada? Isto é, nem tão simples nem tão complicadas. [1, p. 169, 171] | <span style="color:yellow">Sugestão de Melhoria</span> | As perguntas foram bastante simples; isso se encaixa com os objetivos estabelecidos para a entrevista, porém ainda sim as perguntas poderiam ter sido mais complexas | - | Laís Cecília |
 | - | - | Foi disponibilizada a gravação da entrevista? [1, p. 173] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-
-----
+/// caption | <
+Tabela 8 — Elicitação.
+///
+/// caption
+Fonte: Autores
+///
 
 |Priorização|
 |------------|
@@ -312,35 +314,44 @@ Fonte: André Barros
 | - | - | A priorização dos requisitos foram documentadas de forma que leitores futuros entendam se às prioridades são hereditárias ou especificas do requisito. [3, p. 319] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes |
 | - | - | Existe um entendimento comum entre os stakeholders sobre o que cada nível de prioridade significa? [3, pág 319] | <span style="color:red">Não conforme</span> | Ao fazermos a priorização, não utilizamos nenhum usuário do aplicativo, que atuaria com stackholder, por falta de tempo. | - | João Paulo |
 | - | - | A priorização foi realizada de forma iterativa, se necessário, para garantir que as prioridades estejam corretas? [3, pág 320] | <span style="color:red">Não conforme</span> | Ao fazermos a priorização, não utilizamos nenhum usuário do aplicativo, por falta de tempo. | - | João Paulo |
-
- ----
+/// caption | <
+Tabela 9 — Priorização.
+///
+/// caption
+Fonte: Autores
+///
 
 |Modelagem|
 |------------|
 | Descrição | Verificação | Descrição | Verificação |
 |----------|-------------|-------------|---------------------|
-    |  1   | As especificações dos cenários para o projeto | <span style="color:green">Conforme</span> |Os cenários seguem um modelo conciso? [4, p. 172] (Laís Cecília) | <span style="color:green">Conforme</span> |
-    |  2   | Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios) | <span style="color:green">Conforme</span> |Os cenários possuem os elementos definidos por Barbosa et al.(2021)? [4, p. 172] (Laís Cecília) | <span style="color:green">Conforme</span> |
-    |  3   | As especificações dos Léxicos? | <span style="color:green">Conforme</span> |Os cenários possuem exceções? [4, p. 172] (Laís Cecília) | <span style="color:green">Conforme</span> |
-    |  4   | A definição do usuário nos Léxicos? |<span style="color:green">Conforme</span> |Os cenários feitos descrevem o comportamento, experiencia e objetivos de forma clara.[4, p. 172] (Júlia Lopes) | <span style="color:green">Conforme</span> |
-    |  5   | Os léxicos possuem ligações entre si? (hiper links) |<span style="color:green">Conforme</span> |Os cenários realizados possuem um título informativo e breve e uma descrição da situação inicial. [4, p. 172] (Esther Silva, Júlia Lopes)| <span style="color:green">Conforme</span> |
-    |  6   | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | <span style="color:green">Conforme</span> O ator dos cenários inclui características pessoais relevantes aos cenários específicos. [4, p. 172] (Júlia Lopes)| <span style="color:green">Conforme</span> |
-    |  7   | A especificação do caso de uso? | <span style="color:green">Conforme</span> |Durante o processo de encenação foi apresentado situações raras/exceções/cenários que o produto pode agir de forma problemática.[4, p. 173] (Esther Silva, Júlia Lopes, João Paulo)| <span style="color:red">Não conforme</span> |
-    |  8   | Os atores principais e atores secundários no diagrama de caso de uso? | <span style="color:green">Conforme</span> |Os requisitos foram classificados em categorias de alta, média e baixa prioridade? [4, p. 173] (Júlia Lopes)| <span style="color:red">Não conforme</span> |
-    |  9   | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | <span style="color:green">Conforme</span> |Os cenários incluem um contexto que descreve as pré-condições? [5, p. 49] (João Paulo)| <span style="color:green">Conforme</span> |
-    |  10  | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? |<span style="color:green">Conforme</span> |Os cenários descrevem interações claras entre os atores e o sistema? [5, p. 48] (João Paulo) | <span style="color:green">Conforme</span> |
-    |  11  | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? | <span style="color:yellow">Sugestão de melhoria</span> |A fim de deixar os cenários com informações mais concretas, foi usada a técnica de questionamento sistemático? [4, p. 172] (Esther Silva) | <span style="color:green">Conforme</span> |
-    |  12  | No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão? |<span style="color:green">Conforme</span> | - | - |
-    |  13  | A participação do cliente e/ou persona na validação do Diagrama de Casa de Uso? | <span style="color:red">Não Conforme</span> | - | - |
-    |  14  | A especificação suplementar? | <span style="color:green">Conforme</span> | - | - |
-    |  15  | O artefato segue o modelo FURPS+? | <span style="color:green">Conforme</span> | - | - |
-    |  16  | O documento especifica o tempo de resposta, no Desempenho? |<span style="color:red">Não Conforme</span> | - | - |
-    |  17  | O documento especifica qual plataforma o aplicativo pode ser executado? | <span style="color:red">Não Conforme</span> | - | - |
-    |  18  | Todos os requisitos podem ser testados (RF e RNF)? | <span style="color:green">Conforme</span> | - | - |
+|  1   | As especificações dos cenários para o projeto | <span style="color:green">Conforme</span> |Os cenários seguem um modelo conciso? [4, p. 172] (Laís Cecília) | <span style="color:green">Conforme</span> |
+|  2   | Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios) | <span style="color:green">Conforme</span> |Os cenários possuem os elementos definidos por Barbosa et al.(2021)? [4, p. 172] (Laís Cecília) | <span style="color:green">Conforme</span> |
+|  3   | As especificações dos Léxicos? | <span style="color:green">Conforme</span> |Os cenários possuem exceções? [4, p. 172] (Laís Cecília) | <span style="color:green">Conforme</span> |
+|  4   | A definição do usuário nos Léxicos? |<span style="color:green">Conforme</span> |Os cenários feitos descrevem o comportamento, experiencia e objetivos de forma clara.[4, p. 172] (Júlia Lopes) | <span style="color:green">Conforme</span> |
+|  5   | Os léxicos possuem ligações entre si? (hiper links) |<span style="color:green">Conforme</span> |Os cenários realizados possuem um título informativo e breve e uma descrição da situação inicial. [4, p. 172] (Esther Silva, Júlia Lopes)| <span style="color:green">Conforme</span> |
+|  6   | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | <span style="color:green">Conforme</span> O ator dos cenários inclui características pessoais relevantes aos cenários específicos. [4, p. 172] (Júlia Lopes)| <span style="color:green">Conforme</span> |
+|  7   | A especificação do caso de uso? | <span style="color:green">Conforme</span> |Durante o processo de encenação foi apresentado situações raras/exceções/cenários que o produto pode agir de forma problemática.[4, p. 173] (Esther Silva, Júlia Lopes, João Paulo)| <span style="color:red">Não conforme</span> |
+|  8   | Os atores principais e atores secundários no diagrama de caso de uso? | <span style="color:green">Conforme</span> |Os requisitos foram classificados em categorias de alta, média e baixa prioridade? [4, p. 173] (Júlia Lopes)| <span style="color:red">Não conforme</span> |
+|  9   | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | <span style="color:green">Conforme</span> |Os cenários incluem um contexto que descreve as pré-condições? [5, p. 49] (João Paulo)| <span style="color:green">Conforme</span> |
+|  10  | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? |<span style="color:green">Conforme</span> |Os cenários descrevem interações claras entre os atores e o sistema? [5, p. 48] (João Paulo) | <span style="color:green">Conforme</span> |
+|  11  | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? | <span style="color:yellow">Sugestão de melhoria</span> |A fim de deixar os cenários com informações mais concretas, foi usada a técnica de questionamento sistemático? [4, p. 172] (Esther Silva) | <span style="color:green">Conforme</span> |
+|  12  | No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão? |<span style="color:green">Conforme</span> | - | - |
+|  13  | A participação do cliente e/ou persona na validação do Diagrama de Casa de Uso? | <span style="color:red">Não Conforme</span> | - | - |
+|  14  | A especificação suplementar? | <span style="color:green">Conforme</span> | - | - |
+|  15  | O artefato segue o modelo FURPS+? | <span style="color:green">Conforme</span> | - | - |
+|  16  | O documento especifica o tempo de resposta, no Desempenho? |<span style="color:red">Não Conforme</span> | - | - |
+|  17  | O documento especifica qual plataforma o aplicativo pode ser executado? | <span style="color:red">Não Conforme</span> |- | - |
+|  18  | Todos os requisitos podem ser testados (RF e RNF)? | <span style="color:green">Conforme</span> | - | - |
+/// caption | <
+Tabela 10 — Modelagem.
+///
+/// caption
+Fonte: Autores
+///
 
-    ----
 |Agil - NFR Framework|
-|------------|
+
 | Descrição | Verificação | Descrição | Verificação |
 |----------|-------------|-------------|---------------------|
 | O projeto possui as histórias de Usuário?                                       | <span style="color:green">Conforme</span> | O projeto possui ambos requisitos funcionais e não funcionais.[6, p. 30] (Júlia Lopes)| <span style="color:green">Conforme</span> |
@@ -359,8 +370,12 @@ Fonte: André Barros
 | Os softgoals condizem com o contexto?                                           | <span style="color:green">Conforme</span> | - | - |
 | Softgoals representam metas bem definidas?                                      | <span style="color:green">Conforme</span> | - | - |
 | Os impactos foram corretamente propagados?                                      | <span style="color:green">Conforme</span> | - | - |
-
-    -----
+/// caption | <
+Tabela 11 — Framework NFR.
+///
+/// caption
+Fonte: Autores
+///
 
 |Agil - História de Usuário e Backlog|
 |------------|
@@ -381,8 +396,12 @@ Fonte: André Barros
 | - | - | As histórias de usuários têm critérios de aceitação? (Laís Cecília) | <span style="color:green">Conforme</span> | 
 | - | - | As histórias de usuário têm prioridades atribuídas a elas? (Laís Cecília) | <span style="color:green">Conforme</span> | 
 | - | - | As histórias de usuário seguem o formato destacado por Serrano, Milene e Serrano, Maurício(2017?)? (Eu, como QUEM, quero O QUE, POR QUE) (Laís Cecília) | <span style="color:green">Conforme</span> |
-
- -----
+/// caption | <
+Tabela 12 — Ágil.
+///
+/// caption
+Fonte: Autores
+///
 
 |Pós-Rastreabilidade - Rastreabilidade|
 |------------|
@@ -397,8 +416,14 @@ Fonte: André Barros
 | - | - | Existem links de rastreabilidade ligando artefatos aos requisitos que os originaram?[8, p. 5] (Laís Cecília) | <span style="color:green">Conforme</span> | 
 | - | - | Existem matrizes que compilam esses rastros? [8, p. 6] (Laís Cecília) | <span style="color:green">Conforme</span> |
 | - | - | Os elos de rastreabilidade estão classificados de acordo com o meta-modelo de Toranzo?[8, p. 22] (Laís Cecília) | <span style="color:green">Conforme</span> | 
+/// caption | <
+Tabela 13 — Pós Rastreabilidade.
+///
+/// caption
+Fonte: Autores
+///
 
- ----
+
 |Pos Rastreabilidade - Elos de Toranzo|
 |------------|
 | Descrição | Verificação | Descrição | Verificação |
@@ -412,9 +437,12 @@ Fonte: André Barros
 | - | - | Os rastros são classificados nos níveis do modelo de Toranzo? [11, p. 9] (Laís Cecília) | <span style="color:green">Conforme</span> |
 | - | - | Os elos são categorizados da forma como identificada pelo modelo? [11, p. 9,10] (Laís Cecília) | <span style="color:green">Conforme</span> |
 | - | - | Os elos conectam artefatos e requisitos?  [10, p.22] (Laís Cecília) | <span style="color:green">Conforme</span> | 
-
--------
+/// caption | <
+Tabela 14 — Modelagem.
+///
+/// caption
 Fonte: Esther Sousa (Autora)
+///
     
 
 ## Histórico
