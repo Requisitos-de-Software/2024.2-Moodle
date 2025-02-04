@@ -280,7 +280,7 @@ As tabelas 12-18, a seguir, representam a relação entre as listas de verifica�
 === "Elicitação"
 
     | Descrição VL | Verificação VL | Descrição NV | Verificação NV | 
-    |----------|-------------|-------------|---------------------|------------|
+    |----------|-------------|-------------|---------------------|
     | A Especificação do Perfil do usuário possui informação de idade, experiência, atitudes e tarefas primárias | <span style="color:green">Conforme</span> | As personas utilizadas no projeto representam, com grande precisão, os usuários finais do software. [2, p. 167] (Júlia Lopes) | <span style="color:green">Conforme</span>|
     | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:green">Conforme</span> |Todos os membros da equipe conhecem as personas e as tratam como um membro real da equipe. [2, p. 169] (Júlia Lopes) | <span style="color:red">Não conforme</span> |
     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? | <span style="color:green">Conforme</span> | A utilização de personas permitiu que a equipe ganhasse uma visão mais clara dos objetivos dos usuários. [2, p. 169] (Júlia Lopes)| <span style="color:green">Conforme</span> |
