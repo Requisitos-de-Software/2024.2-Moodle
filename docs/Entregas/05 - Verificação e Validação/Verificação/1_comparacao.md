@@ -198,109 +198,109 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 
 === "História de Usuário e Backlog"
 
-| Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação | Autor |
-|------|:----------|-------------|-------------|---------------------|----------------|
-|  1   | O desenvolvimento dos épicos foi feito de forma que sua estrutura fui utilizada corretamente. [7, p. 8] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
-|  2   | Os épicos desenvolvidos no projeto satisfez as expectativas reais dos usuários. | <span style="color:yellow">Sugestão de Melhoria</span> | Alguns não satisfizeram | - |  Júlia Lopes  | 
-|  3   | Todas as histórias de usuário foram avaliadas pelo cliente/usuário final | <span style="color:green">Conforme</span> | - | - |  Júlia Lopes  | 
-|  4   | As histórias de usuário foram criadas pelos próprios clientes | <span style="color:red">Não conforme</span> | - | - |  Júlia Lopes  | 
-|  5   | O Product Backlog contém todas as funcionalidades desejadas para o produto? [7, p. 8] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  6   | As histórias de usuários (User Stories) estão especificadas de forma clara e concisa? [7, p. 11] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  7   | Cada história de usuário possui um critério de aceitação definido? [7, p. 11] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  8   | O Backlog é organizado em uma tabela para facilitar o acompanhamento? [7, p. 10] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  9   | As histórias de usuário estão agrupadas em épicos, e estes em temas? [7, p. 13] | <span style="color:green">Conforme</span> | - | - | Laís Cecília, João Paulo | 
-|  10  | As histórias de usuários seguem a estrutura "Como [tipo de usuário], quero [objetivo] para [benefício]"? [7, p. 11] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  11  | O product backlog lista as funcionalidades do produto, atuais ou desejadas? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  12  | Os requisitos no backlog são representados por histórias de usuário? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  13  | As histórias de usuários têm critérios de aceitação? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  14  | As histórias de usuário têm prioridades atribuídas a elas? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  15  | As histórias de usuário seguem o formato destacado por Serrano, Milene e Serrano, Maurício(2017?)? (Eu, como QUEM, quero O QUE, POR QUE) | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-/// caption | <
-Tabela 5 — Lista de Verificação História de Usuário e Backlog.
-///
-/// caption
-Fonte: André Barros
-///
+    | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação | Autor |
+    |------|:----------|-------------|-------------|---------------------|----------------|
+    |  1   | O desenvolvimento dos épicos foi feito de forma que sua estrutura fui utilizada corretamente. [7, p. 8] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
+    |  2   | Os épicos desenvolvidos no projeto satisfez as expectativas reais dos usuários. | <span style="color:yellow">Sugestão de Melhoria</span> | Alguns não satisfizeram | - |  Júlia Lopes  | 
+    |  3   | Todas as histórias de usuário foram avaliadas pelo cliente/usuário final | <span style="color:green">Conforme</span> | - | - |  Júlia Lopes  | 
+    |  4   | As histórias de usuário foram criadas pelos próprios clientes | <span style="color:red">Não conforme</span> | - | - |  Júlia Lopes  | 
+    |  5   | O Product Backlog contém todas as funcionalidades desejadas para o produto? [7, p. 8] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  6   | As histórias de usuários (User Stories) estão especificadas de forma clara e concisa? [7, p. 11] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  7   | Cada história de usuário possui um critério de aceitação definido? [7, p. 11] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  8   | O Backlog é organizado em uma tabela para facilitar o acompanhamento? [7, p. 10] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  9   | As histórias de usuário estão agrupadas em épicos, e estes em temas? [7, p. 13] | <span style="color:green">Conforme</span> | - | - | Laís Cecília, João Paulo | 
+    |  10  | As histórias de usuários seguem a estrutura "Como [tipo de usuário], quero [objetivo] para [benefício]"? [7, p. 11] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  11  | O product backlog lista as funcionalidades do produto, atuais ou desejadas? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  12  | Os requisitos no backlog são representados por histórias de usuário? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  13  | As histórias de usuários têm critérios de aceitação? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  14  | As histórias de usuário têm prioridades atribuídas a elas? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  15  | As histórias de usuário seguem o formato destacado por Serrano, Milene e Serrano, Maurício(2017?)? (Eu, como QUEM, quero O QUE, POR QUE) | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    /// caption | <
+    Tabela 5 — Lista de Verificação História de Usuário e Backlog.
+    ///
+    /// caption
+    Fonte: André Barros
+    ///
 
 
 === "Rastreabilidade"
 
-| Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação | Autor |
-|------|:----------|-------------|-------------|---------------------|----------------|
-|  1   | Os requisitos estão claramente ligados às suas fontes durante a pré-rastreabilidade? [8, p. 6] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  2   | Foi possível realizar a verificação de se um requisito foi implementado no sistema de forma apropriada.[9, p. 122] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
-|  3   | As informações anotadas sobre o sistema foi realizada com um propósito claro [9, p. 123]| <span style="color:yellow">Sugestão de Melhoria</span> | Nem todas as informações foram anotadas de forma clara | - | Júlia Lopes | 
-|  4   | Foi anotado a rastreabilidade entre os requisitos e os artefatos.[9, p. 124] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
-|  5   | Foi feito a rastreabilidade entre um ou múltiplos requisitos [9, p. 124]| <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
-|  6   | Existem links de rastreabilidade ligando requisitos às suas fontes? [8, p. 5]| <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  7   | Existem links de rastreabilidade ligando artefatos aos requisitos que os originaram?[8, p. 5] | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  8   | Existem matrizes que compilam esses rastros? [8, p. 6]| <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  9   | Os elos de rastreabilidade estão classificados de acordo com o meta-modelo de Toranzo?[8, p. 22] | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-/// caption | <
-Tabela 6 — Lista de Verificação Rastreabilidade.
-///
-/// caption
-Fonte: André Barros
-///
+    | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação | Autor |
+    |------|:----------|-------------|-------------|---------------------|----------------|
+    |  1   | Os requisitos estão claramente ligados às suas fontes durante a pré-rastreabilidade? [8, p. 6] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  2   | Foi possível realizar a verificação de se um requisito foi implementado no sistema de forma apropriada.[9, p. 122] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
+    |  3   | As informações anotadas sobre o sistema foi realizada com um propósito claro [9, p. 123]| <span style="color:yellow">Sugestão de Melhoria</span> | Nem todas as informações foram anotadas de forma clara | - | Júlia Lopes | 
+    |  4   | Foi anotado a rastreabilidade entre os requisitos e os artefatos.[9, p. 124] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
+    |  5   | Foi feito a rastreabilidade entre um ou múltiplos requisitos [9, p. 124]| <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
+    |  6   | Existem links de rastreabilidade ligando requisitos às suas fontes? [8, p. 5]| <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  7   | Existem links de rastreabilidade ligando artefatos aos requisitos que os originaram?[8, p. 5] | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  8   | Existem matrizes que compilam esses rastros? [8, p. 6]| <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  9   | Os elos de rastreabilidade estão classificados de acordo com o meta-modelo de Toranzo?[8, p. 22] | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    /// caption | <
+    Tabela 6 — Lista de Verificação Rastreabilidade.
+    ///
+    /// caption
+    Fonte: André Barros
+    ///
 
 
 === "Elos de Toranzo"
 
-| Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação | Autor |
-|------|:----------|-------------|-------------|---------------------|----------------|
-|  1   | Os elos são especificados seguindo o meta-modelo de Toranzo? [10, p.22] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  2   | Cada tipo de elo está bem explicado no projeto? | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  3   | Existe uma análise da interdependência entre os elos? [1, p. 39] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
-|  4   | O desenvolvimento dos elos de Toranzo foi feito consistente a sua estrutura. [10, p.21] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
-|  5   | Os elos selecionados para os requisitos satisfazem a classificação desses requisitos. [10, p.21] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
-|  6   | Cada requisito contém pelo menos um elemento rastreável.[10, p.22] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
-|  7   | Os rastros são classificados nos níveis do modelo de Toranzo? [11, p. 9]| <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  8   | Os elos são categorizados da forma como identificada pelo modelo? [11, p. 9,10] | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
-|  9   | Os elos conectam artefatos e requisitos? | <span style="color:green">Conforme</span> [10, p.22] | - | - | Laís Cecília | 
-/// caption | <
-Tabela 7 — Lista de Verificação Elos de Toranzo.
-///
-/// caption
-Fonte: André Barros
-///
+    | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação | Autor |
+    |------|:----------|-------------|-------------|---------------------|----------------|
+    |  1   | Os elos são especificados seguindo o meta-modelo de Toranzo? [10, p.22] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  2   | Cada tipo de elo está bem explicado no projeto? | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  3   | Existe uma análise da interdependência entre os elos? [1, p. 39] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
+    |  4   | O desenvolvimento dos elos de Toranzo foi feito consistente a sua estrutura. [10, p.21] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
+    |  5   | Os elos selecionados para os requisitos satisfazem a classificação desses requisitos. [10, p.21] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
+    |  6   | Cada requisito contém pelo menos um elemento rastreável.[10, p.22] | <span style="color:green">Conforme</span> | - | - | Júlia Lopes | 
+    |  7   | Os rastros são classificados nos níveis do modelo de Toranzo? [11, p. 9]| <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  8   | Os elos são categorizados da forma como identificada pelo modelo? [11, p. 9,10] | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
+    |  9   | Os elos conectam artefatos e requisitos? | <span style="color:green">Conforme</span> [10, p.22] | - | - | Laís Cecília | 
+    /// caption | <
+    Tabela 7 — Lista de Verificação Elos de Toranzo.
+    ///
+    /// caption
+    Fonte: André Barros
+    ///
 
----
 
- #### Tabela Nova
 
-|Elicitação|
-|------------|
-| Descrição | Verificação | Descrição | Verificação |
-|----------|-------------|-------------|---------------------|
-| A Especificação do Perfil do usuário possui informação de idade, experiência, atitudes e tarefas primárias | <span style="color:green">Conforme</span> | As personas utilizadas no projeto representam, com grande precisão, os usuários finais do software. [2, p. 167] (Júlia Lopes) | <span style="color:green">Conforme</span>|
-| Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:green">Conforme</span> |Todos os membros da equipe conhecem as personas e as tratam como um membro real da equipe. [2, p. 169] (Júlia Lopes) | <span style="color:red">Não conforme</span> |
-| No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? | <span style="color:green">Conforme</span> | A utilização de personas permitiu que a equipe ganhasse uma visão mais clara dos objetivos dos usuários. [2, p. 169] (Júlia Lopes)| <span style="color:green">Conforme</span> |
-| A participação do cliente e/ou persona na elicitação de requisitos? | <span style="color:green">Conforme</span> | O elenco desenvolvido pela equipe de personas consiste em 3 a 12 personas distintas. [2, p. 169] (Júlia Lopes) | <span style="color:green">Conforme</span> |
-| A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | <span style="color:yellow">Sugestão de Melhoria</span> | As personas desenvolvidas no projeto possuem características que as tornem distintas e memoráveis. [2, p. 169] (Júlia Lopes) | <span style="color:yellow">Sugestão de Melhoria</span> |
-| Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:red">Não conforme</span> |As perguntas da entrevista forma formuladas de forma clara e objetiva? [1, p. 169] (João Paulo) | <span style="color:green">Conforme</span> |
-| No mínimo duas técnicas de priorização (quanto mais melhor)? | <span style="color:green">Conforme</span> | Os entrevistados foram informados sobre o propósito da pesquisa?[1, p. 174] (João Paulo) | <span style="color:green">Conforme</span> |
-| A participação do cliente e/ou persona no processo de priorização? | <span style="color:red">Não conforme</span> | As respostas dos entrevistados foram registradas de forma precisa? [1, p. 173] (João Paulo) | <span style="color:green">Conforme</span> |
-| A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | <span style="color:green">Conforme</span> | O ambiente da entrevista foi apropriado e livre de distrações? [1, pág 169] (João Paulo) | <span style="color:green">Conforme</span> |
-| - | - | Os entrevistados tiveram a oportunidade de fazer perguntas ou abordar assuntos que esquecemos durante a entrevista? [1, pág 174,175] | <span style="color:yellow">Sugestão de Melhoria</span> | - | - | João Paulo |
-| - | - | Os entrevistadores já tinha formulado um roteiro préviamente?[1, pág 169] | <span style="color:green">Conforme</span> | - | - | João Paulo, Laís Cecília |
-| - | - | Os usuários estão categorizados em grupos definidos pelas suas semelhanças como por exemplo: Idade, experiência, atitudes e tarefas primárias? [2, p. 166] | <span style="color:red">Não conforme</span> | - | - | Esther Silva |
-| - | - | Caso tenha usado a técnica de elicitação Persona, Os personas foram definidos contendo sua identidade, status, objetivos, habilidades,tarefas, relacionamentos, requisitos e expectativas? [2, p. 167, 168] | <span style="color:green">Conforme</span> | - | - | Esther Silva |
-| - | - | Caso tenha usado a técnica de elicitação Persona, No elenco de personas criado possui pelo menos uma persona primária? [2, p. 169] | <span style="color:green">Conforme</span> | - | - | Esther Silva |
-| - | - | Foi apresentado o planejamento da atividade? [1, p. 141] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-| - | - | Os objetivos da entrevista foram claramente definidos antes de sua realização? [1, p. 167] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-| - | - | Os entrevistados selecionados foram adequados, da forma como definido na preparação? [1, p. 167] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-| - | - | Os entrevistados foram apresentados um termo de consentimento, e suas assinaturas coletadas? [1, p. 172] | <span style="color:green">Conforme</span> | - | - |  Laís Cecília|
-| - | - | O termo de consentimento captura adequadamente o consentimento à entrevista, gravação e a disponibilização das mesmas em meio acadêmico? | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-| - | - | Foram entrevistadas pessoas diversas, de forma a proporcionar perspectivas diferentes e relevantes? [1, p. 168] | <span style="color:yellow">Sugestão de Melhoria</span> | Faltou entrevistar um professor | - | Laís Cecília |
-| - | - | A entrevista ocorreu em local adequado, visando minimizar interrupções e distrações? [1, p. 168] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-| - | - | As perguntas formuladas possuem complexidade adequada? Isto é, nem tão simples nem tão complicadas. [1, p. 169, 171] | <span style="color:yellow">Sugestão de Melhoria</span> | As perguntas foram bastante simples; isso se encaixa com os objetivos estabelecidos para a entrevista, porém ainda sim as perguntas poderiam ter sido mais complexas | - | Laís Cecília |
-| - | - | Foi disponibilizada a gravação da entrevista? [1, p. 173] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
-/// caption | <
-Tabela 8 — Elicitação.
-///
-/// caption
-Fonte: Autores
-///
+#### Tabela Nova
+
+=== "Elicitação"
+
+    | Descrição | Verificação | Descrição | Verificação | Autor |
+    |----------|-------------|-------------|---------------------|------------|
+    | A Especificação do Perfil do usuário possui informação de idade, experiência, atitudes e tarefas primárias | <span style="color:green">Conforme</span> | As personas utilizadas no projeto representam, com grande precisão, os usuários finais do software. [2, p. 167] (Júlia Lopes) | <span style="color:green">Conforme</span>|
+    | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:green">Conforme</span> |Todos os membros da equipe conhecem as personas e as tratam como um membro real da equipe. [2, p. 169] (Júlia Lopes) | <span style="color:red">Não conforme</span> |
+    | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? | <span style="color:green">Conforme</span> | A utilização de personas permitiu que a equipe ganhasse uma visão mais clara dos objetivos dos usuários. [2, p. 169] (Júlia Lopes)| <span style="color:green">Conforme</span> |
+    | A participação do cliente e/ou persona na elicitação de requisitos? | <span style="color:green">Conforme</span> | O elenco desenvolvido pela equipe de personas consiste em 3 a 12 personas distintas. [2, p. 169] (Júlia Lopes) | <span style="color:green">Conforme</span> |
+    | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | <span style="color:yellow">Sugestão de Melhoria</span> | As personas desenvolvidas no projeto possuem características que as tornem distintas e memoráveis. [2, p. 169] (Júlia Lopes) | <span style="color:yellow">Sugestão de Melhoria</span> |
+    | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:red">Não conforme</span> |As perguntas da entrevista forma formuladas de forma clara e objetiva? [1, p. 169] (João Paulo) | <span style="color:green">Conforme</span> |
+    | No mínimo duas técnicas de priorização (quanto mais melhor)? | <span style="color:green">Conforme</span> | Os entrevistados foram informados sobre o propósito da pesquisa?[1, p. 174] (João Paulo) | <span style="color:green">Conforme</span> |
+    | A participação do cliente e/ou persona no processo de priorização? | <span style="color:red">Não conforme</span> | As respostas dos entrevistados foram registradas de forma precisa? [1, p. 173] (João Paulo) | <span style="color:green">Conforme</span> |
+    | A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | <span style="color:green">Conforme</span> | O ambiente da entrevista foi apropriado e livre de distrações? [1, pág 169] (João Paulo) | <span style="color:green">Conforme</span> |
+    | - | - | Os entrevistados tiveram a oportunidade de fazer perguntas ou abordar assuntos que esquecemos durante a entrevista? [1, pág 174,175] | <span style="color:yellow">Sugestão de Melhoria</span> | - | - | João Paulo |
+    | - | - | Os entrevistadores já tinha formulado um roteiro préviamente?[1, pág 169] | <span style="color:green">Conforme</span> | - | - | João Paulo, Laís Cecília |
+    | - | - | Os usuários estão categorizados em grupos definidos pelas suas semelhanças como por exemplo: Idade, experiência, atitudes e tarefas primárias? [2, p. 166] | <span style="color:red">Não conforme</span> | - | - | Esther Silva |
+    | - | - | Caso tenha usado a técnica de elicitação Persona, Os personas foram definidos contendo sua identidade, status, objetivos, habilidades,tarefas, relacionamentos, requisitos e expectativas? [2, p. 167, 168] | <span style="color:green">Conforme</span> | - | - | Esther Silva |
+    | - | - | Caso tenha usado a técnica de elicitação Persona, No elenco de personas criado possui pelo menos uma persona primária? [2, p. 169] | <span style="color:green">Conforme</span> | - | - | Esther Silva |
+    | - | - | Foi apresentado o planejamento da atividade? [1, p. 141] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | - | - | Os objetivos da entrevista foram claramente definidos antes de sua realização? [1, p. 167] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | - | - | Os entrevistados selecionados foram adequados, da forma como definido na preparação? [1, p. 167] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | - | - | Os entrevistados foram apresentados um termo de consentimento, e suas assinaturas coletadas? [1, p. 172] | <span style="color:green">Conforme</span> | - | - |  Laís Cecília|
+    | - | - | O termo de consentimento captura adequadamente o consentimento à entrevista, gravação e a disponibilização das mesmas em meio acadêmico? | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | - | - | Foram entrevistadas pessoas diversas, de forma a proporcionar perspectivas diferentes e relevantes? [1, p. 168] | <span style="color:yellow">Sugestão de Melhoria</span> | Faltou entrevistar um professor | - | Laís Cecília |
+    | - | - | A entrevista ocorreu em local adequado, visando minimizar interrupções e distrações? [1, p. 168] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    | - | - | As perguntas formuladas possuem complexidade adequada? Isto é, nem tão simples nem tão complicadas. [1, p. 169, 171] | <span style="color:yellow">Sugestão de Melhoria</span> | As perguntas foram bastante simples; isso se encaixa com os objetivos estabelecidos para a entrevista, porém ainda sim as perguntas poderiam ter sido mais complexas | - | Laís Cecília |
+    | - | - | Foi disponibilizada a gravação da entrevista? [1, p. 173] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
+    /// caption | <
+    Tabela 8 — Elicitação.
+    ///
+    /// caption
+    Fonte: Autores
+    ///
 
 |Priorização|
 |------------|
