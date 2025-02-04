@@ -1,37 +1,11 @@
-# Artefato 2 
+# Listas Antigas e Listas Novas de Verificação
 
 ## Introdução
 
-Cenários, de acordo com Barbosa et. al, são uma narrativa, textual ou pictórica, concreta, rica em detalhes
-contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais [(BARBOSA, 2021)](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf).
 
-
-Cenários são principalmente utilizados para ilustrar casos em que requisitos se tornam mais claros, ajudando a elicitação e no entendimento, tornando-os menos abstraros e mais concretos. Necessita-se dos [requisitos elicitados](https://requisitos-de-software.github.io/2024.2-Moodle/Entregas/02%20-%20Elicita%C3%A7%C3%A3o/arequisitos_elicitados/), ou pelo menos uma versão inicial, para que cenários possam ser implementados de maneira satisfatória. 
-
-
-Usar cenários na especificação de requisitos "tem um forte impacto positivo na qualidade de requisitos, nomeadamente ao nível da adequação, completude parcial, habilidade de modificação e habilidade de verificação - desde que os cenários sejam usados de forma adequada" [(WIKIPEDIA, 2008)](https://pt.wikipedia.org/wiki/Cen%C3%A1rio_(software)).
 
 ## Metodologia e Execução
 
-Dentro da especificação de requisitos, a utilização de cenários no projeto foi baseada em [requisitos não implementados](areq_nao_imp.md#rni) no Moodle.
-
-Os cenários foram codificados na ordem dos requisitos não implementados. **C01** representa **R09**, com **R09** sendo o primeiro requisito não implementado do projeto. Além disso, o modelo utilizado para desenvoler os cenários pode ser visto na tabela 1, a seguir:
-
-| Categoria        | Descrição                                                                                  |  
-|------------------|--------------------------------------------------------------------------------------------|
-| Objetivo         | Finalidade do cenário |
-| Contexto         | Descrição de pré-condições, local (físico) e tempo | 
-| Recursos         | Objetos passivos com os quais os atores interagem | 
-| Ator             | Pessoa ou estrutura organizacional | 
-| Episódios        | Ação realizada por um ou vários atores com participação de outros atores utilizando recursos | 
-| Restrições       | Imposição que restrinja um episódio de um cenário | 
-| Exceções     | Tratamento para uma situação excepcional ou de erro |
-/// caption | <
-#### Tabela 1 — Template dos cenários { #markdown data-toc-label='Template dos cenários'}
-///
-/// caption
-Fonte: Lichess, 2024, *apud* Leite, 2003.
-///
 
 ## Listas de Verificação ao longo do projeto
 
@@ -440,8 +414,7 @@ Fonte: André Barros
 | - | - | Os elos conectam artefatos e requisitos?  [10, p.22] (Laís Cecília) | <span style="color:green">Conforme</span> | 
 
 -------
-
-   Fonte: Esther Sousa (Autora)
+Fonte: Esther Sousa (Autora)
     
 
 
@@ -449,6 +422,6 @@ Fonte: André Barros
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Criado e feito o artefato | Esther Sousa | - | - | 07/12/2024 |
+| v1.0   | Criado e feito o artefato | Esther Sousa | Rodrigo Orlandi | - | 07/12/2024 |
 
 
