@@ -2,14 +2,14 @@
 
 ## Introdução
 
-
+A equipe separou as listas de verificação em listas de verificação realizadas ao longo do projeto, a maioria com a autoria do professor André Barros de Sales, e as desenvolvidas pela equipe em si a partir da quarta entrega do semestre, todas sob autoria de cada membro da equipe.
 
 ## Metodologia e Execução
 
 
 ## Listas de Verificação ao longo do projeto
 
-As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados, seguindo a [divisão dos requisitos](./areq_nao_imp.md#divisao).
+As tabelas 1-4, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados, seguindo a [divisão dos requisitos](./areq_nao_imp.md#divisao).
 
 === "Elicitacao e Priorizacao"
 
@@ -104,6 +104,8 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 
 ## Listas de Verificações novas
 
+As tabelas 5-11, a seguir, representam as listas de verificação desenvolvidas pelo grupo e aplicadas no trabalho.
+
 === "Elicitação"
 
     | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação | Autor |
@@ -132,7 +134,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     |  22  | As perguntas formuladas possuem complexidade adequada? Isto é, nem tão simples nem tão complicadas. [1, p. 169, 171] | <span style="color:yellow">Sugestão de Melhoria</span> | As perguntas foram bastante simples; isso se encaixa com os objetivos estabelecidos para a entrevista, porém ainda sim as perguntas poderiam ter sido mais complexas | - | Laís Cecília |
     |  23  | Foi disponibilizada a gravação da entrevista? [1, p. 173] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
     /// caption | <
-    Tabela 1 — Lista de verificação Elicitação
+    Tabela 5 — Lista de verificação Elicitação
     ///
     /// caption
     Fonte: André Barros
@@ -151,7 +153,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     |  7  | Existe um entendimento comum entre os stakeholders sobre o que cada nível de prioridade significa? [3, pág 319] | <span style="color:red">Não conforme</span> | Ao fazermos a priorização, não utilizamos nenhum usuário do aplicativo, que atuaria com stackholder, por falta de tempo. | - | João Paulo |
     |  8  | A priorização foi realizada de forma iterativa, se necessário, para garantir que as prioridades estejam corretas? [3, pág 320] | <span style="color:red">Não conforme</span> | Ao fazermos a priorização, não utilizamos nenhum usuário do aplicativo, por falta de tempo. | - | João Paulo |
     /// caption | <
-    Tabela 2 — Lista de Verificação Técnica de Priorização.
+    Tabela 6 — Lista de Verificação Técnica de Priorização.
     ///
     /// caption
     Fonte: André Barros
@@ -173,7 +175,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     |  10  | Os cenários descrevem interações claras entre os atores e o sistema? [5, p. 48] | <span style="color:green">Conforme</span> |  | - | João Paulo |
     |  11  | A fim de deixar os cenários com informações mais concretas, foi usada a técnica de questionamento sistemático? [4, p. 172] | <span style="color:green">Conforme</span> |  | - | Esther Silva |
     /// caption | <
-    Tabela 3 — Lista de Verificação Técnica de Priorização.
+    Tabela 7 — Lista de Verificação Técnica de Priorização.
     ///
     /// caption
     Fonte: André Barros
@@ -190,7 +192,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     |  5   | Os softgoals estão definidos e bem documentados? [6, p. 31] | <span style="color:green">Conforme</span> |  | - | João Paulo |
     |  6   | As restrições e exceções relevantes são consideradas na análise dos requisitos? [6, p. 43] | <span style="color:green">Conforme</span> | - | - | João Paulo | 
     /// caption | <
-    Tabela 4 — Lista de Verificação NFR.
+    Tabela 8 — Lista de Verificação NFR.
     ///
     /// caption
     Fonte: André Barros
@@ -216,7 +218,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     |  14  | As histórias de usuário têm prioridades atribuídas a elas? | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
     |  15  | As histórias de usuário seguem o formato destacado por Serrano, Milene e Serrano, Maurício(2017?)? (Eu, como QUEM, quero O QUE, POR QUE) | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
     /// caption | <
-    Tabela 5 — Lista de Verificação História de Usuário e Backlog.
+    Tabela 9 — Lista de Verificação História de Usuário e Backlog.
     ///
     /// caption
     Fonte: André Barros
@@ -237,7 +239,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     |  8   | Existem matrizes que compilam esses rastros? [8, p. 6]| <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
     |  9   | Os elos de rastreabilidade estão classificados de acordo com o meta-modelo de Toranzo?[8, p. 22] | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
     /// caption | <
-    Tabela 6 — Lista de Verificação Rastreabilidade.
+    Tabela 10 — Lista de Verificação Rastreabilidade.
     ///
     /// caption
     Fonte: André Barros
@@ -258,7 +260,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     |  8   | Os elos são categorizados da forma como identificada pelo modelo? [11, p. 9,10] | <span style="color:green">Conforme</span> | - | - | Laís Cecília | 
     |  9   | Os elos conectam artefatos e requisitos? | <span style="color:green">Conforme</span> [10, p.22] | - | - | Laís Cecília | 
     /// caption | <
-    Tabela 7 — Lista de Verificação Elos de Toranzo.
+    Tabela 11 — Lista de Verificação Elos de Toranzo.
     ///
     /// caption
     Fonte: André Barros
@@ -268,9 +270,16 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 
 #### Relação de Tabelas Antigas com Tabelas Feitas pelo Grupo
 
+As tabelas 12-18, a seguir, representam a relação entre as listas de verificação desenvolvidas pelo grupo e as utilizadas ao longo do desenvolvimento do projeto. As duas primeiras colunas representam as tabelas antigas, e as duas últimas representam as tabelas novas. As colunas estão codificadas da seguinte maneira:
+
+* Descrição **VL**: Descrição das tabelas antigas;
+* Descrição **NV**: Descrição das tabelas novas;
+* Verificação **VL**: Verificação das tabelas antigas;
+* Verificação **NV**: Verificação das tabelas novas.
+
 === "Elicitação"
 
-    | Descrição | Verificação | Descrição | Verificação | Autor |
+    | Descrição VL | Verificação VL | Descrição NV | Verificação NV | 
     |----------|-------------|-------------|---------------------|------------|
     | A Especificação do Perfil do usuário possui informação de idade, experiência, atitudes e tarefas primárias | <span style="color:green">Conforme</span> | As personas utilizadas no projeto representam, com grande precisão, os usuários finais do software. [2, p. 167] (Júlia Lopes) | <span style="color:green">Conforme</span>|
     | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:green">Conforme</span> |Todos os membros da equipe conhecem as personas e as tratam como um membro real da equipe. [2, p. 169] (Júlia Lopes) | <span style="color:red">Não conforme</span> |
@@ -296,7 +305,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     | As perguntas formuladas possuem complexidade adequada? Isto é, nem tão simples nem tão complicadas. [1, p. 169, 171] | <span style="color:yellow">Sugestão de Melhoria</span> | As perguntas foram bastante simples; isso se encaixa com os objetivos estabelecidos para a entrevista, porém ainda sim as perguntas poderiam ter sido mais complexas | - | Laís Cecília |
     | Foi disponibilizada a gravação da entrevista? [1, p. 173] | <span style="color:green">Conforme</span> | - | - | Laís Cecília |
     /// caption | <
-    Tabela 8 — Elicitação.
+    Tabela 12 — Elicitação.
     ///
     /// caption
     Fonte: Autores
@@ -305,7 +314,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 
 === "Priorização"
 
-    | Descrição | Verificação | Descrição | Verificação |
+    | Descrição VL | Verificação VL | Descrição NV | Verificação NV | 
     |----------|-------------|-------------|---------------------|
     | O processo de priorização teve a participação de diversas categorias de stakeholders? [3, p. 315] | <span style="color:green">Conforme</span> | - | - | Laís Cecília, Júlia Lopes |
     | O significado de cada nível de prioridade é claramente  expressado? [3, p. 319] | <span style="color:yellow">Sugestão de Melhoria</span> | Poderia ter mostrado um gráfico que demonstra como funcionam os níveis | - | Laís Cecília |
@@ -316,7 +325,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     | Existe um entendimento comum entre os stakeholders sobre o que cada nível de prioridade significa? [3, pág 319] | <span style="color:red">Não conforme</span> | Ao fazermos a priorização, não utilizamos nenhum usuário do aplicativo, que atuaria com stackholder, por falta de tempo. | - | João Paulo |
     | A priorização foi realizada de forma iterativa, se necessário, para garantir que as prioridades estejam corretas? [3, pág 320] | <span style="color:red">Não conforme</span> | Ao fazermos a priorização, não utilizamos nenhum usuário do aplicativo, por falta de tempo. | - | João Paulo |
     /// caption | <
-    Tabela 9 — Priorização.
+    Tabela 13 — Priorização.
     ///
     /// caption
     Fonte: Autores
@@ -324,7 +333,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 
 === "Modelagem"
 
-    | Descrição | Verificação | Descrição | Verificação |
+    | Descrição VL | Verificação VL | Descrição NV | Verificação NV |
     |----------|-------------|-------------|---------------------|
     | As especificações dos cenários para o projeto | <span style="color:green">Conforme</span> |Os cenários seguem um modelo conciso? [4, p. 172] (Laís Cecília) | <span style="color:green">Conforme</span> |
     | Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios) | <span style="color:green">Conforme</span> |Os cenários possuem os elementos definidos por Barbosa et al.(2021)? [4, p. 172] (Laís Cecília) | <span style="color:green">Conforme</span> |
@@ -345,15 +354,15 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     | O documento especifica qual plataforma o aplicativo pode ser executado? | <span style="color:red">Não Conforme</span> |- | - |
     | Todos os requisitos podem ser testados (RF e RNF)? | <span style="color:green">Conforme</span> | - | - |
     /// caption | <
-    Tabela 10 — Modelagem.
+    Tabela 14 — Modelagem.
     ///
     /// caption
     Fonte: Autores
     ///
 
-=== "Agil - NFR Framework"
+=== "Ágil - NFR Framework"
 
-    | Descrição | Verificação | Descrição | Verificação |
+    | Descrição VL | Verificação VL | Descrição NV | Verificação NV |
     |----------|-------------|-------------|---------------------|
     | O projeto possui as histórias de Usuário?                                       | <span style="color:green">Conforme</span> | O projeto possui ambos requisitos funcionais e não funcionais.[6, p. 30] (Júlia Lopes)| <span style="color:green">Conforme</span> |
     | Os títulos das histórias são auto-explicativos?                                 | <span style="color:red">Não conforme</span> | Os requisitos funcionais e não funcionais estão organizados em um catálogo de forma hierárquica em relação ao desenvolvimento do projeto.[6, p. 31] (Júlia Lopes) | <span style="color:yellow">Sugestão de Melhoria</span> |
@@ -372,7 +381,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     | Softgoals representam metas bem definidas?                                      | <span style="color:green">Conforme</span> | - | - |
     | Os impactos foram corretamente propagados?                                      | <span style="color:green">Conforme</span> | - | - |
     /// caption | <
-    Tabela 11 — Framework NFR.
+    Tabela 15 — Framework NFR.
     ///
     /// caption
     Fonte: Autores
@@ -380,7 +389,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 
 === "Agil - História de Usuário e Backlog"
 
-    | Descrição | Verificação | Descrição | Verificação |
+    | Descrição VL | Verificação VL | Descrição NV | Verificação NV | 
     |----------|-------------|-------------|---------------------|
     | O desenvolvimento dos épicos foi feito de forma que sua estrutura fui utilizada corretamente. [7, p. 8] (Júlia Lopes) | <span style="color:green">Conforme</span> | 
     | Os épicos desenvolvidos no projeto satisfez as expectativas reais dos usuários. (Júlia Lopes) | <span style="color:yellow">Sugestão de Melhoria</span> | 
@@ -398,7 +407,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     | As histórias de usuário têm prioridades atribuídas a elas? (Laís Cecília) | <span style="color:green">Conforme</span> | 
     | As histórias de usuário seguem o formato destacado por Serrano, Milene e Serrano, Maurício(2017?)? (Eu, como QUEM, quero O QUE, POR QUE) (Laís Cecília) | <span style="color:green">Conforme</span> |
     /// caption | <
-    Tabela 12 — Ágil.
+    Tabela 16 — Ágil.
     ///
     /// caption
     Fonte: Autores
@@ -406,7 +415,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 
 === "Pós-Rastreabilidade - Rastreabilidade"
 
-    | Descrição | Verificação | Descrição | Verificação |
+    | Descrição VL | Verificação VL | Descrição NV | Verificação NV | 
     |----------|-------------|-------------|---------------------|
     | Cada membro do grupo elaborou ao menos 5 elos de rastreabilidade? | <span style="color:green">Conforme</span> | Os requisitos estão claramente ligados às suas fontes durante a pré-rastreabilidade? [8, p. 6] (João Paulo) | <span style="color:green">Conforme</span> | 
     | Cada requisito está rastreado à sua(s) origem(ns), e o elo especificado? | <span style="color:green">Conforme</span> |Foi possível realizar a verificação de se um requisito foi implementado no sistema de forma apropriada.[9, p. 122] (Júlia Lopes) | <span style="color:green">Conforme</span> |
@@ -418,7 +427,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     | - | - | Existem matrizes que compilam esses rastros? [8, p. 6] (Laís Cecília) | <span style="color:green">Conforme</span> |
     | - | - | Os elos de rastreabilidade estão classificados de acordo com o meta-modelo de Toranzo?[8, p. 22] (Laís Cecília) | <span style="color:green">Conforme</span> | 
     /// caption | <
-    Tabela 13 — Pós Rastreabilidade.
+    Tabela 17 — Pós Rastreabilidade.
     ///
     /// caption
     Fonte: Autores
@@ -427,7 +436,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 
 === "Pós Rastreabilidade - Elos de Toranzo"
 
-    | Descrição | Verificação | Descrição | Verificação |
+    | Descrição VL | Verificação VL | Descrição NV | Verificação NV | 
     |----------|-------------|-------------|---------------------|
     | - | - | Os elos são especificados seguindo o meta-modelo de Toranzo? [10, p.22] (João Paulo) | <span style="color:green">Conforme</span> | 
     | - | - | Cada tipo de elo está bem explicado no projeto? (João Paulo) | <span style="color:green">Conforme</span> |
@@ -439,7 +448,7 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
     | - | - | Os elos são categorizados da forma como identificada pelo modelo? [11, p. 9,10] (Laís Cecília) | <span style="color:green">Conforme</span> |
     | - | - | Os elos conectam artefatos e requisitos?  [10, p.22] (Laís Cecília) | <span style="color:green">Conforme</span> | 
     /// caption | <
-    Tabela 14 — Modelagem.
+    Tabela 18 — Modelagem.
     ///
     /// caption
     Fonte: Esther Sousa (Autora)
@@ -449,6 +458,6 @@ As tabelas 1-14, a seguir, representam os cenários desenvolvidos pela equipe ac
 ## Histórico
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
-| v1.0   | Criado e feito o artefato | Esther Sousa | Rodrigo Orlandi | - | 03/02/2025 |
+| v1.0   | Criado e feito o artefato | Esther Sousa e Rodrigo Orlandi | João Paulo | - | 03/02/2025 |
 
 
