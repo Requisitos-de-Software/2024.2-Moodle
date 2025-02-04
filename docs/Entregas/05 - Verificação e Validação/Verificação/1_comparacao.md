@@ -11,9 +11,9 @@ A equipe separou as listas de verificação em listas de verificação realizada
 
 As tabelas 1-4, a seguir, representam os cenários desenvolvidos pela equipe acerca dos requisitos não implementados, seguindo a [divisão dos requisitos](./areq_nao_imp.md#divisao).
 
-=== "Elicitacao e Priorizacao"
+=== "Elicitação e Priorização"
 
-       | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
+    | Item | Descrição | Verificação | Observação | Versão, data e hora da avaliação |
     |------|:----------|-------------|-------------|---------------------|
     |  1   | A Especificação do Perfil do usuário possui informação de idade, experiência, atitudes e tarefas primárias | <span style="color:green">Conforme</span> | - | v1.0 - 24/11/2024- 23:06|
     |  2   | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | <span style="color:green">Conforme</span> | - | v1.1 - 24/11/2024- 23:08|
