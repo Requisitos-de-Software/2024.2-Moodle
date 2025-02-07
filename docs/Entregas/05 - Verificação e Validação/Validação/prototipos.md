@@ -40,7 +40,7 @@ Figura 1 — Protótipo de alta fidelidade desenvolvido com base no site do Mood
 Fonte: Rodrigo Orlandi (Autor)
 ///
 
-![alta_fide2](../../../img/alta_fide2.jpeg) 
+![alta_fide2-2](../../../img/alta_fide_2_2.jpeg) 
 /// caption | <
  **Figura 2**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE21. 
 ///
@@ -48,17 +48,9 @@ Fonte: Rodrigo Orlandi (Autor)
 Fonte: Laís Cecília (Autora)
 ///
 
-![alta_fide2-2](../../../img/alta_fide_2_2.jpeg) 
+![alta_fide2](../../../img/alta_fide2.jpeg) 
 /// caption | <
- **Figura 3**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE21. 
-///
-/// caption
-Fonte: Laís Cecília (Autora)
-///
-
-![alta_fide3](../../../img/alta_fide3.jpeg) 
-/// caption | <
- **Figura 4**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE28.
+ **Figura 3**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE28. 
 ///
 /// caption
 Fonte: Laís Cecília (Autora)
@@ -66,7 +58,16 @@ Fonte: Laís Cecília (Autora)
 
 ![alta_fide4](../../../img/alta_fide4.jpeg) 
 /// caption | <
-**Figura 5**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE28.
+**Figura 4**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE28.
+///
+/// caption
+Fonte: Laís Cecília (Autora)
+///
+
+![alta_fide3](../../../img/alta_fide3.jpeg) 
+/// caption | <
+ **Figura 5**: Protótipo de alta fidelidade desenvolvido com base no aplicativo do Moodle. Requisito utilizado: RE28.
+///
 /// caption
 Fonte: Laís Cecília (Autora)
 ///
@@ -109,3 +110,4 @@ Mais contato com o Moodle por meio do e-mail help@moodle.com está sendo tentado
 | Versão | Descrição                  | Autor                           | Revisor                  |                 Revisado          | Data       |
 |--------|----------------------------|---------------------------------|--------------------------|-----------------------------------|------------|
 | v1.0   | Página Criada              | Rodrigo Orlandi, Laís Cecília   | Esther Sousa    | <input type="checkbox" onclick="return false;" disabled checked/> | 03/02/2025 |
+| v1.1   | Correção              | Laís Cecília   | Esther Sousa    | <input type="checkbox" onclick="return false;" disabled/> | 07/02/2025 |
