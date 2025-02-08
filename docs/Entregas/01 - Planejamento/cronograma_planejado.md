@@ -2,7 +2,7 @@
 
 ## Introdução
 
-  O cronograma do projeto foi dividido de acordo com as datas das entregas disponíveis no plano de ensino[¹](https://requisitos-de-software.github.io/2024.2-Grupo02/Entregas/01%20-%20Planejamento/cronograma_planejado/#Ref%C3%AArencias) da disciplina de Requisitos de Software.
+  O cronograma do projeto foi dividido de acordo com as datas das entregas disponíveis no plano de ensino[¹](#referencias) da disciplina de Requisitos de Software.
   Este artefato é essencial para o planejamento do grupo de acordo com as tarefas e atividades propostas, fornecendo uma base sólida sobre a qual o projeto será construído.
 
   Acerca as descrições fornecidas, serão preenchidas conforme a próxima etapa da entrega se aproximar, para poder providenciar uma visão mais detalhada do conteúdo de cada artefato.
@@ -182,7 +182,7 @@ A tabela 5, a seguir,  mostra o planejamento da sexta entrega.
 
 ---
 
-## Bibliografia
+## Referências
 
 | # | Fonte |
 |---|:------|
