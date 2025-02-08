@@ -12,10 +12,27 @@ Fonte: [https://www.liblogo.com/lib/moodle-logo.html](https://www.liblogo.com/li
 Essa página tem como objetivo documentar o projeto do grupo 02 da matéria de Requisitos de Software, ministrada pelo professor André Barros de Sales.
 
 ## Integrantes
- 
-| ![Esther](./img/Est.png) | ![João](./img/Jp.png)| ![Júlia](./img/Jl.png) | ![Laís](./img/Lc.png) | ![Rodrigo](./img/Rod.png) |
-|:-----------------------:|:-------------------:|:---------------------:|:--------------------:|:------------------------:|
-| [Esther Sousa](https://github.com/EstherSousa)| [João Paulo Monteiro](https://github.com/joaombc) | [Júlia Lopes](https://github.com/WonnzDA) | [Laís Cecília](https://github.com/Laisczt) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo ) 
+
+---
+
+<table class="tabela-integrantes">
+    <tr>
+        <td><a href="https://github.com/EstherSousa"> <img src="./img/Est.png" alt="Esther Sousa"></a></td>
+        <td><a href="https://github.com/joaombc"> <img src="./img/Jp.png" alt="João Paulo Monteiro"></a></td>
+        <td><a href="https://github.com/WonnzDA"> <img src="./img/Jl.png" alt="Júlia Lopes"></a></td>
+        <td><a href="https://github.com/Laisczt"> <img src="./img/Lc.png" alt="Laís Cecília"></a></td>
+        <td><a href="https://github.com/OrlandiRodrigo"> <img src="./img/Rod.png" alt="Rodrigo de Andrade"></a></td>
+    </tr>
+    <tr>
+        <td style="text-align:center"><a href="https://github.com/EstherSousa">Esther Sousa </a></td>
+        <td style="text-align:center"><a href="https://github.com/joaombc">João Paulo Monteiro</a></td>
+        <td style="text-align:center"><a href="https://github.com/WonnzDA">Júlia Lopes</a></td>
+        <td style="text-align:center"><a href="https://github.com/Laisczt">Laís Cecília</a></td>
+        <td style="text-align:center"><a href="https://github.com/OrlandiRodrigo">Rodrigo Orlandi</a></td>
+    </tr>
+</table>
+
+---
 
 ## Projeto
 
@@ -45,5 +62,6 @@ Outros aplicativos sugeridos foram rejeitados. Foram considerados:
 | v1.1   | Escolha do App | Júlia Lopes, Laís Cecília | João Paulo       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
 | v1.2   | Reestruturando escolha do App | Rodrigo Orlandi | João Paulo  |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
 | v1.3   | Formatação     | Laís Cecília              | Júlia Lopes                |<input type="checkbox" onclick="return false;" disabled checked/>| 23/11/2024 |
+| v1.4   | Imagens com link | Laís Cecília            | Rodrigo de Andrade |       <input type="checkbox" onclick="return false;" disabled/>| 08/02/2025 |
 
 
