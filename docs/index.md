@@ -62,6 +62,6 @@ Outros aplicativos sugeridos foram rejeitados. Foram considerados:
 | v1.1   | Escolha do App | Júlia Lopes, Laís Cecília | João Paulo       |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
 | v1.2   | Reestruturando escolha do App | Rodrigo Orlandi | João Paulo  |<input type="checkbox" onclick="return false;" disabled checked/>| 04/11/2024 |
 | v1.3   | Formatação     | Laís Cecília              | Júlia Lopes                |<input type="checkbox" onclick="return false;" disabled checked/>| 23/11/2024 |
-| v1.4   | Imagens com link | Laís Cecília            | Rodrigo de Andrade |       <input type="checkbox" onclick="return false;" disabled/>| 08/02/2025 |
+| v1.4   | Imagens com link | Laís Cecília            | Rodrigo de Andrade |       <input type="checkbox" onclick="return false;" disabled checked/>| 08/02/2025 |
 
 
