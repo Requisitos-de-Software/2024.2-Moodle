@@ -18,7 +18,7 @@ A tabela 1, a seguir, apresenta os [requisitos não implementados](../../03%20-%
 | RE28    |  Requisito Funcional       |  O sistema permite a realização de aulas síncronas por chamas de vídeo | NÃO | ANA17 |
 | RE31    |  Requisito não Funcional   | Encontrar a barra de busca de turmas é facilmente localizável e intuitiva | NÃO | ENC03 |
 /// caption | <
-Tabela 1 — Tabela com todos os requisitos elicitados não implementados.
+Tabela 1 — Tabela com os requisitos não implementados escolhidos.
 ///
 /// caption
 Fonte: Autores

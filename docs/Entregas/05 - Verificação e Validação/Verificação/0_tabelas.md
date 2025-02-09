@@ -1,8 +1,8 @@
-# Lista de Verificação - Grupo
+# Listas de Verificação
 
-## Introdução
+## Introdução e Metodologia
 
-Após a conclusão dos outros artefatos da entrega 2, o grupo realizou a verificação a partir das listas disponibilizadas pelo professor no [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf).
+Como parte de uma atividade individual, os integrantes do grupo desenvolveram e aplicaram listas de verificação para as várias etapas do projeto. Os itens de verificação criados foram compilados, eliminando repetições, para criar a
 
 ## Checklists
 
