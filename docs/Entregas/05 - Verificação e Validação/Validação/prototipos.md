@@ -117,17 +117,7 @@ Inicialmente, foi realizada uma pesquisa por um e-mail de contato do Moodle por 
 
 O Moodle foi contatado pela equipe para possível validação por meio do contato com a equipe de suporte, no site principal. Foi aberto um ticket de atendimento no dia 30 de Janeiro de 2025, como pode ser conferido na figura 8, a seguir.
 
-![contacting_team](../../../img/contacting_team.png)  
-/// caption | <
-Figura 8 — Print da mensagem enviada ao Moodle por meio do suporte com o sistema. 
-///
-/// caption
-Rodrigo Orlandi (Autor)
-///
-
-Apesar do ticket ter sido resolvido e o grupo ter recebido notificação por e-mail, a resolução do ticket não pôde ser vista. O e-mail recebido não informa sobre o ticket, apenas denotando que foi resolvido, e quando o login no sistema foi tentado, a equipe não pôde entrar no sistema, como pode-se conferir na imagem 9, a seguir.
-
-![ignored](../../../img/ignored.png)  
+![contacting_team](../../../img/contacting_team.png)  https://requisitos-de-software.github.io/2024.2-Moodle/Entregas
 /// caption | <
 Figura 9 — Print da não autorização de logar no sistema. * 
 ///
